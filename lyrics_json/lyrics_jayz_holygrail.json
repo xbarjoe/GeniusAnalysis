@@ -1,0 +1,1844 @@
+{
+ "_type": "song",
+ "annotation_count": 29,
+ "api_path": "/songs/177832",
+ "full_title": "Holy Grail by\u00a0JAY-Z (Ft.\u00a0Justin\u00a0Timberlake)",
+ "header_image_thumbnail_url": "https://images.genius.com/2da322648704159878b73c5cfc9c7dc5.300x300x1.png",
+ "header_image_url": "https://images.genius.com/2da322648704159878b73c5cfc9c7dc5.1000x1000x1.png",
+ "id": 177832,
+ "instrumental": false,
+ "lyrics_owner_id": 104344,
+ "lyrics_state": "complete",
+ "lyrics_updated_at": 1600296570,
+ "path": "/Jay-z-holy-grail-lyrics",
+ "pyongs_count": 380,
+ "song_art_image_thumbnail_url": "https://images.genius.com/2da322648704159878b73c5cfc9c7dc5.300x300x1.png",
+ "song_art_image_url": "https://images.genius.com/2da322648704159878b73c5cfc9c7dc5.1000x1000x1.png",
+ "stats": {
+  "accepted_annotations": 27,
+  "contributors": 298,
+  "iq_earners": 297,
+  "transcribers": 8,
+  "unreviewed_annotations": 0,
+  "verified_annotations": 1,
+  "concurrents": 2,
+  "hot": false,
+  "pageviews": 6179757
+ },
+ "title": "Holy Grail",
+ "title_with_featured": "Holy Grail (Ft.\u00a0Justin\u00a0Timberlake)",
+ "updated_by_human_at": 1593923007,
+ "url": "https://genius.com/Jay-z-holy-grail-lyrics",
+ "primary_artist": {
+  "api_path": "/artists/2",
+  "header_image_url": "https://images.genius.com/57f67753a0fe8ce5ff4a2ab903fbe850.500x301x1.png",
+  "id": 2,
+  "image_url": "https://images.genius.com/dab4680bbb0569024ef3df3d1e87c277.570x570x1.jpg",
+  "is_meme_verified": true,
+  "is_verified": true,
+  "name": "JAY-Z",
+  "url": "https://genius.com/artists/Jay-z",
+  "iq": 175
+ },
+ "apple_music_id": "669633108",
+ "apple_music_player_url": "https://genius.com/songs/177832/apple_music_player",
+ "description": {
+  "plain": "The first track released from Magna Carta\u2026 Holy Grail deals with the love/hate affair that Jay Z and Justin Timberlake have with fame.\n\nAs part of what Hov dubs the #newrules, Samsung users were able to download the Magna Carta app to preview the lyrics for \u201cHoly Grail\u201d which featured his then-forthcoming Legends Of The Summer tour mate Justin Timberlake.\n\nhttps://twitter.com/S_C_/status/346682205168357377\n\nJay breaks down the track with Zane Lowe on BBC Radio 1 below:\n\nhttps://www.youtube.com/watch?&v=2XKRykuZH-I"
+ },
+ "embed_content": "<div id='rg_embed_link_177832' class='rg_embed_link' data-song-id='177832'>Read <a href='https://genius.com/Jay-z-holy-grail-lyrics'>\u201cHoly Grail\u201d by JAY-Z</a> on Genius</div> <script crossorigin src='//genius.com/songs/177832/embed.js'></script>",
+ "fact_track": {
+  "provider": "spotify",
+  "external_url": "https://open.spotify.com/track/1olNHIIVl4EVwIEPGYIR7G",
+  "button_text": "Behind the Lyrics in Spotify",
+  "help_link_text": "What's a Fact Track?",
+  "help_link_url": "https://genius.com/a/genius-and-spotify-together"
+ },
+ "featured_video": false,
+ "lyrics_placeholder_reason": null,
+ "recording_location": "Jungle Studios",
+ "release_date": "2013-07-04",
+ "release_date_for_display": "July 4, 2013",
+ "current_user_metadata": {
+  "permissions": [
+   "see_pageviews",
+   "watch_fact_track",
+   "view_apple_music_player",
+   "create_comment",
+   "view_song_story_gallery"
+  ],
+  "excluded_permissions": [
+   "follow",
+   "award_transcription_iq",
+   "remove_transcription_iq",
+   "pyong",
+   "edit_lyrics",
+   "view_annotation_engagement_data",
+   "publish",
+   "unpublish",
+   "edit_spotify_details",
+   "hide",
+   "unhide",
+   "toggle_featured_video",
+   "add_pinned_annotation_to",
+   "add_community_annotation_to",
+   "destroy",
+   "mark_as_not_spam",
+   "edit_spotify_annotations_for",
+   "verify_lyrics",
+   "unverify_lyrics",
+   "edit_anything",
+   "edit_any_media",
+   "edit",
+   "rename",
+   "edit_tags",
+   "reindex",
+   "view_lyrics_synchronization",
+   "enable_media",
+   "disable_media",
+   "edit_lyrics_or_annotation_brackets",
+   "see_editorial_indicators",
+   "view_attribution_visualization",
+   "edit_annotation_brackets",
+   "preview_lyrics_for_export",
+   "hide_apple_player",
+   "unhide_apple_player",
+   "trigger_apple_match",
+   "mark_lyrics_evaluation_as_approved",
+   "mark_lyrics_evaluation_as_staff_approved",
+   "mark_lyrics_evaluation_as_unapproved",
+   "mark_lyrics_evaluation_as_un_staff_approved",
+   "view_transcriber_media_player",
+   "override_apple_match",
+   "edit_youtube_url",
+   "edit_soundcloud_url",
+   "edit_spotify_uuid",
+   "edit_vevo_url",
+   "moderate_annotations",
+   "create_annotation",
+   "see_short_id",
+   "manage_chart_item",
+   "create_tag",
+   "propose_lyrics_edit",
+   "moderate_lyrics_edit_proposals",
+   "preview_react_song_page"
+  ],
+  "interactions": {
+   "pyong": false,
+   "following": false
+  },
+  "relationships": {},
+  "iq_by_action": {}
+ },
+ "album": {
+  "api_path": "/albums/36559",
+  "cover_art_url": "https://images.genius.com/2da322648704159878b73c5cfc9c7dc5.1000x1000x1.png",
+  "full_title": "Magna Carta... Holy Grail by JAY-Z",
+  "id": 36559,
+  "name": "Magna Carta... Holy Grail",
+  "url": "https://genius.com/albums/Jay-z/Magna-carta-holy-grail",
+  "artist": {
+   "api_path": "/artists/2",
+   "header_image_url": "https://images.genius.com/57f67753a0fe8ce5ff4a2ab903fbe850.500x301x1.png",
+   "id": 2,
+   "image_url": "https://images.genius.com/dab4680bbb0569024ef3df3d1e87c277.570x570x1.jpg",
+   "is_meme_verified": true,
+   "is_verified": true,
+   "name": "JAY-Z",
+   "url": "https://genius.com/artists/Jay-z",
+   "iq": 175
+  }
+ },
+ "custom_performances": [
+  {
+   "label": "Publisher",
+   "artists": [
+    {
+     "api_path": "/artists/1104563",
+     "header_image_url": "https://images.genius.com/6ee5d6766689e04358c1d0f8ea0ed8f0.600x600x1.png",
+     "id": 1104563,
+     "image_url": "https://images.genius.com/7b3fb2c00317cb2eb2453f9f4e7473d1.600x600x1.png",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Universal Music Group",
+     "url": "https://genius.com/artists/Universal-music-group"
+    },
+    {
+     "api_path": "/artists/2235632",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+     "id": 2235632,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Canadiana Music",
+     "url": "https://genius.com/artists/Canadiana-music"
+    },
+    {
+     "api_path": "/artists/1100826",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+     "id": 1100826,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "New World Music",
+     "url": "https://genius.com/artists/New-world-music"
+    },
+    {
+     "api_path": "/artists/1575515",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+     "id": 1575515,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "BMG Silver Songs",
+     "url": "https://genius.com/artists/Bmg-silver-songs"
+    },
+    {
+     "api_path": "/artists/1039843",
+     "header_image_url": "https://images.genius.com/95537b6b72e2ee923324f2635cc9e823.1000x563x1.png",
+     "id": 1039843,
+     "image_url": "https://images.genius.com/95537b6b72e2ee923324f2635cc9e823.1000x563x1.png",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "BMG Platinum Songs",
+     "url": "https://genius.com/artists/Bmg-platinum-songs"
+    },
+    {
+     "api_path": "/artists/1851282",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+     "id": 1851282,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Discoton Music",
+     "url": "https://genius.com/artists/Discoton-music"
+    },
+    {
+     "api_path": "/artists/2235015",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+     "id": 2235015,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Universal Music Z Songs",
+     "url": "https://genius.com/artists/Universal-music-z-songs"
+    },
+    {
+     "api_path": "/artists/1997039",
+     "header_image_url": "https://images.genius.com/7c73f94dae62f7b9c466038e52368296.1000x350x1.png",
+     "id": 1997039,
+     "image_url": "https://images.genius.com/2be8a2d7a946c09db9472e2614ed9411.525x525x1.png",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Anthem Entertainment",
+     "url": "https://genius.com/artists/Anthem-entertainment"
+    },
+    {
+     "api_path": "/artists/1445248",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+     "id": 1445248,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Let The Story Begin Publishing",
+     "url": "https://genius.com/artists/Let-the-story-begin-publishing"
+    },
+    {
+     "api_path": "/artists/1011919",
+     "header_image_url": "https://images.genius.com/26596e664ee4244a3a112d1a0eefabe3.220x102x1.png",
+     "id": 1011919,
+     "image_url": "https://images.genius.com/f39d8c1ab1923335932d0b5356758f39.382x382x1.png",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "BMG",
+     "url": "https://genius.com/artists/Bmg"
+    },
+    {
+     "api_path": "/artists/1039842",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+     "id": 1039842,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "BMG Monarch",
+     "url": "https://genius.com/artists/Bmg-monarch"
+    },
+    {
+     "api_path": "/artists/1039943",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+     "id": 1039943,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Tennman Tunes",
+     "url": "https://genius.com/artists/Tennman-tunes"
+    },
+    {
+     "api_path": "/artists/1179023",
+     "header_image_url": "https://images.genius.com/92e4ea9ba616ee53bae21dc2e037a1e2.1000x1000x1.jpg",
+     "id": 1179023,
+     "image_url": "https://images.genius.com/f19c358ac9db989328ffc9a3de85bbd4.1000x1000x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Kobalt Music",
+     "url": "https://genius.com/artists/Kobalt-music"
+    },
+    {
+     "api_path": "/artists/1112276",
+     "header_image_url": "https://images.genius.com/159917d9c26b9cfe66c0b04493a1f05a.900x900x1.png",
+     "id": 1112276,
+     "image_url": "https://images.genius.com/340e19086e9ebeae265e6e4947b0ffcb.900x900x1.png",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Warner Music Group",
+     "url": "https://genius.com/artists/Warner-music-group"
+    },
+    {
+     "api_path": "/artists/1608690",
+     "header_image_url": "https://images.genius.com/4be35f2200f1e1cb52edbf7ded327086.400x400x1.png",
+     "id": 1608690,
+     "image_url": "https://images.genius.com/4be35f2200f1e1cb52edbf7ded327086.400x400x1.png",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Primary Wave",
+     "url": "https://genius.com/artists/Primary-wave"
+    },
+    {
+     "api_path": "/artists/1152704",
+     "header_image_url": "https://images.genius.com/6b9a922068a379c1836441d79f071e92.672x672x1.jpg",
+     "id": 1152704,
+     "image_url": "https://images.genius.com/6b9a922068a379c1836441d79f071e92.672x672x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Warner/Chappell",
+     "url": "https://genius.com/artists/Warner-chappell"
+    },
+    {
+     "api_path": "/artists/647970",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+     "id": 647970,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Murky SLough Music",
+     "url": "https://genius.com/artists/Murky-slough-music"
+    },
+    {
+     "api_path": "/artists/647969",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+     "id": 647969,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "MJ Twelve Music",
+     "url": "https://genius.com/artists/Mj-twelve-music"
+    },
+    {
+     "api_path": "/artists/647968",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+     "id": 647968,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "End of Music",
+     "url": "https://genius.com/artists/End-of-music"
+    },
+    {
+     "api_path": "/artists/647966",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+     "id": 647966,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Jerome Harmon Publishing",
+     "url": "https://genius.com/artists/Jerome-harmon-publishing"
+    },
+    {
+     "api_path": "/artists/647964",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+     "id": 647964,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "VB Rising",
+     "url": "https://genius.com/artists/Vb-rising"
+    },
+    {
+     "api_path": "/artists/647962",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+     "id": 647962,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "2082 Music Publishing",
+     "url": "https://genius.com/artists/2082-music-publishing"
+    },
+    {
+     "api_path": "/artists/647221",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+     "id": 647221,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Carter Boys Music",
+     "url": "https://genius.com/artists/Carter-boys-music"
+    }
+   ]
+  },
+  {
+   "label": "Perforance Rights",
+   "artists": [
+    {
+     "api_path": "/artists/1829686",
+     "header_image_url": "https://images.genius.com/e84fa9cd125863d9ecd017c3b67d1769.900x536x1.jpg",
+     "id": 1829686,
+     "image_url": "https://images.genius.com/efd78db84930e5019ec671c24c594c43.464x464x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "AMRA",
+     "url": "https://genius.com/artists/Amra"
+    },
+    {
+     "api_path": "/artists/838535",
+     "header_image_url": "https://images.genius.com/102f80430df97ed1699d6e61ab09ddf7.1000x213x1.png",
+     "id": 838535,
+     "image_url": "https://images.genius.com/47743b4bd8428b4457b9d9f82e42361b.1000x1000x1.png",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "SESAC",
+     "url": "https://genius.com/artists/Sesac"
+    },
+    {
+     "api_path": "/artists/1138091",
+     "header_image_url": "https://images.genius.com/5b84dbf7ba86e59c297143f076a56c9a.1000x1000x1.jpg",
+     "id": 1138091,
+     "image_url": "https://images.genius.com/051b0a6beabf8a9eb8768e9f874a542f.1000x1000x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "BMI",
+     "url": "https://genius.com/artists/Bmi"
+    },
+    {
+     "api_path": "/artists/551598",
+     "header_image_url": "https://images.genius.com/067d9bccf2ab6e5eded129861b73d9dc.851x315x1.jpg",
+     "id": 551598,
+     "image_url": "https://images.genius.com/5f24e8e67904faef419d736f2ade3f78.1000x1000x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "ASCAP",
+     "url": "https://genius.com/artists/Ascap"
+    }
+   ]
+  },
+  {
+   "label": "Recording Engineer",
+   "artists": [
+    {
+     "api_path": "/artists/1124667",
+     "header_image_url": "https://images.genius.com/a1119e972a4bd1d92a1a1a388abd874b.326x326x1.jpg",
+     "id": 1124667,
+     "image_url": "https://images.genius.com/a1119e972a4bd1d92a1a1a388abd874b.326x326x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Demacio \u201cDemo\u201d Castellon",
+     "url": "https://genius.com/artists/Demacio-demo-castellon"
+    },
+    {
+     "api_path": "/artists/108834",
+     "header_image_url": "https://images.genius.com/a60333a302d4513bf221ab27474ff105.408x408x1.jpg",
+     "id": 108834,
+     "image_url": "https://images.genius.com/a60333a302d4513bf221ab27474ff105.408x408x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Chris Godbey",
+     "url": "https://genius.com/artists/Chris-godbey"
+    }
+   ]
+  },
+  {
+   "label": "Mastering Engineer",
+   "artists": [
+    {
+     "api_path": "/artists/198492",
+     "header_image_url": "https://images.genius.com/84fc73a0d4d731d5ee778112e2c1e125.590x443x1.jpg",
+     "id": 198492,
+     "image_url": "https://images.genius.com/c46a9a4d328fa5038d182e617ce7a0b0.306x306x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Chris Gehringer",
+     "url": "https://genius.com/artists/Chris-gehringer"
+    }
+   ]
+  },
+  {
+   "label": "Additional Recording Engineer",
+   "artists": [
+    {
+     "api_path": "/artists/642778",
+     "header_image_url": "https://images.genius.com/232270c891df8e1fd8180ef65b1582e2.600x451x1.jpg",
+     "id": 642778,
+     "image_url": "https://images.genius.com/5ea285fd0c5e9dba110453c652b9200d.281x281x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "Ramon Rivas",
+     "url": "https://genius.com/artists/Ramon-rivas",
+     "iq": 144
+    }
+   ]
+  },
+  {
+   "label": "Mixing Engineer",
+   "artists": [
+    {
+     "api_path": "/artists/1124667",
+     "header_image_url": "https://images.genius.com/a1119e972a4bd1d92a1a1a388abd874b.326x326x1.jpg",
+     "id": 1124667,
+     "image_url": "https://images.genius.com/a1119e972a4bd1d92a1a1a388abd874b.326x326x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Demacio \u201cDemo\u201d Castellon",
+     "url": "https://genius.com/artists/Demacio-demo-castellon"
+    }
+   ]
+  },
+  {
+   "label": "Additional Vocals",
+   "artists": [
+    {
+     "api_path": "/artists/1181",
+     "header_image_url": "https://images.genius.com/b9700cfad845412f16e9bca4c51e0811.480x782x1.png",
+     "id": 1181,
+     "image_url": "https://images.genius.com/088f3bfabc3a8acfd99acbd86c03c993.520x520x1.png",
+     "is_meme_verified": true,
+     "is_verified": true,
+     "name": "The-Dream",
+     "url": "https://genius.com/artists/The-dream",
+     "iq": 11276
+    }
+   ]
+  },
+  {
+   "label": "Featured Vocals",
+   "artists": [
+    {
+     "api_path": "/artists/334",
+     "header_image_url": "https://images.genius.com/aa6dfaa347c15f7c3b5a4c768beb5465.1000x563x1.jpg",
+     "id": 334,
+     "image_url": "https://images.genius.com/d33775ee78f5b76308d1e024eb2c5867.1000x1000x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "Justin Timberlake",
+     "url": "https://genius.com/artists/Justin-timberlake",
+     "iq": 503
+    }
+   ]
+  },
+  {
+   "label": "Lead Vocals",
+   "artists": [
+    {
+     "api_path": "/artists/2",
+     "header_image_url": "https://images.genius.com/57f67753a0fe8ce5ff4a2ab903fbe850.500x301x1.png",
+     "id": 2,
+     "image_url": "https://images.genius.com/dab4680bbb0569024ef3df3d1e87c277.570x570x1.jpg",
+     "is_meme_verified": true,
+     "is_verified": true,
+     "name": "JAY-Z",
+     "url": "https://genius.com/artists/Jay-z",
+     "iq": 175
+    }
+   ]
+  },
+  {
+   "label": "Recording Engineer Assistant",
+   "artists": [
+    {
+     "api_path": "/artists/642772",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+     "id": 642772,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Matt Weber",
+     "url": "https://genius.com/artists/Matt-weber"
+    }
+   ]
+  },
+  {
+   "label": "Label",
+   "artists": [
+    {
+     "api_path": "/artists/1104563",
+     "header_image_url": "https://images.genius.com/6ee5d6766689e04358c1d0f8ea0ed8f0.600x600x1.png",
+     "id": 1104563,
+     "image_url": "https://images.genius.com/7b3fb2c00317cb2eb2453f9f4e7473d1.600x600x1.png",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Universal Music Group",
+     "url": "https://genius.com/artists/Universal-music-group"
+    },
+    {
+     "api_path": "/artists/57118",
+     "header_image_url": "https://images.genius.com/733a9682cded0888d3b42ac279cd1e53.660x440x1.jpg",
+     "id": 57118,
+     "image_url": "https://images.genius.com/733a9682cded0888d3b42ac279cd1e53.660x440x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Roc Nation",
+     "url": "https://genius.com/artists/Roc-nation"
+    },
+    {
+     "api_path": "/artists/650491",
+     "header_image_url": "https://images.genius.com/c548e1830591a34eacd4efc0e0c869cc.970x970x1.jpg",
+     "id": 650491,
+     "image_url": "https://images.genius.com/c548e1830591a34eacd4efc0e0c869cc.970x970x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Roc-A-Fella Records",
+     "url": "https://genius.com/artists/Roc-a-fella-records"
+    }
+   ]
+  },
+  {
+   "label": "Video Direction",
+   "artists": [
+    {
+     "api_path": "/artists/1007298",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+     "id": 1007298,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Anthony Mandler",
+     "url": "https://genius.com/artists/Anthony-mandler"
+    }
+   ]
+  },
+  {
+   "label": "Video Photography Direction",
+   "artists": [
+    {
+     "api_path": "/artists/1007303",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+     "id": 1007303,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "David Devlin",
+     "url": "https://genius.com/artists/David-devlin"
+    }
+   ]
+  },
+  {
+   "label": "Video Editing",
+   "artists": [
+    {
+     "api_path": "/artists/661400",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+     "id": 661400,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Jeff Selis",
+     "url": "https://genius.com/artists/Jeff-selis"
+    },
+    {
+     "api_path": "/artists/1125685",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+     "id": 1125685,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Anna Gerstenfeld",
+     "url": "https://genius.com/artists/Anna-gerstenfeld"
+    }
+   ]
+  },
+  {
+   "label": "Video Production Coordination",
+   "artists": [
+    {
+     "api_path": "/artists/1125686",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+     "id": 1125686,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Regan Jackson",
+     "url": "https://genius.com/artists/Regan-jackson"
+    }
+   ]
+  },
+  {
+   "label": "Video Camera",
+   "artists": [
+    {
+     "api_path": "/artists/1125687",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+     "id": 1125687,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Maya Morgan",
+     "url": "https://genius.com/artists/Maya-morgan"
+    }
+   ]
+  },
+  {
+   "label": "Video Lighting",
+   "artists": [
+    {
+     "api_path": "/artists/1125689",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+     "id": 1125689,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Nicholas McFarland",
+     "url": "https://genius.com/artists/Nicholas-mcfarland"
+    }
+   ]
+  },
+  {
+   "label": "Art Direction",
+   "artists": [
+    {
+     "api_path": "/artists/1125688",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+     "id": 1125688,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Lenny Tso",
+     "url": "https://genius.com/artists/Lenny-tso"
+    }
+   ]
+  },
+  {
+   "label": "Additional Production",
+   "artists": [
+    {
+     "api_path": "/artists/4709",
+     "header_image_url": "https://images.genius.com/e195b03ff2bd1db369e6bc2e064ae365.600x336x1.jpg",
+     "id": 4709,
+     "image_url": "https://images.genius.com/d6b9ca2ad184ae7327c14c1f12de41a9.369x369x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "No I.D.",
+     "url": "https://genius.com/artists/No-id"
+    }
+   ]
+  }
+ ],
+ "description_annotation": {
+  "_type": "referent",
+  "annotator_id": 173194,
+  "annotator_login": "ReadOnlyUser",
+  "api_path": "/referents/3779821",
+  "classification": "accepted",
+  "fragment": "Holy Grail",
+  "id": 3779821,
+  "is_description": true,
+  "path": "/3779821/Jay-z-holy-grail/Holy-grail",
+  "range": {
+   "content": "Holy Grail"
+  },
+  "song_id": 177832,
+  "url": "https://genius.com/3779821/Jay-z-holy-grail/Holy-grail",
+  "verified_annotator_ids": [],
+  "annotatable": {
+   "api_path": "/songs/177832",
+   "client_timestamps": {
+    "updated_by_human_at": 1593923007,
+    "lyrics_updated_at": 1600296570
+   },
+   "context": "JAY-Z",
+   "id": 177832,
+   "image_url": "https://images.genius.com/2da322648704159878b73c5cfc9c7dc5.1000x1000x1.png",
+   "link_title": "Holy Grail by\u00a0JAY-Z (Ft.\u00a0Justin\u00a0Timberlake)",
+   "title": "Holy Grail",
+   "type": "Song",
+   "url": "https://genius.com/Jay-z-holy-grail-lyrics"
+  },
+  "annotations": [
+   {
+    "api_path": "/annotations/3779821",
+    "body": {
+     "plain": "The first track released from Magna Carta\u2026 Holy Grail deals with the love/hate affair that Jay Z and Justin Timberlake have with fame.\n\nAs part of what Hov dubs the #newrules, Samsung users were able to download the Magna Carta app to preview the lyrics for \u201cHoly Grail\u201d which featured his then-forthcoming Legends Of The Summer tour mate Justin Timberlake.\n\nhttps://twitter.com/S_C_/status/346682205168357377\n\nJay breaks down the track with Zane Lowe on BBC Radio 1 below:\n\nhttps://www.youtube.com/watch?&v=2XKRykuZH-I"
+    },
+    "comment_count": 2,
+    "community": true,
+    "custom_preview": null,
+    "has_voters": true,
+    "id": 3779821,
+    "pinned": false,
+    "share_url": "https://genius.com/3779821",
+    "source": null,
+    "state": "accepted",
+    "url": "https://genius.com/3779821/Jay-z-holy-grail/Holy-grail",
+    "verified": false,
+    "votes_total": 71,
+    "current_user_metadata": {
+     "permissions": [
+      "create_comment"
+     ],
+     "excluded_permissions": [
+      "vote",
+      "edit",
+      "cosign",
+      "uncosign",
+      "destroy",
+      "accept",
+      "reject",
+      "see_unreviewed",
+      "clear_votes",
+      "propose_edit_to",
+      "pin_to_profile",
+      "unpin_from_profile",
+      "update_source",
+      "edit_custom_preview"
+     ],
+     "interactions": {
+      "cosign": false,
+      "pyong": false,
+      "vote": null
+     },
+     "iq_by_action": {}
+    },
+    "authors": [
+     {
+      "attribution": 0.36567164179104483,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/173194",
+       "avatar": {
+        "tiny": {
+         "url": "https://images.genius.com/avatars/tiny/9afe669951ef0a29def73ab9d3f384ec",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://images.genius.com/avatars/thumb/9afe669951ef0a29def73ab9d3f384ec",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://images.genius.com/avatars/small/9afe669951ef0a29def73ab9d3f384ec",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://images.genius.com/avatars/medium/9afe669951ef0a29def73ab9d3f384ec",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/CJRmBlbbSyGu4Qug2LjE_t3_2x7xqo.png",
+       "human_readable_role_for_display": "Contributor",
+       "id": 173194,
+       "iq": 53877,
+       "login": "ReadOnlyUser",
+       "name": "Somedamnname",
+       "role_for_display": "contributor",
+       "url": "https://genius.com/ReadOnlyUser",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     },
+     {
+      "attribution": 0.22388059701492538,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/149650",
+       "avatar": {
+        "tiny": {
+         "url": "https://images.rapgenius.com/avatars/tiny/ad190fca65cca7eed60e581a81706753",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://images.rapgenius.com/avatars/thumb/ad190fca65cca7eed60e581a81706753",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://images.rapgenius.com/avatars/small/ad190fca65cca7eed60e581a81706753",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://images.rapgenius.com/avatars/medium/ad190fca65cca7eed60e581a81706753",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://images.rapgenius.com/avatars/medium/ad190fca65cca7eed60e581a81706753",
+       "human_readable_role_for_display": "Contributor",
+       "id": 149650,
+       "iq": 117943,
+       "login": "boolin",
+       "name": "\u00adboolin",
+       "role_for_display": "contributor",
+       "url": "https://genius.com/boolin",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     },
+     {
+      "attribution": 0.22388059701492538,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/8534",
+       "avatar": {
+        "tiny": {
+         "url": "https://images.genius.com/avatars/tiny/d662e609f7d8c03fae7781bed7834f58",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://images.genius.com/avatars/thumb/d662e609f7d8c03fae7781bed7834f58",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://images.genius.com/avatars/small/d662e609f7d8c03fae7781bed7834f58",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://images.genius.com/avatars/medium/d662e609f7d8c03fae7781bed7834f58",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://images.genius.com/82c5966f5fefe7dc9d58df6e709eba45.570x144x1.jpg",
+       "human_readable_role_for_display": "Contributor",
+       "id": 8534,
+       "iq": 351394,
+       "login": "Ezzo",
+       "name": "Romi Ezzo",
+       "role_for_display": "contributor",
+       "url": "https://genius.com/Ezzo",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     },
+     {
+      "attribution": 0.1865671641791045,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/172611",
+       "avatar": {
+        "tiny": {
+         "url": "https://images.genius.com/avatars/tiny/4fd826e0e3d93f56efc411de8b40b553",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://images.genius.com/avatars/thumb/4fd826e0e3d93f56efc411de8b40b553",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://images.genius.com/avatars/small/4fd826e0e3d93f56efc411de8b40b553",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://images.genius.com/avatars/medium/4fd826e0e3d93f56efc411de8b40b553",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://images.genius.com/fdfd7d837acc8839ea4503ae21c2cea0.936x1000x1.jpg",
+       "human_readable_role_for_display": "Editor",
+       "id": 172611,
+       "iq": 180102,
+       "login": "Brock",
+       "name": "Brock Chenier",
+       "role_for_display": "editor",
+       "url": "https://genius.com/Brock",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     }
+    ],
+    "cosigned_by": [],
+    "rejection_comment": null,
+    "verified_by": null
+   }
+  ]
+ },
+ "featured_artists": [
+  {
+   "api_path": "/artists/334",
+   "header_image_url": "https://images.genius.com/aa6dfaa347c15f7c3b5a4c768beb5465.1000x563x1.jpg",
+   "id": 334,
+   "image_url": "https://images.genius.com/d33775ee78f5b76308d1e024eb2c5867.1000x1000x1.jpg",
+   "is_meme_verified": false,
+   "is_verified": true,
+   "name": "Justin Timberlake",
+   "url": "https://genius.com/artists/Justin-timberlake",
+   "iq": 503
+  }
+ ],
+ "lyrics_marked_complete_by": null,
+ "media": [
+  {
+   "native_uri": "spotify:track:1olNHIIVl4EVwIEPGYIR7G",
+   "provider": "spotify",
+   "type": "audio",
+   "url": "https://open.spotify.com/track/1olNHIIVl4EVwIEPGYIR7G"
+  },
+  {
+   "provider": "youtube",
+   "start": 0,
+   "type": "video",
+   "url": "http://www.youtube.com/watch?v=KANd6w6oj9M"
+  }
+ ],
+ "producer_artists": [
+  {
+   "api_path": "/artists/21903",
+   "header_image_url": "https://s3.amazonaws.com/rapgenius/1373082626_hqdefault.jpg",
+   "id": 21903,
+   "image_url": "https://s3.amazonaws.com/rapgenius/1373082626_hqdefault.jpg",
+   "is_meme_verified": false,
+   "is_verified": false,
+   "name": "J-Roc",
+   "url": "https://genius.com/artists/J-roc"
+  },
+  {
+   "api_path": "/artists/1181",
+   "header_image_url": "https://images.genius.com/b9700cfad845412f16e9bca4c51e0811.480x782x1.png",
+   "id": 1181,
+   "image_url": "https://images.genius.com/088f3bfabc3a8acfd99acbd86c03c993.520x520x1.png",
+   "is_meme_verified": true,
+   "is_verified": true,
+   "name": "The-Dream",
+   "url": "https://genius.com/artists/The-dream",
+   "iq": 11276
+  },
+  {
+   "api_path": "/artists/112",
+   "header_image_url": "https://images.genius.com/e50135b935c14cecfee2a6ef1b84d9af.960x532x1.png",
+   "id": 112,
+   "image_url": "https://images.genius.com/4510e34916379b2473ddd8392cb4d5db.563x563x1.png",
+   "is_meme_verified": false,
+   "is_verified": false,
+   "name": "Timbaland",
+   "url": "https://genius.com/artists/Timbaland"
+  }
+ ],
+ "song_relationships": [
+  {
+   "relationship_type": "samples",
+   "type": "samples",
+   "songs": [
+    {
+     "annotation_count": 13,
+     "api_path": "/songs/52968",
+     "full_title": "Smells Like Teen Spirit by\u00a0Nirvana",
+     "header_image_thumbnail_url": "https://images.genius.com/66715046cd34d7cb81fe0f31399407c5.300x300x1.jpg",
+     "header_image_url": "https://images.genius.com/66715046cd34d7cb81fe0f31399407c5.1000x1000x1.jpg",
+     "id": 52968,
+     "lyrics_owner_id": 7,
+     "lyrics_state": "complete",
+     "path": "/Nirvana-smells-like-teen-spirit-lyrics",
+     "pyongs_count": 346,
+     "song_art_image_thumbnail_url": "https://images.genius.com/3dd6ff4dec4c562108879f5b303da164.300x300x1.png",
+     "song_art_image_url": "https://images.genius.com/3dd6ff4dec4c562108879f5b303da164.600x600x1.png",
+     "stats": {
+      "unreviewed_annotations": 1,
+      "concurrents": 5,
+      "hot": false,
+      "pageviews": 1642761
+     },
+     "title": "Smells Like Teen Spirit",
+     "title_with_featured": "Smells Like Teen Spirit",
+     "url": "https://genius.com/Nirvana-smells-like-teen-spirit-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/12712",
+      "header_image_url": "https://images.genius.com/8d9e4bb2596253b1b49d80f769623106.939x939x1.jpg",
+      "id": 12712,
+      "image_url": "https://images.genius.com/4c1373962cfc3a668a3e30da9a76a34c.640x640x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Nirvana",
+      "url": "https://genius.com/artists/Nirvana"
+     }
+    },
+    {
+     "annotation_count": 7,
+     "api_path": "/songs/28983",
+     "full_title": "How I'm Comin' by\u00a0LL\u00a0Cool J",
+     "header_image_thumbnail_url": "https://images.genius.com/45a2ec7e72cbeacf423d65a82e2688cb.300x300x1.jpg",
+     "header_image_url": "https://images.genius.com/45a2ec7e72cbeacf423d65a82e2688cb.968x968x1.jpg",
+     "id": 28983,
+     "lyrics_owner_id": 50,
+     "lyrics_state": "complete",
+     "path": "/Ll-cool-j-how-im-comin-lyrics",
+     "pyongs_count": null,
+     "song_art_image_thumbnail_url": "https://images.genius.com/45a2ec7e72cbeacf423d65a82e2688cb.300x300x1.jpg",
+     "song_art_image_url": "https://images.genius.com/45a2ec7e72cbeacf423d65a82e2688cb.968x968x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 3,
+      "hot": false
+     },
+     "title": "How I\u2019m Comin\u2019",
+     "title_with_featured": "How I'm Comin'",
+     "url": "https://genius.com/Ll-cool-j-how-im-comin-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/848",
+      "header_image_url": "https://images.genius.com/1f8c5f483b7ddc0ddb56c0dee3eae987.700x393x1.jpg",
+      "id": 848,
+      "image_url": "https://images.genius.com/15d300d053a0f87de225d10e4a5a3590.400x400x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "LL Cool J",
+      "url": "https://genius.com/artists/Ll-cool-j"
+     }
+    }
+   ]
+  },
+  {
+   "relationship_type": "sampled_in",
+   "type": "sampled_in",
+   "songs": [
+    {
+     "annotation_count": 5,
+     "api_path": "/songs/210116",
+     "full_title": "\uc2e0\uc138\uacc4 New World (King Swings III) by\u00a0Swings",
+     "header_image_thumbnail_url": "https://images.genius.com/b7a4271ba316ccceeff3752817176991.300x300x1.jpg",
+     "header_image_url": "https://images.genius.com/b7a4271ba316ccceeff3752817176991.500x500x1.jpg",
+     "id": 210116,
+     "lyrics_owner_id": 191555,
+     "lyrics_state": "complete",
+     "path": "/Swings-new-world-king-swings-iii-lyrics",
+     "pyongs_count": 1,
+     "song_art_image_thumbnail_url": "https://images.genius.com/b7a4271ba316ccceeff3752817176991.300x300x1.jpg",
+     "song_art_image_url": "https://images.genius.com/b7a4271ba316ccceeff3752817176991.500x500x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 0,
+      "hot": false
+     },
+     "title": "\uc2e0\uc138\uacc4 New World (King Swings III)",
+     "title_with_featured": "\uc2e0\uc138\uacc4 New World (King Swings III)",
+     "url": "https://genius.com/Swings-new-world-king-swings-iii-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/39402",
+      "header_image_url": "https://images.genius.com/bf4e899d235a5359b3075ec95b7c0c0c.998x179x1.png",
+      "id": 39402,
+      "image_url": "https://images.genius.com/1ada64153461ae8b5b45bd184945aae3.400x400x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Swings",
+      "url": "https://genius.com/artists/Swings"
+     }
+    },
+    {
+     "annotation_count": 1,
+     "api_path": "/songs/3121360",
+     "full_title": "2U (SING OFF vs. Olly Murs) by\u00a0Conor\u00a0Maynard",
+     "header_image_thumbnail_url": "https://images.genius.com/40800fa7d2b6fe66db71c7ad51a957fc.300x300x1.jpg",
+     "header_image_url": "https://images.genius.com/40800fa7d2b6fe66db71c7ad51a957fc.1000x1000x1.jpg",
+     "id": 3121360,
+     "lyrics_owner_id": 3673510,
+     "lyrics_state": "complete",
+     "path": "/Conor-maynard-2u-sing-off-vs-olly-murs-lyrics",
+     "pyongs_count": 2,
+     "song_art_image_thumbnail_url": "https://images.genius.com/40800fa7d2b6fe66db71c7ad51a957fc.300x300x1.jpg",
+     "song_art_image_url": "https://images.genius.com/40800fa7d2b6fe66db71c7ad51a957fc.1000x1000x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 1,
+      "hot": false,
+      "pageviews": 39182
+     },
+     "title": "2U (SING OFF vs. Olly Murs)",
+     "title_with_featured": "2U (SING OFF vs. Olly Murs)",
+     "url": "https://genius.com/Conor-maynard-2u-sing-off-vs-olly-murs-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/21941",
+      "header_image_url": "https://images.genius.com/2d3a8a588d504ca90e4049b2d3ec9c83.1000x525x1.jpg",
+      "id": 21941,
+      "image_url": "https://images.genius.com/40800fa7d2b6fe66db71c7ad51a957fc.1000x1000x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": true,
+      "name": "Conor Maynard",
+      "url": "https://genius.com/artists/Conor-maynard",
+      "iq": 263
+     }
+    },
+    {
+     "annotation_count": 1,
+     "api_path": "/songs/3350062",
+     "full_title": "United State of Pop 2013 (Living the Fantasy) by\u00a0DJ\u00a0Earworm",
+     "header_image_thumbnail_url": "https://images.genius.com/85542c6493873c1e360a8002bce6c279.300x300x1.png",
+     "header_image_url": "https://images.genius.com/85542c6493873c1e360a8002bce6c279.1000x1000x1.png",
+     "id": 3350062,
+     "lyrics_owner_id": 2201951,
+     "lyrics_state": "complete",
+     "path": "/Dj-earworm-united-state-of-pop-2013-living-the-fantasy-lyrics",
+     "pyongs_count": 1,
+     "song_art_image_thumbnail_url": "https://images.genius.com/85542c6493873c1e360a8002bce6c279.300x300x1.png",
+     "song_art_image_url": "https://images.genius.com/85542c6493873c1e360a8002bce6c279.1000x1000x1.png",
+     "stats": {
+      "unreviewed_annotations": 1,
+      "hot": false
+     },
+     "title": "United State of Pop 2013 (Living the Fantasy)",
+     "title_with_featured": "United State of Pop 2013 (Living the Fantasy)",
+     "url": "https://genius.com/Dj-earworm-united-state-of-pop-2013-living-the-fantasy-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/190620",
+      "header_image_url": "https://images.genius.com/e46eb8327e3ea450b0ba0e15bcd0af6a.642x642x1.jpg",
+      "id": 190620,
+      "image_url": "https://images.genius.com/e46eb8327e3ea450b0ba0e15bcd0af6a.642x642x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "DJ Earworm",
+      "url": "https://genius.com/artists/Dj-earworm"
+     }
+    },
+    {
+     "annotation_count": 1,
+     "api_path": "/songs/3475332",
+     "full_title": "Scarlett by\u00a0Juto",
+     "header_image_thumbnail_url": "https://images.genius.com/1e70a1b3af7122bc4852550d7002f100.300x300x1.jpg",
+     "header_image_url": "https://images.genius.com/1e70a1b3af7122bc4852550d7002f100.500x500x1.jpg",
+     "id": 3475332,
+     "lyrics_owner_id": 4631059,
+     "lyrics_state": "complete",
+     "path": "/Juto-scarlett-lyrics",
+     "pyongs_count": 1,
+     "song_art_image_thumbnail_url": "https://images.genius.com/1e70a1b3af7122bc4852550d7002f100.300x300x1.jpg",
+     "song_art_image_url": "https://images.genius.com/1e70a1b3af7122bc4852550d7002f100.500x500x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 1,
+      "hot": false
+     },
+     "title": "Scarlett",
+     "title_with_featured": "Scarlett",
+     "url": "https://genius.com/Juto-scarlett-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/1239296",
+      "header_image_url": "https://images.genius.com/fd8493a6c018fd5990db93430b1c4f35.1000x210x1.jpg",
+      "id": 1239296,
+      "image_url": "https://images.genius.com/fa24e788b9ef12c860cefbcffc5ed15b.500x500x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Juto",
+      "url": "https://genius.com/artists/Juto"
+     }
+    },
+    {
+     "annotation_count": 0,
+     "api_path": "/songs/4261748",
+     "full_title": "Made in 2013 by\u00a0Victor\u00a0Lin",
+     "header_image_thumbnail_url": "https://assets.genius.com/images/default_cover_image.png?1606943206",
+     "header_image_url": "https://assets.genius.com/images/default_cover_image.png?1606943206",
+     "id": 4261748,
+     "lyrics_owner_id": 7661417,
+     "lyrics_state": "complete",
+     "path": "/Victor-lin-made-in-2013-lyrics",
+     "pyongs_count": null,
+     "song_art_image_thumbnail_url": "https://assets.genius.com/images/default_cover_image.png?1606943206",
+     "song_art_image_url": "https://assets.genius.com/images/default_cover_image.png?1606943206",
+     "stats": {
+      "unreviewed_annotations": 0,
+      "hot": false
+     },
+     "title": "Made in 2013",
+     "title_with_featured": "Made in 2013",
+     "url": "https://genius.com/Victor-lin-made-in-2013-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/1709942",
+      "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+      "id": 1709942,
+      "image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Victor Lin",
+      "url": "https://genius.com/artists/Victor-lin"
+     }
+    },
+    {
+     "annotation_count": 0,
+     "api_path": "/songs/5687836",
+     "full_title": "2020 Vision Freestyle by\u00a0Potter\u00a0Payper",
+     "header_image_thumbnail_url": "https://images.genius.com/9838a3fa3e515dd2a6d0e3a8ca02947d.300x300x1.jpg",
+     "header_image_url": "https://images.genius.com/9838a3fa3e515dd2a6d0e3a8ca02947d.1000x1000x1.jpg",
+     "id": 5687836,
+     "lyrics_owner_id": 3074217,
+     "lyrics_state": "complete",
+     "path": "/Potter-payper-2020-vision-freestyle-lyrics",
+     "pyongs_count": null,
+     "song_art_image_thumbnail_url": "https://images.genius.com/9838a3fa3e515dd2a6d0e3a8ca02947d.300x300x1.jpg",
+     "song_art_image_url": "https://images.genius.com/9838a3fa3e515dd2a6d0e3a8ca02947d.1000x1000x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 0,
+      "hot": false,
+      "pageviews": 11032
+     },
+     "title": "2020 Vision Freestyle",
+     "title_with_featured": "2020 Vision Freestyle",
+     "url": "https://genius.com/Potter-payper-2020-vision-freestyle-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/187860",
+      "header_image_url": "https://images.genius.com/a5b55b0cc6e46da6143b1aa1afac3e0d.498x228x23.gif",
+      "id": 187860,
+      "image_url": "https://images.genius.com/74f125c7e4817cac6609fc3c60fdf6f8.583x583x1.png",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Potter Payper",
+      "url": "https://genius.com/artists/Potter-payper"
+     }
+    }
+   ]
+  },
+  {
+   "relationship_type": "interpolates",
+   "type": "interpolates",
+   "songs": [
+    {
+     "annotation_count": 0,
+     "api_path": "/songs/5402969",
+     "full_title": "Holy Grail (Demo) by\u00a0JAY-Z\u00a0& The-Dream",
+     "header_image_thumbnail_url": "https://images.genius.com/58cd9ce25ab78bb6ea42f19e750d8992.300x300x1.png",
+     "header_image_url": "https://images.genius.com/58cd9ce25ab78bb6ea42f19e750d8992.1000x1000x1.png",
+     "id": 5402969,
+     "lyrics_owner_id": 5748418,
+     "lyrics_state": "complete",
+     "path": "/Jay-z-and-the-dream-holy-grail-demo-lyrics",
+     "pyongs_count": null,
+     "song_art_image_thumbnail_url": "https://images.genius.com/58cd9ce25ab78bb6ea42f19e750d8992.300x300x1.png",
+     "song_art_image_url": "https://images.genius.com/58cd9ce25ab78bb6ea42f19e750d8992.1000x1000x1.png",
+     "stats": {
+      "unreviewed_annotations": 0,
+      "hot": false
+     },
+     "title": "Holy Grail (Demo)",
+     "title_with_featured": "Holy Grail (Demo)",
+     "url": "https://genius.com/Jay-z-and-the-dream-holy-grail-demo-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/2169109",
+      "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+      "id": 2169109,
+      "image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "JAY-Z & The-Dream",
+      "url": "https://genius.com/artists/Jay-z-and-the-dream"
+     }
+    },
+    {
+     "annotation_count": 13,
+     "api_path": "/songs/52968",
+     "full_title": "Smells Like Teen Spirit by\u00a0Nirvana",
+     "header_image_thumbnail_url": "https://images.genius.com/66715046cd34d7cb81fe0f31399407c5.300x300x1.jpg",
+     "header_image_url": "https://images.genius.com/66715046cd34d7cb81fe0f31399407c5.1000x1000x1.jpg",
+     "id": 52968,
+     "lyrics_owner_id": 7,
+     "lyrics_state": "complete",
+     "path": "/Nirvana-smells-like-teen-spirit-lyrics",
+     "pyongs_count": 346,
+     "song_art_image_thumbnail_url": "https://images.genius.com/3dd6ff4dec4c562108879f5b303da164.300x300x1.png",
+     "song_art_image_url": "https://images.genius.com/3dd6ff4dec4c562108879f5b303da164.600x600x1.png",
+     "stats": {
+      "unreviewed_annotations": 1,
+      "concurrents": 5,
+      "hot": false,
+      "pageviews": 1642761
+     },
+     "title": "Smells Like Teen Spirit",
+     "title_with_featured": "Smells Like Teen Spirit",
+     "url": "https://genius.com/Nirvana-smells-like-teen-spirit-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/12712",
+      "header_image_url": "https://images.genius.com/8d9e4bb2596253b1b49d80f769623106.939x939x1.jpg",
+      "id": 12712,
+      "image_url": "https://images.genius.com/4c1373962cfc3a668a3e30da9a76a34c.640x640x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Nirvana",
+      "url": "https://genius.com/artists/Nirvana"
+     }
+    }
+   ]
+  },
+  {
+   "relationship_type": "interpolated_by",
+   "type": "interpolated_by",
+   "songs": [
+    {
+     "annotation_count": 1,
+     "api_path": "/songs/5110108",
+     "full_title": "When Thugs Fly by\u00a0Hafto",
+     "header_image_thumbnail_url": "https://images.genius.com/55390c10c16beac2554ace2024c1770b.300x300x1.jpg",
+     "header_image_url": "https://images.genius.com/55390c10c16beac2554ace2024c1770b.640x640x1.jpg",
+     "id": 5110108,
+     "lyrics_owner_id": 5903639,
+     "lyrics_state": "complete",
+     "path": "/Hafto-when-thugs-fly-lyrics",
+     "pyongs_count": null,
+     "song_art_image_thumbnail_url": "https://images.genius.com/55390c10c16beac2554ace2024c1770b.300x300x1.jpg",
+     "song_art_image_url": "https://images.genius.com/55390c10c16beac2554ace2024c1770b.640x640x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 1,
+      "hot": false
+     },
+     "title": "When Thugs Fly",
+     "title_with_featured": "When Thugs Fly",
+     "url": "https://genius.com/Hafto-when-thugs-fly-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/1907533",
+      "header_image_url": "https://images.genius.com/8f34daf0f009f8ac8e6f0a1d2e61b4bb.1000x1000x1.jpg",
+      "id": 1907533,
+      "image_url": "https://images.genius.com/a1e1e268cefe82a1313e7746384c0143.1000x1000x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Hafto",
+      "url": "https://genius.com/artists/Hafto",
+      "iq": 1085
+     }
+    }
+   ]
+  },
+  {
+   "relationship_type": "cover_of",
+   "type": "cover_of",
+   "songs": []
+  },
+  {
+   "relationship_type": "covered_by",
+   "type": "covered_by",
+   "songs": [
+    {
+     "annotation_count": 1,
+     "api_path": "/songs/331673",
+     "full_title": "Counting Stars / Holy Grail / Smells Like Teen Spirit by\u00a0Little\u00a0Mix",
+     "header_image_thumbnail_url": "https://images.genius.com/988685b1a58883ad325833c4af848c5c.300x300x1.jpg",
+     "header_image_url": "https://images.genius.com/988685b1a58883ad325833c4af848c5c.1000x1000x1.jpg",
+     "id": 331673,
+     "lyrics_owner_id": 354381,
+     "lyrics_state": "complete",
+     "path": "/Little-mix-counting-stars-holy-grail-smells-like-teen-spirit-lyrics",
+     "pyongs_count": 3,
+     "song_art_image_thumbnail_url": "https://images.genius.com/988685b1a58883ad325833c4af848c5c.300x300x1.jpg",
+     "song_art_image_url": "https://images.genius.com/988685b1a58883ad325833c4af848c5c.1000x1000x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 1,
+      "hot": false
+     },
+     "title": "Counting Stars / Holy Grail / Smells Like Teen Spirit",
+     "title_with_featured": "Counting Stars / Holy Grail / Smells Like Teen Spirit",
+     "url": "https://genius.com/Little-mix-counting-stars-holy-grail-smells-like-teen-spirit-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/25889",
+      "header_image_url": "https://images.genius.com/550506765805cb8745ed9bafe7e12c8f.1000x174x1.png",
+      "id": 25889,
+      "image_url": "https://images.genius.com/b263a94662c3d1c32ddb52c28ead851d.475x475x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": true,
+      "name": "Little Mix",
+      "url": "https://genius.com/artists/Little-mix",
+      "iq": 108
+     }
+    },
+    {
+     "annotation_count": 0,
+     "api_path": "/songs/2843467",
+     "full_title": "Holy Grail by\u00a0Carson\u00a0Lueders",
+     "header_image_thumbnail_url": "https://images.genius.com/d967990e11b8fb2f4bfada34c3b97e74.300x300x1.jpg",
+     "header_image_url": "https://images.genius.com/d967990e11b8fb2f4bfada34c3b97e74.575x575x1.jpg",
+     "id": 2843467,
+     "lyrics_owner_id": 3631045,
+     "lyrics_state": "complete",
+     "path": "/Carson-lueders-holy-grail-lyrics",
+     "pyongs_count": null,
+     "song_art_image_thumbnail_url": "https://images.genius.com/d967990e11b8fb2f4bfada34c3b97e74.300x300x1.jpg",
+     "song_art_image_url": "https://images.genius.com/d967990e11b8fb2f4bfada34c3b97e74.575x575x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 0,
+      "hot": false
+     },
+     "title": "Holy Grail",
+     "title_with_featured": "Holy Grail",
+     "url": "https://genius.com/Carson-lueders-holy-grail-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/456478",
+      "header_image_url": "https://images.genius.com/78c5b28e8607f38ecd4a6a2f96f150c7.400x400x1.jpg",
+      "id": 456478,
+      "image_url": "https://images.genius.com/78c5b28e8607f38ecd4a6a2f96f150c7.400x400x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Carson Lueders",
+      "url": "https://genius.com/artists/Carson-lueders"
+     }
+    }
+   ]
+  },
+  {
+   "relationship_type": "remix_of",
+   "type": "remix_of",
+   "songs": []
+  },
+  {
+   "relationship_type": "remixed_by",
+   "type": "remixed_by",
+   "songs": [
+    {
+     "annotation_count": 72,
+     "api_path": "/songs/200514",
+     "full_title": "Peace of Paper/Cup of Jayzus by\u00a0Lupe\u00a0Fiasco",
+     "header_image_thumbnail_url": "https://images.genius.com/b67b7f5bfbd7eb8c5c334fa8b05a2432.300x300x1.jpg",
+     "header_image_url": "https://images.genius.com/b67b7f5bfbd7eb8c5c334fa8b05a2432.400x400x1.jpg",
+     "id": 200514,
+     "lyrics_owner_id": 67058,
+     "lyrics_state": "complete",
+     "path": "/Lupe-fiasco-peace-of-paper-cup-of-jayzus-lyrics",
+     "pyongs_count": 49,
+     "song_art_image_thumbnail_url": "https://images.genius.com/b67b7f5bfbd7eb8c5c334fa8b05a2432.300x300x1.jpg",
+     "song_art_image_url": "https://images.genius.com/b67b7f5bfbd7eb8c5c334fa8b05a2432.400x400x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 2,
+      "hot": false,
+      "pageviews": 122979
+     },
+     "title": "Peace of Paper/Cup of Jayzus",
+     "title_with_featured": "Peace of Paper/Cup of Jayzus",
+     "url": "https://genius.com/Lupe-fiasco-peace-of-paper-cup-of-jayzus-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/147",
+      "header_image_url": "https://images.genius.com/59f14535353c7f9ba11a29c3143ad450.580x386x1.jpg",
+      "id": 147,
+      "image_url": "https://images.genius.com/b67b7f5bfbd7eb8c5c334fa8b05a2432.400x400x1.jpg",
+      "is_meme_verified": true,
+      "is_verified": true,
+      "name": "Lupe Fiasco",
+      "url": "https://genius.com/artists/Lupe-fiasco",
+      "iq": 1619
+     }
+    },
+    {
+     "annotation_count": 53,
+     "api_path": "/songs/3190086",
+     "full_title": "Pop Danthology 2013 by\u00a0Daniel\u00a0Kim",
+     "header_image_thumbnail_url": "https://images.genius.com/9ce2146c4f42afb63648801d39969917.300x169x1.jpg",
+     "header_image_url": "https://images.genius.com/9ce2146c4f42afb63648801d39969917.1000x562x1.jpg",
+     "id": 3190086,
+     "lyrics_owner_id": 4545088,
+     "lyrics_state": "complete",
+     "path": "/Daniel-kim-pop-danthology-2013-lyrics",
+     "pyongs_count": 2,
+     "song_art_image_thumbnail_url": "https://images.genius.com/9ce2146c4f42afb63648801d39969917.300x169x1.jpg",
+     "song_art_image_url": "https://images.genius.com/9ce2146c4f42afb63648801d39969917.1000x562x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 2,
+      "hot": false,
+      "pageviews": 7258
+     },
+     "title": "Pop Danthology 2013",
+     "title_with_featured": "Pop Danthology 2013",
+     "url": "https://genius.com/Daniel-kim-pop-danthology-2013-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/129871",
+      "header_image_url": "https://images.genius.com/7d6017352a0338730b3bb3da5757990b.898x898x1.jpg",
+      "id": 129871,
+      "image_url": "https://images.genius.com/7d6017352a0338730b3bb3da5757990b.898x898x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Daniel Kim",
+      "url": "https://genius.com/artists/Daniel-kim"
+     }
+    }
+   ]
+  },
+  {
+   "relationship_type": "live_version_of",
+   "type": "live_version_of",
+   "songs": []
+  },
+  {
+   "relationship_type": "performed_live_as",
+   "type": "performed_live_as",
+   "songs": []
+  }
+ ],
+ "verified_annotations_by": [
+  {
+   "api_path": "/users/27144",
+   "avatar": {
+    "tiny": {
+     "url": "https://images.genius.com/avatars/tiny/7611e27de9546ba38fd503ef304d9f84",
+     "bounding_box": {
+      "width": 16,
+      "height": 16
+     }
+    },
+    "thumb": {
+     "url": "https://images.genius.com/avatars/thumb/7611e27de9546ba38fd503ef304d9f84",
+     "bounding_box": {
+      "width": 32,
+      "height": 32
+     }
+    },
+    "small": {
+     "url": "https://images.genius.com/avatars/small/7611e27de9546ba38fd503ef304d9f84",
+     "bounding_box": {
+      "width": 100,
+      "height": 100
+     }
+    },
+    "medium": {
+     "url": "https://images.genius.com/avatars/medium/7611e27de9546ba38fd503ef304d9f84",
+     "bounding_box": {
+      "width": 300,
+      "height": 400
+     }
+    }
+   },
+   "header_image_url": "https://images.genius.com/b9700cfad845412f16e9bca4c51e0811.480x782x1.png",
+   "human_readable_role_for_display": "Verified Artist",
+   "id": 27144,
+   "iq": 11276,
+   "login": "the_dream",
+   "name": "The-Dream",
+   "role_for_display": "verified_artist",
+   "url": "https://genius.com/the_dream",
+   "current_user_metadata": {
+    "permissions": [],
+    "excluded_permissions": [
+     "follow"
+    ],
+    "interactions": {
+     "following": false
+    }
+   }
+  }
+ ],
+ "verified_contributors": [
+  {
+   "contributions": [
+    "annotations"
+   ],
+   "artist": {
+    "api_path": "/artists/1181",
+    "header_image_url": "https://images.genius.com/b9700cfad845412f16e9bca4c51e0811.480x782x1.png",
+    "id": 1181,
+    "image_url": "https://images.genius.com/088f3bfabc3a8acfd99acbd86c03c993.520x520x1.png",
+    "is_meme_verified": true,
+    "is_verified": true,
+    "name": "The-Dream",
+    "url": "https://genius.com/artists/The-dream",
+    "iq": 11276
+   },
+   "user": {
+    "api_path": "/users/27144",
+    "avatar": {
+     "tiny": {
+      "url": "https://images.genius.com/avatars/tiny/7611e27de9546ba38fd503ef304d9f84",
+      "bounding_box": {
+       "width": 16,
+       "height": 16
+      }
+     },
+     "thumb": {
+      "url": "https://images.genius.com/avatars/thumb/7611e27de9546ba38fd503ef304d9f84",
+      "bounding_box": {
+       "width": 32,
+       "height": 32
+      }
+     },
+     "small": {
+      "url": "https://images.genius.com/avatars/small/7611e27de9546ba38fd503ef304d9f84",
+      "bounding_box": {
+       "width": 100,
+       "height": 100
+      }
+     },
+     "medium": {
+      "url": "https://images.genius.com/avatars/medium/7611e27de9546ba38fd503ef304d9f84",
+      "bounding_box": {
+       "width": 300,
+       "height": 400
+      }
+     }
+    },
+    "header_image_url": "https://images.genius.com/b9700cfad845412f16e9bca4c51e0811.480x782x1.png",
+    "human_readable_role_for_display": "Verified Artist",
+    "id": 27144,
+    "iq": 11276,
+    "login": "the_dream",
+    "name": "The-Dream",
+    "role_for_display": "verified_artist",
+    "url": "https://genius.com/the_dream",
+    "current_user_metadata": {
+     "permissions": [],
+     "excluded_permissions": [
+      "follow"
+     ],
+     "interactions": {
+      "following": false
+     }
+    }
+   }
+  }
+ ],
+ "verified_lyrics_by": [],
+ "writer_artists": [
+  {
+   "api_path": "/artists/23665",
+   "header_image_url": "https://images.genius.com/4fa7cd801acc15e8218a00ba04bea685.1000x554x1.jpg",
+   "id": 23665,
+   "image_url": "https://images.genius.com/8c394f5b79ddaa5349e8a4cc10c1ab48.400x400x1.jpg",
+   "is_meme_verified": false,
+   "is_verified": false,
+   "name": "Kurt Cobain",
+   "url": "https://genius.com/artists/Kurt-cobain"
+  },
+  {
+   "api_path": "/artists/25280",
+   "header_image_url": "https://images.genius.com/4c64492289603fa8162070cb58b4d2af.365x550x1.jpg",
+   "id": 25280,
+   "image_url": "https://images.genius.com/4c64492289603fa8162070cb58b4d2af.365x550x1.jpg",
+   "is_meme_verified": false,
+   "is_verified": false,
+   "name": "Krist Novoselic",
+   "url": "https://genius.com/artists/Krist-novoselic"
+  },
+  {
+   "api_path": "/artists/4709",
+   "header_image_url": "https://images.genius.com/e195b03ff2bd1db369e6bc2e064ae365.600x336x1.jpg",
+   "id": 4709,
+   "image_url": "https://images.genius.com/d6b9ca2ad184ae7327c14c1f12de41a9.369x369x1.jpg",
+   "is_meme_verified": false,
+   "is_verified": false,
+   "name": "No I.D.",
+   "url": "https://genius.com/artists/No-id"
+  },
+  {
+   "api_path": "/artists/21903",
+   "header_image_url": "https://s3.amazonaws.com/rapgenius/1373082626_hqdefault.jpg",
+   "id": 21903,
+   "image_url": "https://s3.amazonaws.com/rapgenius/1373082626_hqdefault.jpg",
+   "is_meme_verified": false,
+   "is_verified": false,
+   "name": "J-Roc",
+   "url": "https://genius.com/artists/J-roc"
+  },
+  {
+   "api_path": "/artists/112",
+   "header_image_url": "https://images.genius.com/e50135b935c14cecfee2a6ef1b84d9af.960x532x1.png",
+   "id": 112,
+   "image_url": "https://images.genius.com/4510e34916379b2473ddd8392cb4d5db.563x563x1.png",
+   "is_meme_verified": false,
+   "is_verified": false,
+   "name": "Timbaland",
+   "url": "https://genius.com/artists/Timbaland"
+  },
+  {
+   "api_path": "/artists/110465",
+   "header_image_url": "https://images.genius.com/864aabda0b19a7978ccde1327c5f2ac8.534x196x1.png",
+   "id": 110465,
+   "image_url": "https://images.genius.com/e7212ae442eaa181a37ec2e95add28f1.584x584x1.jpg",
+   "is_meme_verified": false,
+   "is_verified": false,
+   "name": "Dave Grohl",
+   "url": "https://genius.com/artists/Dave-grohl"
+  },
+  {
+   "api_path": "/artists/1181",
+   "header_image_url": "https://images.genius.com/b9700cfad845412f16e9bca4c51e0811.480x782x1.png",
+   "id": 1181,
+   "image_url": "https://images.genius.com/088f3bfabc3a8acfd99acbd86c03c993.520x520x1.png",
+   "is_meme_verified": true,
+   "is_verified": true,
+   "name": "The-Dream",
+   "url": "https://genius.com/artists/The-dream",
+   "iq": 11276
+  },
+  {
+   "api_path": "/artists/334",
+   "header_image_url": "https://images.genius.com/aa6dfaa347c15f7c3b5a4c768beb5465.1000x563x1.jpg",
+   "id": 334,
+   "image_url": "https://images.genius.com/d33775ee78f5b76308d1e024eb2c5867.1000x1000x1.jpg",
+   "is_meme_verified": false,
+   "is_verified": true,
+   "name": "Justin Timberlake",
+   "url": "https://genius.com/artists/Justin-timberlake",
+   "iq": 503
+  },
+  {
+   "api_path": "/artists/2",
+   "header_image_url": "https://images.genius.com/57f67753a0fe8ce5ff4a2ab903fbe850.500x301x1.png",
+   "id": 2,
+   "image_url": "https://images.genius.com/dab4680bbb0569024ef3df3d1e87c277.570x570x1.jpg",
+   "is_meme_verified": true,
+   "is_verified": true,
+   "name": "JAY-Z",
+   "url": "https://genius.com/artists/Jay-z",
+   "iq": 175
+  }
+ ],
+ "lyrics": "You'd take the clothes off my back and I'd let you\nYou'd steal the food right out my mouth\nAnd I'd watch you eat it\nI still don\u2019t know why, why our love is so much, ohh\n(Thanks for warnin' me, thanks for warnin' me)\nYou curse my name in spite to put me to shame\nHang my laundry in the streets, dirty or clean\nGive it up for fame\nBut I still don't know why, why I love it so much\n(Thanks for warnin' me, thanks for warnin' me)\n\nAnd, baby, it's amazin' I'm in this maze with you\nI just can't crack your code\nOne day you screamin' you love me loud\nThe next day you're so cold\nOne day you're here, one day you're there, one day you care\nYou're so unfair\nSippin' from your cup 'til it runneth over\nHoly Grail\n\nUh, uh, uh\nBlue told me remind you niggas, uh\nFuck that shit y'all talking 'bout, I'm the nigga, uh\nCaught up in all these lights and cameras, uh\nBut look what that shit did to Hammer, uh\nGoddamn it, I like it\nBright lights is enticin', but look what it did to Tyson\nAll that money in one night, thirty mil' for one fight\nBut soon as all the money blows, all the pigeons take flight\nFuck the fame, keep cheatin' on me\nWhat I do? I took her back\nFool me twice; that's my bad, I can't even blame her for that\nEnough to make me wanna murder\nMomma, please just get my bail\nI know nobody to blame; Kurt Cobain, I did it to myself, uh\n\nAnd we all just entertainers\nAnd we're stupid and contagious\nAnd we all just entertainers\n\nAnd, baby, it's amazin' I'm in this maze with you\nI just can't crack your code\nOne day you screamin' you love me loud\nThe next day you're so cold\nOne day you're here, one day you're there, one day you care\nYou're so unfair\nSippin' from your cup 'til it runneth over\nHoly Grail\n\nNow I got tattoos on my body\nPsycho bitches in my lobby\nI got haters in the paper, photo shoots with paparazzi\nCan't even take my daughter for a walk\nSee 'em by the corner store\nI feel like I'm cornered off\nEnough is enough, I'm callin' this off\nWho the fuck I'm kiddin' though?\nI'm gettin' high, sittin' low\nSlidin' by in that big body, curtains all in my window\nThis fame hurt, but this chain worse\nI think back you asked the same person\nIf this is all you had to deal with\nNigga, deal with, this shit ain't work\nThis light work, camera snappin', my eyes hurt\nNiggas dying back where I was birthed\nFuck your iris and the IRS\nGet the hell up off your high horse\nYou got the shit that niggas die for, dry yours\nWhy you mad? Take the good with the bad\nOr throw the baby out with that bath water\n\nYou still alive, still that nigga\nNigga, you survived, you still gettin' bigger\nNigga, living the life, vanilla wafers in a villa\nIllest nigga alive; Michael Jackson's Thriller\n\nAnd, baby, it's amazin' I'm in this maze with you\nI just can't crack your code\nOne day you screamin' you love me loud\nThe next day you're so cold\nOne day you're here, one day you're there, one day you care\nYou're so unfair\nSippin' from your cup 'til it runneth over\nHoly Grail\n\nYou get the air out my lungs whenever you need it\nAnd you take the blade right out my heart\nJust so you can watch me bleed\nAnd I still don't know why, why I love you so much, yeah\n(Thanks for warnin' me, thanks for warnin' me)\nAnd you play this game in spite to drive me insane\nI got it tattooed on my sleeve\nForever in ink with guess whose name\nBut I still don't know why, why our love is so much, yeah\n(Thanks for warnin' me, thanks for warnin' me)\n\nAnd, baby, it's amazin' I'm in this maze with you\nI just can't crack your code\nOne day you screamin' you love me loud\nThe next day you're so cold\nOne day you're here, one day you're there, one day you care\nYou're so unfair\nSippin' from your cup 'til it runneth over\nHoly Grail"
+}

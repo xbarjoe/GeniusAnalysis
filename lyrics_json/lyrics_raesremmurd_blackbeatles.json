@@ -1,0 +1,2182 @@
+{
+ "_type": "song",
+ "annotation_count": 32,
+ "api_path": "/songs/2819932",
+ "full_title": "Black Beatles by\u00a0Rae\u00a0Sremmurd (Ft.\u00a0Gucci\u00a0Mane)",
+ "header_image_thumbnail_url": "https://images.genius.com/31bcfaaa88182fe996cbfc3c94b5c695.300x300x1.png",
+ "header_image_url": "https://images.genius.com/31bcfaaa88182fe996cbfc3c94b5c695.1000x1000x1.png",
+ "id": 2819932,
+ "instrumental": false,
+ "lyrics_owner_id": 1130219,
+ "lyrics_state": "complete",
+ "lyrics_updated_at": 1601798705,
+ "path": "/Rae-sremmurd-black-beatles-lyrics",
+ "pyongs_count": 203,
+ "song_art_image_thumbnail_url": "https://images.genius.com/31bcfaaa88182fe996cbfc3c94b5c695.300x300x1.png",
+ "song_art_image_url": "https://images.genius.com/31bcfaaa88182fe996cbfc3c94b5c695.1000x1000x1.png",
+ "stats": {
+  "accepted_annotations": 31,
+  "contributors": 258,
+  "iq_earners": 258,
+  "transcribers": 4,
+  "unreviewed_annotations": 0,
+  "verified_annotations": 0,
+  "concurrents": 2,
+  "hot": false,
+  "pageviews": 4712400
+ },
+ "title": "Black Beatles",
+ "title_with_featured": "Black Beatles (Ft.\u00a0Gucci\u00a0Mane)",
+ "updated_by_human_at": 1601798705,
+ "url": "https://genius.com/Rae-sremmurd-black-beatles-lyrics",
+ "primary_artist": {
+  "api_path": "/artists/177756",
+  "header_image_url": "https://images.genius.com/228d12566b2ac7075b27e19f60a45c51.640x360x1.jpg",
+  "id": 177756,
+  "image_url": "https://images.genius.com/c1c133f78a89899c77f8ac4329d4298b.645x645x1.jpg",
+  "is_meme_verified": false,
+  "is_verified": false,
+  "name": "Rae Sremmurd",
+  "url": "https://genius.com/artists/Rae-sremmurd"
+ },
+ "apple_music_id": "1104588171",
+ "apple_music_player_url": "https://genius.com/songs/2819932/apple_music_player",
+ "description": {
+  "plain": "Swae Lee, Slim Jxmmi, Mike WiLL Made-It, and Gucci Mane team up on a track comparing themselves to the legendary English rock band The Beatles. The three rappers address their fame, women, and, most importantly, their money.\n\nA month after its release as a Sremmlife 2 single \u201cBlack Beatles\u201d gained popularity when it became affiliated with the \u201cMannequin Challenge,\u201d a viral video sensation that captures people standing still as still as a mannequin while performing various acts. Sports teams, celebrities, schools, and even Rae Sremmurd themselves have participated in this challenge.\nhttps://www.youtube.com/watch?v=cDLmej1aY-k\nOn November 14, 2016, it was revealed that the track had \u201crode the #MannequinChallenge\u201d to the No. 1 spot on the Billboard Hot 100 chart. It was both Rae Sremmurd\u2019s and Gucci Mane\u2019s first No. 1 single on the Hot 100."
+ },
+ "embed_content": "<div id='rg_embed_link_2819932' class='rg_embed_link' data-song-id='2819932'>Read <a href='https://genius.com/Rae-sremmurd-black-beatles-lyrics'>\u201cBlack Beatles\u201d by Rae\u00a0Sremmurd</a> on Genius</div> <script crossorigin src='//genius.com/songs/2819932/embed.js'></script>",
+ "fact_track": {
+  "provider": "spotify",
+  "external_url": "https://open.spotify.com/track/4SgRoETpc8GEkVgBh5OrZs",
+  "button_text": "Behind the Lyrics in Spotify",
+  "help_link_text": "What's a Fact Track?",
+  "help_link_url": "https://genius.com/a/genius-and-spotify-together"
+ },
+ "featured_video": true,
+ "lyrics_placeholder_reason": null,
+ "recording_location": "\"Sauce Studios\" & \"Gucci's Home Studio\" in Atlanta, GA",
+ "release_date": "2016-08-12",
+ "release_date_for_display": "August 12, 2016",
+ "current_user_metadata": {
+  "permissions": [
+   "see_pageviews",
+   "watch_fact_track",
+   "view_apple_music_player",
+   "create_comment",
+   "view_song_story_gallery"
+  ],
+  "excluded_permissions": [
+   "follow",
+   "award_transcription_iq",
+   "remove_transcription_iq",
+   "pyong",
+   "edit_lyrics",
+   "view_annotation_engagement_data",
+   "publish",
+   "unpublish",
+   "edit_spotify_details",
+   "hide",
+   "unhide",
+   "toggle_featured_video",
+   "add_pinned_annotation_to",
+   "add_community_annotation_to",
+   "destroy",
+   "mark_as_not_spam",
+   "edit_spotify_annotations_for",
+   "verify_lyrics",
+   "unverify_lyrics",
+   "edit_anything",
+   "edit_any_media",
+   "edit",
+   "rename",
+   "edit_tags",
+   "reindex",
+   "view_lyrics_synchronization",
+   "enable_media",
+   "disable_media",
+   "edit_lyrics_or_annotation_brackets",
+   "see_editorial_indicators",
+   "view_attribution_visualization",
+   "edit_annotation_brackets",
+   "preview_lyrics_for_export",
+   "hide_apple_player",
+   "unhide_apple_player",
+   "trigger_apple_match",
+   "mark_lyrics_evaluation_as_approved",
+   "mark_lyrics_evaluation_as_staff_approved",
+   "mark_lyrics_evaluation_as_unapproved",
+   "mark_lyrics_evaluation_as_un_staff_approved",
+   "view_transcriber_media_player",
+   "override_apple_match",
+   "edit_youtube_url",
+   "edit_soundcloud_url",
+   "edit_spotify_uuid",
+   "edit_vevo_url",
+   "moderate_annotations",
+   "create_annotation",
+   "see_short_id",
+   "manage_chart_item",
+   "create_tag",
+   "propose_lyrics_edit",
+   "moderate_lyrics_edit_proposals",
+   "preview_react_song_page"
+  ],
+  "interactions": {
+   "pyong": false,
+   "following": false
+  },
+  "relationships": {},
+  "iq_by_action": {}
+ },
+ "album": {
+  "api_path": "/albums/142556",
+  "cover_art_url": "https://images.genius.com/31bcfaaa88182fe996cbfc3c94b5c695.1000x1000x1.png",
+  "full_title": "SremmLife 2 by Rae Sremmurd",
+  "id": 142556,
+  "name": "SremmLife 2",
+  "url": "https://genius.com/albums/Rae-sremmurd/Sremmlife-2",
+  "artist": {
+   "api_path": "/artists/177756",
+   "header_image_url": "https://images.genius.com/228d12566b2ac7075b27e19f60a45c51.640x360x1.jpg",
+   "id": 177756,
+   "image_url": "https://images.genius.com/c1c133f78a89899c77f8ac4329d4298b.645x645x1.jpg",
+   "is_meme_verified": false,
+   "is_verified": false,
+   "name": "Rae Sremmurd",
+   "url": "https://genius.com/artists/Rae-sremmurd"
+  }
+ },
+ "custom_performances": [
+  {
+   "label": "Performance Rights",
+   "artists": [
+    {
+     "api_path": "/artists/551598",
+     "header_image_url": "https://images.genius.com/067d9bccf2ab6e5eded129861b73d9dc.851x315x1.jpg",
+     "id": 551598,
+     "image_url": "https://images.genius.com/5f24e8e67904faef419d736f2ade3f78.1000x1000x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "ASCAP",
+     "url": "https://genius.com/artists/Ascap"
+    },
+    {
+     "api_path": "/artists/1138091",
+     "header_image_url": "https://images.genius.com/5b84dbf7ba86e59c297143f076a56c9a.1000x1000x1.jpg",
+     "id": 1138091,
+     "image_url": "https://images.genius.com/051b0a6beabf8a9eb8768e9f874a542f.1000x1000x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "BMI",
+     "url": "https://genius.com/artists/Bmi"
+    }
+   ]
+  },
+  {
+   "label": "Publisher",
+   "artists": [
+    {
+     "api_path": "/artists/1179023",
+     "header_image_url": "https://images.genius.com/92e4ea9ba616ee53bae21dc2e037a1e2.1000x1000x1.jpg",
+     "id": 1179023,
+     "image_url": "https://images.genius.com/f19c358ac9db989328ffc9a3de85bbd4.1000x1000x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Kobalt Music",
+     "url": "https://genius.com/artists/Kobalt-music"
+    },
+    {
+     "api_path": "/artists/1100826",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+     "id": 1100826,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "New World Music",
+     "url": "https://genius.com/artists/New-world-music"
+    },
+    {
+     "api_path": "/artists/1112276",
+     "header_image_url": "https://images.genius.com/159917d9c26b9cfe66c0b04493a1f05a.900x900x1.png",
+     "id": 1112276,
+     "image_url": "https://images.genius.com/340e19086e9ebeae265e6e4947b0ffcb.900x900x1.png",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Warner Music Group",
+     "url": "https://genius.com/artists/Warner-music-group"
+    },
+    {
+     "api_path": "/artists/1152704",
+     "header_image_url": "https://images.genius.com/6b9a922068a379c1836441d79f071e92.672x672x1.jpg",
+     "id": 1152704,
+     "image_url": "https://images.genius.com/6b9a922068a379c1836441d79f071e92.672x672x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Warner/Chappell",
+     "url": "https://genius.com/artists/Warner-chappell"
+    },
+    {
+     "api_path": "/artists/1106894",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+     "id": 1106894,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Radric Davis Publishing",
+     "url": "https://genius.com/artists/Radric-davis-publishing"
+    },
+    {
+     "api_path": "/artists/992219",
+     "header_image_url": "https://images.genius.com/a43ed819378fccdad8a80cad050f2029.768x433x1.jpg",
+     "id": 992219,
+     "image_url": "https://images.genius.com/8af7bba6ca0c481513ffe4b4ab87e347.314x314x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Warner-Tamerlane Publishing Corp.",
+     "url": "https://genius.com/artists/Warner-tamerlane-publishing-corp"
+    },
+    {
+     "api_path": "/artists/986730",
+     "header_image_url": "https://images.genius.com/bb24fed497d4a94866afffe8c5a3f6b8.900x900x1.jpg",
+     "id": 986730,
+     "image_url": "https://images.genius.com/9432c373e43c8b8c0d7297b1b4a9f8b5.900x900x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Ear Drummers",
+     "url": "https://genius.com/artists/Ear-drummers"
+    }
+   ]
+  },
+  {
+   "label": "Label",
+   "artists": [
+    {
+     "api_path": "/artists/143490",
+     "header_image_url": "https://images.genius.com/20ee0dc07918a750d532b2316361d3a2.1000x333x1.jpg",
+     "id": 143490,
+     "image_url": "https://images.genius.com/f28d415a7f5f966f5814e7c07cf8dc23.271x271x1.jpg",
+     "is_meme_verified": true,
+     "is_verified": true,
+     "name": "Interscope Records",
+     "url": "https://genius.com/artists/Interscope-records",
+     "iq": 175
+    },
+    {
+     "api_path": "/artists/986730",
+     "header_image_url": "https://images.genius.com/bb24fed497d4a94866afffe8c5a3f6b8.900x900x1.jpg",
+     "id": 986730,
+     "image_url": "https://images.genius.com/9432c373e43c8b8c0d7297b1b4a9f8b5.900x900x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Ear Drummers",
+     "url": "https://genius.com/artists/Ear-drummers"
+    }
+   ]
+  },
+  {
+   "label": "Mixing Engineer",
+   "artists": [
+    {
+     "api_path": "/artists/989508",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+     "id": 989508,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Steve \u201cThe Sauce\u201d Hybicki",
+     "url": "https://genius.com/artists/Steve-the-sauce-hybicki"
+    }
+   ]
+  },
+  {
+   "label": "Recording Engineer",
+   "artists": [
+    {
+     "api_path": "/artists/209139",
+     "header_image_url": "https://images.genius.com/f6138895af1f31df362a0a8c3624b5c8.640x800x1.jpg",
+     "id": 209139,
+     "image_url": "https://images.genius.com/5bddd32843bf47b333ed90b12d602928.640x640x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "Swae Lee",
+     "url": "https://genius.com/artists/Swae-lee",
+     "iq": 838
+    },
+    {
+     "api_path": "/artists/989507",
+     "header_image_url": "https://images.genius.com/3b505d4595c299f777c86e577e2e4e69.750x750x1.jpg",
+     "id": 989507,
+     "image_url": "https://images.genius.com/3b505d4595c299f777c86e577e2e4e69.750x750x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Randy Lanphear",
+     "url": "https://genius.com/artists/Randy-lanphear"
+    },
+    {
+     "api_path": "/artists/557300",
+     "header_image_url": "https://images.rapgenius.com/avatars/medium/781429e3a08bfe1f0e9cf2dc248a29a5",
+     "id": 557300,
+     "image_url": "https://images.rapgenius.com/avatars/medium/781429e3a08bfe1f0e9cf2dc248a29a5",
+     "is_meme_verified": true,
+     "is_verified": true,
+     "name": "Sean Paine",
+     "url": "https://genius.com/artists/Sean-paine",
+     "iq": 100
+    }
+   ]
+  }
+ ],
+ "description_annotation": {
+  "_type": "referent",
+  "annotator_id": 1762193,
+  "annotator_login": "ReeTarantino",
+  "api_path": "/referents/10212382",
+  "classification": "accepted",
+  "fragment": "Black Beatles",
+  "id": 10212382,
+  "is_description": true,
+  "path": "/10212382/Rae-sremmurd-black-beatles/Black-beatles",
+  "range": {
+   "content": "Black Beatles"
+  },
+  "song_id": 2819932,
+  "url": "https://genius.com/10212382/Rae-sremmurd-black-beatles/Black-beatles",
+  "verified_annotator_ids": [],
+  "annotatable": {
+   "api_path": "/songs/2819932",
+   "client_timestamps": {
+    "updated_by_human_at": 1601798705,
+    "lyrics_updated_at": 1601798705
+   },
+   "context": "Rae Sremmurd",
+   "id": 2819932,
+   "image_url": "https://images.genius.com/31bcfaaa88182fe996cbfc3c94b5c695.1000x1000x1.png",
+   "link_title": "Black Beatles by\u00a0Rae\u00a0Sremmurd (Ft.\u00a0Gucci\u00a0Mane)",
+   "title": "Black Beatles",
+   "type": "Song",
+   "url": "https://genius.com/Rae-sremmurd-black-beatles-lyrics"
+  },
+  "annotations": [
+   {
+    "api_path": "/annotations/10212382",
+    "body": {
+     "plain": "Swae Lee, Slim Jxmmi, Mike WiLL Made-It, and Gucci Mane team up on a track comparing themselves to the legendary English rock band The Beatles. The three rappers address their fame, women, and, most importantly, their money.\n\nA month after its release as a Sremmlife 2 single \u201cBlack Beatles\u201d gained popularity when it became affiliated with the \u201cMannequin Challenge,\u201d a viral video sensation that captures people standing still as still as a mannequin while performing various acts. Sports teams, celebrities, schools, and even Rae Sremmurd themselves have participated in this challenge.\nhttps://www.youtube.com/watch?v=cDLmej1aY-k\nOn November 14, 2016, it was revealed that the track had \u201crode the #MannequinChallenge\u201d to the No. 1 spot on the Billboard Hot 100 chart. It was both Rae Sremmurd\u2019s and Gucci Mane\u2019s first No. 1 single on the Hot 100."
+    },
+    "comment_count": 1,
+    "community": true,
+    "custom_preview": null,
+    "has_voters": true,
+    "id": 10212382,
+    "pinned": false,
+    "share_url": "https://genius.com/10212382",
+    "source": null,
+    "state": "accepted",
+    "url": "https://genius.com/10212382/Rae-sremmurd-black-beatles/Black-beatles",
+    "verified": false,
+    "votes_total": 348,
+    "current_user_metadata": {
+     "permissions": [
+      "create_comment"
+     ],
+     "excluded_permissions": [
+      "vote",
+      "edit",
+      "cosign",
+      "uncosign",
+      "destroy",
+      "accept",
+      "reject",
+      "see_unreviewed",
+      "clear_votes",
+      "propose_edit_to",
+      "pin_to_profile",
+      "unpin_from_profile",
+      "update_source",
+      "edit_custom_preview"
+     ],
+     "interactions": {
+      "cosign": false,
+      "pyong": false,
+      "vote": null
+     },
+     "iq_by_action": {}
+    },
+    "authors": [
+     {
+      "attribution": 0.3430232558139535,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/605899",
+       "avatar": {
+        "tiny": {
+         "url": "https://assets.genius.com/images/default_avatar_16.png?1606943206",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://assets.genius.com/images/default_avatar_32.png?1606943206",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://assets.genius.com/images/default_avatar_100.png?1606943206",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+       "human_readable_role_for_display": "Contributor",
+       "id": 605899,
+       "iq": 24676,
+       "login": "CaptainDinga",
+       "name": "Captain Dinga",
+       "role_for_display": "contributor",
+       "url": "https://genius.com/CaptainDinga",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     },
+     {
+      "attribution": 0.2674418604651163,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/1729630",
+       "avatar": {
+        "tiny": {
+         "url": "https://images.genius.com/avatars/tiny/0b9a5c7c722b6f72948e1e9bfdeca176",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://images.genius.com/avatars/thumb/0b9a5c7c722b6f72948e1e9bfdeca176",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://images.genius.com/avatars/small/0b9a5c7c722b6f72948e1e9bfdeca176",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://images.genius.com/avatars/medium/0b9a5c7c722b6f72948e1e9bfdeca176",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/8SBFDWfDTJK1lIGf0FvO_tumblr_static_1s4t7dvd8r8k4ocsskw4ks4kk.png",
+       "human_readable_role_for_display": "Editor",
+       "id": 1729630,
+       "iq": 88742,
+       "login": "AintNoJigga",
+       "name": "AintNoJigga",
+       "role_for_display": "editor",
+       "url": "https://genius.com/AintNoJigga",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     },
+     {
+      "attribution": 0.06976744186046512,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/1170734",
+       "avatar": {
+        "tiny": {
+         "url": "https://images.rapgenius.com/avatars/tiny/fbc36695cc2a9054839508f69f4653c1",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://images.rapgenius.com/avatars/thumb/fbc36695cc2a9054839508f69f4653c1",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://images.rapgenius.com/avatars/small/fbc36695cc2a9054839508f69f4653c1",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://images.rapgenius.com/avatars/medium/fbc36695cc2a9054839508f69f4653c1",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://images.rapgenius.com/avatars/medium/fbc36695cc2a9054839508f69f4653c1",
+       "human_readable_role_for_display": "Contributor",
+       "id": 1170734,
+       "iq": 5453,
+       "login": "OGSloth",
+       "name": "OGSloth",
+       "role_for_display": "contributor",
+       "url": "https://genius.com/OGSloth",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     },
+     {
+      "attribution": 0.06395348837209303,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/951311",
+       "avatar": {
+        "tiny": {
+         "url": "https://images.genius.com/avatars/tiny/72c7b067a98de8aabc7c1325013bece8",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://images.genius.com/avatars/thumb/72c7b067a98de8aabc7c1325013bece8",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://images.genius.com/avatars/small/72c7b067a98de8aabc7c1325013bece8",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://images.genius.com/avatars/medium/72c7b067a98de8aabc7c1325013bece8",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/xK115j7SRqSFTAzjyp0V_tumblr_mpvo0pdzIa1s0hkoyo1_400.gif",
+       "human_readable_role_for_display": "Editor",
+       "id": 951311,
+       "iq": 90796,
+       "login": "swinelord",
+       "name": "\u200bswinelord",
+       "role_for_display": "editor",
+       "url": "https://genius.com/swinelord",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     },
+     {
+      "attribution": 0.05232558139534884,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/86920",
+       "avatar": {
+        "tiny": {
+         "url": "https://images.genius.com/avatars/tiny/7d722fd0c9d9ca68374649d47c925163",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://images.genius.com/avatars/thumb/7d722fd0c9d9ca68374649d47c925163",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://images.genius.com/avatars/small/7d722fd0c9d9ca68374649d47c925163",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://images.genius.com/avatars/medium/7d722fd0c9d9ca68374649d47c925163",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://images.genius.com/ae78f8f44fa40985017dbbd56b8e8701.1000x518x1.png",
+       "human_readable_role_for_display": "Moderator",
+       "id": 86920,
+       "iq": 117797,
+       "login": "BasedGator",
+       "name": "BasedGator",
+       "role_for_display": "moderator",
+       "url": "https://genius.com/BasedGator",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     },
+     {
+      "attribution": 0.046511627906976744,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/1762193",
+       "avatar": {
+        "tiny": {
+         "url": "https://images.rapgenius.com/avatars/tiny/afffee486b2621c7fa4dbdee03672165",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://images.rapgenius.com/avatars/thumb/afffee486b2621c7fa4dbdee03672165",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://images.rapgenius.com/avatars/small/afffee486b2621c7fa4dbdee03672165",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://images.rapgenius.com/avatars/medium/afffee486b2621c7fa4dbdee03672165",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://images.rapgenius.com/avatars/medium/afffee486b2621c7fa4dbdee03672165",
+       "human_readable_role_for_display": "Contributor",
+       "id": 1762193,
+       "iq": 577,
+       "login": "ReeTarantino",
+       "name": "ReeTarantino",
+       "role_for_display": "contributor",
+       "url": "https://genius.com/ReeTarantino",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     },
+     {
+      "attribution": 0.046511627906976744,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/207202",
+       "avatar": {
+        "tiny": {
+         "url": "https://images.genius.com/avatars/tiny/ae4ae4b90d34e323583710abf7d69fc2",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://images.genius.com/avatars/thumb/ae4ae4b90d34e323583710abf7d69fc2",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://images.genius.com/avatars/small/ae4ae4b90d34e323583710abf7d69fc2",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://images.genius.com/avatars/medium/ae4ae4b90d34e323583710abf7d69fc2",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://images.genius.com/avatars/medium/ae4ae4b90d34e323583710abf7d69fc2",
+       "human_readable_role_for_display": "Contributor",
+       "id": 207202,
+       "iq": 54628,
+       "login": "Kingsls",
+       "name": "MvdS",
+       "role_for_display": "contributor",
+       "url": "https://genius.com/Kingsls",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     },
+     {
+      "attribution": 0.040697674418604654,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/3197248",
+       "avatar": {
+        "tiny": {
+         "url": "https://images.genius.com/avatars/tiny/20bf360bbec655ba30f7ff018b117dac",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://images.genius.com/avatars/thumb/20bf360bbec655ba30f7ff018b117dac",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://images.genius.com/avatars/small/20bf360bbec655ba30f7ff018b117dac",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://images.genius.com/avatars/medium/20bf360bbec655ba30f7ff018b117dac",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://images.genius.com/avatars/medium/20bf360bbec655ba30f7ff018b117dac",
+       "human_readable_role_for_display": "Contributor",
+       "id": 3197248,
+       "iq": 16973,
+       "login": "King_MST",
+       "name": "King_MST",
+       "role_for_display": "contributor",
+       "url": "https://genius.com/King_MST",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     },
+     {
+      "attribution": 0.029069767441860465,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/2406278",
+       "avatar": {
+        "tiny": {
+         "url": "https://images.genius.com/avatars/tiny/58be3a6f087c5f62c83f801d9e73fecb",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://images.genius.com/avatars/thumb/58be3a6f087c5f62c83f801d9e73fecb",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://images.genius.com/avatars/small/58be3a6f087c5f62c83f801d9e73fecb",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://images.genius.com/avatars/medium/58be3a6f087c5f62c83f801d9e73fecb",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://images.genius.com/avatars/medium/58be3a6f087c5f62c83f801d9e73fecb",
+       "human_readable_role_for_display": null,
+       "id": 2406278,
+       "iq": 274,
+       "login": "LemonParty",
+       "name": "LemonParty",
+       "role_for_display": null,
+       "url": "https://genius.com/LemonParty",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     },
+     {
+      "attribution": 0.029069767441860465,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/2106092",
+       "avatar": {
+        "tiny": {
+         "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/VB0WqqQFSWXEo8hkiYnQ_BA.jpg",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/VB0WqqQFSWXEo8hkiYnQ_BA.jpg",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/VB0WqqQFSWXEo8hkiYnQ_BA.jpg",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/VB0WqqQFSWXEo8hkiYnQ_BA.jpg",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/Bf3TiPjQRrmsle0O2pLo_Well._Goodbye_I_suppose._Rest_happily_and_in_your_grave._For_I_am_completed_with_you._I_will_sever_the_tie_with_a_rose_t.jpg",
+       "human_readable_role_for_display": "Contributor",
+       "id": 2106092,
+       "iq": 918,
+       "login": "musicgenius113",
+       "name": "musicgenius113",
+       "role_for_display": "contributor",
+       "url": "https://genius.com/musicgenius113",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     },
+     {
+      "attribution": 0.011627906976744186,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/3102189",
+       "avatar": {
+        "tiny": {
+         "url": "https://images.genius.com/avatars/tiny/5b5fa4ec49b6c24a1be517741626ef95",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://images.genius.com/avatars/thumb/5b5fa4ec49b6c24a1be517741626ef95",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://images.genius.com/avatars/small/5b5fa4ec49b6c24a1be517741626ef95",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://images.genius.com/avatars/medium/5b5fa4ec49b6c24a1be517741626ef95",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://images.genius.com/avatars/medium/5b5fa4ec49b6c24a1be517741626ef95",
+       "human_readable_role_for_display": "Editor",
+       "id": 3102189,
+       "iq": 15202,
+       "login": "BradFarberman",
+       "name": "BradFarberman",
+       "role_for_display": "editor",
+       "url": "https://genius.com/BradFarberman",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     }
+    ],
+    "cosigned_by": [],
+    "rejection_comment": null,
+    "verified_by": null
+   }
+  ]
+ },
+ "featured_artists": [
+  {
+   "api_path": "/artists/13",
+   "header_image_url": "https://images.genius.com/5fe85e5a1f5624d4da4e50156735485a.998x1000x1.jpg",
+   "id": 13,
+   "image_url": "https://images.genius.com/3fa0d6adf0a26958a9d2c6ca3e7e2077.640x640x1.jpg",
+   "is_meme_verified": true,
+   "is_verified": true,
+   "name": "Gucci Mane",
+   "url": "https://genius.com/artists/Gucci-mane",
+   "iq": 696
+  }
+ ],
+ "lyrics_marked_complete_by": null,
+ "media": [
+  {
+   "provider": "youtube",
+   "start": 0,
+   "type": "video",
+   "url": "http://www.youtube.com/watch?v=b8m9zhNAgKs"
+  },
+  {
+   "native_uri": "spotify:track:4SgRoETpc8GEkVgBh5OrZs",
+   "provider": "spotify",
+   "type": "audio",
+   "url": "https://open.spotify.com/track/4SgRoETpc8GEkVgBh5OrZs"
+  },
+  {
+   "attribution": "raesremmurd",
+   "provider": "soundcloud",
+   "type": "audio",
+   "url": "https://soundcloud.com/raesremmurd/black-beatles"
+  }
+ ],
+ "producer_artists": [
+  {
+   "api_path": "/artists/29978",
+   "header_image_url": "https://images.genius.com/1722dc172cf7b50eeb7e433113e9a6e8.1000x504x1.png",
+   "id": 29978,
+   "image_url": "https://images.genius.com/1d29ef19a466f4bf49282b4d020cb593.895x895x1.jpg",
+   "is_meme_verified": true,
+   "is_verified": true,
+   "name": "Mike WiLL Made-It",
+   "url": "https://genius.com/artists/Mike-will-made-it",
+   "iq": 489
+  }
+ ],
+ "song_relationships": [
+  {
+   "relationship_type": "samples",
+   "type": "samples",
+   "songs": []
+  },
+  {
+   "relationship_type": "sampled_in",
+   "type": "sampled_in",
+   "songs": [
+    {
+     "annotation_count": 1,
+     "api_path": "/songs/3287056",
+     "full_title": "The Joker by\u00a0Lord\u00a0Twinkletoes (Ft.\u00a0Bobby\u00a0Is The Man, Cheese\u00a0Man & LIT\u00a0M.A.M.A)",
+     "header_image_thumbnail_url": "https://images.genius.com/8aa5f8896229d8c274fbaf054df3574d.300x300x1.png",
+     "header_image_url": "https://images.genius.com/8aa5f8896229d8c274fbaf054df3574d.433x433x1.png",
+     "id": 3287056,
+     "lyrics_owner_id": 3252573,
+     "lyrics_state": "complete",
+     "path": "/Lord-twinkletoes-the-joker-lyrics",
+     "pyongs_count": null,
+     "song_art_image_thumbnail_url": "https://images.genius.com/8aa5f8896229d8c274fbaf054df3574d.300x300x1.png",
+     "song_art_image_url": "https://images.genius.com/8aa5f8896229d8c274fbaf054df3574d.433x433x1.png",
+     "stats": {
+      "unreviewed_annotations": 1,
+      "hot": false
+     },
+     "title": "The Joker",
+     "title_with_featured": "The Joker (Ft.\u00a0Bobby\u00a0Is The Man, Cheese\u00a0Man & LIT\u00a0M.A.M.A)",
+     "url": "https://genius.com/Lord-twinkletoes-the-joker-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/1213730",
+      "header_image_url": "https://images.genius.com/f15e5145adc6739735a8a85d57e62890.1000x750x1.jpg",
+      "id": 1213730,
+      "image_url": "https://images.genius.com/61ea547487cbf1a977149755a3b374f4.485x485x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Lord Twinkletoes",
+      "url": "https://genius.com/artists/Lord-twinkletoes",
+      "iq": 5200
+     }
+    },
+    {
+     "annotation_count": 0,
+     "api_path": "/songs/3609570",
+     "full_title": "Shut The Fuck Up by\u00a0NxxxxxS (Ft.\u00a0Raaash)",
+     "header_image_thumbnail_url": "https://images.genius.com/da99bcb7c981ad6ad52ac471750dc17b.300x300x1.jpg",
+     "header_image_url": "https://images.genius.com/da99bcb7c981ad6ad52ac471750dc17b.1000x1000x1.jpg",
+     "id": 3609570,
+     "lyrics_owner_id": 3247361,
+     "lyrics_state": "complete",
+     "path": "/Nxxxxxs-shut-the-fuck-up-lyrics",
+     "pyongs_count": null,
+     "song_art_image_thumbnail_url": "https://images.genius.com/da99bcb7c981ad6ad52ac471750dc17b.300x300x1.jpg",
+     "song_art_image_url": "https://images.genius.com/da99bcb7c981ad6ad52ac471750dc17b.1000x1000x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 0,
+      "hot": false
+     },
+     "title": "Shut The Fuck Up",
+     "title_with_featured": "Shut The Fuck Up (Ft.\u00a0Raaash)",
+     "url": "https://genius.com/Nxxxxxs-shut-the-fuck-up-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/148456",
+      "header_image_url": "https://images.genius.com/99bf49774c90ced88b171bade52ca224.600x600x1.png",
+      "id": 148456,
+      "image_url": "https://images.genius.com/99bf49774c90ced88b171bade52ca224.600x600x1.png",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "NxxxxxS",
+      "url": "https://genius.com/artists/Nxxxxxs"
+     }
+    },
+    {
+     "annotation_count": 0,
+     "api_path": "/songs/3832093",
+     "full_title": "Remix by\u00a0Lotto\u00a0Streetz (Ft.\u00a0Max\u00a0B (Maxwell Streetz))",
+     "header_image_thumbnail_url": "https://images.genius.com/41e2f98026ee013c2d7280428fbe5041.300x300x1.jpg",
+     "header_image_url": "https://images.genius.com/41e2f98026ee013c2d7280428fbe5041.1000x1000x1.jpg",
+     "id": 3832093,
+     "lyrics_owner_id": 4495837,
+     "lyrics_state": "complete",
+     "path": "/Lotto-streetz-remix-lyrics",
+     "pyongs_count": 1,
+     "song_art_image_thumbnail_url": "https://images.genius.com/41e2f98026ee013c2d7280428fbe5041.300x300x1.jpg",
+     "song_art_image_url": "https://images.genius.com/41e2f98026ee013c2d7280428fbe5041.1000x1000x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 0,
+      "hot": false
+     },
+     "title": "Remix",
+     "title_with_featured": "Remix (Ft.\u00a0Max\u00a0B (Maxwell Streetz))",
+     "url": "https://genius.com/Lotto-streetz-remix-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/1511801",
+      "header_image_url": "https://images.genius.com/95fe5a908737dcbe2ad848dd4667ac18.610x451x1.png",
+      "id": 1511801,
+      "image_url": "https://images.genius.com/6c36dcc3be4a6840742386e855e560cc.1000x1000x1.png",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Lotto Streetz",
+      "url": "https://genius.com/artists/Lotto-streetz"
+     }
+    },
+    {
+     "annotation_count": 0,
+     "api_path": "/songs/4073504",
+     "full_title": "Professional N Happy by\u00a0DJ\u00a0Smokey",
+     "header_image_thumbnail_url": "https://images.genius.com/0e808121752657eeb74f7dab1ccdfc5c.300x300x1.jpg",
+     "header_image_url": "https://images.genius.com/0e808121752657eeb74f7dab1ccdfc5c.600x600x1.jpg",
+     "id": 4073504,
+     "lyrics_owner_id": 3782633,
+     "lyrics_state": "complete",
+     "path": "/Dj-smokey-professional-n-happy-lyrics",
+     "pyongs_count": null,
+     "song_art_image_thumbnail_url": "https://images.genius.com/0e808121752657eeb74f7dab1ccdfc5c.300x300x1.jpg",
+     "song_art_image_url": "https://images.genius.com/0e808121752657eeb74f7dab1ccdfc5c.600x600x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 0,
+      "hot": false
+     },
+     "title": "Professional N Happy",
+     "title_with_featured": "Professional N Happy",
+     "url": "https://genius.com/Dj-smokey-professional-n-happy-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/36018",
+      "header_image_url": "https://images.genius.com/d25c9e6ca095a4de476f50ad7ff71da9.639x640x1.jpg",
+      "id": 36018,
+      "image_url": "https://images.genius.com/b104cb60f399f2a70cbde527cb100816.646x646x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "DJ Smokey",
+      "url": "https://genius.com/artists/Dj-smokey"
+     }
+    },
+    {
+     "annotation_count": 1,
+     "api_path": "/songs/5674853",
+     "full_title": "SUPER MEME MEGAMIX ULTIMATE 2 by\u00a0Vincent\u00a0Mashups",
+     "header_image_thumbnail_url": "https://images.genius.com/c05b6b55874a200ea5c5a02859a5658b.300x169x1.jpg",
+     "header_image_url": "https://images.genius.com/c05b6b55874a200ea5c5a02859a5658b.1000x563x1.jpg",
+     "id": 5674853,
+     "lyrics_owner_id": 6741179,
+     "lyrics_state": "complete",
+     "path": "/Vincent-mashups-super-meme-megamix-ultimate-2-lyrics",
+     "pyongs_count": 2,
+     "song_art_image_thumbnail_url": "https://images.genius.com/c05b6b55874a200ea5c5a02859a5658b.300x169x1.jpg",
+     "song_art_image_url": "https://images.genius.com/c05b6b55874a200ea5c5a02859a5658b.1000x563x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 1,
+      "hot": false
+     },
+     "title": "SUPER MEME MEGAMIX ULTIMATE 2",
+     "title_with_featured": "SUPER MEME MEGAMIX ULTIMATE 2",
+     "url": "https://genius.com/Vincent-mashups-super-meme-megamix-ultimate-2-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/1950550",
+      "header_image_url": "https://images.genius.com/b5c6d19072efb5bf08cf280cb10276cc.224x224x1.jpg",
+      "id": 1950550,
+      "image_url": "https://images.genius.com/b5c6d19072efb5bf08cf280cb10276cc.224x224x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Vincent Mashups",
+      "url": "https://genius.com/artists/Vincent-mashups"
+     }
+    }
+   ]
+  },
+  {
+   "relationship_type": "interpolates",
+   "type": "interpolates",
+   "songs": [
+    {
+     "annotation_count": 5,
+     "api_path": "/songs/114778",
+     "full_title": "Day Tripper by\u00a0The\u00a0Beatles",
+     "header_image_thumbnail_url": "https://images.genius.com/eb5daf73a3da526dede2f31470c96e52.300x169x1.jpg",
+     "header_image_url": "https://images.genius.com/eb5daf73a3da526dede2f31470c96e52.1000x563x1.jpg",
+     "id": 114778,
+     "lyrics_owner_id": 46981,
+     "lyrics_state": "complete",
+     "path": "/The-beatles-day-tripper-lyrics",
+     "pyongs_count": 5,
+     "song_art_image_thumbnail_url": "https://images.rapgenius.com/99125717de32f2a420257320ee19d483.220x219x1.jpg",
+     "song_art_image_url": "https://images.rapgenius.com/99125717de32f2a420257320ee19d483.220x219x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 0,
+      "hot": false,
+      "pageviews": 59697
+     },
+     "title": "Day Tripper",
+     "title_with_featured": "Day Tripper",
+     "url": "https://genius.com/The-beatles-day-tripper-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/586",
+      "header_image_url": "https://images.genius.com/817d7fb288bb1c8456140d7e4987e7e7.400x226x148.gif",
+      "id": 586,
+      "image_url": "https://images.genius.com/df75ede64ffcf049727bfbb01d323081.400x400x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "The Beatles",
+      "url": "https://genius.com/artists/The-beatles"
+     }
+    },
+    {
+     "annotation_count": 14,
+     "api_path": "/songs/1449",
+     "full_title": "Hey Ya! by\u00a0OutKast",
+     "header_image_thumbnail_url": "https://images.genius.com/52f1b8975bd1bd02247f3ad8950f4c34.300x300x1.png",
+     "header_image_url": "https://images.genius.com/52f1b8975bd1bd02247f3ad8950f4c34.1000x1000x1.png",
+     "id": 1449,
+     "lyrics_owner_id": 7,
+     "lyrics_state": "complete",
+     "path": "/Outkast-hey-ya-lyrics",
+     "pyongs_count": 117,
+     "song_art_image_thumbnail_url": "https://images.rapgenius.com/433977cac8d8cf53080f4939cfd91004.300x300x1.png",
+     "song_art_image_url": "https://images.rapgenius.com/433977cac8d8cf53080f4939cfd91004.500x500x1.png",
+     "stats": {
+      "unreviewed_annotations": 0,
+      "concurrents": 3,
+      "hot": false,
+      "pageviews": 1464726
+     },
+     "title": "Hey Ya!",
+     "title_with_featured": "Hey Ya!",
+     "url": "https://genius.com/Outkast-hey-ya-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/105",
+      "header_image_url": "https://images.genius.com/9775fad5cacf44c3f7993c4a309ccdd6.600x315x1.jpg",
+      "id": 105,
+      "image_url": "https://images.genius.com/ef006cf48ebfb4923b23d319fdeb1315.1000x1000x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "OutKast",
+      "url": "https://genius.com/artists/Outkast"
+     }
+    }
+   ]
+  },
+  {
+   "relationship_type": "interpolated_by",
+   "type": "interpolated_by",
+   "songs": [
+    {
+     "annotation_count": 1,
+     "api_path": "/songs/3099277",
+     "full_title": "Mannequin Challenge Freestyle Italia (Black Beatles Edit) by\u00a0HeatFox",
+     "header_image_thumbnail_url": "https://images.genius.com/f0d52573ddb1a25af5978d914fa83994.300x300x1.png",
+     "header_image_url": "https://images.genius.com/f0d52573ddb1a25af5978d914fa83994.1000x1000x1.png",
+     "id": 3099277,
+     "lyrics_owner_id": 4266405,
+     "lyrics_state": "complete",
+     "path": "/Heatfox-mannequin-challenge-freestyle-italia-black-beatles-edit-lyrics",
+     "pyongs_count": 3,
+     "song_art_image_thumbnail_url": "https://images.genius.com/f0d52573ddb1a25af5978d914fa83994.300x300x1.png",
+     "song_art_image_url": "https://images.genius.com/f0d52573ddb1a25af5978d914fa83994.1000x1000x1.png",
+     "stats": {
+      "unreviewed_annotations": 1,
+      "hot": false
+     },
+     "title": "Mannequin Challenge Freestyle Italia (Black Beatles Edit)",
+     "title_with_featured": "Mannequin Challenge Freestyle Italia (Black Beatles Edit)",
+     "url": "https://genius.com/Heatfox-mannequin-challenge-freestyle-italia-black-beatles-edit-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/991408",
+      "header_image_url": "https://images.genius.com/a0809f94617911e393ba673982faaf2f.1000x625x1.jpg",
+      "id": 991408,
+      "image_url": "https://images.genius.com/f0d52573ddb1a25af5978d914fa83994.1000x1000x1.png",
+      "is_meme_verified": false,
+      "is_verified": true,
+      "name": "HeatFox",
+      "url": "https://genius.com/artists/Heatfox",
+      "iq": 247
+     }
+    },
+    {
+     "annotation_count": 9,
+     "api_path": "/songs/3241792",
+     "full_title": "Truth Hurts by\u00a0Lizzo",
+     "header_image_thumbnail_url": "https://images.genius.com/754b915b767219a1ebc5e2f96589f425.300x132x1.jpg",
+     "header_image_url": "https://images.genius.com/754b915b767219a1ebc5e2f96589f425.960x421x1.jpg",
+     "id": 3241792,
+     "lyrics_owner_id": 2366402,
+     "lyrics_state": "complete",
+     "path": "/Lizzo-truth-hurts-lyrics",
+     "pyongs_count": 49,
+     "song_art_image_thumbnail_url": "https://images.genius.com/713f196ed0f42f17fc2ba46c17f1c084.300x300x1.jpg",
+     "song_art_image_url": "https://images.genius.com/713f196ed0f42f17fc2ba46c17f1c084.1000x1000x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 0,
+      "hot": false,
+      "pageviews": 1943713
+     },
+     "title": "Truth Hurts",
+     "title_with_featured": "Truth Hurts",
+     "url": "https://genius.com/Lizzo-truth-hurts-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/84514",
+      "header_image_url": "https://images.genius.com/b2cb32312c5bd157d3913755ec4e4bb8.1000x397x1.jpg",
+      "id": 84514,
+      "image_url": "https://images.genius.com/f5ab6722a4c9021ff63946e16289fd22.1000x1000x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": true,
+      "name": "Lizzo",
+      "url": "https://genius.com/artists/Lizzo",
+      "iq": 329
+     }
+    },
+    {
+     "annotation_count": 1,
+     "api_path": "/songs/4395123",
+     "full_title": "\u200bstressed out by\u00a0\u200biann\u00a0dior (Ft.\u00a0Trevor\u00a0Daniel)",
+     "header_image_thumbnail_url": "https://images.genius.com/4e122e6406bc1446b6540417b65b2e90.300x300x1.jpg",
+     "header_image_url": "https://images.genius.com/4e122e6406bc1446b6540417b65b2e90.1000x1000x1.jpg",
+     "id": 4395123,
+     "lyrics_owner_id": 6519973,
+     "lyrics_state": "complete",
+     "path": "/Iann-dior-stressed-out-lyrics",
+     "pyongs_count": 2,
+     "song_art_image_thumbnail_url": "https://images.genius.com/71a00087fb70a535327ee7db9ff12e4d.300x300x1.jpg",
+     "song_art_image_url": "https://images.genius.com/71a00087fb70a535327ee7db9ff12e4d.500x500x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 1,
+      "hot": false,
+      "pageviews": 15605
+     },
+     "title": "\u200bstressed out",
+     "title_with_featured": "\u200bstressed out (Ft.\u00a0Trevor\u00a0Daniel)",
+     "url": "https://genius.com/Iann-dior-stressed-out-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/1717040",
+      "header_image_url": "https://images.genius.com/7b0e17b72d4b6c6302f15ae6418eb15d.1000x563x1.jpg",
+      "id": 1717040,
+      "image_url": "https://images.genius.com/134a3c501dc5ba0dd4f03dad8fb8883a.640x640x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": true,
+      "name": "\u200biann dior",
+      "url": "https://genius.com/artists/Iann-dior",
+      "iq": 1276
+     }
+    },
+    {
+     "annotation_count": 2,
+     "api_path": "/songs/4401120",
+     "full_title": "Empty by\u00a0Trevor\u00a0Daniel",
+     "header_image_thumbnail_url": "https://images.genius.com/6d5374a5d34f25d547f69e55f55fd173.300x300x1.jpg",
+     "header_image_url": "https://images.genius.com/6d5374a5d34f25d547f69e55f55fd173.1000x1000x1.jpg",
+     "id": 4401120,
+     "lyrics_owner_id": 4002847,
+     "lyrics_state": "complete",
+     "path": "/Trevor-daniel-empty-lyrics",
+     "pyongs_count": null,
+     "song_art_image_thumbnail_url": "https://images.genius.com/6d5374a5d34f25d547f69e55f55fd173.300x300x1.jpg",
+     "song_art_image_url": "https://images.genius.com/6d5374a5d34f25d547f69e55f55fd173.1000x1000x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 2,
+      "hot": false,
+      "pageviews": 13328
+     },
+     "title": "Empty",
+     "title_with_featured": "Empty",
+     "url": "https://genius.com/Trevor-daniel-empty-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/636444",
+      "header_image_url": "https://images.genius.com/0bdf9f125be884fd2038af6e4908e2ba.500x500x1.jpg",
+      "id": 636444,
+      "image_url": "https://images.genius.com/b35a0dd1c7a3d271e4e17e113b87226b.720x720x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": true,
+      "name": "Trevor Daniel",
+      "url": "https://genius.com/artists/Trevor-daniel",
+      "iq": 2172
+     }
+    },
+    {
+     "annotation_count": 15,
+     "api_path": "/songs/4786052",
+     "full_title": "Mannequin Challenge by\u00a0Young\u00a0Thug (Ft.\u00a0Juice\u00a0WRLD)",
+     "header_image_thumbnail_url": "https://images.genius.com/33c52a00b694afff704c64a80dad42c2.300x300x1.png",
+     "header_image_url": "https://images.genius.com/33c52a00b694afff704c64a80dad42c2.1000x1000x1.png",
+     "id": 4786052,
+     "lyrics_owner_id": 4335922,
+     "lyrics_state": "complete",
+     "path": "/Young-thug-mannequin-challenge-lyrics",
+     "pyongs_count": 14,
+     "song_art_image_thumbnail_url": "https://images.genius.com/33c52a00b694afff704c64a80dad42c2.300x300x1.png",
+     "song_art_image_url": "https://images.genius.com/33c52a00b694afff704c64a80dad42c2.1000x1000x1.png",
+     "stats": {
+      "unreviewed_annotations": 2,
+      "hot": false,
+      "pageviews": 148908
+     },
+     "title": "Mannequin Challenge",
+     "title_with_featured": "Mannequin Challenge (Ft.\u00a0Juice\u00a0WRLD)",
+     "url": "https://genius.com/Young-thug-mannequin-challenge-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/20503",
+      "header_image_url": "https://images.genius.com/e4db099cb1efa1f49e025ae89dd15a03.668x668x1.jpg",
+      "id": 20503,
+      "image_url": "https://images.genius.com/4153f5f59e3f53e16f95c04c02666444.668x668x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Young Thug",
+      "url": "https://genius.com/artists/Young-thug"
+     }
+    }
+   ]
+  },
+  {
+   "relationship_type": "cover_of",
+   "type": "cover_of",
+   "songs": []
+  },
+  {
+   "relationship_type": "covered_by",
+   "type": "covered_by",
+   "songs": [
+    {
+     "annotation_count": 0,
+     "api_path": "/songs/2866594",
+     "full_title": "Black Beatles by\u00a0Carson\u00a0Lueders",
+     "header_image_thumbnail_url": "https://images.genius.com/e1ffcc22efdccb4e05003c6471be981c.300x169x1.jpg",
+     "header_image_url": "https://images.genius.com/e1ffcc22efdccb4e05003c6471be981c.1000x563x1.jpg",
+     "id": 2866594,
+     "lyrics_owner_id": 3770325,
+     "lyrics_state": "complete",
+     "path": "/Carson-lueders-black-beatles-lyrics",
+     "pyongs_count": null,
+     "song_art_image_thumbnail_url": "https://images.genius.com/e1ffcc22efdccb4e05003c6471be981c.300x169x1.jpg",
+     "song_art_image_url": "https://images.genius.com/e1ffcc22efdccb4e05003c6471be981c.1000x563x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 0,
+      "hot": false,
+      "pageviews": 14154
+     },
+     "title": "Black Beatles",
+     "title_with_featured": "Black Beatles",
+     "url": "https://genius.com/Carson-lueders-black-beatles-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/456478",
+      "header_image_url": "https://images.genius.com/78c5b28e8607f38ecd4a6a2f96f150c7.400x400x1.jpg",
+      "id": 456478,
+      "image_url": "https://images.genius.com/78c5b28e8607f38ecd4a6a2f96f150c7.400x400x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Carson Lueders",
+      "url": "https://genius.com/artists/Carson-lueders"
+     }
+    },
+    {
+     "annotation_count": 8,
+     "api_path": "/songs/2898858",
+     "full_title": "Black Beatles x Confessions x No Problem Mashup by\u00a0William\u00a0Singe & Alex Aiono",
+     "header_image_thumbnail_url": "https://images.genius.com/9a642969977b045bf690ccda18889e79.300x169x1.jpg",
+     "header_image_url": "https://images.genius.com/9a642969977b045bf690ccda18889e79.320x180x1.jpg",
+     "id": 2898858,
+     "lyrics_owner_id": 3725198,
+     "lyrics_state": "complete",
+     "path": "/William-singe-and-alex-aiono-black-beatles-x-confessions-x-no-problem-mashup-lyrics",
+     "pyongs_count": 11,
+     "song_art_image_thumbnail_url": "https://images.genius.com/9a642969977b045bf690ccda18889e79.300x169x1.jpg",
+     "song_art_image_url": "https://images.genius.com/9a642969977b045bf690ccda18889e79.320x180x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 7,
+      "hot": false,
+      "pageviews": 123975
+     },
+     "title": "Black Beatles x Confessions x No Problem Mashup",
+     "title_with_featured": "Black Beatles x Confessions x No Problem Mashup",
+     "url": "https://genius.com/William-singe-and-alex-aiono-black-beatles-x-confessions-x-no-problem-mashup-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/1025845",
+      "header_image_url": "https://images.genius.com/380ee742cd0dc809c910c81d394450d9.1000x563x1.jpg",
+      "id": 1025845,
+      "image_url": "https://images.genius.com/47e7c566b663face3936b688943d9feb.420x420x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "William Singe & Alex Aiono",
+      "url": "https://genius.com/artists/William-singe-and-alex-aiono"
+     }
+    },
+    {
+     "annotation_count": 11,
+     "api_path": "/songs/2949654",
+     "full_title": "\u042f\u043d\u0433 \u0411\u0438\u0442\u043b\u0437 / Young Beatles (jubilee freestyle) by\u00a0\u0421\u043b\u0430\u0432\u0430\u00a0\u041a\u041f\u0421\u0421 (Slava KPSS)",
+     "header_image_thumbnail_url": "https://images.genius.com/3c77afa9013a0a6923a2a0b0844bad5c.300x300x1.jpg",
+     "header_image_url": "https://images.genius.com/3c77afa9013a0a6923a2a0b0844bad5c.460x460x1.jpg",
+     "id": 2949654,
+     "lyrics_owner_id": 1105854,
+     "lyrics_state": "complete",
+     "path": "/Slava-kpss-young-beatles-jubilee-freestyle-lyrics",
+     "pyongs_count": null,
+     "song_art_image_thumbnail_url": "https://images.genius.com/ab2627844f9a4b2d402d3df41005b8cd.300x201x1.jpg",
+     "song_art_image_url": "https://images.genius.com/ab2627844f9a4b2d402d3df41005b8cd.639x428x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 10,
+      "hot": false,
+      "pageviews": 8925
+     },
+     "title": "\u042f\u043d\u0433 \u0411\u0438\u0442\u043b\u0437 / Young Beatles (jubilee freestyle)",
+     "title_with_featured": "\u042f\u043d\u0433 \u0411\u0438\u0442\u043b\u0437 / Young Beatles (jubilee freestyle)",
+     "url": "https://genius.com/Slava-kpss-young-beatles-jubilee-freestyle-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/993773",
+      "header_image_url": "https://images.genius.com/24d53756f0941ffb8a60f9408406062c.1000x228x1.jpg",
+      "id": 993773,
+      "image_url": "https://images.genius.com/f5071345a960d9d1d193b12fabd9f236.465x465x1.png",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "\u0421\u043b\u0430\u0432\u0430 \u041a\u041f\u0421\u0421 (Slava KPSS)",
+      "url": "https://genius.com/artists/Slava-kpss"
+     }
+    },
+    {
+     "annotation_count": 0,
+     "api_path": "/songs/2961030",
+     "full_title": "Black Beatles by\u00a0Our\u00a0Last Night",
+     "header_image_thumbnail_url": "https://images.genius.com/6553e9ad60511b393ce5182e21caedfe.300x300x1.jpg",
+     "header_image_url": "https://images.genius.com/6553e9ad60511b393ce5182e21caedfe.1000x1000x1.jpg",
+     "id": 2961030,
+     "lyrics_owner_id": 321054,
+     "lyrics_state": "complete",
+     "path": "/Our-last-night-black-beatles-lyrics",
+     "pyongs_count": 1,
+     "song_art_image_thumbnail_url": "https://images.genius.com/6553e9ad60511b393ce5182e21caedfe.300x300x1.jpg",
+     "song_art_image_url": "https://images.genius.com/6553e9ad60511b393ce5182e21caedfe.1000x1000x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 0,
+      "hot": false
+     },
+     "title": "Black Beatles",
+     "title_with_featured": "Black Beatles",
+     "url": "https://genius.com/Our-last-night-black-beatles-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/126411",
+      "header_image_url": "https://images.genius.com/d3cb631f2f8b1b8f4b48d0472bc2aef4.1000x370x1.jpg",
+      "id": 126411,
+      "image_url": "https://images.genius.com/03627944481dcdb782595e9d3e351853.959x959x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Our Last Night",
+      "url": "https://genius.com/artists/Our-last-night"
+     }
+    },
+    {
+     "annotation_count": 0,
+     "api_path": "/songs/3023537",
+     "full_title": "14 year old rapper KILLS \u201cBlack Beatles\u201d  (REMIX) by\u00a0J-Rush\u00a0Music",
+     "header_image_thumbnail_url": "https://images.genius.com/564f8c741c2f6cb94d2777d394d8aaf7.300x300x1.png",
+     "header_image_url": "https://images.genius.com/564f8c741c2f6cb94d2777d394d8aaf7.400x400x1.png",
+     "id": 3023537,
+     "lyrics_owner_id": 2442440,
+     "lyrics_state": "complete",
+     "path": "/J-rush-music-14-year-old-rapper-kills-black-beatles-remix-lyrics",
+     "pyongs_count": null,
+     "song_art_image_thumbnail_url": "https://images.genius.com/564f8c741c2f6cb94d2777d394d8aaf7.300x300x1.png",
+     "song_art_image_url": "https://images.genius.com/564f8c741c2f6cb94d2777d394d8aaf7.400x400x1.png",
+     "stats": {
+      "unreviewed_annotations": 0,
+      "hot": false
+     },
+     "title": "14 year old rapper KILLS \u201cBlack Beatles\u201d  (REMIX)",
+     "title_with_featured": "14 year old rapper KILLS \u201cBlack Beatles\u201d  (REMIX)",
+     "url": "https://genius.com/J-rush-music-14-year-old-rapper-kills-black-beatles-remix-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/1066258",
+      "header_image_url": "https://images.genius.com/83bf99c8996f77c9be362cf68bfe93cb.1000x368x1.png",
+      "id": 1066258,
+      "image_url": "https://images.genius.com/564f8c741c2f6cb94d2777d394d8aaf7.400x400x1.png",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "J-Rush Music",
+      "url": "https://genius.com/artists/J-rush-music"
+     }
+    },
+    {
+     "annotation_count": 0,
+     "api_path": "/songs/3287682",
+     "full_title": "Black Beatles by\u00a0Anevo\u00a0x Kiso (Ft.\u00a0Kayla\u00a0Diamond)",
+     "header_image_thumbnail_url": "https://images.genius.com/dcb97d50665b04e493fd60882c8b6c9f.300x300x1.jpg",
+     "header_image_url": "https://images.genius.com/dcb97d50665b04e493fd60882c8b6c9f.640x640x1.jpg",
+     "id": 3287682,
+     "lyrics_owner_id": 5369501,
+     "lyrics_state": "complete",
+     "path": "/Anevo-x-kiso-black-beatles-annotated",
+     "pyongs_count": null,
+     "song_art_image_thumbnail_url": "https://images.genius.com/dcb97d50665b04e493fd60882c8b6c9f.300x300x1.jpg",
+     "song_art_image_url": "https://images.genius.com/dcb97d50665b04e493fd60882c8b6c9f.640x640x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 0,
+      "hot": false
+     },
+     "title": "Black Beatles",
+     "title_with_featured": "Black Beatles (Ft.\u00a0Kayla\u00a0Diamond)",
+     "url": "https://genius.com/Anevo-x-kiso-black-beatles-annotated",
+     "primary_artist": {
+      "api_path": "/artists/1245966",
+      "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+      "id": 1245966,
+      "image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Anevo x Kiso",
+      "url": "https://genius.com/artists/Anevo-x-kiso"
+     }
+    },
+    {
+     "annotation_count": 0,
+     "api_path": "/songs/5565190",
+     "full_title": "Black Beatles (E-Mix) by\u00a0Eric\u00a0Bellinger",
+     "header_image_thumbnail_url": "https://images.genius.com/1f468d11dc83ea8bc1156dc4a4003940.300x300x1.jpg",
+     "header_image_url": "https://images.genius.com/1f468d11dc83ea8bc1156dc4a4003940.499x499x1.jpg",
+     "id": 5565190,
+     "lyrics_owner_id": 4124339,
+     "lyrics_state": "complete",
+     "path": "/Eric-bellinger-black-beatles-e-mix-lyrics",
+     "pyongs_count": null,
+     "song_art_image_thumbnail_url": "https://images.genius.com/1f468d11dc83ea8bc1156dc4a4003940.300x300x1.jpg",
+     "song_art_image_url": "https://images.genius.com/1f468d11dc83ea8bc1156dc4a4003940.499x499x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 0,
+      "hot": false
+     },
+     "title": "Black Beatles (E-Mix)",
+     "title_with_featured": "Black Beatles (E-Mix)",
+     "url": "https://genius.com/Eric-bellinger-black-beatles-e-mix-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/19233",
+      "header_image_url": "https://images.genius.com/52650bb3c8129f42ce36e49b924dda9c.722x474x1.png",
+      "id": 19233,
+      "image_url": "https://images.genius.com/981ba212b47b48ec9ca0611dd5de7c72.1000x1000x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": true,
+      "name": "Eric Bellinger",
+      "url": "https://genius.com/artists/Eric-bellinger",
+      "iq": 396
+     }
+    },
+    {
+     "annotation_count": 0,
+     "api_path": "/songs/5583258",
+     "full_title": "Black Beatles by\u00a0Fame\u00a0on Fire",
+     "header_image_thumbnail_url": "https://images.genius.com/022ed481a85583fa1bed49b4adf1d145.300x300x1.jpg",
+     "header_image_url": "https://images.genius.com/022ed481a85583fa1bed49b4adf1d145.500x500x1.jpg",
+     "id": 5583258,
+     "lyrics_owner_id": 321054,
+     "lyrics_state": "complete",
+     "path": "/Fame-on-fire-black-beatles-lyrics",
+     "pyongs_count": null,
+     "song_art_image_thumbnail_url": "https://images.genius.com/022ed481a85583fa1bed49b4adf1d145.300x300x1.jpg",
+     "song_art_image_url": "https://images.genius.com/022ed481a85583fa1bed49b4adf1d145.500x500x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 0,
+      "hot": false
+     },
+     "title": "Black Beatles",
+     "title_with_featured": "Black Beatles",
+     "url": "https://genius.com/Fame-on-fire-black-beatles-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/1064801",
+      "header_image_url": "https://images.genius.com/ce6dc87f81ccefb9be2825295e080d05.1000x563x1.jpg",
+      "id": 1064801,
+      "image_url": "https://images.genius.com/360cf40fcc3974140b22e4619871634b.1000x1000x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": true,
+      "name": "Fame on Fire",
+      "url": "https://genius.com/artists/Fame-on-fire",
+      "iq": 659
+     }
+    }
+   ]
+  },
+  {
+   "relationship_type": "remix_of",
+   "type": "remix_of",
+   "songs": []
+  },
+  {
+   "relationship_type": "remixed_by",
+   "type": "remixed_by",
+   "songs": [
+    {
+     "annotation_count": 29,
+     "api_path": "/songs/2908859",
+     "full_title": "Black Barbies by\u00a0Nicki\u00a0Minaj & Mike WiLL Made-It",
+     "header_image_thumbnail_url": "https://images.genius.com/18e43f791424eec242bab6bf02377330.300x300x1.jpg",
+     "header_image_url": "https://images.genius.com/18e43f791424eec242bab6bf02377330.1000x1000x1.jpg",
+     "id": 2908859,
+     "lyrics_owner_id": 672397,
+     "lyrics_state": "complete",
+     "path": "/Nicki-minaj-and-mike-will-made-it-black-barbies-lyrics",
+     "pyongs_count": 62,
+     "song_art_image_thumbnail_url": "https://images.genius.com/18e43f791424eec242bab6bf02377330.300x300x1.jpg",
+     "song_art_image_url": "https://images.genius.com/18e43f791424eec242bab6bf02377330.1000x1000x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 0,
+      "hot": false,
+      "pageviews": 1001305
+     },
+     "title": "Black Barbies",
+     "title_with_featured": "Black Barbies",
+     "url": "https://genius.com/Nicki-minaj-and-mike-will-made-it-black-barbies-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/1558186",
+      "header_image_url": "https://images.genius.com/2501271da82cc74c2520f82bfa469e39.300x300x1.jpg",
+      "id": 1558186,
+      "image_url": "https://images.genius.com/2501271da82cc74c2520f82bfa469e39.300x300x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Nicki Minaj & Mike WiLL Made-It",
+      "url": "https://genius.com/artists/Nicki-minaj-and-mike-will-made-it"
+     }
+    },
+    {
+     "annotation_count": 1,
+     "api_path": "/songs/2916709",
+     "full_title": "Black Bottoms by\u00a0Avereaux",
+     "header_image_thumbnail_url": "https://images.genius.com/8a8778e9471a445783107b04ee04f766.300x300x1.jpg",
+     "header_image_url": "https://images.genius.com/8a8778e9471a445783107b04ee04f766.1000x1000x1.jpg",
+     "id": 2916709,
+     "lyrics_owner_id": 3251444,
+     "lyrics_state": "complete",
+     "path": "/Avereaux-black-bottoms-lyrics",
+     "pyongs_count": null,
+     "song_art_image_thumbnail_url": "https://images.genius.com/8a8778e9471a445783107b04ee04f766.300x300x1.jpg",
+     "song_art_image_url": "https://images.genius.com/8a8778e9471a445783107b04ee04f766.1000x1000x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 0,
+      "hot": false
+     },
+     "title": "Black Bottoms",
+     "title_with_featured": "Black Bottoms",
+     "url": "https://genius.com/Avereaux-black-bottoms-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/668374",
+      "header_image_url": "https://images.genius.com/64e161e3b2aa67d0c8cbad426f64fd88.1000x1000x1.jpg",
+      "id": 668374,
+      "image_url": "https://images.genius.com/542fe14ecbeeec6c937cbb7cb863c87b.1000x1000x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": true,
+      "name": "Avereaux",
+      "url": "https://genius.com/artists/Avereaux",
+      "iq": 1987
+     }
+    },
+    {
+     "annotation_count": 11,
+     "api_path": "/songs/2928409",
+     "full_title": "Young Beatles (rae sremmurd freestyle) by\u00a0Jubilee",
+     "header_image_thumbnail_url": "https://images.genius.com/979ecd04932ceabb8130f2c14a5965b6.300x300x1.jpg",
+     "header_image_url": "https://images.genius.com/979ecd04932ceabb8130f2c14a5965b6.807x807x1.jpg",
+     "id": 2928409,
+     "lyrics_owner_id": 3116315,
+     "lyrics_state": "complete",
+     "path": "/Jubilee-young-beatles-rae-sremmurd-freestyle-lyrics",
+     "pyongs_count": 4,
+     "song_art_image_thumbnail_url": "https://images.genius.com/979ecd04932ceabb8130f2c14a5965b6.300x300x1.jpg",
+     "song_art_image_url": "https://images.genius.com/979ecd04932ceabb8130f2c14a5965b6.807x807x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 0,
+      "hot": false
+     },
+     "title": "Young Beatles (rae sremmurd freestyle)",
+     "title_with_featured": "Young Beatles (rae sremmurd freestyle)",
+     "url": "https://genius.com/Jubilee-young-beatles-rae-sremmurd-freestyle-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/154977",
+      "header_image_url": "https://images.genius.com/951824661b1cc671e3a59ea0ba22c14f.1000x667x1.jpg",
+      "id": 154977,
+      "image_url": "https://images.genius.com/b8d8f79650fbf6dbe41bbb6b25c2ccdb.1000x1000x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Jubilee",
+      "url": "https://genius.com/artists/Jubilee"
+     }
+    },
+    {
+     "annotation_count": 2,
+     "api_path": "/songs/2932200",
+     "full_title": "Black Beatles (Remix) by\u00a0Devvon\u00a0Terrell",
+     "header_image_thumbnail_url": "https://images.genius.com/6bbe95a931b372402f9dd1d0e9bc9b99.300x300x1.jpg",
+     "header_image_url": "https://images.genius.com/6bbe95a931b372402f9dd1d0e9bc9b99.500x500x1.jpg",
+     "id": 2932200,
+     "lyrics_owner_id": 326686,
+     "lyrics_state": "complete",
+     "path": "/Devvon-terrell-black-beatles-remix-lyrics",
+     "pyongs_count": 2,
+     "song_art_image_thumbnail_url": "https://images.genius.com/6bbe95a931b372402f9dd1d0e9bc9b99.300x300x1.jpg",
+     "song_art_image_url": "https://images.genius.com/6bbe95a931b372402f9dd1d0e9bc9b99.500x500x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 0,
+      "hot": false,
+      "pageviews": 9401
+     },
+     "title": "Black Beatles (Remix)",
+     "title_with_featured": "Black Beatles (Remix)",
+     "url": "https://genius.com/Devvon-terrell-black-beatles-remix-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/43582",
+      "header_image_url": "https://images.genius.com/dca40185de86cbac43b7637f827731b5.1000x667x1.jpg",
+      "id": 43582,
+      "image_url": "https://images.genius.com/383aef6b1feee98feb689ff8f1d95dfe.1000x1000x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": true,
+      "name": "Devvon Terrell",
+      "url": "https://genius.com/artists/Devvon-terrell",
+      "iq": 2731
+     }
+    },
+    {
+     "annotation_count": 4,
+     "api_path": "/songs/2935158",
+     "full_title": "Black Beatles Parody by\u00a0OMGItsGuppey",
+     "header_image_thumbnail_url": "https://images.genius.com/876136784de5d7edcb888bd06a24dbb1.300x300x1.jpg",
+     "header_image_url": "https://images.genius.com/876136784de5d7edcb888bd06a24dbb1.1000x1000x1.jpg",
+     "id": 2935158,
+     "lyrics_owner_id": 3485679,
+     "lyrics_state": "complete",
+     "path": "/Omgitsguppey-black-beatles-parody-lyrics",
+     "pyongs_count": null,
+     "song_art_image_thumbnail_url": "https://images.genius.com/876136784de5d7edcb888bd06a24dbb1.300x300x1.jpg",
+     "song_art_image_url": "https://images.genius.com/876136784de5d7edcb888bd06a24dbb1.1000x1000x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 4,
+      "hot": false
+     },
+     "title": "Black Beatles Parody",
+     "title_with_featured": "Black Beatles Parody",
+     "url": "https://genius.com/Omgitsguppey-black-beatles-parody-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/977762",
+      "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+      "id": 977762,
+      "image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "OMGItsGuppey",
+      "url": "https://genius.com/artists/Omgitsguppey"
+     }
+    },
+    {
+     "annotation_count": 1,
+     "api_path": "/songs/2936291",
+     "full_title": "Black Beatles Remix by\u00a0Montana\u00a0of 300 (Ft.\u00a0Jalyn\u00a0Sanders, No\u00a0Fatigue, $avage\u00a0of FGE & Talley\u00a0of 300)",
+     "header_image_thumbnail_url": "https://images.genius.com/cba887e55739076343f0f069a04c8601.300x300x1.jpg",
+     "header_image_url": "https://images.genius.com/cba887e55739076343f0f069a04c8601.1000x1000x1.jpg",
+     "id": 2936291,
+     "lyrics_owner_id": 383581,
+     "lyrics_state": "complete",
+     "path": "/Montana-of-300-black-beatles-remix-lyrics",
+     "pyongs_count": 2,
+     "song_art_image_thumbnail_url": "https://images.genius.com/cba887e55739076343f0f069a04c8601.300x300x1.jpg",
+     "song_art_image_url": "https://images.genius.com/cba887e55739076343f0f069a04c8601.1000x1000x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 1,
+      "hot": false,
+      "pageviews": 17773
+     },
+     "title": "Black Beatles Remix",
+     "title_with_featured": "Black Beatles Remix (Ft.\u00a0Jalyn\u00a0Sanders, No\u00a0Fatigue, $avage\u00a0of FGE & Talley\u00a0of 300)",
+     "url": "https://genius.com/Montana-of-300-black-beatles-remix-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/35857",
+      "header_image_url": "https://images.genius.com/c4353179ebe85df8475d248f77b35ab1.1000x667x1.jpg",
+      "id": 35857,
+      "image_url": "https://images.genius.com/8a87caca9d8596de2be32bd4e6f83b58.446x446x1.jpg",
+      "is_meme_verified": true,
+      "is_verified": true,
+      "name": "Montana of 300",
+      "url": "https://genius.com/artists/Montana-of-300",
+      "iq": 2743
+     }
+    },
+    {
+     "annotation_count": 1,
+     "api_path": "/songs/2936323",
+     "full_title": "Black Beatles (Remix) by\u00a0Eric\u00a0Bellinger",
+     "header_image_thumbnail_url": "https://images.genius.com/3c5d9c865482f766b57b029d973c70a3.300x262x1.png",
+     "header_image_url": "https://images.genius.com/3c5d9c865482f766b57b029d973c70a3.619x541x1.png",
+     "id": 2936323,
+     "lyrics_owner_id": 126836,
+     "lyrics_state": "complete",
+     "path": "/Eric-bellinger-black-beatles-remix-lyrics",
+     "pyongs_count": 1,
+     "song_art_image_thumbnail_url": "https://images.genius.com/3c5d9c865482f766b57b029d973c70a3.300x262x1.png",
+     "song_art_image_url": "https://images.genius.com/3c5d9c865482f766b57b029d973c70a3.619x541x1.png",
+     "stats": {
+      "unreviewed_annotations": 0,
+      "hot": false
+     },
+     "title": "Black Beatles (Remix)",
+     "title_with_featured": "Black Beatles (Remix)",
+     "url": "https://genius.com/Eric-bellinger-black-beatles-remix-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/19233",
+      "header_image_url": "https://images.genius.com/52650bb3c8129f42ce36e49b924dda9c.722x474x1.png",
+      "id": 19233,
+      "image_url": "https://images.genius.com/981ba212b47b48ec9ca0611dd5de7c72.1000x1000x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": true,
+      "name": "Eric Bellinger",
+      "url": "https://genius.com/artists/Eric-bellinger",
+      "iq": 396
+     }
+    },
+    {
+     "annotation_count": 0,
+     "api_path": "/songs/2937801",
+     "full_title": "Black Beatles (Remix) by\u00a0Soulja\u00a0Boy",
+     "header_image_thumbnail_url": "https://images.genius.com/313279f54a688f682b7defad27af99fb.300x300x1.jpg",
+     "header_image_url": "https://images.genius.com/313279f54a688f682b7defad27af99fb.500x500x1.jpg",
+     "id": 2937801,
+     "lyrics_owner_id": 2693192,
+     "lyrics_state": "complete",
+     "path": "/Soulja-boy-black-beatles-remix-lyrics",
+     "pyongs_count": null,
+     "song_art_image_thumbnail_url": "https://images.genius.com/313279f54a688f682b7defad27af99fb.300x300x1.jpg",
+     "song_art_image_url": "https://images.genius.com/313279f54a688f682b7defad27af99fb.500x500x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 0,
+      "hot": false
+     },
+     "title": "Black Beatles (Remix)",
+     "title_with_featured": "Black Beatles (Remix)",
+     "url": "https://genius.com/Soulja-boy-black-beatles-remix-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/1194",
+      "header_image_url": "https://images.genius.com/6c3698f1773e6c8d26f727098a204999.1000x300x1.jpg",
+      "id": 1194,
+      "image_url": "https://images.genius.com/2dc7b70654e7d65861789ce1909922cc.1000x1000x1.jpg",
+      "is_meme_verified": true,
+      "is_verified": true,
+      "name": "Soulja Boy",
+      "url": "https://genius.com/artists/Soulja-boy",
+      "iq": 1077
+     }
+    },
+    {
+     "annotation_count": 0,
+     "api_path": "/songs/2990813",
+     "full_title": "Black Beatles (MAKJ Remix) by\u00a0Rae\u00a0Sremmurd",
+     "header_image_thumbnail_url": "https://images.genius.com/c1c133f78a89899c77f8ac4329d4298b.300x300x1.jpg",
+     "header_image_url": "https://images.genius.com/c1c133f78a89899c77f8ac4329d4298b.645x645x1.jpg",
+     "id": 2990813,
+     "lyrics_owner_id": 4064402,
+     "lyrics_state": "complete",
+     "path": "/Rae-sremmurd-black-beatles-makj-remix-lyrics",
+     "pyongs_count": 1,
+     "song_art_image_thumbnail_url": "https://images.genius.com/c1c133f78a89899c77f8ac4329d4298b.300x300x1.jpg",
+     "song_art_image_url": "https://images.genius.com/c1c133f78a89899c77f8ac4329d4298b.645x645x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 0,
+      "hot": false
+     },
+     "title": "Black Beatles (MAKJ Remix)",
+     "title_with_featured": "Black Beatles (MAKJ Remix)",
+     "url": "https://genius.com/Rae-sremmurd-black-beatles-makj-remix-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/177756",
+      "header_image_url": "https://images.genius.com/228d12566b2ac7075b27e19f60a45c51.640x360x1.jpg",
+      "id": 177756,
+      "image_url": "https://images.genius.com/c1c133f78a89899c77f8ac4329d4298b.645x645x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Rae Sremmurd",
+      "url": "https://genius.com/artists/Rae-sremmurd"
+     }
+    },
+    {
+     "annotation_count": 0,
+     "api_path": "/songs/3327533",
+     "full_title": "Black Beatles (Megamix) by\u00a0Finny\u00a0Music",
+     "header_image_thumbnail_url": "https://images.genius.com/8fdc3735b5e78f5f1fd3ab782e6ef098.300x300x1.jpg",
+     "header_image_url": "https://images.genius.com/8fdc3735b5e78f5f1fd3ab782e6ef098.900x900x1.jpg",
+     "id": 3327533,
+     "lyrics_owner_id": 3633135,
+     "lyrics_state": "complete",
+     "path": "/Finny-music-black-beatles-megamix-lyrics",
+     "pyongs_count": null,
+     "song_art_image_thumbnail_url": "https://images.genius.com/8fdc3735b5e78f5f1fd3ab782e6ef098.300x300x1.jpg",
+     "song_art_image_url": "https://images.genius.com/8fdc3735b5e78f5f1fd3ab782e6ef098.900x900x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 0,
+      "hot": false
+     },
+     "title": "Black Beatles (Megamix)",
+     "title_with_featured": "Black Beatles (Megamix)",
+     "url": "https://genius.com/Finny-music-black-beatles-megamix-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/1217243",
+      "header_image_url": "https://images.genius.com/db5ac2642addfacef9347cd42a92c6ac.1000x1000x1.jpg",
+      "id": 1217243,
+      "image_url": "https://images.genius.com/5c9a93a85be50855286b414f66cb8d34.882x882x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Finny Music",
+      "url": "https://genius.com/artists/Finny-music"
+     }
+    }
+   ]
+  },
+  {
+   "relationship_type": "live_version_of",
+   "type": "live_version_of",
+   "songs": []
+  },
+  {
+   "relationship_type": "performed_live_as",
+   "type": "performed_live_as",
+   "songs": []
+  }
+ ],
+ "verified_annotations_by": [],
+ "verified_contributors": [
+  {
+   "contributions": [
+    "answers"
+   ],
+   "artist": {
+    "api_path": "/artists/29978",
+    "header_image_url": "https://images.genius.com/1722dc172cf7b50eeb7e433113e9a6e8.1000x504x1.png",
+    "id": 29978,
+    "image_url": "https://images.genius.com/1d29ef19a466f4bf49282b4d020cb593.895x895x1.jpg",
+    "is_meme_verified": true,
+    "is_verified": true,
+    "name": "Mike WiLL Made-It",
+    "url": "https://genius.com/artists/Mike-will-made-it",
+    "iq": 489
+   },
+   "user": {
+    "api_path": "/users/2947042",
+    "avatar": {
+     "tiny": {
+      "url": "https://images.genius.com/avatars/tiny/c66ff21bf864706d2cba8128edb76b8c",
+      "bounding_box": {
+       "width": 16,
+       "height": 16
+      }
+     },
+     "thumb": {
+      "url": "https://images.genius.com/avatars/thumb/c66ff21bf864706d2cba8128edb76b8c",
+      "bounding_box": {
+       "width": 32,
+       "height": 32
+      }
+     },
+     "small": {
+      "url": "https://images.genius.com/avatars/small/c66ff21bf864706d2cba8128edb76b8c",
+      "bounding_box": {
+       "width": 100,
+       "height": 100
+      }
+     },
+     "medium": {
+      "url": "https://images.genius.com/avatars/medium/c66ff21bf864706d2cba8128edb76b8c",
+      "bounding_box": {
+       "width": 300,
+       "height": 400
+      }
+     }
+    },
+    "header_image_url": "https://images.genius.com/1722dc172cf7b50eeb7e433113e9a6e8.1000x504x1.png",
+    "human_readable_role_for_display": "Verified Artist",
+    "id": 2947042,
+    "iq": 489,
+    "login": "mikewillmadeit",
+    "name": "Mike WiLL Made-It",
+    "role_for_display": "verified_artist",
+    "url": "https://genius.com/mikewillmadeit",
+    "current_user_metadata": {
+     "permissions": [],
+     "excluded_permissions": [
+      "follow"
+     ],
+     "interactions": {
+      "following": false
+     }
+    }
+   }
+  }
+ ],
+ "verified_lyrics_by": [],
+ "writer_artists": [
+  {
+   "api_path": "/artists/29978",
+   "header_image_url": "https://images.genius.com/1722dc172cf7b50eeb7e433113e9a6e8.1000x504x1.png",
+   "id": 29978,
+   "image_url": "https://images.genius.com/1d29ef19a466f4bf49282b4d020cb593.895x895x1.jpg",
+   "is_meme_verified": true,
+   "is_verified": true,
+   "name": "Mike WiLL Made-It",
+   "url": "https://genius.com/artists/Mike-will-made-it",
+   "iq": 489
+  },
+  {
+   "api_path": "/artists/13",
+   "header_image_url": "https://images.genius.com/5fe85e5a1f5624d4da4e50156735485a.998x1000x1.jpg",
+   "id": 13,
+   "image_url": "https://images.genius.com/3fa0d6adf0a26958a9d2c6ca3e7e2077.640x640x1.jpg",
+   "is_meme_verified": true,
+   "is_verified": true,
+   "name": "Gucci Mane",
+   "url": "https://genius.com/artists/Gucci-mane",
+   "iq": 696
+  },
+  {
+   "api_path": "/artists/335759",
+   "header_image_url": "https://images.genius.com/0611b61677b3163a555e15a1ee50fe0a.976x976x1.jpg",
+   "id": 335759,
+   "image_url": "https://images.genius.com/0611b61677b3163a555e15a1ee50fe0a.976x976x1.jpg",
+   "is_meme_verified": false,
+   "is_verified": true,
+   "name": "Slim Jxmmi",
+   "url": "https://genius.com/artists/Slim-jxmmi",
+   "iq": 2326
+  },
+  {
+   "api_path": "/artists/209139",
+   "header_image_url": "https://images.genius.com/f6138895af1f31df362a0a8c3624b5c8.640x800x1.jpg",
+   "id": 209139,
+   "image_url": "https://images.genius.com/5bddd32843bf47b333ed90b12d602928.640x640x1.jpg",
+   "is_meme_verified": false,
+   "is_verified": true,
+   "name": "Swae Lee",
+   "url": "https://genius.com/artists/Swae-lee",
+   "iq": 838
+  }
+ ],
+ "lyrics": "Black Beatles in the city\nBe back immediately to confiscate the moneys\n(Ear Drummers)\nRae Sremm, Guwop, Mike WiLL!\nI sent flowers, but you said you didn't receive 'em\nBut you said you didn't need 'em (Mike WiLL Made-It!)\n\nThat girl is a real crowd pleaser (oh yeah)\nSmall world, all her friends know of me (know me)\nYoung bull livin' like an old geezer (ah)\nQuick release the cash, watch it fall slowly (slowly)\nFrat girls still tryna get even (get even)\nHaters mad for whatever reason (yeah, yeah)\nSmoke in the air, binge drinking (oh, oh)\nThey lose it when the DJ drops the needle (remember)\n\nGetting so gone I'm not blinkin'\nWhat in the world was I thinkin'?\nNew day, new money to be made\nThere is nothin' to explain\nI'm a fuckin' black Beatle, cream seats in the Regal\nRockin' John Lennon lenses, like to see \u2018em spread eagle\nTook a bitch to the club and let her party on the table\nScreamin', \"Everybody's famous!\"\nLike clockwork, I blow it all\nAnd get some more\nGet you somebody that can do both\nBlack Beatles got the babes belly rollin'\nShe think she love me, I think she trollin'\n\nThat girl is a real crowd pleaser (oh yeah)\nSmall world, all her friends know of me (know me)\nYoung bull livin' like an old geezer (ah)\nQuick release the cash, watch it fall slowly (slowly)\nFrat girls still tryna get even (get even)\nHaters mad for whatever reason (yeah, yeah)\nSmoke in the air, binge drinkin' (oh,oh)\nThey lose it when the DJ drops the needle (remember)\n\nCame in with two girls, look like strippers in their real clothes\nA broke ho can only point me to a rich ho\nA yellow bitch with green hair, a real weirdo\nBlack man, yellow Lamb', red light go\nThey seen that Guwop and them just came in through the side door\nThere's so much money on the floor we buyin' school clothes\nWhy you bring the money machine to the club for?\nPint of lean, pound of weed, and a kilo\nI Eurostep past a hater like I'm Rondo\nI upgrade your baby mama to a condo\nLike Chapo servin' llello to the gringos\nBlack Beatle, club close when I say so\n\nThat girl is a real crowd pleaser (oh yeah)\nSmall world, all her friends know of me (know me)\nYoung bull livin' like an old geezer (ah)\nQuick release the cash, watch it fall slowly (slowly)\nFrat girls still tryna get even (get even)\nHaters mad for whatever reason (yeah, yeah)\nSmoke in the air, binge drinkin' (oh,oh)\nThey lose it when the DJ drops the needle (remember)\n\nShe's a good teaser, and we blowin' reefer\nYour body like a work of art, baby\nDon't fuck with me, I'll break your heart, baby\nD&G on me, I got a lot of flavor\n15 hundred on my feet, I'm tryna kill these haters\nI had haters when I was broke, I'm rich, I still got haters\nI had hoes when I was broke, I'm rich, I'm still a player\nI wear leather Gucci jackets like it's still the 80s\nI've been blowin' OG Kush, I feel a lil' sedated\nI can't worry about a broke nigga or a hater\nBlack Beatle, bitch, me and Paul McCartney related\n\nThat girl is a real crowd pleaser (oh yeah)\nSmall world, all her friends know of me (know me)\nYoung bull livin' like an old geezer (ah)\nQuick release the cash, watch it fall slowly (slowly)\nFrat girls still tryna get even (get even)\nHaters mad for whatever reason (yeah, yeah)\nSmoke in the air, binge drinkin' (oh,oh)\nThey lose it when the DJ drops the needle (remember)"
+}

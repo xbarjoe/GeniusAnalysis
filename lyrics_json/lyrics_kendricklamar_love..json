@@ -1,0 +1,1417 @@
+{
+ "_type": "song",
+ "annotation_count": 18,
+ "api_path": "/songs/3047141",
+ "full_title": "LOVE. by\u00a0Kendrick\u00a0Lamar (Ft.\u00a0Zacari)",
+ "header_image_thumbnail_url": "https://images.genius.com/f3f77222e1b615e0a10354ea6282ff22.300x300x1.png",
+ "header_image_url": "https://images.genius.com/f3f77222e1b615e0a10354ea6282ff22.1000x1000x1.png",
+ "id": 3047141,
+ "instrumental": false,
+ "lyrics_owner_id": 389740,
+ "lyrics_state": "complete",
+ "lyrics_updated_at": 1599058624,
+ "path": "/Kendrick-lamar-love-lyrics",
+ "pyongs_count": 235,
+ "song_art_image_thumbnail_url": "https://images.genius.com/f3f77222e1b615e0a10354ea6282ff22.300x300x1.png",
+ "song_art_image_url": "https://images.genius.com/f3f77222e1b615e0a10354ea6282ff22.1000x1000x1.png",
+ "stats": {
+  "accepted_annotations": 14,
+  "contributors": 289,
+  "iq_earners": 288,
+  "transcribers": 4,
+  "unreviewed_annotations": 0,
+  "verified_annotations": 3,
+  "hot": false,
+  "pageviews": 3753664
+ },
+ "title": "LOVE.",
+ "title_with_featured": "LOVE. (Ft.\u00a0Zacari)",
+ "updated_by_human_at": 1599058625,
+ "url": "https://genius.com/Kendrick-lamar-love-lyrics",
+ "primary_artist": {
+  "api_path": "/artists/1421",
+  "header_image_url": "https://images.genius.com/f3a1149475f2406582e3531041680a3c.1000x800x1.jpg",
+  "id": 1421,
+  "image_url": "https://images.genius.com/25d8a9c93ab97e9e6d5d1d9d36e64a53.1000x1000x1.jpg",
+  "is_meme_verified": true,
+  "is_verified": true,
+  "name": "Kendrick Lamar",
+  "url": "https://genius.com/artists/Kendrick-lamar",
+  "iq": 44221
+ },
+ "apple_music_id": "1223592501",
+ "apple_music_player_url": "https://genius.com/songs/3047141/apple_music_player",
+ "description": {
+  "plain": "\u201cLOVE.\u201d finds Kendrick Lamar musing on the woman in his life; presumably his fianc\u00e9 Whitney Alford, whom he has been in a relationship with since his high school days. Kendrick uses this ballad to ask the essential questions to his partner to solidify the most important aspect of their relationship: love.\n\nKendrick has kept his relationship with Alford under wraps for a majority of his career. It wasn\u2019t until 2016 that word got out that he was engaged.\n\n\n\nThe title, theme, and smooth mood of \u201cLOVE\u201d completely juxtaposes the preceding song, \u201cLUST\u201d which is more abrasive. The titles themselves are complete contrasts, as the concept of \u201clove\u201d is the deep intimate emotion one feels for another, while \u201clust\u201d encompasses all the physical and sexual desires. \u201cLust\u201d is also one of the seven deadly sins."
+ },
+ "embed_content": "<div id='rg_embed_link_3047141' class='rg_embed_link' data-song-id='3047141'>Read <a href='https://genius.com/Kendrick-lamar-love-lyrics'>\u201cLOVE.\u201d by Kendrick\u00a0Lamar</a> on Genius</div> <script crossorigin src='//genius.com/songs/3047141/embed.js'></script>",
+ "featured_video": true,
+ "lyrics_placeholder_reason": null,
+ "recording_location": null,
+ "release_date": "2017-04-14",
+ "release_date_for_display": "April 14, 2017",
+ "current_user_metadata": {
+  "permissions": [
+   "see_pageviews",
+   "view_apple_music_player",
+   "create_comment",
+   "view_song_story_gallery"
+  ],
+  "excluded_permissions": [
+   "follow",
+   "award_transcription_iq",
+   "remove_transcription_iq",
+   "pyong",
+   "edit_lyrics",
+   "view_annotation_engagement_data",
+   "publish",
+   "unpublish",
+   "edit_spotify_details",
+   "hide",
+   "unhide",
+   "toggle_featured_video",
+   "add_pinned_annotation_to",
+   "add_community_annotation_to",
+   "destroy",
+   "mark_as_not_spam",
+   "edit_spotify_annotations_for",
+   "verify_lyrics",
+   "unverify_lyrics",
+   "edit_anything",
+   "edit_any_media",
+   "edit",
+   "rename",
+   "edit_tags",
+   "watch_fact_track",
+   "reindex",
+   "view_lyrics_synchronization",
+   "enable_media",
+   "disable_media",
+   "edit_lyrics_or_annotation_brackets",
+   "see_editorial_indicators",
+   "view_attribution_visualization",
+   "edit_annotation_brackets",
+   "preview_lyrics_for_export",
+   "hide_apple_player",
+   "unhide_apple_player",
+   "trigger_apple_match",
+   "mark_lyrics_evaluation_as_approved",
+   "mark_lyrics_evaluation_as_staff_approved",
+   "mark_lyrics_evaluation_as_unapproved",
+   "mark_lyrics_evaluation_as_un_staff_approved",
+   "view_transcriber_media_player",
+   "override_apple_match",
+   "edit_youtube_url",
+   "edit_soundcloud_url",
+   "edit_spotify_uuid",
+   "edit_vevo_url",
+   "moderate_annotations",
+   "create_annotation",
+   "see_short_id",
+   "manage_chart_item",
+   "create_tag",
+   "propose_lyrics_edit",
+   "moderate_lyrics_edit_proposals",
+   "preview_react_song_page"
+  ],
+  "interactions": {
+   "pyong": false,
+   "following": false
+  },
+  "relationships": {},
+  "iq_by_action": {}
+ },
+ "album": {
+  "api_path": "/albums/337082",
+  "cover_art_url": "https://images.genius.com/f3f77222e1b615e0a10354ea6282ff22.1000x1000x1.png",
+  "full_title": "DAMN. by Kendrick Lamar",
+  "id": 337082,
+  "name": "DAMN.",
+  "url": "https://genius.com/albums/Kendrick-lamar/Damn",
+  "artist": {
+   "api_path": "/artists/1421",
+   "header_image_url": "https://images.genius.com/f3a1149475f2406582e3531041680a3c.1000x800x1.jpg",
+   "id": 1421,
+   "image_url": "https://images.genius.com/25d8a9c93ab97e9e6d5d1d9d36e64a53.1000x1000x1.jpg",
+   "is_meme_verified": true,
+   "is_verified": true,
+   "name": "Kendrick Lamar",
+   "url": "https://genius.com/artists/Kendrick-lamar",
+   "iq": 44221
+  }
+ },
+ "custom_performances": [
+  {
+   "label": "Performance Rights",
+   "artists": [
+    {
+     "api_path": "/artists/551598",
+     "header_image_url": "https://images.genius.com/067d9bccf2ab6e5eded129861b73d9dc.851x315x1.jpg",
+     "id": 551598,
+     "image_url": "https://images.genius.com/5f24e8e67904faef419d736f2ade3f78.1000x1000x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "ASCAP",
+     "url": "https://genius.com/artists/Ascap"
+    },
+    {
+     "api_path": "/artists/1138091",
+     "header_image_url": "https://images.genius.com/5b84dbf7ba86e59c297143f076a56c9a.1000x1000x1.jpg",
+     "id": 1138091,
+     "image_url": "https://images.genius.com/051b0a6beabf8a9eb8768e9f874a542f.1000x1000x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "BMI",
+     "url": "https://genius.com/artists/Bmi"
+    }
+   ]
+  },
+  {
+   "label": "Publisher",
+   "artists": [
+    {
+     "api_path": "/artists/2261510",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+     "id": 2261510,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Sony/ATV Tunes",
+     "url": "https://genius.com/artists/Sony-atv-tunes"
+    },
+    {
+     "api_path": "/artists/2265322",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+     "id": 2265322,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Zacari Music",
+     "url": "https://genius.com/artists/Zacari-music"
+    },
+    {
+     "api_path": "/artists/1152704",
+     "header_image_url": "https://images.genius.com/6b9a922068a379c1836441d79f071e92.672x672x1.jpg",
+     "id": 1152704,
+     "image_url": "https://images.genius.com/6b9a922068a379c1836441d79f071e92.672x672x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Warner/Chappell",
+     "url": "https://genius.com/artists/Warner-chappell"
+    },
+    {
+     "api_path": "/artists/1108010",
+     "header_image_url": "https://images.genius.com/b6d0cd73308dc9c8c514b5c11081f1a5.500x333x1.jpg",
+     "id": 1108010,
+     "image_url": "https://images.genius.com/8d7bc7b0d6188a564b2b0cc553fbe199.899x899x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Top Dawg Entertainment",
+     "url": "https://genius.com/artists/Top-dawg-entertainment"
+    },
+    {
+     "api_path": "/artists/2153218",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+     "id": 2153218,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Sony/ATV Allegro",
+     "url": "https://genius.com/artists/Sony-atv-allegro"
+    },
+    {
+     "api_path": "/artists/1149240",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+     "id": 1149240,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Kurstin Music",
+     "url": "https://genius.com/artists/Kurstin-music"
+    },
+    {
+     "api_path": "/artists/648506",
+     "header_image_url": "https://images.genius.com/74426baa896c80996f8292296535de9a.400x400x1.jpg",
+     "id": 648506,
+     "image_url": "https://images.genius.com/74426baa896c80996f8292296535de9a.400x400x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Hard Working Black Folks Publishing",
+     "url": "https://genius.com/artists/Hard-working-black-folks-publishing"
+    },
+    {
+     "api_path": "/artists/647230",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+     "id": 647230,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "EMI April Music",
+     "url": "https://genius.com/artists/Emi-april-music"
+    },
+    {
+     "api_path": "/artists/650049",
+     "header_image_url": "https://images.genius.com/7edaec9502bcac4b8ec643bc45396aee.225x225x1.jpg",
+     "id": 650049,
+     "image_url": "https://images.genius.com/7edaec9502bcac4b8ec643bc45396aee.225x225x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Beat Bully Productions",
+     "url": "https://genius.com/artists/Beat-bully-productions"
+    },
+    {
+     "api_path": "/artists/1381295",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+     "id": 1381295,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Teddy Walton Publishing",
+     "url": "https://genius.com/artists/Teddy-walton-publishing"
+    },
+    {
+     "api_path": "/artists/1179023",
+     "header_image_url": "https://images.genius.com/92e4ea9ba616ee53bae21dc2e037a1e2.1000x1000x1.jpg",
+     "id": 1179023,
+     "image_url": "https://images.genius.com/f19c358ac9db989328ffc9a3de85bbd4.1000x1000x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Kobalt Music",
+     "url": "https://genius.com/artists/Kobalt-music"
+    }
+   ]
+  },
+  {
+   "label": "Mixing Engineer",
+   "artists": [
+    {
+     "api_path": "/artists/640014",
+     "header_image_url": "https://images.genius.com/6bf42f8958d4e9916db1fd12381b36a4.620x400x1.jpg",
+     "id": 640014,
+     "image_url": "https://images.genius.com/6bf42f8958d4e9916db1fd12381b36a4.620x400x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Mixed by Ali",
+     "url": "https://genius.com/artists/Mixed-by-ali"
+    },
+    {
+     "api_path": "/artists/162817",
+     "header_image_url": "https://images.genius.com/61ac3a9fdda58b309c6293ef9e8c64a1.1000x788x1.jpg",
+     "id": 162817,
+     "image_url": "https://images.genius.com/354955a8add8110dc994f74b391f9880.901x901x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Ya Boy N.O.I.S.",
+     "url": "https://genius.com/artists/Ya-boy-nois"
+    }
+   ]
+  },
+  {
+   "label": "Assistant Mixing Engineer",
+   "artists": [
+    {
+     "api_path": "/artists/162817",
+     "header_image_url": "https://images.genius.com/61ac3a9fdda58b309c6293ef9e8c64a1.1000x788x1.jpg",
+     "id": 162817,
+     "image_url": "https://images.genius.com/354955a8add8110dc994f74b391f9880.901x901x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Ya Boy N.O.I.S.",
+     "url": "https://genius.com/artists/Ya-boy-nois"
+    },
+    {
+     "api_path": "/artists/1118290",
+     "header_image_url": "https://images.genius.com/28c84c08b180a47dee9dde0ad8a1028b.200x200x1.jpg",
+     "id": 1118290,
+     "image_url": "https://images.genius.com/28c84c08b180a47dee9dde0ad8a1028b.200x200x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Tyler Page",
+     "url": "https://genius.com/artists/Tyler-page"
+    }
+   ]
+  },
+  {
+   "label": "Mastering Engineer",
+   "artists": [
+    {
+     "api_path": "/artists/647414",
+     "header_image_url": "https://images.genius.com/f7428a1eab90e679e8af29668a3e43ea.450x309x1.jpg",
+     "id": 647414,
+     "image_url": "https://images.genius.com/0ec0a44b755cb745add8e3b72754a630.400x400x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Mike Bozzi",
+     "url": "https://genius.com/artists/Mike-bozzi"
+    }
+   ]
+  },
+  {
+   "label": "Video Producer",
+   "artists": [
+    {
+     "api_path": "/artists/333552",
+     "header_image_url": "https://images.genius.com/454d32d3a96464b0bae73d3be86806ff.900x900x1.jpg",
+     "id": 333552,
+     "image_url": "https://images.genius.com/454d32d3a96464b0bae73d3be86806ff.900x900x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Nathan Scherrer",
+     "url": "https://genius.com/artists/Nathan-scherrer"
+    },
+    {
+     "api_path": "/artists/27862",
+     "header_image_url": "https://images.genius.com/b8ef5d545112ca9b7e2879fb78354543.1000x667x1.jpg",
+     "id": 27862,
+     "image_url": "https://images.genius.com/b8ef5d545112ca9b7e2879fb78354543.1000x667x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Dave Free",
+     "url": "https://genius.com/artists/Dave-free"
+    },
+    {
+     "api_path": "/artists/93851",
+     "header_image_url": "https://images.genius.com/cd311e78421d70f11ffd3ace217e1aef.608x342x1.png",
+     "id": 93851,
+     "image_url": "https://images.genius.com/cd311e78421d70f11ffd3ace217e1aef.608x342x1.png",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Top Dawg",
+     "url": "https://genius.com/artists/Top-dawg"
+    },
+    {
+     "api_path": "/artists/1191920",
+     "header_image_url": "https://images.genius.com/b19f13e7d19c32f40ef046c3bec27ce1.448x448x1.jpg",
+     "id": 1191920,
+     "image_url": "https://images.genius.com/b19f13e7d19c32f40ef046c3bec27ce1.448x448x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Jason Baum",
+     "url": "https://genius.com/artists/Jason-baum"
+    },
+    {
+     "api_path": "/artists/1191921",
+     "header_image_url": "https://images.genius.com/eeb57941416fbccb31001ee982e0adc2.240x240x1.jpg",
+     "id": 1191921,
+     "image_url": "https://images.genius.com/eeb57941416fbccb31001ee982e0adc2.240x240x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Jamie Rabineau",
+     "url": "https://genius.com/artists/Jamie-rabineau"
+    }
+   ]
+  },
+  {
+   "label": "Video Director",
+   "artists": [
+    {
+     "api_path": "/artists/994581",
+     "header_image_url": "https://images.genius.com/f253897cf58fe3cbe8816ba350e20cd9.200x200x1.jpg",
+     "id": 994581,
+     "image_url": "https://images.genius.com/f253897cf58fe3cbe8816ba350e20cd9.200x200x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Dave Meyers",
+     "url": "https://genius.com/artists/Dave-meyers"
+    },
+    {
+     "api_path": "/artists/822864",
+     "header_image_url": "https://images.genius.com/054e6097bdc80885825f55cf11d95668.400x400x1.jpg",
+     "id": 822864,
+     "image_url": "https://images.genius.com/c37f5c73037e702b8c0dbbf1e65385ab.400x400x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "The Little Homies",
+     "url": "https://genius.com/artists/The-little-homies"
+    }
+   ]
+  },
+  {
+   "label": "Label",
+   "artists": [
+    {
+     "api_path": "/artists/143490",
+     "header_image_url": "https://images.genius.com/20ee0dc07918a750d532b2316361d3a2.1000x333x1.jpg",
+     "id": 143490,
+     "image_url": "https://images.genius.com/f28d415a7f5f966f5814e7c07cf8dc23.271x271x1.jpg",
+     "is_meme_verified": true,
+     "is_verified": true,
+     "name": "Interscope Records",
+     "url": "https://genius.com/artists/Interscope-records",
+     "iq": 175
+    },
+    {
+     "api_path": "/artists/1108010",
+     "header_image_url": "https://images.genius.com/b6d0cd73308dc9c8c514b5c11081f1a5.500x333x1.jpg",
+     "id": 1108010,
+     "image_url": "https://images.genius.com/8d7bc7b0d6188a564b2b0cc553fbe199.899x899x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Top Dawg Entertainment",
+     "url": "https://genius.com/artists/Top-dawg-entertainment"
+    },
+    {
+     "api_path": "/artists/1136259",
+     "header_image_url": "https://images.genius.com/0cdf9c00e6a53abaf3ecffbf77c4e04e.1000x500x1.jpg",
+     "id": 1136259,
+     "image_url": "https://images.genius.com/ce0ff7521d657a567e4d76a5bb6f4508.304x304x1.png",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Aftermath Entertainment",
+     "url": "https://genius.com/artists/Aftermath-entertainment"
+    }
+   ]
+  },
+  {
+   "label": "Additional Vocals",
+   "artists": [
+    {
+     "api_path": "/artists/3617",
+     "header_image_url": "https://images.genius.com/280bdf343b7f9ad3900695b45b3c4a2e.640x640x1.jpg",
+     "id": 3617,
+     "image_url": "https://images.genius.com/280bdf343b7f9ad3900695b45b3c4a2e.640x640x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "Kid Capri",
+     "url": "https://genius.com/artists/Kid-capri",
+     "iq": 2605
+    }
+   ]
+  },
+  {
+   "label": "Additional Production",
+   "artists": [
+    {
+     "api_path": "/artists/27472",
+     "header_image_url": "https://images.genius.com/047e8ba8b1b637837167155280d744f4.636x421x1.jpg",
+     "id": 27472,
+     "image_url": "https://images.genius.com/77819bc25af866f53a92ebca0ee4a944.289x289x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "Sounwave",
+     "url": "https://genius.com/artists/Sounwave",
+     "iq": 528
+    },
+    {
+     "api_path": "/artists/55444",
+     "header_image_url": "https://images.genius.com/564ae98a950634822f648f292b113e78.600x400x1.jpg",
+     "id": 55444,
+     "image_url": "https://images.genius.com/1e4b1db8fef9629acc9f622e3f4ecbf9.440x440x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Greg Kurstin",
+     "url": "https://genius.com/artists/Greg-kurstin"
+    }
+   ]
+  }
+ ],
+ "description_annotation": {
+  "_type": "referent",
+  "annotator_id": 1729630,
+  "annotator_login": "AintNoJigga",
+  "api_path": "/referents/11665689",
+  "classification": "accepted",
+  "fragment": "LOVE.",
+  "id": 11665689,
+  "is_description": true,
+  "path": "/11665689/Kendrick-lamar-love/Love",
+  "range": {
+   "content": "LOVE."
+  },
+  "song_id": 3047141,
+  "url": "https://genius.com/11665689/Kendrick-lamar-love/Love",
+  "verified_annotator_ids": [],
+  "annotatable": {
+   "api_path": "/songs/3047141",
+   "client_timestamps": {
+    "updated_by_human_at": 1599058625,
+    "lyrics_updated_at": 1599058624
+   },
+   "context": "Kendrick Lamar",
+   "id": 3047141,
+   "image_url": "https://images.genius.com/f3f77222e1b615e0a10354ea6282ff22.1000x1000x1.png",
+   "link_title": "LOVE. by\u00a0Kendrick\u00a0Lamar (Ft.\u00a0Zacari)",
+   "title": "LOVE.",
+   "type": "Song",
+   "url": "https://genius.com/Kendrick-lamar-love-lyrics"
+  },
+  "annotations": [
+   {
+    "api_path": "/annotations/11665689",
+    "body": {
+     "plain": "\u201cLOVE.\u201d finds Kendrick Lamar musing on the woman in his life; presumably his fianc\u00e9 Whitney Alford, whom he has been in a relationship with since his high school days. Kendrick uses this ballad to ask the essential questions to his partner to solidify the most important aspect of their relationship: love.\n\nKendrick has kept his relationship with Alford under wraps for a majority of his career. It wasn\u2019t until 2016 that word got out that he was engaged.\n\n\n\nThe title, theme, and smooth mood of \u201cLOVE\u201d completely juxtaposes the preceding song, \u201cLUST\u201d which is more abrasive. The titles themselves are complete contrasts, as the concept of \u201clove\u201d is the deep intimate emotion one feels for another, while \u201clust\u201d encompasses all the physical and sexual desires. \u201cLust\u201d is also one of the seven deadly sins."
+    },
+    "comment_count": 0,
+    "community": true,
+    "custom_preview": null,
+    "has_voters": true,
+    "id": 11665689,
+    "pinned": false,
+    "share_url": "https://genius.com/11665689",
+    "source": null,
+    "state": "accepted",
+    "url": "https://genius.com/11665689/Kendrick-lamar-love/Love",
+    "verified": false,
+    "votes_total": 435,
+    "current_user_metadata": {
+     "permissions": [
+      "create_comment"
+     ],
+     "excluded_permissions": [
+      "vote",
+      "edit",
+      "cosign",
+      "uncosign",
+      "destroy",
+      "accept",
+      "reject",
+      "see_unreviewed",
+      "clear_votes",
+      "propose_edit_to",
+      "pin_to_profile",
+      "unpin_from_profile",
+      "update_source",
+      "edit_custom_preview"
+     ],
+     "interactions": {
+      "cosign": false,
+      "pyong": false,
+      "vote": null
+     },
+     "iq_by_action": {}
+    },
+    "authors": [
+     {
+      "attribution": 0.5426829268292682,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/2448849",
+       "avatar": {
+        "tiny": {
+         "url": "https://images.genius.com/avatars/tiny/1f6c81ce2bc5d3f563a2edcdd3c3ba41",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://images.genius.com/avatars/thumb/1f6c81ce2bc5d3f563a2edcdd3c3ba41",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://images.genius.com/avatars/small/1f6c81ce2bc5d3f563a2edcdd3c3ba41",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://images.genius.com/avatars/medium/1f6c81ce2bc5d3f563a2edcdd3c3ba41",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/xnqMXiYwTx23P5lVNtQv_14237524_10209653484590479_8089625637900193663_n.jpg",
+       "human_readable_role_for_display": "Contributor",
+       "id": 2448849,
+       "iq": 7224,
+       "login": "aflwrblumed",
+       "name": "aflwrblumed",
+       "role_for_display": "contributor",
+       "url": "https://genius.com/aflwrblumed",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     },
+     {
+      "attribution": 0.3353658536585366,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/3612000",
+       "avatar": {
+        "tiny": {
+         "url": "https://images.genius.com/avatars/tiny/a0f78ba20428ad98c1553b30062f51c9",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://images.genius.com/avatars/thumb/a0f78ba20428ad98c1553b30062f51c9",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://images.genius.com/avatars/small/a0f78ba20428ad98c1553b30062f51c9",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://images.genius.com/avatars/medium/a0f78ba20428ad98c1553b30062f51c9",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://images.genius.com/avatars/medium/a0f78ba20428ad98c1553b30062f51c9",
+       "human_readable_role_for_display": "Contributor",
+       "id": 3612000,
+       "iq": 773,
+       "login": "Eeharra",
+       "name": "Eeharra",
+       "role_for_display": "contributor",
+       "url": "https://genius.com/Eeharra",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     },
+     {
+      "attribution": 0.11585365853658537,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/1729630",
+       "avatar": {
+        "tiny": {
+         "url": "https://images.genius.com/avatars/tiny/0b9a5c7c722b6f72948e1e9bfdeca176",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://images.genius.com/avatars/thumb/0b9a5c7c722b6f72948e1e9bfdeca176",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://images.genius.com/avatars/small/0b9a5c7c722b6f72948e1e9bfdeca176",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://images.genius.com/avatars/medium/0b9a5c7c722b6f72948e1e9bfdeca176",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/8SBFDWfDTJK1lIGf0FvO_tumblr_static_1s4t7dvd8r8k4ocsskw4ks4kk.png",
+       "human_readable_role_for_display": "Editor",
+       "id": 1729630,
+       "iq": 88742,
+       "login": "AintNoJigga",
+       "name": "AintNoJigga",
+       "role_for_display": "editor",
+       "url": "https://genius.com/AintNoJigga",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     },
+     {
+      "attribution": 0.006097560975609756,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/4335922",
+       "avatar": {
+        "tiny": {
+         "url": "https://images.genius.com/avatars/tiny/66dfdfd126f3209cf555cb1ccb191232",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://images.genius.com/avatars/thumb/66dfdfd126f3209cf555cb1ccb191232",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://images.genius.com/avatars/small/66dfdfd126f3209cf555cb1ccb191232",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://images.genius.com/avatars/medium/66dfdfd126f3209cf555cb1ccb191232",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://images.genius.com/avatars/medium/66dfdfd126f3209cf555cb1ccb191232",
+       "human_readable_role_for_display": "Moderator",
+       "id": 4335922,
+       "iq": 890044,
+       "login": "Chancelorr",
+       "name": "\u200bcw",
+       "role_for_display": "moderator",
+       "url": "https://genius.com/Chancelorr",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     }
+    ],
+    "cosigned_by": [],
+    "rejection_comment": null,
+    "verified_by": null
+   }
+  ]
+ },
+ "featured_artists": [
+  {
+   "api_path": "/artists/526832",
+   "header_image_url": "https://images.genius.com/231f731ccce29439954154b729a30548.1000x388x1.jpg",
+   "id": 526832,
+   "image_url": "https://images.genius.com/fed6bafb2a3cff5ed258c4c2ff31cdac.391x391x1.png",
+   "is_meme_verified": false,
+   "is_verified": true,
+   "name": "Zacari",
+   "url": "https://genius.com/artists/Zacari",
+   "iq": 4732
+  }
+ ],
+ "lyrics_marked_complete_by": null,
+ "media": [
+  {
+   "provider": "youtube",
+   "start": 0,
+   "type": "video",
+   "url": "http://www.youtube.com/watch?v=ox7RsX1Ee34"
+  },
+  {
+   "native_uri": "spotify:track:6PGoSes0D9eUDeeAafB2As",
+   "provider": "spotify",
+   "type": "audio",
+   "url": "https://open.spotify.com/track/6PGoSes0D9eUDeeAafB2As"
+  },
+  {
+   "attribution": "kendrick lamar music",
+   "provider": "soundcloud",
+   "type": "audio",
+   "url": "https://soundcloud.com/kendrick-lamar-music/love"
+  }
+ ],
+ "producer_artists": [
+  {
+   "api_path": "/artists/93851",
+   "header_image_url": "https://images.genius.com/cd311e78421d70f11ffd3ace217e1aef.608x342x1.png",
+   "id": 93851,
+   "image_url": "https://images.genius.com/cd311e78421d70f11ffd3ace217e1aef.608x342x1.png",
+   "is_meme_verified": false,
+   "is_verified": false,
+   "name": "Top Dawg",
+   "url": "https://genius.com/artists/Top-dawg"
+  },
+  {
+   "api_path": "/artists/55444",
+   "header_image_url": "https://images.genius.com/564ae98a950634822f648f292b113e78.600x400x1.jpg",
+   "id": 55444,
+   "image_url": "https://images.genius.com/1e4b1db8fef9629acc9f622e3f4ecbf9.440x440x1.jpg",
+   "is_meme_verified": false,
+   "is_verified": false,
+   "name": "Greg Kurstin",
+   "url": "https://genius.com/artists/Greg-kurstin"
+  },
+  {
+   "api_path": "/artists/27472",
+   "header_image_url": "https://images.genius.com/047e8ba8b1b637837167155280d744f4.636x421x1.jpg",
+   "id": 27472,
+   "image_url": "https://images.genius.com/77819bc25af866f53a92ebca0ee4a944.289x289x1.jpg",
+   "is_meme_verified": false,
+   "is_verified": true,
+   "name": "Sounwave",
+   "url": "https://genius.com/artists/Sounwave",
+   "iq": 528
+  },
+  {
+   "api_path": "/artists/138998",
+   "header_image_url": "https://images.genius.com/2c7ceed4000920e647ad1c4d6de7eb37.1000x333x1.jpg",
+   "id": 138998,
+   "image_url": "https://images.genius.com/23cbdcf4a6e05d40bc60e8046e8307cc.1000x1000x1.png",
+   "is_meme_verified": false,
+   "is_verified": true,
+   "name": "Teddy Walton",
+   "url": "https://genius.com/artists/Teddy-walton",
+   "iq": 235
+  }
+ ],
+ "song_relationships": [
+  {
+   "relationship_type": "samples",
+   "type": "samples",
+   "songs": []
+  },
+  {
+   "relationship_type": "sampled_in",
+   "type": "sampled_in",
+   "songs": [
+    {
+     "annotation_count": 1,
+     "api_path": "/songs/4146623",
+     "full_title": "Nonstop Pop 2018 by\u00a0Isosine",
+     "header_image_thumbnail_url": "https://images.genius.com/cdf8b3b043c0df26e74751d0fa772096.300x300x1.jpg",
+     "header_image_url": "https://images.genius.com/cdf8b3b043c0df26e74751d0fa772096.1000x1000x1.jpg",
+     "id": 4146623,
+     "lyrics_owner_id": 1458288,
+     "lyrics_state": "complete",
+     "path": "/Isosine-nonstop-pop-2018-lyrics",
+     "pyongs_count": null,
+     "song_art_image_thumbnail_url": "https://images.genius.com/cdf8b3b043c0df26e74751d0fa772096.300x300x1.jpg",
+     "song_art_image_url": "https://images.genius.com/cdf8b3b043c0df26e74751d0fa772096.1000x1000x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 0,
+      "hot": false
+     },
+     "title": "Nonstop Pop 2018",
+     "title_with_featured": "Nonstop Pop 2018",
+     "url": "https://genius.com/Isosine-nonstop-pop-2018-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/1334091",
+      "header_image_url": "https://images.genius.com/cdf8b3b043c0df26e74751d0fa772096.1000x1000x1.jpg",
+      "id": 1334091,
+      "image_url": "https://images.genius.com/cdf8b3b043c0df26e74751d0fa772096.1000x1000x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Isosine",
+      "url": "https://genius.com/artists/Isosine"
+     }
+    }
+   ]
+  },
+  {
+   "relationship_type": "interpolates",
+   "type": "interpolates",
+   "songs": [
+    {
+     "annotation_count": 11,
+     "api_path": "/songs/197451",
+     "full_title": "I Wanna Be With You by\u00a0DJ\u00a0Khaled (Ft.\u00a0Future, Nicki\u00a0Minaj & Rick\u00a0Ross)",
+     "header_image_thumbnail_url": "https://images.genius.com/15ba797ff5bc3e098a89c3d45fa98648.300x300x1.jpg",
+     "header_image_url": "https://images.genius.com/15ba797ff5bc3e098a89c3d45fa98648.1000x1000x1.jpg",
+     "id": 197451,
+     "lyrics_owner_id": 149650,
+     "lyrics_state": "complete",
+     "path": "/Dj-khaled-i-wanna-be-with-you-lyrics",
+     "pyongs_count": 32,
+     "song_art_image_thumbnail_url": "https://images.genius.com/b08ad04a3b0d7178abba4f54e40b9ddd.300x300x1.jpg",
+     "song_art_image_url": "https://images.genius.com/b08ad04a3b0d7178abba4f54e40b9ddd.500x500x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 0,
+      "hot": false,
+      "pageviews": 578176
+     },
+     "title": "I Wanna Be With You",
+     "title_with_featured": "I Wanna Be With You (Ft.\u00a0Future, Nicki\u00a0Minaj & Rick\u00a0Ross)",
+     "url": "https://genius.com/Dj-khaled-i-wanna-be-with-you-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/158",
+      "header_image_url": "https://images.genius.com/ab6d177ad39383915733cf37ca1fb301.999x999x1.jpg",
+      "id": 158,
+      "image_url": "https://images.genius.com/ab6d177ad39383915733cf37ca1fb301.999x999x1.jpg",
+      "is_meme_verified": true,
+      "is_verified": true,
+      "name": "DJ Khaled",
+      "url": "https://genius.com/artists/Dj-khaled",
+      "iq": 4897
+     }
+    }
+   ]
+  },
+  {
+   "relationship_type": "interpolated_by",
+   "type": "interpolated_by",
+   "songs": []
+  },
+  {
+   "relationship_type": "cover_of",
+   "type": "cover_of",
+   "songs": []
+  },
+  {
+   "relationship_type": "covered_by",
+   "type": "covered_by",
+   "songs": [
+    {
+     "annotation_count": 0,
+     "api_path": "/songs/3453298",
+     "full_title": "LOVE, Finesse & Filthy Mashup by\u00a0Alex\u00a0Aiono",
+     "header_image_thumbnail_url": "https://images.genius.com/1fd9e3ac38146280ff1d20ef83805ff0.300x169x1.jpg",
+     "header_image_url": "https://images.genius.com/1fd9e3ac38146280ff1d20ef83805ff0.1000x563x1.jpg",
+     "id": 3453298,
+     "lyrics_owner_id": 5177186,
+     "lyrics_state": "complete",
+     "path": "/Alex-aiono-love-finesse-and-filthy-mashup-lyrics",
+     "pyongs_count": null,
+     "song_art_image_thumbnail_url": "https://images.genius.com/63e7075601699615edca5d09503ba03e.300x225x1.jpg",
+     "song_art_image_url": "https://images.genius.com/63e7075601699615edca5d09503ba03e.480x360x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 0,
+      "hot": false
+     },
+     "title": "LOVE, Finesse & Filthy Mashup",
+     "title_with_featured": "LOVE, Finesse & Filthy Mashup",
+     "url": "https://genius.com/Alex-aiono-love-finesse-and-filthy-mashup-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/384022",
+      "header_image_url": "https://images.genius.com/99bc0c742b200fbf6158afe661ee22d6.1000x563x1.jpg",
+      "id": 384022,
+      "image_url": "https://images.genius.com/08c0709c5e74bf549df90d34a77756ab.781x781x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": true,
+      "name": "Alex Aiono",
+      "url": "https://genius.com/artists/Alex-aiono",
+      "iq": 420
+     }
+    },
+    {
+     "annotation_count": 0,
+     "api_path": "/songs/4187472",
+     "full_title": "LOVE. (Acoustic Room Session) by\u00a0RAY\u00a0BLK",
+     "header_image_thumbnail_url": "https://i.genius.com/949c0e33fe9c71136e7e3782d1a4a8408684af04?url=https%3A%2F%2Fis1-ssl.mzstatic.com%2Fimage%2Fthumb%2FMusic128%2Fv4%2Fe9%2F41%2Fc9%2Fe941c920-2817-d7c8-96ca-9d29921e00b7%2F00602577390524.rgb.jpg%2F1400x0w.jpg",
+     "header_image_url": "https://i.genius.com/949c0e33fe9c71136e7e3782d1a4a8408684af04?url=https%3A%2F%2Fis1-ssl.mzstatic.com%2Fimage%2Fthumb%2FMusic128%2Fv4%2Fe9%2F41%2Fc9%2Fe941c920-2817-d7c8-96ca-9d29921e00b7%2F00602577390524.rgb.jpg%2F1400x0w.jpg",
+     "id": 4187472,
+     "lyrics_owner_id": 5529082,
+     "lyrics_state": "complete",
+     "path": "/Ray-blk-love-acoustic-room-session-lyrics",
+     "pyongs_count": null,
+     "song_art_image_thumbnail_url": "https://images.genius.com/912d0244ca41f0fdb2686e39dacb8598.300x300x1.jpg",
+     "song_art_image_url": "https://images.genius.com/912d0244ca41f0fdb2686e39dacb8598.1000x1000x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 0,
+      "hot": false
+     },
+     "title": "LOVE. (Acoustic Room Session)",
+     "title_with_featured": "LOVE. (Acoustic Room Session)",
+     "url": "https://genius.com/Ray-blk-love-acoustic-room-session-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/615987",
+      "header_image_url": "https://images.genius.com/eae4301cf4fb260b79aed0ac0e1920ed.1000x365x1.jpg",
+      "id": 615987,
+      "image_url": "https://images.genius.com/6f41fe9ad19f1571f4acad574adca211.1000x1000x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": true,
+      "name": "RAY BLK",
+      "url": "https://genius.com/artists/Ray-blk",
+      "iq": 125
+     }
+    },
+    {
+     "annotation_count": 1,
+     "api_path": "/songs/4720015",
+     "full_title": "LOVE. by\u00a0The\u00a0Sweeplings (Ft.\u00a0Cami\u00a0bradley & Whitney\u00a0Dean)",
+     "header_image_thumbnail_url": "https://images.genius.com/4206eaa3df2cde1c0a34d544f18a3b00.300x300x1.jpg",
+     "header_image_url": "https://images.genius.com/4206eaa3df2cde1c0a34d544f18a3b00.399x399x1.jpg",
+     "id": 4720015,
+     "lyrics_owner_id": 2282191,
+     "lyrics_state": "complete",
+     "path": "/The-sweeplings-love-lyrics",
+     "pyongs_count": null,
+     "song_art_image_thumbnail_url": "https://images.genius.com/4206eaa3df2cde1c0a34d544f18a3b00.300x300x1.jpg",
+     "song_art_image_url": "https://images.genius.com/4206eaa3df2cde1c0a34d544f18a3b00.399x399x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 1,
+      "hot": false
+     },
+     "title": "LOVE.",
+     "title_with_featured": "LOVE. (Ft.\u00a0Cami\u00a0bradley & Whitney\u00a0Dean)",
+     "url": "https://genius.com/The-sweeplings-love-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/1169098",
+      "header_image_url": "https://images.genius.com/18113f84fafa2590e0098d3abc866b25.1000x396x1.jpg",
+      "id": 1169098,
+      "image_url": "https://images.genius.com/4206eaa3df2cde1c0a34d544f18a3b00.399x399x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "The Sweeplings",
+      "url": "https://genius.com/artists/The-sweeplings"
+     }
+    },
+    {
+     "annotation_count": 0,
+     "api_path": "/songs/6001834",
+     "full_title": "LOVE. by\u00a0Gengahr",
+     "header_image_thumbnail_url": "https://images.genius.com/d2653742ea1b92d4ce4573e2f328d479.300x199x1.jpg",
+     "header_image_url": "https://images.genius.com/d2653742ea1b92d4ce4573e2f328d479.768x509x1.jpg",
+     "id": 6001834,
+     "lyrics_owner_id": 5814203,
+     "lyrics_state": "complete",
+     "path": "/Gengahr-love-lyrics",
+     "pyongs_count": null,
+     "song_art_image_thumbnail_url": "https://images.genius.com/3602fd7048df50edf372c38967249646.300x300x1.jpg",
+     "song_art_image_url": "https://images.genius.com/3602fd7048df50edf372c38967249646.350x350x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 0,
+      "hot": false
+     },
+     "title": "LOVE.",
+     "title_with_featured": "LOVE.",
+     "url": "https://genius.com/Gengahr-love-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/455641",
+      "header_image_url": "https://images.genius.com/2a549978778585516a3e484cb208bdf4.667x667x1.jpg",
+      "id": 455641,
+      "image_url": "https://images.genius.com/2a549978778585516a3e484cb208bdf4.667x667x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Gengahr",
+      "url": "https://genius.com/artists/Gengahr"
+     }
+    }
+   ]
+  },
+  {
+   "relationship_type": "remix_of",
+   "type": "remix_of",
+   "songs": []
+  },
+  {
+   "relationship_type": "remixed_by",
+   "type": "remixed_by",
+   "songs": [
+    {
+     "annotation_count": 3,
+     "api_path": "/songs/3416452",
+     "full_title": "No Limit, Motorsport, & Love Mashup by\u00a0Devvon\u00a0Terrell",
+     "header_image_thumbnail_url": "https://images.genius.com/12e2440f4af757690d31837eabe0902f.300x300x1.jpg",
+     "header_image_url": "https://images.genius.com/12e2440f4af757690d31837eabe0902f.500x500x1.jpg",
+     "id": 3416452,
+     "lyrics_owner_id": 2979966,
+     "lyrics_state": "complete",
+     "path": "/Devvon-terrell-no-limit-motorsport-and-love-mashup-lyrics",
+     "pyongs_count": 1,
+     "song_art_image_thumbnail_url": "https://images.genius.com/12e2440f4af757690d31837eabe0902f.300x300x1.jpg",
+     "song_art_image_url": "https://images.genius.com/12e2440f4af757690d31837eabe0902f.500x500x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 3,
+      "hot": false
+     },
+     "title": "No Limit, Motorsport, & Love Mashup",
+     "title_with_featured": "No Limit, Motorsport, & Love Mashup",
+     "url": "https://genius.com/Devvon-terrell-no-limit-motorsport-and-love-mashup-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/43582",
+      "header_image_url": "https://images.genius.com/dca40185de86cbac43b7637f827731b5.1000x667x1.jpg",
+      "id": 43582,
+      "image_url": "https://images.genius.com/383aef6b1feee98feb689ff8f1d95dfe.1000x1000x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": true,
+      "name": "Devvon Terrell",
+      "url": "https://genius.com/artists/Devvon-terrell",
+      "iq": 2731
+     }
+    },
+    {
+     "annotation_count": 0,
+     "api_path": "/songs/3466709",
+     "full_title": "LOVE. (Remix) by\u00a0Futuristic (Ft.\u00a0\u200bThe\u00a0Color 8)",
+     "header_image_thumbnail_url": "https://images.genius.com/6141e6d7c697afbbd4778826feac8c22.300x169x1.jpg",
+     "header_image_url": "https://images.genius.com/6141e6d7c697afbbd4778826feac8c22.1000x563x1.jpg",
+     "id": 3466709,
+     "lyrics_owner_id": 5177186,
+     "lyrics_state": "complete",
+     "path": "/Futuristic-love-remix-lyrics",
+     "pyongs_count": null,
+     "song_art_image_thumbnail_url": "https://images.genius.com/6141e6d7c697afbbd4778826feac8c22.300x169x1.jpg",
+     "song_art_image_url": "https://images.genius.com/6141e6d7c697afbbd4778826feac8c22.1000x563x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 0,
+      "hot": false
+     },
+     "title": "LOVE. (Remix)",
+     "title_with_featured": "LOVE. (Remix) (Ft.\u00a0\u200bThe\u00a0Color 8)",
+     "url": "https://genius.com/Futuristic-love-remix-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/22264",
+      "header_image_url": "https://images.genius.com/8a05bd0d4e4e504b1a3120fa53119b2b.1000x333x1.png",
+      "id": 22264,
+      "image_url": "https://images.genius.com/5b8fad515ce619d6824706b6d0401e03.1000x1000x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": true,
+      "name": "Futuristic",
+      "url": "https://genius.com/artists/Futuristic",
+      "iq": 436
+     }
+    }
+   ]
+  },
+  {
+   "relationship_type": "live_version_of",
+   "type": "live_version_of",
+   "songs": []
+  },
+  {
+   "relationship_type": "performed_live_as",
+   "type": "performed_live_as",
+   "songs": [
+    {
+     "annotation_count": 0,
+     "api_path": "/songs/4187472",
+     "full_title": "LOVE. (Acoustic Room Session) by\u00a0RAY\u00a0BLK",
+     "header_image_thumbnail_url": "https://i.genius.com/949c0e33fe9c71136e7e3782d1a4a8408684af04?url=https%3A%2F%2Fis1-ssl.mzstatic.com%2Fimage%2Fthumb%2FMusic128%2Fv4%2Fe9%2F41%2Fc9%2Fe941c920-2817-d7c8-96ca-9d29921e00b7%2F00602577390524.rgb.jpg%2F1400x0w.jpg",
+     "header_image_url": "https://i.genius.com/949c0e33fe9c71136e7e3782d1a4a8408684af04?url=https%3A%2F%2Fis1-ssl.mzstatic.com%2Fimage%2Fthumb%2FMusic128%2Fv4%2Fe9%2F41%2Fc9%2Fe941c920-2817-d7c8-96ca-9d29921e00b7%2F00602577390524.rgb.jpg%2F1400x0w.jpg",
+     "id": 4187472,
+     "lyrics_owner_id": 5529082,
+     "lyrics_state": "complete",
+     "path": "/Ray-blk-love-acoustic-room-session-lyrics",
+     "pyongs_count": null,
+     "song_art_image_thumbnail_url": "https://images.genius.com/912d0244ca41f0fdb2686e39dacb8598.300x300x1.jpg",
+     "song_art_image_url": "https://images.genius.com/912d0244ca41f0fdb2686e39dacb8598.1000x1000x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 0,
+      "hot": false
+     },
+     "title": "LOVE. (Acoustic Room Session)",
+     "title_with_featured": "LOVE. (Acoustic Room Session)",
+     "url": "https://genius.com/Ray-blk-love-acoustic-room-session-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/615987",
+      "header_image_url": "https://images.genius.com/eae4301cf4fb260b79aed0ac0e1920ed.1000x365x1.jpg",
+      "id": 615987,
+      "image_url": "https://images.genius.com/6f41fe9ad19f1571f4acad574adca211.1000x1000x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": true,
+      "name": "RAY BLK",
+      "url": "https://genius.com/artists/Ray-blk",
+      "iq": 125
+     }
+    }
+   ]
+  }
+ ],
+ "verified_annotations_by": [
+  {
+   "api_path": "/users/4513900",
+   "avatar": {
+    "tiny": {
+     "url": "https://images.genius.com/avatars/tiny/5088f252a696e11578927ef572901d17",
+     "bounding_box": {
+      "width": 16,
+      "height": 16
+     }
+    },
+    "thumb": {
+     "url": "https://images.genius.com/avatars/thumb/5088f252a696e11578927ef572901d17",
+     "bounding_box": {
+      "width": 32,
+      "height": 32
+     }
+    },
+    "small": {
+     "url": "https://images.genius.com/avatars/small/5088f252a696e11578927ef572901d17",
+     "bounding_box": {
+      "width": 100,
+      "height": 100
+     }
+    },
+    "medium": {
+     "url": "https://images.genius.com/avatars/medium/5088f252a696e11578927ef572901d17",
+     "bounding_box": {
+      "width": 300,
+      "height": 400
+     }
+    }
+   },
+   "header_image_url": "https://images.genius.com/231f731ccce29439954154b729a30548.1000x388x1.jpg",
+   "human_readable_role_for_display": "Verified Artist",
+   "id": 4513900,
+   "iq": 4732,
+   "login": "zacari",
+   "name": "Zacari",
+   "role_for_display": "verified_artist",
+   "url": "https://genius.com/zacari",
+   "current_user_metadata": {
+    "permissions": [],
+    "excluded_permissions": [
+     "follow"
+    ],
+    "interactions": {
+     "following": false
+    }
+   }
+  }
+ ],
+ "verified_contributors": [
+  {
+   "contributions": [
+    "annotations",
+    "answers"
+   ],
+   "artist": {
+    "api_path": "/artists/526832",
+    "header_image_url": "https://images.genius.com/231f731ccce29439954154b729a30548.1000x388x1.jpg",
+    "id": 526832,
+    "image_url": "https://images.genius.com/fed6bafb2a3cff5ed258c4c2ff31cdac.391x391x1.png",
+    "is_meme_verified": false,
+    "is_verified": true,
+    "name": "Zacari",
+    "url": "https://genius.com/artists/Zacari",
+    "iq": 4732
+   },
+   "user": {
+    "api_path": "/users/4513900",
+    "avatar": {
+     "tiny": {
+      "url": "https://images.genius.com/avatars/tiny/5088f252a696e11578927ef572901d17",
+      "bounding_box": {
+       "width": 16,
+       "height": 16
+      }
+     },
+     "thumb": {
+      "url": "https://images.genius.com/avatars/thumb/5088f252a696e11578927ef572901d17",
+      "bounding_box": {
+       "width": 32,
+       "height": 32
+      }
+     },
+     "small": {
+      "url": "https://images.genius.com/avatars/small/5088f252a696e11578927ef572901d17",
+      "bounding_box": {
+       "width": 100,
+       "height": 100
+      }
+     },
+     "medium": {
+      "url": "https://images.genius.com/avatars/medium/5088f252a696e11578927ef572901d17",
+      "bounding_box": {
+       "width": 300,
+       "height": 400
+      }
+     }
+    },
+    "header_image_url": "https://images.genius.com/231f731ccce29439954154b729a30548.1000x388x1.jpg",
+    "human_readable_role_for_display": "Verified Artist",
+    "id": 4513900,
+    "iq": 4732,
+    "login": "zacari",
+    "name": "Zacari",
+    "role_for_display": "verified_artist",
+    "url": "https://genius.com/zacari",
+    "current_user_metadata": {
+     "permissions": [],
+     "excluded_permissions": [
+      "follow"
+     ],
+     "interactions": {
+      "following": false
+     }
+    }
+   }
+  }
+ ],
+ "verified_lyrics_by": [],
+ "writer_artists": [
+  {
+   "api_path": "/artists/138998",
+   "header_image_url": "https://images.genius.com/2c7ceed4000920e647ad1c4d6de7eb37.1000x333x1.jpg",
+   "id": 138998,
+   "image_url": "https://images.genius.com/23cbdcf4a6e05d40bc60e8046e8307cc.1000x1000x1.png",
+   "is_meme_verified": false,
+   "is_verified": true,
+   "name": "Teddy Walton",
+   "url": "https://genius.com/artists/Teddy-walton",
+   "iq": 235
+  },
+  {
+   "api_path": "/artists/93851",
+   "header_image_url": "https://images.genius.com/cd311e78421d70f11ffd3ace217e1aef.608x342x1.png",
+   "id": 93851,
+   "image_url": "https://images.genius.com/cd311e78421d70f11ffd3ace217e1aef.608x342x1.png",
+   "is_meme_verified": false,
+   "is_verified": false,
+   "name": "Top Dawg",
+   "url": "https://genius.com/artists/Top-dawg"
+  },
+  {
+   "api_path": "/artists/55444",
+   "header_image_url": "https://images.genius.com/564ae98a950634822f648f292b113e78.600x400x1.jpg",
+   "id": 55444,
+   "image_url": "https://images.genius.com/1e4b1db8fef9629acc9f622e3f4ecbf9.440x440x1.jpg",
+   "is_meme_verified": false,
+   "is_verified": false,
+   "name": "Greg Kurstin",
+   "url": "https://genius.com/artists/Greg-kurstin"
+  },
+  {
+   "api_path": "/artists/27472",
+   "header_image_url": "https://images.genius.com/047e8ba8b1b637837167155280d744f4.636x421x1.jpg",
+   "id": 27472,
+   "image_url": "https://images.genius.com/77819bc25af866f53a92ebca0ee4a944.289x289x1.jpg",
+   "is_meme_verified": false,
+   "is_verified": true,
+   "name": "Sounwave",
+   "url": "https://genius.com/artists/Sounwave",
+   "iq": 528
+  },
+  {
+   "api_path": "/artists/526832",
+   "header_image_url": "https://images.genius.com/231f731ccce29439954154b729a30548.1000x388x1.jpg",
+   "id": 526832,
+   "image_url": "https://images.genius.com/fed6bafb2a3cff5ed258c4c2ff31cdac.391x391x1.png",
+   "is_meme_verified": false,
+   "is_verified": true,
+   "name": "Zacari",
+   "url": "https://genius.com/artists/Zacari",
+   "iq": 4732
+  },
+  {
+   "api_path": "/artists/1421",
+   "header_image_url": "https://images.genius.com/f3a1149475f2406582e3531041680a3c.1000x800x1.jpg",
+   "id": 1421,
+   "image_url": "https://images.genius.com/25d8a9c93ab97e9e6d5d1d9d36e64a53.1000x1000x1.jpg",
+   "is_meme_verified": true,
+   "is_verified": true,
+   "name": "Kendrick Lamar",
+   "url": "https://genius.com/artists/Kendrick-lamar",
+   "iq": 44221
+  }
+ ],
+ "lyrics": "Damn, love or lust\nDamn, all of us\n\nGive me a run for my money\nThere is nobody, no one to outrun me\n(Another world premiere)\nSo give me a run for my money\nSippin' bubbly, feelin\u2019 lovely, livin' lovely\nJust love me\nI wanna be with you, ayy, I wanna be with\nJust love me, just love me, just love\nI wanna be with you, ayy, I wanna be with\nLove me\nI wanna be with you\nLove me, just love me\n\nIf I didn't ride blade on curb, would you still love me?\nIf I made up my mind at work, would you still love me?\nKeep it a hundred, I\u2019d rather you trust me than to love me\nKeep it a whole one hund', don't got you, I got nothin' (Uh, uh)\n\nAyy, I got somethin'\nHol' up, we gon' function, ayy, no assumptions, ayy\nFeelin' like Tyson with it\nKnock it out twice, I\u2019m with it\nOnly for the night, I\u2019m kiddin'\nOnly for life, yeah, only for life, yeah\nOnly for life, let\u2019s get it\nHit that shoulder lean\nI know what comin' over me\nBackstroke oversea\nI know what you need\nAlready on ten, all money come in\nAll feeling go out, this feeling don't drought\nThis party won't end\n\nIf I didn\u2019t ride blade on curb, would you still love me?\nIf I minimized my net-worth, would you still love me?\nKeep it a hundred, I'd rather you trust me than to love me\nKeep it a whole one hund', don't got you, I got nothin' (Uh, uh)\n\nGive me a run for my money\nThere is nobody, no one to outrun me\nSo give me a run for my money\nSippin' bubbly, feelin' lovely, livin' lovely\nJust love me\nI wanna be with you, ayy, I wanna be with\nJust love me, just love me, just love\nI wanna be with you, ayy, I wanna be with\nLove me\nI wanna be with you\nLove me, just love me\n\nI'm on the way\nWe ain't got no time to waste\nPoppin' your gum on the way (love me)\nAm I in the way?\nI don't wan' pressure you none\nI want your blessing today (love me)\nOh, by the way, open the door by the way\nTold you that I'm on the way (love me)\nI'm on the way, I know connection is vague\nPick up the phone for me, babe\nDammit, we jammin'\nBad attitude from yo' nanny\nCurves and your hips from yo' mammy\nRemember Gardena, I took the studio camera\nI know Top will be mad at me\nI had to do it, I want your body, your music\nI bought the big one to prove it\nLook what you made\nTold you that I'm on the way\nI'm like a exit away, yep\n\nIf I didn't ride blade on curb, would you still love me?\nIf I minimized my net-worth, would you still love me?\nKeep it a hundred, I'd rather you trust me than to love me\nKeep it a whole one hund', don't got you, I got nothin' (Uh, uh)\n\nGive me a run for my money\nThere is nobody, no one to outrun me\nSo give me a run for my money\nSippin' bubbly, feelin' lovely, livin' lovely\nJust love me\nI wanna be with you, ayy, I wanna be with\nJust love me, just love me, just love me\nI wanna be with you, ayy, I wanna be with\nLove me\nI wanna be with you\nLove me, just love me"
+}

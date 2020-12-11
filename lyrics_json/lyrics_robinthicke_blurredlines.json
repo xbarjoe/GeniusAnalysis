@@ -1,0 +1,1652 @@
+{
+ "_type": "song",
+ "annotation_count": 24,
+ "api_path": "/songs/131845",
+ "full_title": "Blurred Lines by\u00a0Robin\u00a0Thicke (Ft.\u00a0Pharrell\u00a0Williams & T.I.)",
+ "header_image_thumbnail_url": "https://images.genius.com/86a96e48e2187cdd521e9e78ecc5ddda.300x300x1.jpg",
+ "header_image_url": "https://images.genius.com/86a96e48e2187cdd521e9e78ecc5ddda.467x467x1.jpg",
+ "id": 131845,
+ "instrumental": false,
+ "lyrics_owner_id": 80927,
+ "lyrics_state": "complete",
+ "lyrics_updated_at": 1599674952,
+ "path": "/Robin-thicke-blurred-lines-lyrics",
+ "pyongs_count": 107,
+ "song_art_image_thumbnail_url": "https://images.genius.com/9560c0e529a49435ba74380fc8eb6902.300x300x1.png",
+ "song_art_image_url": "https://images.genius.com/9560c0e529a49435ba74380fc8eb6902.1000x1000x1.png",
+ "stats": {
+  "accepted_annotations": 20,
+  "contributors": 206,
+  "iq_earners": 205,
+  "transcribers": 7,
+  "unreviewed_annotations": 0,
+  "verified_annotations": 3,
+  "concurrents": 2,
+  "hot": false,
+  "pageviews": 4414745
+ },
+ "title": "Blurred Lines",
+ "title_with_featured": "Blurred Lines (Ft.\u00a0Pharrell\u00a0Williams & T.I.)",
+ "updated_by_human_at": 1605548525,
+ "url": "https://genius.com/Robin-thicke-blurred-lines-lyrics",
+ "primary_artist": {
+  "api_path": "/artists/459",
+  "header_image_url": "https://images.genius.com/330a5dc43b6b23b3a7019e0e9ae992ed.400x400x1.jpg",
+  "id": 459,
+  "image_url": "https://images.genius.com/71e2d651715cdc3801352405c58c8b73.1000x1000x1.jpg",
+  "is_meme_verified": true,
+  "is_verified": true,
+  "name": "Robin Thicke",
+  "url": "https://genius.com/artists/Robin-thicke",
+  "iq": 2842
+ },
+ "apple_music_id": "667067401",
+ "apple_music_player_url": "https://genius.com/songs/131845/apple_music_player",
+ "description": {
+  "plain": "With its lyrics talking of \u201cblurred lines\u201d between consenting and non-consent, this #1 hit was widely attacked for promoting rape culture. It was mostly written by Pharrell Williams, who denied that it was about sex \u2013 instead saying it was about being rejected.\n\nIn March 2015, a Los Angeles jury ruled that \u201cBlurred Lines\u201d infringed the copyright on Marvin Gaye\u2019s 1977 hit, \u201cGot to Give It Up\u201d. Thicke and Williams were originally ordered to pay $7.3 million, but that was later cut to $5.3m.\n\nDuring the trial, the juxtaposed bass lines of the two songs in question were played to Pharrell and he admitted, \u201cIt sounds like you\u2019re playing the same thing.\u201d"
+ },
+ "embed_content": "<div id='rg_embed_link_131845' class='rg_embed_link' data-song-id='131845'>Read <a href='https://genius.com/Robin-thicke-blurred-lines-lyrics'>\u201cBlurred Lines\u201d by Robin\u00a0Thicke</a> on Genius</div> <script crossorigin src='//genius.com/songs/131845/embed.js'></script>",
+ "featured_video": true,
+ "lyrics_placeholder_reason": null,
+ "recording_location": "Glenwood Place Studios, Burbank, CA",
+ "release_date": "2013-03-26",
+ "release_date_for_display": "March 26, 2013",
+ "current_user_metadata": {
+  "permissions": [
+   "see_pageviews",
+   "view_apple_music_player",
+   "create_comment",
+   "view_song_story_gallery"
+  ],
+  "excluded_permissions": [
+   "follow",
+   "award_transcription_iq",
+   "remove_transcription_iq",
+   "pyong",
+   "edit_lyrics",
+   "view_annotation_engagement_data",
+   "publish",
+   "unpublish",
+   "edit_spotify_details",
+   "hide",
+   "unhide",
+   "toggle_featured_video",
+   "add_pinned_annotation_to",
+   "add_community_annotation_to",
+   "destroy",
+   "mark_as_not_spam",
+   "edit_spotify_annotations_for",
+   "verify_lyrics",
+   "unverify_lyrics",
+   "edit_anything",
+   "edit_any_media",
+   "edit",
+   "rename",
+   "edit_tags",
+   "watch_fact_track",
+   "reindex",
+   "view_lyrics_synchronization",
+   "enable_media",
+   "disable_media",
+   "edit_lyrics_or_annotation_brackets",
+   "see_editorial_indicators",
+   "view_attribution_visualization",
+   "edit_annotation_brackets",
+   "preview_lyrics_for_export",
+   "hide_apple_player",
+   "unhide_apple_player",
+   "trigger_apple_match",
+   "mark_lyrics_evaluation_as_approved",
+   "mark_lyrics_evaluation_as_staff_approved",
+   "mark_lyrics_evaluation_as_unapproved",
+   "mark_lyrics_evaluation_as_un_staff_approved",
+   "view_transcriber_media_player",
+   "override_apple_match",
+   "edit_youtube_url",
+   "edit_soundcloud_url",
+   "edit_spotify_uuid",
+   "edit_vevo_url",
+   "moderate_annotations",
+   "create_annotation",
+   "see_short_id",
+   "manage_chart_item",
+   "create_tag",
+   "propose_lyrics_edit",
+   "moderate_lyrics_edit_proposals",
+   "preview_react_song_page"
+  ],
+  "interactions": {
+   "pyong": false,
+   "following": false
+  },
+  "relationships": {},
+  "iq_by_action": {}
+ },
+ "album": {
+  "api_path": "/albums/36312",
+  "cover_art_url": "https://images.genius.com/97c6266cbd86f6ee16cbbeb3fab13163.1000x1000x1.jpg",
+  "full_title": "Blurred Lines by Robin Thicke",
+  "id": 36312,
+  "name": "Blurred Lines",
+  "url": "https://genius.com/albums/Robin-thicke/Blurred-lines",
+  "artist": {
+   "api_path": "/artists/459",
+   "header_image_url": "https://images.genius.com/330a5dc43b6b23b3a7019e0e9ae992ed.400x400x1.jpg",
+   "id": 459,
+   "image_url": "https://images.genius.com/71e2d651715cdc3801352405c58c8b73.1000x1000x1.jpg",
+   "is_meme_verified": true,
+   "is_verified": true,
+   "name": "Robin Thicke",
+   "url": "https://genius.com/artists/Robin-thicke",
+   "iq": 2842
+  }
+ },
+ "custom_performances": [
+  {
+   "label": "Video Director",
+   "artists": [
+    {
+     "api_path": "/artists/1045034",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+     "id": 1045034,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Diane Martel",
+     "url": "https://genius.com/artists/Diane-martel"
+    }
+   ]
+  },
+  {
+   "label": "Publisher",
+   "artists": [
+    {
+     "api_path": "/artists/85",
+     "header_image_url": "https://images.genius.com/9a7118eb0b1e83879cdb4b7855158d53.320x180x1.jpg",
+     "id": 85,
+     "image_url": "https://images.genius.com/6f1e66b5da6bb21cceee3cee5fb5dab5.272x272x1.jpg",
+     "is_meme_verified": true,
+     "is_verified": true,
+     "name": "T.I.",
+     "url": "https://genius.com/artists/Ti",
+     "iq": 7554
+    },
+    {
+     "api_path": "/artists/647980",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+     "id": 647980,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "More Water From Nazareth",
+     "url": "https://genius.com/artists/More-water-from-nazareth"
+    },
+    {
+     "api_path": "/artists/1010596",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+     "id": 1010596,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "I Like \u2019Em Thicke Music",
+     "url": "https://genius.com/artists/I-like-em-thicke-music"
+    },
+    {
+     "api_path": "/artists/1209162",
+     "header_image_url": "https://images.genius.com/159ffe1bdbffeaf422f56a9a648f8b21.1000x485x1.png",
+     "id": 1209162,
+     "image_url": "https://images.genius.com/fd149dde35fbbd337e610fa4b159fd33.224x224x1.png",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "EMI Music Publishing Group",
+     "url": "https://genius.com/artists/Emi-music-publishing-group"
+    }
+   ]
+  },
+  {
+   "label": "Instrumentation",
+   "artists": [
+    {
+     "api_path": "/artists/110",
+     "header_image_url": "https://images.genius.com/6bb3ce5bd62c7acfc3a66798c4bbeb26.640x427x1.jpg",
+     "id": 110,
+     "image_url": "https://images.genius.com/aa964e94a21e7b893801ed3a2bd389b8.1000x1000x1.jpg",
+     "is_meme_verified": true,
+     "is_verified": true,
+     "name": "Pharrell Williams",
+     "url": "https://genius.com/artists/Pharrell-williams",
+     "iq": 660
+    }
+   ]
+  },
+  {
+   "label": "Recording Engineer",
+   "artists": [
+    {
+     "api_path": "/artists/645043",
+     "header_image_url": "https://images.genius.com/df31d125ea54a569bff19a894eea77fe.1000x563x1.jpg",
+     "id": 645043,
+     "image_url": "https://images.genius.com/86b0f902537ca81ee78d0ad8f084d3e7.240x240x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Andrew Coleman",
+     "url": "https://genius.com/artists/Andrew-coleman"
+    }
+   ]
+  },
+  {
+   "label": "Assistant",
+   "artists": [
+    {
+     "api_path": "/artists/754484",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+     "id": 754484,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Todd Hurtt",
+     "url": "https://genius.com/artists/Todd-hurtt"
+    }
+   ]
+  },
+  {
+   "label": "Mixing Engineer",
+   "artists": [
+    {
+     "api_path": "/artists/640913",
+     "header_image_url": "https://images.genius.com/67c732a150246a8a533bbae0d634cae1.683x683x1.jpg",
+     "id": 640913,
+     "image_url": "https://images.genius.com/67c732a150246a8a533bbae0d634cae1.683x683x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Tony Maserati",
+     "url": "https://genius.com/artists/Tony-maserati"
+    }
+   ]
+  },
+  {
+   "label": "Assistant Mixing Engineer",
+   "artists": [
+    {
+     "api_path": "/artists/992310",
+     "header_image_url": "https://images.genius.com/f31f941c68f9310447a7a76090905025.486x486x1.jpg",
+     "id": 992310,
+     "image_url": "https://images.genius.com/f31f941c68f9310447a7a76090905025.486x486x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Justin Hergett",
+     "url": "https://genius.com/artists/Justin-hergett"
+    },
+    {
+     "api_path": "/artists/661491",
+     "header_image_url": "https://images.genius.com/0bbf0505ed3936e76214130103080f36.198x300x1.jpg",
+     "id": 661491,
+     "image_url": "https://images.genius.com/0bbf0505ed3936e76214130103080f36.198x300x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "James Krausse",
+     "url": "https://genius.com/artists/James-krausse"
+    }
+   ]
+  },
+  {
+   "label": "Mastering Engineer",
+   "artists": [
+    {
+     "api_path": "/artists/198492",
+     "header_image_url": "https://images.genius.com/84fc73a0d4d731d5ee778112e2c1e125.590x443x1.jpg",
+     "id": 198492,
+     "image_url": "https://images.genius.com/c46a9a4d328fa5038d182e617ce7a0b0.306x306x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Chris Gehringer",
+     "url": "https://genius.com/artists/Chris-gehringer"
+    }
+   ]
+  },
+  {
+   "label": "Background Vocals",
+   "artists": [
+    {
+     "api_path": "/artists/110",
+     "header_image_url": "https://images.genius.com/6bb3ce5bd62c7acfc3a66798c4bbeb26.640x427x1.jpg",
+     "id": 110,
+     "image_url": "https://images.genius.com/aa964e94a21e7b893801ed3a2bd389b8.1000x1000x1.jpg",
+     "is_meme_verified": true,
+     "is_verified": true,
+     "name": "Pharrell Williams",
+     "url": "https://genius.com/artists/Pharrell-williams",
+     "iq": 660
+    }
+   ]
+  },
+  {
+   "label": "Label",
+   "artists": [
+    {
+     "api_path": "/artists/143490",
+     "header_image_url": "https://images.genius.com/20ee0dc07918a750d532b2316361d3a2.1000x333x1.jpg",
+     "id": 143490,
+     "image_url": "https://images.genius.com/f28d415a7f5f966f5814e7c07cf8dc23.271x271x1.jpg",
+     "is_meme_verified": true,
+     "is_verified": true,
+     "name": "Interscope Records",
+     "url": "https://genius.com/artists/Interscope-records",
+     "iq": 175
+    },
+    {
+     "api_path": "/artists/648709",
+     "header_image_url": "https://images.genius.com/150a4af708276c3441b06d9ab754eb11.1000x1000x1.jpg",
+     "id": 648709,
+     "image_url": "https://images.genius.com/9c5ffb2f01d88269b025f57eb3129530.1000x1000x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Star Trak Entertainment",
+     "url": "https://genius.com/artists/Star-trak-entertainment"
+    }
+   ]
+  },
+  {
+   "label": "Mastered at",
+   "artists": [
+    {
+     "api_path": "/artists/655230",
+     "header_image_url": "https://images.genius.com/11e3a16b389659915e9585883e324a85.850x315x1.jpg",
+     "id": 655230,
+     "image_url": "https://images.genius.com/11e3a16b389659915e9585883e324a85.850x315x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Sterling Sound Studio",
+     "url": "https://genius.com/artists/Sterling-sound-studio"
+    }
+   ]
+  },
+  {
+   "label": "Mastered for",
+   "artists": [
+    {
+     "api_path": "/artists/655230",
+     "header_image_url": "https://images.genius.com/11e3a16b389659915e9585883e324a85.850x315x1.jpg",
+     "id": 655230,
+     "image_url": "https://images.genius.com/11e3a16b389659915e9585883e324a85.850x315x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Sterling Sound Studio",
+     "url": "https://genius.com/artists/Sterling-sound-studio"
+    }
+   ]
+  },
+  {
+   "label": "Mixed At",
+   "artists": [
+    {
+     "api_path": "/artists/1010599",
+     "header_image_url": "https://images.genius.com/e1b2bf0b23bf5eda255be8bcb1a5ea60.1000x1000x1.png",
+     "id": 1010599,
+     "image_url": "https://images.genius.com/e1b2bf0b23bf5eda255be8bcb1a5ea60.1000x1000x1.png",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Mirrorball Entertainment",
+     "url": "https://genius.com/artists/Mirrorball-entertainment"
+    }
+   ]
+  },
+  {
+   "label": "Digital Editing and Arrangement by",
+   "artists": [
+    {
+     "api_path": "/artists/645043",
+     "header_image_url": "https://images.genius.com/df31d125ea54a569bff19a894eea77fe.1000x563x1.jpg",
+     "id": 645043,
+     "image_url": "https://images.genius.com/86b0f902537ca81ee78d0ad8f084d3e7.240x240x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Andrew Coleman",
+     "url": "https://genius.com/artists/Andrew-coleman"
+    }
+   ]
+  }
+ ],
+ "description_annotation": {
+  "_type": "referent",
+  "annotator_id": 127862,
+  "annotator_login": "Michael",
+  "api_path": "/referents/3824109",
+  "classification": "accepted",
+  "fragment": "Blurred Lines",
+  "id": 3824109,
+  "is_description": true,
+  "path": "/3824109/Robin-thicke-blurred-lines/Blurred-lines",
+  "range": {
+   "content": "Blurred Lines"
+  },
+  "song_id": 131845,
+  "url": "https://genius.com/3824109/Robin-thicke-blurred-lines/Blurred-lines",
+  "verified_annotator_ids": [],
+  "annotatable": {
+   "api_path": "/songs/131845",
+   "client_timestamps": {
+    "updated_by_human_at": 1605548525,
+    "lyrics_updated_at": 1599674952
+   },
+   "context": "Robin Thicke",
+   "id": 131845,
+   "image_url": "https://images.genius.com/9560c0e529a49435ba74380fc8eb6902.1000x1000x1.png",
+   "link_title": "Blurred Lines by\u00a0Robin\u00a0Thicke (Ft.\u00a0Pharrell\u00a0Williams & T.I.)",
+   "title": "Blurred Lines",
+   "type": "Song",
+   "url": "https://genius.com/Robin-thicke-blurred-lines-lyrics"
+  },
+  "annotations": [
+   {
+    "api_path": "/annotations/3824109",
+    "body": {
+     "plain": "With its lyrics talking of \u201cblurred lines\u201d between consenting and non-consent, this #1 hit was widely attacked for promoting rape culture. It was mostly written by Pharrell Williams, who denied that it was about sex \u2013 instead saying it was about being rejected.\n\nIn March 2015, a Los Angeles jury ruled that \u201cBlurred Lines\u201d infringed the copyright on Marvin Gaye\u2019s 1977 hit, \u201cGot to Give It Up\u201d. Thicke and Williams were originally ordered to pay $7.3 million, but that was later cut to $5.3m.\n\nDuring the trial, the juxtaposed bass lines of the two songs in question were played to Pharrell and he admitted, \u201cIt sounds like you\u2019re playing the same thing.\u201d"
+    },
+    "comment_count": 0,
+    "community": true,
+    "custom_preview": null,
+    "has_voters": true,
+    "id": 3824109,
+    "pinned": false,
+    "share_url": "https://genius.com/3824109",
+    "source": null,
+    "state": "accepted",
+    "url": "https://genius.com/3824109/Robin-thicke-blurred-lines/Blurred-lines",
+    "verified": false,
+    "votes_total": 75,
+    "current_user_metadata": {
+     "permissions": [
+      "create_comment"
+     ],
+     "excluded_permissions": [
+      "vote",
+      "edit",
+      "cosign",
+      "uncosign",
+      "destroy",
+      "accept",
+      "reject",
+      "see_unreviewed",
+      "clear_votes",
+      "propose_edit_to",
+      "pin_to_profile",
+      "unpin_from_profile",
+      "update_source",
+      "edit_custom_preview"
+     ],
+     "interactions": {
+      "cosign": false,
+      "pyong": false,
+      "vote": null
+     },
+     "iq_by_action": {}
+    },
+    "authors": [
+     {
+      "attribution": 0.49557522123893805,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/265732",
+       "avatar": {
+        "tiny": {
+         "url": "https://images.rapgenius.com/avatars/tiny/c9afb3ba2c2704fa76ff242f1eadcd03",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://images.rapgenius.com/avatars/thumb/c9afb3ba2c2704fa76ff242f1eadcd03",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://images.rapgenius.com/avatars/small/c9afb3ba2c2704fa76ff242f1eadcd03",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://images.rapgenius.com/avatars/medium/c9afb3ba2c2704fa76ff242f1eadcd03",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://images.rapgenius.com/avatars/medium/c9afb3ba2c2704fa76ff242f1eadcd03",
+       "human_readable_role_for_display": "Editor",
+       "id": 265732,
+       "iq": 217734,
+       "login": "Vesuvius",
+       "name": "Vesuvius",
+       "role_for_display": "editor",
+       "url": "https://genius.com/Vesuvius",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     },
+     {
+      "attribution": 0.36283185840707965,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/1156735",
+       "avatar": {
+        "tiny": {
+         "url": "https://images.rapgenius.com/avatars/tiny/447d5ed749c901ed8a538471d37d3481",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://images.rapgenius.com/avatars/thumb/447d5ed749c901ed8a538471d37d3481",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://images.rapgenius.com/avatars/small/447d5ed749c901ed8a538471d37d3481",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://images.rapgenius.com/avatars/medium/447d5ed749c901ed8a538471d37d3481",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://images.rapgenius.com/avatars/medium/447d5ed749c901ed8a538471d37d3481",
+       "human_readable_role_for_display": "Verified Artist",
+       "id": 1156735,
+       "iq": 6039,
+       "login": "RYANNILE",
+       "name": "Ryan Nile",
+       "role_for_display": "verified_artist",
+       "url": "https://genius.com/RYANNILE",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     },
+     {
+      "attribution": 0.13274336283185842,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/127862",
+       "avatar": {
+        "tiny": {
+         "url": "https://images.genius.com/avatars/tiny/97fd2a04f49a3707f9efe1c76cd3b292",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://images.genius.com/avatars/thumb/97fd2a04f49a3707f9efe1c76cd3b292",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://images.genius.com/avatars/small/97fd2a04f49a3707f9efe1c76cd3b292",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://images.genius.com/avatars/medium/97fd2a04f49a3707f9efe1c76cd3b292",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://images.genius.com/006697c6143f33d06ebbd245ff9d268d.1000x1000x1.jpg",
+       "human_readable_role_for_display": "Staff",
+       "id": 127862,
+       "iq": 527373,
+       "login": "Michael",
+       "name": "Michael Heal",
+       "role_for_display": "staff",
+       "url": "https://genius.com/Michael",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     },
+     {
+      "attribution": 0.008849557522123894,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/50988",
+       "avatar": {
+        "tiny": {
+         "url": "https://images.rapgenius.com/avatars/tiny/8bccae9a677b2659c31cc151b5e4bfd8",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://images.rapgenius.com/avatars/thumb/8bccae9a677b2659c31cc151b5e4bfd8",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://images.rapgenius.com/avatars/small/8bccae9a677b2659c31cc151b5e4bfd8",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://images.rapgenius.com/avatars/medium/8bccae9a677b2659c31cc151b5e4bfd8",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://images.rapgenius.com/avatars/medium/8bccae9a677b2659c31cc151b5e4bfd8",
+       "human_readable_role_for_display": "Editor",
+       "id": 50988,
+       "iq": 164537,
+       "login": "nietzsche",
+       "name": "Briansusername",
+       "role_for_display": "editor",
+       "url": "https://genius.com/nietzsche",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     }
+    ],
+    "cosigned_by": [],
+    "rejection_comment": null,
+    "verified_by": null
+   }
+  ]
+ },
+ "featured_artists": [
+  {
+   "api_path": "/artists/110",
+   "header_image_url": "https://images.genius.com/6bb3ce5bd62c7acfc3a66798c4bbeb26.640x427x1.jpg",
+   "id": 110,
+   "image_url": "https://images.genius.com/aa964e94a21e7b893801ed3a2bd389b8.1000x1000x1.jpg",
+   "is_meme_verified": true,
+   "is_verified": true,
+   "name": "Pharrell Williams",
+   "url": "https://genius.com/artists/Pharrell-williams",
+   "iq": 660
+  },
+  {
+   "api_path": "/artists/85",
+   "header_image_url": "https://images.genius.com/9a7118eb0b1e83879cdb4b7855158d53.320x180x1.jpg",
+   "id": 85,
+   "image_url": "https://images.genius.com/6f1e66b5da6bb21cceee3cee5fb5dab5.272x272x1.jpg",
+   "is_meme_verified": true,
+   "is_verified": true,
+   "name": "T.I.",
+   "url": "https://genius.com/artists/Ti",
+   "iq": 7554
+  }
+ ],
+ "lyrics_marked_complete_by": null,
+ "media": [
+  {
+   "provider": "youtube",
+   "start": 0,
+   "type": "video",
+   "url": "http://www.youtube.com/watch?v=yyDUC1LUXSU"
+  },
+  {
+   "native_uri": "spotify:track:0n4bITAu0Y0nigrz3MFJMb",
+   "provider": "spotify",
+   "type": "audio",
+   "url": "https://open.spotify.com/track/0n4bITAu0Y0nigrz3MFJMb"
+  }
+ ],
+ "producer_artists": [
+  {
+   "api_path": "/artists/110",
+   "header_image_url": "https://images.genius.com/6bb3ce5bd62c7acfc3a66798c4bbeb26.640x427x1.jpg",
+   "id": 110,
+   "image_url": "https://images.genius.com/aa964e94a21e7b893801ed3a2bd389b8.1000x1000x1.jpg",
+   "is_meme_verified": true,
+   "is_verified": true,
+   "name": "Pharrell Williams",
+   "url": "https://genius.com/artists/Pharrell-williams",
+   "iq": 660
+  }
+ ],
+ "song_relationships": [
+  {
+   "relationship_type": "samples",
+   "type": "samples",
+   "songs": []
+  },
+  {
+   "relationship_type": "sampled_in",
+   "type": "sampled_in",
+   "songs": [
+    {
+     "annotation_count": 1,
+     "api_path": "/songs/1995667",
+     "full_title": "Blurred Bynes by\u00a0Dwv (Ft.\u00a0Detox\u00a0Icunt, Vicky\u00a0Vox & Willam)",
+     "header_image_thumbnail_url": "https://images.genius.com/67f4d26106a539e2568f5aafd26e1cc2.300x300x1.jpg",
+     "header_image_url": "https://images.genius.com/67f4d26106a539e2568f5aafd26e1cc2.1000x1000x1.jpg",
+     "id": 1995667,
+     "lyrics_owner_id": 5352721,
+     "lyrics_state": "complete",
+     "path": "/Dwv-blurred-bynes-annotated",
+     "pyongs_count": null,
+     "song_art_image_thumbnail_url": "https://images.genius.com/67f4d26106a539e2568f5aafd26e1cc2.300x300x1.jpg",
+     "song_art_image_url": "https://images.genius.com/67f4d26106a539e2568f5aafd26e1cc2.1000x1000x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 1,
+      "hot": false
+     },
+     "title": "Blurred Bynes",
+     "title_with_featured": "Blurred Bynes (Ft.\u00a0Detox\u00a0Icunt, Vicky\u00a0Vox & Willam)",
+     "url": "https://genius.com/Dwv-blurred-bynes-annotated",
+     "primary_artist": {
+      "api_path": "/artists/538625",
+      "header_image_url": "https://images.genius.com/735e5e4bb3d111ab2c98657ea4893991.1000x213x1.jpg",
+      "id": 538625,
+      "image_url": "https://images.genius.com/63024f8d2f51512509bf70d47e9111c1.1000x1000x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Dwv",
+      "url": "https://genius.com/artists/Dwv"
+     }
+    },
+    {
+     "annotation_count": 1,
+     "api_path": "/songs/3350062",
+     "full_title": "United State of Pop 2013 (Living the Fantasy) by\u00a0DJ\u00a0Earworm",
+     "header_image_thumbnail_url": "https://images.genius.com/85542c6493873c1e360a8002bce6c279.300x300x1.png",
+     "header_image_url": "https://images.genius.com/85542c6493873c1e360a8002bce6c279.1000x1000x1.png",
+     "id": 3350062,
+     "lyrics_owner_id": 2201951,
+     "lyrics_state": "complete",
+     "path": "/Dj-earworm-united-state-of-pop-2013-living-the-fantasy-lyrics",
+     "pyongs_count": 1,
+     "song_art_image_thumbnail_url": "https://images.genius.com/85542c6493873c1e360a8002bce6c279.300x300x1.png",
+     "song_art_image_url": "https://images.genius.com/85542c6493873c1e360a8002bce6c279.1000x1000x1.png",
+     "stats": {
+      "unreviewed_annotations": 1,
+      "hot": false
+     },
+     "title": "United State of Pop 2013 (Living the Fantasy)",
+     "title_with_featured": "United State of Pop 2013 (Living the Fantasy)",
+     "url": "https://genius.com/Dj-earworm-united-state-of-pop-2013-living-the-fantasy-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/190620",
+      "header_image_url": "https://images.genius.com/e46eb8327e3ea450b0ba0e15bcd0af6a.642x642x1.jpg",
+      "id": 190620,
+      "image_url": "https://images.genius.com/e46eb8327e3ea450b0ba0e15bcd0af6a.642x642x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "DJ Earworm",
+      "url": "https://genius.com/artists/Dj-earworm"
+     }
+    },
+    {
+     "annotation_count": 28,
+     "api_path": "/songs/4198463",
+     "full_title": "Another Grunt by\u00a0V-FUN",
+     "header_image_thumbnail_url": "https://images.genius.com/c4716ee3e98ad20304252e95d25121c2.300x300x1.jpg",
+     "header_image_url": "https://images.genius.com/c4716ee3e98ad20304252e95d25121c2.500x500x1.jpg",
+     "id": 4198463,
+     "lyrics_owner_id": 7598357,
+     "lyrics_state": "complete",
+     "path": "/V-fun-another-grunt-lyrics",
+     "pyongs_count": 1,
+     "song_art_image_thumbnail_url": "https://images.genius.com/c4716ee3e98ad20304252e95d25121c2.300x300x1.jpg",
+     "song_art_image_url": "https://images.genius.com/c4716ee3e98ad20304252e95d25121c2.500x500x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 28,
+      "hot": false
+     },
+     "title": "Another Grunt",
+     "title_with_featured": "Another Grunt",
+     "url": "https://genius.com/V-fun-another-grunt-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/1684307",
+      "header_image_url": "https://images.genius.com/8a64b8ddce9e0d3b8231847708c8f511.335x335x1.png",
+      "id": 1684307,
+      "image_url": "https://images.genius.com/8a64b8ddce9e0d3b8231847708c8f511.335x335x1.png",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "V-FUN",
+      "url": "https://genius.com/artists/V-fun"
+     }
+    },
+    {
+     "annotation_count": 0,
+     "api_path": "/songs/4261748",
+     "full_title": "Made in 2013 by\u00a0Victor\u00a0Lin",
+     "header_image_thumbnail_url": "https://assets.genius.com/images/default_cover_image.png?1606943206",
+     "header_image_url": "https://assets.genius.com/images/default_cover_image.png?1606943206",
+     "id": 4261748,
+     "lyrics_owner_id": 7661417,
+     "lyrics_state": "complete",
+     "path": "/Victor-lin-made-in-2013-lyrics",
+     "pyongs_count": null,
+     "song_art_image_thumbnail_url": "https://assets.genius.com/images/default_cover_image.png?1606943206",
+     "song_art_image_url": "https://assets.genius.com/images/default_cover_image.png?1606943206",
+     "stats": {
+      "unreviewed_annotations": 0,
+      "hot": false
+     },
+     "title": "Made in 2013",
+     "title_with_featured": "Made in 2013",
+     "url": "https://genius.com/Victor-lin-made-in-2013-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/1709942",
+      "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+      "id": 1709942,
+      "image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Victor Lin",
+      "url": "https://genius.com/artists/Victor-lin"
+     }
+    },
+    {
+     "annotation_count": 2,
+     "api_path": "/songs/5261649",
+     "full_title": "Do You Remember by\u00a0Pluffaduff",
+     "header_image_thumbnail_url": "https://www.google.com/url?sa=i&url=https://rateyourmusic.com/release/album/pluffaduff/worlds-collide/&psig=AOvVaw3hQlbg0BBywfn0XjK6ZbXK&ust=1581794402774000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCIDOmL7h0ecCFQAAAAAdAAAAABAD",
+     "header_image_url": "https://www.google.com/url?sa=i&url=https://rateyourmusic.com/release/album/pluffaduff/worlds-collide/&psig=AOvVaw3hQlbg0BBywfn0XjK6ZbXK&ust=1581794402774000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCIDOmL7h0ecCFQAAAAAdAAAAABAD",
+     "id": 5261649,
+     "lyrics_owner_id": 8505279,
+     "lyrics_state": "complete",
+     "path": "/Pluffaduff-do-you-remember-lyrics",
+     "pyongs_count": null,
+     "song_art_image_thumbnail_url": "https://www.google.com/url?sa=i&url=https://rateyourmusic.com/release/album/pluffaduff/worlds-collide/&psig=AOvVaw3hQlbg0BBywfn0XjK6ZbXK&ust=1581794402774000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCIDOmL7h0ecCFQAAAAAdAAAAABAD",
+     "song_art_image_url": "https://www.google.com/url?sa=i&url=https://rateyourmusic.com/release/album/pluffaduff/worlds-collide/&psig=AOvVaw3hQlbg0BBywfn0XjK6ZbXK&ust=1581794402774000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCIDOmL7h0ecCFQAAAAAdAAAAABAD",
+     "stats": {
+      "unreviewed_annotations": 2,
+      "hot": false
+     },
+     "title": "Do You Remember",
+     "title_with_featured": "Do You Remember",
+     "url": "https://genius.com/Pluffaduff-do-you-remember-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/1673277",
+      "header_image_url": "https://images.genius.com/877a0d5ee19d09c81188103ce9cb825d.288x288x1.jpg",
+      "id": 1673277,
+      "image_url": "https://images.genius.com/877a0d5ee19d09c81188103ce9cb825d.288x288x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Pluffaduff",
+      "url": "https://genius.com/artists/Pluffaduff"
+     }
+    },
+    {
+     "annotation_count": 1,
+     "api_path": "/songs/5461305",
+     "full_title": "Bruce Lynes by\u00a0MASHUP\u00a0WEEK",
+     "header_image_thumbnail_url": "https://images.genius.com/0c8775003b058839e73b094738a8c8ae.300x300x1.jpg",
+     "header_image_url": "https://images.genius.com/0c8775003b058839e73b094738a8c8ae.500x500x1.jpg",
+     "id": 5461305,
+     "lyrics_owner_id": 8505279,
+     "lyrics_state": "complete",
+     "path": "/Mashup-week-bruce-lynes-lyrics",
+     "pyongs_count": null,
+     "song_art_image_thumbnail_url": "https://images.genius.com/0c8775003b058839e73b094738a8c8ae.300x300x1.jpg",
+     "song_art_image_url": "https://images.genius.com/0c8775003b058839e73b094738a8c8ae.500x500x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 1,
+      "hot": false
+     },
+     "title": "Bruce Lynes",
+     "title_with_featured": "Bruce Lynes",
+     "url": "https://genius.com/Mashup-week-bruce-lynes-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/2107396",
+      "header_image_url": "https://images.genius.com/f92d64cc3d7cdb4c093d822622233383.1000x210x1.png",
+      "id": 2107396,
+      "image_url": "https://images.genius.com/0c8775003b058839e73b094738a8c8ae.500x500x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "MASHUP WEEK",
+      "url": "https://genius.com/artists/Mashup-week"
+     }
+    }
+   ]
+  },
+  {
+   "relationship_type": "interpolates",
+   "type": "interpolates",
+   "songs": [
+    {
+     "annotation_count": 1,
+     "api_path": "/songs/198694",
+     "full_title": "Got to Give It Up by\u00a0Marvin\u00a0Gaye",
+     "header_image_thumbnail_url": "https://images.genius.com/d2a2c7663f7be21139bb8c58651192a8.300x303x1.jpg",
+     "header_image_url": "https://images.genius.com/d2a2c7663f7be21139bb8c58651192a8.599x604x1.jpg",
+     "id": 198694,
+     "lyrics_owner_id": 20108,
+     "lyrics_state": "complete",
+     "path": "/Marvin-gaye-got-to-give-it-up-lyrics",
+     "pyongs_count": 5,
+     "song_art_image_thumbnail_url": "https://images.genius.com/ca8a7636a620a8c5428989af5c0505fb.300x299x1.jpg",
+     "song_art_image_url": "https://images.genius.com/ca8a7636a620a8c5428989af5c0505fb.300x299x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 0,
+      "hot": false,
+      "pageviews": 61815
+     },
+     "title": "Got to Give It Up",
+     "title_with_featured": "Got to Give It Up",
+     "url": "https://genius.com/Marvin-gaye-got-to-give-it-up-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/944",
+      "header_image_url": "https://images.genius.com/446e5592dc5e3c295cf1b0e6088dc084.1000x692x1.jpg",
+      "id": 944,
+      "image_url": "https://images.genius.com/ee7f453224dcc21cb8b8cf57475530dc.217x217x1.png",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Marvin Gaye",
+      "url": "https://genius.com/artists/Marvin-gaye"
+     }
+    }
+   ]
+  },
+  {
+   "relationship_type": "interpolated_by",
+   "type": "interpolated_by",
+   "songs": [
+    {
+     "annotation_count": 12,
+     "api_path": "/songs/303124",
+     "full_title": "Rewind: What Does 2013 Say by\u00a0YouTube (Ft.\u00a0YouTube\u00a0Brasil)",
+     "header_image_thumbnail_url": "https://images.genius.com/cc576767de856100a0a4fa4f08f744f9.300x300x1.png",
+     "header_image_url": "https://images.genius.com/cc576767de856100a0a4fa4f08f744f9.1000x1000x1.png",
+     "id": 303124,
+     "lyrics_owner_id": 1553,
+     "lyrics_state": "complete",
+     "path": "/Youtube-rewind-what-does-2013-say-lyrics",
+     "pyongs_count": 5,
+     "song_art_image_thumbnail_url": "https://images.genius.com/cc576767de856100a0a4fa4f08f744f9.300x300x1.png",
+     "song_art_image_url": "https://images.genius.com/cc576767de856100a0a4fa4f08f744f9.1000x1000x1.png",
+     "stats": {
+      "unreviewed_annotations": 1,
+      "hot": false,
+      "pageviews": 7652
+     },
+     "title": "Rewind: What Does 2013 Say",
+     "title_with_featured": "Rewind: What Does 2013 Say (Ft.\u00a0YouTube\u00a0Brasil)",
+     "url": "https://genius.com/Youtube-rewind-what-does-2013-say-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/53473",
+      "header_image_url": "https://images.genius.com/ed684badc88750f04b55d47f518c2b2f.1000x333x1.png",
+      "id": 53473,
+      "image_url": "https://images.genius.com/cc576767de856100a0a4fa4f08f744f9.1000x1000x1.png",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "YouTube",
+      "url": "https://genius.com/artists/Youtube"
+     }
+    },
+    {
+     "annotation_count": 18,
+     "api_path": "/songs/409480",
+     "full_title": "Obama Been Watchin' by\u00a0Rucka\u00a0Rucka Ali",
+     "header_image_thumbnail_url": "https://images.genius.com/aec72544eb42705b1eb529edd474a571.300x300x1.jpg",
+     "header_image_url": "https://images.genius.com/aec72544eb42705b1eb529edd474a571.315x315x1.jpg",
+     "id": 409480,
+     "lyrics_owner_id": 757181,
+     "lyrics_state": "complete",
+     "path": "/Rucka-rucka-ali-obama-been-watchin-lyrics",
+     "pyongs_count": null,
+     "song_art_image_thumbnail_url": "https://images.genius.com/aec72544eb42705b1eb529edd474a571.300x300x1.jpg",
+     "song_art_image_url": "https://images.genius.com/aec72544eb42705b1eb529edd474a571.315x315x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 0,
+      "hot": false
+     },
+     "title": "Obama Been Watchin\u2019",
+     "title_with_featured": "Obama Been Watchin'",
+     "url": "https://genius.com/Rucka-rucka-ali-obama-been-watchin-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/1552",
+      "header_image_url": "https://images.genius.com/50c638e6b4019ff0c268d82da96e960c.500x500x1.png",
+      "id": 1552,
+      "image_url": "https://images.genius.com/9aed2d09e0d4f47746ba63860eb59d89.337x337x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Rucka Rucka Ali",
+      "url": "https://genius.com/artists/Rucka-rucka-ali"
+     }
+    },
+    {
+     "annotation_count": 36,
+     "api_path": "/songs/476458",
+     "full_title": "Word Crimes by\u00a0\"Weird\u00a0Al\" Yankovic",
+     "header_image_thumbnail_url": "https://images.genius.com/23d9d9754cfaab4639454e90ec098a8c.300x169x1.png",
+     "header_image_url": "https://images.genius.com/23d9d9754cfaab4639454e90ec098a8c.1000x563x1.png",
+     "id": 476458,
+     "lyrics_owner_id": 214191,
+     "lyrics_state": "complete",
+     "path": "/Weird-al-yankovic-word-crimes-lyrics",
+     "pyongs_count": 17,
+     "song_art_image_thumbnail_url": "https://images.genius.com/23d9d9754cfaab4639454e90ec098a8c.300x169x1.png",
+     "song_art_image_url": "https://images.genius.com/23d9d9754cfaab4639454e90ec098a8c.1000x563x1.png",
+     "stats": {
+      "unreviewed_annotations": 5,
+      "hot": false,
+      "pageviews": 84302
+     },
+     "title": "Word Crimes",
+     "title_with_featured": "Word Crimes",
+     "url": "https://genius.com/Weird-al-yankovic-word-crimes-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/899",
+      "header_image_url": "https://images.genius.com/9ffdfd9ca31f58113bd3c669bf695c67.400x274x25.gif",
+      "id": 899,
+      "image_url": "https://images.genius.com/dc6eddd157ff9fc8146b4bde4bb4c0a3.1000x1000x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "\u201cWeird Al\u201d Yankovic",
+      "url": "https://genius.com/artists/Weird-al-yankovic"
+     }
+    },
+    {
+     "annotation_count": 1,
+     "api_path": "/songs/2011038",
+     "full_title": "Bronze V by\u00a0Instalok (Ft.\u00a0Siv\u00a0HD)",
+     "header_image_thumbnail_url": "https://images.genius.com/7b1b5509c4f64d32a8441badd6570e36.300x300x1.jpg",
+     "header_image_url": "https://images.genius.com/7b1b5509c4f64d32a8441badd6570e36.300x300x1.jpg",
+     "id": 2011038,
+     "lyrics_owner_id": 5667167,
+     "lyrics_state": "complete",
+     "path": "/Instalok-bronze-v-lyrics",
+     "pyongs_count": null,
+     "song_art_image_thumbnail_url": "https://images.genius.com/7b1b5509c4f64d32a8441badd6570e36.300x300x1.jpg",
+     "song_art_image_url": "https://images.genius.com/7b1b5509c4f64d32a8441badd6570e36.300x300x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 0,
+      "hot": false
+     },
+     "title": "Bronze V",
+     "title_with_featured": "Bronze V (Ft.\u00a0Siv\u00a0HD)",
+     "url": "https://genius.com/Instalok-bronze-v-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/453315",
+      "header_image_url": "https://images.genius.com/9cfe8244dea64cd3714c8e9d258c7ae2.900x900x1.jpg",
+      "id": 453315,
+      "image_url": "https://images.genius.com/9cfe8244dea64cd3714c8e9d258c7ae2.900x900x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Instalok",
+      "url": "https://genius.com/artists/Instalok"
+     }
+    }
+   ]
+  },
+  {
+   "relationship_type": "cover_of",
+   "type": "cover_of",
+   "songs": []
+  },
+  {
+   "relationship_type": "covered_by",
+   "type": "covered_by",
+   "songs": [
+    {
+     "annotation_count": 4,
+     "api_path": "/songs/199500",
+     "full_title": "Blurred Lines (Freestyle) by\u00a0Robin\u00a0Thicke (Ft.\u00a0Jimmy\u00a0Fallon & The\u00a0Roots)",
+     "header_image_thumbnail_url": "https://images.genius.com/71e2d651715cdc3801352405c58c8b73.300x300x1.jpg",
+     "header_image_url": "https://images.genius.com/71e2d651715cdc3801352405c58c8b73.1000x1000x1.jpg",
+     "id": 199500,
+     "lyrics_owner_id": 149650,
+     "lyrics_state": "complete",
+     "path": "/Robin-thicke-blurred-lines-freestyle-lyrics",
+     "pyongs_count": 2,
+     "song_art_image_thumbnail_url": "https://images.genius.com/71e2d651715cdc3801352405c58c8b73.300x300x1.jpg",
+     "song_art_image_url": "https://images.genius.com/71e2d651715cdc3801352405c58c8b73.1000x1000x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 3,
+      "hot": false,
+      "pageviews": 18069
+     },
+     "title": "Blurred Lines (Freestyle)",
+     "title_with_featured": "Blurred Lines (Freestyle) (Ft.\u00a0Jimmy\u00a0Fallon & The\u00a0Roots)",
+     "url": "https://genius.com/Robin-thicke-blurred-lines-freestyle-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/459",
+      "header_image_url": "https://images.genius.com/330a5dc43b6b23b3a7019e0e9ae992ed.400x400x1.jpg",
+      "id": 459,
+      "image_url": "https://images.genius.com/71e2d651715cdc3801352405c58c8b73.1000x1000x1.jpg",
+      "is_meme_verified": true,
+      "is_verified": true,
+      "name": "Robin Thicke",
+      "url": "https://genius.com/artists/Robin-thicke",
+      "iq": 2842
+     }
+    },
+    {
+     "annotation_count": 0,
+     "api_path": "/songs/402926",
+     "full_title": "Blurred Lines (Parody) by\u00a0Bart\u00a0Baker",
+     "header_image_thumbnail_url": "https://images.genius.com/40780113db9cc5cf82ca02cf81f8d369.300x300x1.jpg",
+     "header_image_url": "https://images.genius.com/40780113db9cc5cf82ca02cf81f8d369.1000x1000x1.jpg",
+     "id": 402926,
+     "lyrics_owner_id": 775297,
+     "lyrics_state": "complete",
+     "path": "/Bart-baker-blurred-lines-parody-lyrics",
+     "pyongs_count": null,
+     "song_art_image_thumbnail_url": "https://images.genius.com/40780113db9cc5cf82ca02cf81f8d369.300x300x1.jpg",
+     "song_art_image_url": "https://images.genius.com/40780113db9cc5cf82ca02cf81f8d369.1000x1000x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 0,
+      "hot": false
+     },
+     "title": "Blurred Lines (Parody)",
+     "title_with_featured": "Blurred Lines (Parody)",
+     "url": "https://genius.com/Bart-baker-blurred-lines-parody-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/20551",
+      "header_image_url": "https://images.genius.com/f5500ee87c9330c39b9a83793c29a830.1000x563x1.jpg",
+      "id": 20551,
+      "image_url": "https://images.genius.com/f81ced4f2267ef1e1494583e8d19ab13.750x750x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Bart Baker",
+      "url": "https://genius.com/artists/Bart-baker"
+     }
+    },
+    {
+     "annotation_count": 1,
+     "api_path": "/songs/809092",
+     "full_title": "Blurred Lines by\u00a0Scott\u00a0Bradlee's Postmodern Jukebox (Ft.\u00a0Robyn\u00a0Adele Anderson)",
+     "header_image_thumbnail_url": "https://images.genius.com/2d424bf3c3c7a60294829949e341cf7f.300x300x1.jpg",
+     "header_image_url": "https://images.genius.com/2d424bf3c3c7a60294829949e341cf7f.900x900x1.jpg",
+     "id": 809092,
+     "lyrics_owner_id": 1549345,
+     "lyrics_state": "complete",
+     "path": "/Scott-bradlees-postmodern-jukebox-blurred-lines-lyrics",
+     "pyongs_count": null,
+     "song_art_image_thumbnail_url": "https://images.genius.com/2d424bf3c3c7a60294829949e341cf7f.300x300x1.jpg",
+     "song_art_image_url": "https://images.genius.com/2d424bf3c3c7a60294829949e341cf7f.900x900x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 0,
+      "hot": false
+     },
+     "title": "Blurred Lines",
+     "title_with_featured": "Blurred Lines (Ft.\u00a0Robyn\u00a0Adele Anderson)",
+     "url": "https://genius.com/Scott-bradlees-postmodern-jukebox-blurred-lines-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/523216",
+      "header_image_url": "https://images.genius.com/cba9980f0a6387fdc88b1d74386f5881.1000x653x1.jpg",
+      "id": 523216,
+      "image_url": "https://images.genius.com/2d424bf3c3c7a60294829949e341cf7f.900x900x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Scott Bradlee\u2019s Postmodern Jukebox",
+      "url": "https://genius.com/artists/Scott-bradlees-postmodern-jukebox"
+     }
+    },
+    {
+     "annotation_count": 1,
+     "api_path": "/songs/1952354",
+     "full_title": "Blurred Lines by\u00a0Alex\u00a0G",
+     "header_image_thumbnail_url": "https://images.genius.com/7c30552105425ba59f22fe443711632e.300x300x1.jpg",
+     "header_image_url": "https://images.genius.com/7c30552105425ba59f22fe443711632e.640x640x1.jpg",
+     "id": 1952354,
+     "lyrics_owner_id": 1549345,
+     "lyrics_state": "complete",
+     "path": "/Alex-g-blurred-lines-lyrics",
+     "pyongs_count": null,
+     "song_art_image_thumbnail_url": "https://images.genius.com/7c30552105425ba59f22fe443711632e.300x300x1.jpg",
+     "song_art_image_url": "https://images.genius.com/7c30552105425ba59f22fe443711632e.640x640x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 0,
+      "hot": false
+     },
+     "title": "Blurred Lines",
+     "title_with_featured": "Blurred Lines",
+     "url": "https://genius.com/Alex-g-blurred-lines-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/1113612",
+      "header_image_url": "https://images.genius.com/2e20662d73ef3bf68275eca047c2269a.1000x525x1.jpg",
+      "id": 1113612,
+      "image_url": "https://images.genius.com/7c30552105425ba59f22fe443711632e.640x640x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Alex G",
+      "url": "https://genius.com/artists/Alex-g"
+     }
+    },
+    {
+     "annotation_count": 1,
+     "api_path": "/songs/2006853",
+     "full_title": "Blurred Lines by\u00a0Glee\u00a0Cast",
+     "header_image_thumbnail_url": "https://images.genius.com/583b77927ef74f3f78c63db9e0529e99.300x300x1.jpg",
+     "header_image_url": "https://images.genius.com/583b77927ef74f3f78c63db9e0529e99.600x600x1.jpg",
+     "id": 2006853,
+     "lyrics_owner_id": 359109,
+     "lyrics_state": "complete",
+     "path": "/Glee-cast-blurred-lines-lyrics",
+     "pyongs_count": null,
+     "song_art_image_thumbnail_url": "https://images.genius.com/583b77927ef74f3f78c63db9e0529e99.300x300x1.jpg",
+     "song_art_image_url": "https://images.genius.com/583b77927ef74f3f78c63db9e0529e99.600x600x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 0,
+      "hot": false
+     },
+     "title": "Blurred Lines",
+     "title_with_featured": "Blurred Lines",
+     "url": "https://genius.com/Glee-cast-blurred-lines-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/275474",
+      "header_image_url": "https://images.genius.com/667ee62ccc1ba4d72177b906d4766476.851x368x1.png",
+      "id": 275474,
+      "image_url": "https://images.genius.com/acb2b6cc07b9ffa614cbae768d546e84.910x910x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Glee Cast",
+      "url": "https://genius.com/artists/Glee-cast"
+     }
+    },
+    {
+     "annotation_count": 1,
+     "api_path": "/songs/2252313",
+     "full_title": "Blurred Lines by\u00a0Tiffany\u00a0Alvord (Ft.\u00a0Eppic & Megan\u00a0Nicole)",
+     "header_image_thumbnail_url": "https://images.genius.com/5e5ac39545c0b9d33a3be82005d6ff19.300x300x1.jpg",
+     "header_image_url": "https://images.genius.com/5e5ac39545c0b9d33a3be82005d6ff19.1000x1000x1.jpg",
+     "id": 2252313,
+     "lyrics_owner_id": 1549345,
+     "lyrics_state": "complete",
+     "path": "/Tiffany-alvord-blurred-lines-lyrics",
+     "pyongs_count": null,
+     "song_art_image_thumbnail_url": "https://images.genius.com/5e5ac39545c0b9d33a3be82005d6ff19.300x300x1.jpg",
+     "song_art_image_url": "https://images.genius.com/5e5ac39545c0b9d33a3be82005d6ff19.1000x1000x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 0,
+      "hot": false
+     },
+     "title": "Blurred Lines",
+     "title_with_featured": "Blurred Lines (Ft.\u00a0Eppic & Megan\u00a0Nicole)",
+     "url": "https://genius.com/Tiffany-alvord-blurred-lines-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/54310",
+      "header_image_url": "https://images.genius.com/c009eb284dba11272c404b33b7f45147.1000x563x1.jpg",
+      "id": 54310,
+      "image_url": "https://images.genius.com/5e5ac39545c0b9d33a3be82005d6ff19.1000x1000x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Tiffany Alvord",
+      "url": "https://genius.com/artists/Tiffany-alvord"
+     }
+    },
+    {
+     "annotation_count": 0,
+     "api_path": "/songs/4736862",
+     "full_title": "Blurred Lines (Metal Version) by\u00a0Leo\u00a0Moracchioli",
+     "header_image_thumbnail_url": "https://images.genius.com/3fece3c22803b0d4d3a04c34b13cf541.268x268x1.jpg",
+     "header_image_url": "https://images.genius.com/3fece3c22803b0d4d3a04c34b13cf541.268x268x1.jpg",
+     "id": 4736862,
+     "lyrics_owner_id": 4666199,
+     "lyrics_state": "complete",
+     "path": "/Leo-moracchioli-blurred-lines-metal-version-lyrics",
+     "pyongs_count": null,
+     "song_art_image_thumbnail_url": "https://images.genius.com/3fece3c22803b0d4d3a04c34b13cf541.268x268x1.jpg",
+     "song_art_image_url": "https://images.genius.com/3fece3c22803b0d4d3a04c34b13cf541.268x268x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 0,
+      "hot": false
+     },
+     "title": "Blurred Lines (Metal Version)",
+     "title_with_featured": "Blurred Lines (Metal Version)",
+     "url": "https://genius.com/Leo-moracchioli-blurred-lines-metal-version-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/1507508",
+      "header_image_url": "https://images.genius.com/a5fe22662dc4ce1662e1cf1be1129e49.225x225x1.jpg",
+      "id": 1507508,
+      "image_url": "https://images.genius.com/a5fe22662dc4ce1662e1cf1be1129e49.225x225x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Leo Moracchioli",
+      "url": "https://genius.com/artists/Leo-moracchioli"
+     }
+    }
+   ]
+  },
+  {
+   "relationship_type": "remix_of",
+   "type": "remix_of",
+   "songs": []
+  },
+  {
+   "relationship_type": "remixed_by",
+   "type": "remixed_by",
+   "songs": [
+    {
+     "annotation_count": 53,
+     "api_path": "/songs/3190086",
+     "full_title": "Pop Danthology 2013 by\u00a0Daniel\u00a0Kim",
+     "header_image_thumbnail_url": "https://images.genius.com/9ce2146c4f42afb63648801d39969917.300x169x1.jpg",
+     "header_image_url": "https://images.genius.com/9ce2146c4f42afb63648801d39969917.1000x562x1.jpg",
+     "id": 3190086,
+     "lyrics_owner_id": 4545088,
+     "lyrics_state": "complete",
+     "path": "/Daniel-kim-pop-danthology-2013-lyrics",
+     "pyongs_count": 2,
+     "song_art_image_thumbnail_url": "https://images.genius.com/9ce2146c4f42afb63648801d39969917.300x169x1.jpg",
+     "song_art_image_url": "https://images.genius.com/9ce2146c4f42afb63648801d39969917.1000x562x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 2,
+      "hot": false,
+      "pageviews": 7260
+     },
+     "title": "Pop Danthology 2013",
+     "title_with_featured": "Pop Danthology 2013",
+     "url": "https://genius.com/Daniel-kim-pop-danthology-2013-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/129871",
+      "header_image_url": "https://images.genius.com/7d6017352a0338730b3bb3da5757990b.898x898x1.jpg",
+      "id": 129871,
+      "image_url": "https://images.genius.com/7d6017352a0338730b3bb3da5757990b.898x898x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Daniel Kim",
+      "url": "https://genius.com/artists/Daniel-kim"
+     }
+    },
+    {
+     "annotation_count": 1,
+     "api_path": "/songs/4762622",
+     "full_title": "Blurred Lines but Beats 2 and 4 are Swapped by\u00a0Adam\u00a0Emond",
+     "header_image_thumbnail_url": "https://images.genius.com/35bb6f19733f832cf5922625d39f2814.259x194x1.jpg",
+     "header_image_url": "https://images.genius.com/35bb6f19733f832cf5922625d39f2814.259x194x1.jpg",
+     "id": 4762622,
+     "lyrics_owner_id": 7043292,
+     "lyrics_state": "complete",
+     "path": "/Adam-emond-blurred-lines-but-beats-2-and-4-are-swapped-lyrics",
+     "pyongs_count": null,
+     "song_art_image_thumbnail_url": "https://images.genius.com/35bb6f19733f832cf5922625d39f2814.259x194x1.jpg",
+     "song_art_image_url": "https://images.genius.com/35bb6f19733f832cf5922625d39f2814.259x194x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 0,
+      "hot": false
+     },
+     "title": "Blurred Lines but Beats 2 and 4 are Swapped",
+     "title_with_featured": "Blurred Lines but Beats 2 and 4 are Swapped",
+     "url": "https://genius.com/Adam-emond-blurred-lines-but-beats-2-and-4-are-swapped-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/1669799",
+      "header_image_url": "https://images.genius.com/65ede695de4d9200cbf399e97c3a8211.900x900x1.jpg",
+      "id": 1669799,
+      "image_url": "https://images.genius.com/65ede695de4d9200cbf399e97c3a8211.900x900x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Adam Emond",
+      "url": "https://genius.com/artists/Adam-emond"
+     }
+    },
+    {
+     "annotation_count": 1,
+     "api_path": "/songs/5599105",
+     "full_title": "SummerMash '13 by\u00a0DJ\u00a0Earworm",
+     "header_image_thumbnail_url": "https://images.genius.com/3108a0147a0d9395a2646327cfac8ffa.300x300x1.png",
+     "header_image_url": "https://images.genius.com/3108a0147a0d9395a2646327cfac8ffa.1000x1000x1.png",
+     "id": 5599105,
+     "lyrics_owner_id": 6685173,
+     "lyrics_state": "complete",
+     "path": "/Dj-earworm-summermash-13-lyrics",
+     "pyongs_count": null,
+     "song_art_image_thumbnail_url": "https://images.genius.com/3108a0147a0d9395a2646327cfac8ffa.300x300x1.png",
+     "song_art_image_url": "https://images.genius.com/3108a0147a0d9395a2646327cfac8ffa.1000x1000x1.png",
+     "stats": {
+      "unreviewed_annotations": 1,
+      "hot": false
+     },
+     "title": "SummerMash \u201913",
+     "title_with_featured": "SummerMash '13",
+     "url": "https://genius.com/Dj-earworm-summermash-13-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/190620",
+      "header_image_url": "https://images.genius.com/e46eb8327e3ea450b0ba0e15bcd0af6a.642x642x1.jpg",
+      "id": 190620,
+      "image_url": "https://images.genius.com/e46eb8327e3ea450b0ba0e15bcd0af6a.642x642x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "DJ Earworm",
+      "url": "https://genius.com/artists/Dj-earworm"
+     }
+    }
+   ]
+  },
+  {
+   "relationship_type": "live_version_of",
+   "type": "live_version_of",
+   "songs": []
+  },
+  {
+   "relationship_type": "performed_live_as",
+   "type": "performed_live_as",
+   "songs": []
+  }
+ ],
+ "verified_annotations_by": [
+  {
+   "api_path": "/users/2809794",
+   "avatar": {
+    "tiny": {
+     "url": "https://images.genius.com/avatars/tiny/2272dd37bd3e7f4d4ce25accd048a406",
+     "bounding_box": {
+      "width": 16,
+      "height": 16
+     }
+    },
+    "thumb": {
+     "url": "https://images.genius.com/avatars/thumb/2272dd37bd3e7f4d4ce25accd048a406",
+     "bounding_box": {
+      "width": 32,
+      "height": 32
+     }
+    },
+    "small": {
+     "url": "https://images.genius.com/avatars/small/2272dd37bd3e7f4d4ce25accd048a406",
+     "bounding_box": {
+      "width": 100,
+      "height": 100
+     }
+    },
+    "medium": {
+     "url": "https://images.genius.com/avatars/medium/2272dd37bd3e7f4d4ce25accd048a406",
+     "bounding_box": {
+      "width": 300,
+      "height": 400
+     }
+    }
+   },
+   "header_image_url": "https://images.genius.com/330a5dc43b6b23b3a7019e0e9ae992ed.400x400x1.jpg",
+   "human_readable_role_for_display": "Verified Artist",
+   "id": 2809794,
+   "iq": 2842,
+   "login": "RobinThicke",
+   "name": "Robin Thicke",
+   "role_for_display": "verified_artist",
+   "url": "https://genius.com/RobinThicke",
+   "current_user_metadata": {
+    "permissions": [],
+    "excluded_permissions": [
+     "follow"
+    ],
+    "interactions": {
+     "following": false
+    }
+   }
+  }
+ ],
+ "verified_contributors": [
+  {
+   "contributions": [
+    "annotations"
+   ],
+   "artist": {
+    "api_path": "/artists/459",
+    "header_image_url": "https://images.genius.com/330a5dc43b6b23b3a7019e0e9ae992ed.400x400x1.jpg",
+    "id": 459,
+    "image_url": "https://images.genius.com/71e2d651715cdc3801352405c58c8b73.1000x1000x1.jpg",
+    "is_meme_verified": true,
+    "is_verified": true,
+    "name": "Robin Thicke",
+    "url": "https://genius.com/artists/Robin-thicke",
+    "iq": 2842
+   },
+   "user": {
+    "api_path": "/users/2809794",
+    "avatar": {
+     "tiny": {
+      "url": "https://images.genius.com/avatars/tiny/2272dd37bd3e7f4d4ce25accd048a406",
+      "bounding_box": {
+       "width": 16,
+       "height": 16
+      }
+     },
+     "thumb": {
+      "url": "https://images.genius.com/avatars/thumb/2272dd37bd3e7f4d4ce25accd048a406",
+      "bounding_box": {
+       "width": 32,
+       "height": 32
+      }
+     },
+     "small": {
+      "url": "https://images.genius.com/avatars/small/2272dd37bd3e7f4d4ce25accd048a406",
+      "bounding_box": {
+       "width": 100,
+       "height": 100
+      }
+     },
+     "medium": {
+      "url": "https://images.genius.com/avatars/medium/2272dd37bd3e7f4d4ce25accd048a406",
+      "bounding_box": {
+       "width": 300,
+       "height": 400
+      }
+     }
+    },
+    "header_image_url": "https://images.genius.com/330a5dc43b6b23b3a7019e0e9ae992ed.400x400x1.jpg",
+    "human_readable_role_for_display": "Verified Artist",
+    "id": 2809794,
+    "iq": 2842,
+    "login": "RobinThicke",
+    "name": "Robin Thicke",
+    "role_for_display": "verified_artist",
+    "url": "https://genius.com/RobinThicke",
+    "current_user_metadata": {
+     "permissions": [],
+     "excluded_permissions": [
+      "follow"
+     ],
+     "interactions": {
+      "following": false
+     }
+    }
+   }
+  }
+ ],
+ "verified_lyrics_by": [],
+ "writer_artists": [
+  {
+   "api_path": "/artists/944",
+   "header_image_url": "https://images.genius.com/446e5592dc5e3c295cf1b0e6088dc084.1000x692x1.jpg",
+   "id": 944,
+   "image_url": "https://images.genius.com/ee7f453224dcc21cb8b8cf57475530dc.217x217x1.png",
+   "is_meme_verified": false,
+   "is_verified": false,
+   "name": "Marvin Gaye",
+   "url": "https://genius.com/artists/Marvin-gaye"
+  },
+  {
+   "api_path": "/artists/85",
+   "header_image_url": "https://images.genius.com/9a7118eb0b1e83879cdb4b7855158d53.320x180x1.jpg",
+   "id": 85,
+   "image_url": "https://images.genius.com/6f1e66b5da6bb21cceee3cee5fb5dab5.272x272x1.jpg",
+   "is_meme_verified": true,
+   "is_verified": true,
+   "name": "T.I.",
+   "url": "https://genius.com/artists/Ti",
+   "iq": 7554
+  },
+  {
+   "api_path": "/artists/459",
+   "header_image_url": "https://images.genius.com/330a5dc43b6b23b3a7019e0e9ae992ed.400x400x1.jpg",
+   "id": 459,
+   "image_url": "https://images.genius.com/71e2d651715cdc3801352405c58c8b73.1000x1000x1.jpg",
+   "is_meme_verified": true,
+   "is_verified": true,
+   "name": "Robin Thicke",
+   "url": "https://genius.com/artists/Robin-thicke",
+   "iq": 2842
+  },
+  {
+   "api_path": "/artists/37698",
+   "header_image_url": "https://images.genius.com/fb7a63b765475d3b104a7d8bc483a8be.188x188x1.jpg",
+   "id": 37698,
+   "image_url": "https://images.genius.com/fb7a63b765475d3b104a7d8bc483a8be.188x188x1.jpg",
+   "is_meme_verified": false,
+   "is_verified": false,
+   "name": "Ed Townsend",
+   "url": "https://genius.com/artists/Ed-townsend"
+  },
+  {
+   "api_path": "/artists/110",
+   "header_image_url": "https://images.genius.com/6bb3ce5bd62c7acfc3a66798c4bbeb26.640x427x1.jpg",
+   "id": 110,
+   "image_url": "https://images.genius.com/aa964e94a21e7b893801ed3a2bd389b8.1000x1000x1.jpg",
+   "is_meme_verified": true,
+   "is_verified": true,
+   "name": "Pharrell Williams",
+   "url": "https://genius.com/artists/Pharrell-williams",
+   "iq": 660
+  }
+ ],
+ "lyrics": "Everybody get up\nEverybody get up\nHey, hey, hey\nHey, hey, hey (Uh)\nHey, hey, hey (Ha-ha! Woo!)\nTune me up\n\nIf you can't hear what I'm trying to say (Hey girl, come here!)\nIf you can't read from the same page (Hey)\nMaybe I'm going deaf (Hey, hey, hey)\nMaybe I'm going blind (Hey, hey, hey)\nMaybe I'm out of my mind (Hey, hey, hey)\nEverybody get up\n\nOkay, now he was close\nTried to domesticate you\nBut you're an animal\nBaby, it's in your nature (Meow)\nJust let me liberate you (Hey, hey, hey)\nYou don't need no takers (Hey, hey, hey)\nThat man is not your maker (Hey, hey, hey)\nAnd that's why I'm gon' take a (Everybody get up)\n\nGood girl\nI know you want it (Hey)\nI know you want it\nI know you want it\nYou're a good girl\nCan't let it get past me\nYou're far from plastic (Alright)\nTalkin' 'bout getting blasted\nI hate these blurred lines\nI know you want it (Hey)\nI know you want it (Oh yeah)\nI know you want it\nBut you're a good girl\nThe way you grab me\nMust wanna get nasty\nGo ahead, get at me\nEverybody get up (Come on!)\n\nWhat do they make dreams for (Why?)\nWhen you got them jeans on? (Why?)\nWhat do we need steam for?\nYou the hottest bitch in this place\nI feel so lucky (Hey, hey, hey)\nYou wanna hug me (Hey, hey, hey)\nWhat rhymes with hug me? (Hey, hey, hey)\nHey! (Everybody get up)\n\nOkay, now he was close\nTried to domesticate you\nBut you're an animal\nBaby, it's in your nature (Uh-huh)\nJust let me liberate you (Hey, hey, hey) (Uh-huh)\nYou don't need no takers (Hey, hey, hey) (Uh-huh)\nThat man is not your maker (Hey, hey, hey) (Uh-huh)\nAnd that's why I'm gon' take a (Everybody get up)\n\nGood girl\nI know you want it\nI know you want it (Hey)\nI know you want it\nYou're a good girl\nCan't let it get past me (Hey)\nYou're far from plastic (Oh)\nTalkin' 'bout getting blasted (Everybody get up)\nI hate these blurred lines (Hate them lines)\nI know you want it (I hate them lines)\nI know you want it (I hate them lines)\nI know you want it\nBut you're a good girl (Good girl)\nThe way you grab me\nMust wanna get nasty\nGo ahead, get at me (Everybody get up)\n\nHustle Gang, homie\nLet go\nAy say Rob, let me holla at 'em real quick\nOne thing I ask of you\nLet me be the one you back that ass up to (Come on!)\nGo from Malibu to Paris, boo (Yeah)\nHad a bitch, but she ain't bad as you\nSo, hit me up when you pass through\nI'll give you something big enough to tear your ass in two\nSwag on 'em even when you dress casual\nI mean, it's almost unbearable (Everybody get up)\nIn a hundred years not dare would I\nPull a Pharcyde, let you pass me by\nNothin' like your last guy, he too square for you\nHe don't smack that ass and pull your hair like that\nSo I'm just watchin' and waitin'\nFor you to salute the true big pimpin' (Okay)\nNot many women can refuse this pimpin'\nI'm a nice guy, but don't get it confused, get pimpin' (Everybody get up)\n\nShake your rump\nGet down, get up-a\nDo it like it hurt, like it hurt\nWhat, you don't like work?\nHey! (Everybody get up)\n\nBaby, can you breathe?\nI got this from Jamaica\nIt always works for me\nDakota to Decatur (Uh-huh)\nNo more pretending (Hey, hey, hey) (Uh-huh)\n'Cause now you're winning (Hey, hey, hey) (Uh-huh)\nHere's our beginning (Hey, hey, hey) (Uh-huh)\nI always wanted a\n\nYou're a good girl (Everybody get up)\nI know you want it (Hey)\nI know you want it\nI know you want it\nYou're a good girl\nCan't let it get past me (Oh yeah)\nYou're far from plastic (Alright)\nTalkin' 'bout getting blasted\nI hate these blurred lines (Everybody get up)\nI know you want it (Hey)\nI know you want it (Oh yeah)\nI know you want it\nBut you're a good girl\nThe way you grab me\nMust wanna get nasty (Hey)\nGo ahead, get at me\n\nEverybody get up\nEverybody get up\nHey, hey, hey\nHey, hey, hey\nHey, hey, hey"
+}

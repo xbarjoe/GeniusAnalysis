@@ -1,0 +1,1225 @@
+{
+ "_type": "song",
+ "annotation_count": 34,
+ "api_path": "/songs/599427",
+ "full_title": "No Role Modelz by\u00a0J.\u00a0Cole",
+ "header_image_thumbnail_url": "https://images.genius.com/2f88c0a52697a42d3d0fb1e3276d2411.300x300x1.jpg",
+ "header_image_url": "https://images.genius.com/2f88c0a52697a42d3d0fb1e3276d2411.640x640x1.jpg",
+ "id": 599427,
+ "instrumental": false,
+ "lyrics_owner_id": 599242,
+ "lyrics_state": "complete",
+ "lyrics_updated_at": 1606071889,
+ "path": "/J-cole-no-role-modelz-lyrics",
+ "pyongs_count": 1166,
+ "song_art_image_thumbnail_url": "https://images.genius.com/2f88c0a52697a42d3d0fb1e3276d2411.300x300x1.jpg",
+ "song_art_image_url": "https://images.genius.com/2f88c0a52697a42d3d0fb1e3276d2411.640x640x1.jpg",
+ "stats": {
+  "accepted_annotations": 30,
+  "contributors": 324,
+  "iq_earners": 324,
+  "transcribers": 6,
+  "unreviewed_annotations": 0,
+  "verified_annotations": 3,
+  "concurrents": 8,
+  "hot": false,
+  "pageviews": 4886761
+ },
+ "title": "No Role Modelz",
+ "title_with_featured": "No Role Modelz",
+ "updated_by_human_at": 1606071889,
+ "url": "https://genius.com/J-cole-no-role-modelz-lyrics",
+ "primary_artist": {
+  "api_path": "/artists/69",
+  "header_image_url": "https://images.genius.com/b4ced5fc34166c4798ae3a0e23aaa13d.1000x261x1.jpg",
+  "id": 69,
+  "image_url": "https://images.genius.com/9e6f453d188d0b0a3046f0898f4101f2.1000x1000x1.jpg",
+  "is_meme_verified": true,
+  "is_verified": true,
+  "name": "J. Cole",
+  "url": "https://genius.com/artists/J-cole",
+  "iq": 505
+ },
+ "apple_music_id": "940845268",
+ "apple_music_player_url": "https://genius.com/songs/599427/apple_music_player",
+ "description": {
+  "plain": "\u200bJ. Cole believes that shallow, materialistic \u201cL.A. hoes\u201d got that way because their only role models were talentless reality TV stars. But Cole also had no role models growing up, so what does that make him? A conflicted man who indulges in empty lust even though he knows it doesn\u2019t make him happy.\n\n\u201cNo Role Modelz\u201d was already a fan favorite on Cole\u2019s tour before being released as the fourth single from his third album, 2014 Forest Hills Drive. The \u201cfuck Hollywood\u201d theme of the album, which traces his own rise and response to fame, is particularly clear in this song\u2019s lyrics.\n\nThe song\u2019s hook interpolates Project Pat\u2019s 2001 hit \u201cDon\u2019t Save Her,\u201d and the track was produced by Phonix Beats and J. Cole. A clip of a speech by President George W. Bush is featured in an interlude before the song\u2019s bridge.\n\nCole said a few words about the inspiration behind \u201cNo Role Modelz\u201d while on tour:\n\nhttps://www.youtube.com/watch?v=A75f0lubIBM"
+ },
+ "embed_content": "<div id='rg_embed_link_599427' class='rg_embed_link' data-song-id='599427'>Read <a href='https://genius.com/J-cole-no-role-modelz-lyrics'>\u201cNo Role Modelz\u201d by J.\u00a0Cole</a> on Genius</div> <script crossorigin src='//genius.com/songs/599427/embed.js'></script>",
+ "fact_track": {
+  "provider": "spotify",
+  "external_url": "https://open.spotify.com/track/62vpWI1CHwFy7tMIcSStl8",
+  "button_text": "Behind the Lyrics in Spotify",
+  "help_link_text": "What's a Fact Track?",
+  "help_link_url": "https://genius.com/a/genius-and-spotify-together"
+ },
+ "featured_video": false,
+ "lyrics_placeholder_reason": null,
+ "recording_location": "Perfect Sound Studios, Los Angeles, CA",
+ "release_date": "2014-12-09",
+ "release_date_for_display": "December 9, 2014",
+ "current_user_metadata": {
+  "permissions": [
+   "see_pageviews",
+   "watch_fact_track",
+   "view_apple_music_player",
+   "create_comment",
+   "view_song_story_gallery"
+  ],
+  "excluded_permissions": [
+   "follow",
+   "award_transcription_iq",
+   "remove_transcription_iq",
+   "pyong",
+   "edit_lyrics",
+   "view_annotation_engagement_data",
+   "publish",
+   "unpublish",
+   "edit_spotify_details",
+   "hide",
+   "unhide",
+   "toggle_featured_video",
+   "add_pinned_annotation_to",
+   "add_community_annotation_to",
+   "destroy",
+   "mark_as_not_spam",
+   "edit_spotify_annotations_for",
+   "verify_lyrics",
+   "unverify_lyrics",
+   "edit_anything",
+   "edit_any_media",
+   "edit",
+   "rename",
+   "edit_tags",
+   "reindex",
+   "view_lyrics_synchronization",
+   "enable_media",
+   "disable_media",
+   "edit_lyrics_or_annotation_brackets",
+   "see_editorial_indicators",
+   "view_attribution_visualization",
+   "edit_annotation_brackets",
+   "preview_lyrics_for_export",
+   "hide_apple_player",
+   "unhide_apple_player",
+   "trigger_apple_match",
+   "mark_lyrics_evaluation_as_approved",
+   "mark_lyrics_evaluation_as_staff_approved",
+   "mark_lyrics_evaluation_as_unapproved",
+   "mark_lyrics_evaluation_as_un_staff_approved",
+   "view_transcriber_media_player",
+   "override_apple_match",
+   "edit_youtube_url",
+   "edit_soundcloud_url",
+   "edit_spotify_uuid",
+   "edit_vevo_url",
+   "moderate_annotations",
+   "create_annotation",
+   "see_short_id",
+   "manage_chart_item",
+   "create_tag",
+   "propose_lyrics_edit",
+   "moderate_lyrics_edit_proposals",
+   "preview_react_song_page"
+  ],
+  "interactions": {
+   "pyong": false,
+   "following": false
+  },
+  "relationships": {},
+  "iq_by_action": {}
+ },
+ "album": {
+  "api_path": "/albums/115138",
+  "cover_art_url": "https://images.genius.com/2f88c0a52697a42d3d0fb1e3276d2411.640x640x1.jpg",
+  "full_title": "2014 Forest Hills Drive by J. Cole",
+  "id": 115138,
+  "name": "2014 Forest Hills Drive",
+  "url": "https://genius.com/albums/J-cole/2014-forest-hills-drive",
+  "artist": {
+   "api_path": "/artists/69",
+   "header_image_url": "https://images.genius.com/b4ced5fc34166c4798ae3a0e23aaa13d.1000x261x1.jpg",
+   "id": 69,
+   "image_url": "https://images.genius.com/9e6f453d188d0b0a3046f0898f4101f2.1000x1000x1.jpg",
+   "is_meme_verified": true,
+   "is_verified": true,
+   "name": "J. Cole",
+   "url": "https://genius.com/artists/J-cole",
+   "iq": 505
+  }
+ },
+ "custom_performances": [
+  {
+   "label": "Mixing",
+   "artists": [
+    {
+     "api_path": "/artists/642578",
+     "header_image_url": "https://images.genius.com/8e4c8d3ac29ffc4e129e564becd397e9.400x400x1.jpg",
+     "id": 642578,
+     "image_url": "https://images.genius.com/8e4c8d3ac29ffc4e129e564becd397e9.400x400x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Juro \u201cMez\u201d Davis",
+     "url": "https://genius.com/artists/Juro-mez-davis"
+    }
+   ]
+  },
+  {
+   "label": "Released by",
+   "artists": [
+    {
+     "api_path": "/artists/30372",
+     "header_image_url": "https://images.genius.com/37994e562c585d846c732f6451cd0cf7.400x400x1.jpg",
+     "id": 30372,
+     "image_url": "https://images.genius.com/eda4152e91c56ea7ce8e17fbafadd081.400x400x1.jpg",
+     "is_meme_verified": true,
+     "is_verified": true,
+     "name": "Columbia Records",
+     "url": "https://genius.com/artists/Columbia-records",
+     "iq": 127
+    },
+    {
+     "api_path": "/artists/57118",
+     "header_image_url": "https://images.genius.com/733a9682cded0888d3b42ac279cd1e53.660x440x1.jpg",
+     "id": 57118,
+     "image_url": "https://images.genius.com/733a9682cded0888d3b42ac279cd1e53.660x440x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Roc Nation",
+     "url": "https://genius.com/artists/Roc-nation"
+    },
+    {
+     "api_path": "/artists/618445",
+     "header_image_url": "https://images.genius.com/cd8242b014b3587e0e436f3e7a96ee5a.960x391x1.jpg",
+     "id": 618445,
+     "image_url": "https://images.genius.com/9182e18e6a784a3160c4adef52df5e6f.899x899x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Dreamville",
+     "url": "https://genius.com/artists/Dreamville"
+    }
+   ]
+  },
+  {
+   "label": "Interpolation Writing Credits",
+   "artists": [
+    {
+     "api_path": "/artists/167",
+     "header_image_url": "https://images.genius.com/6d4958bd96afe1560511ca216e6f7235.800x1000x1.jpg",
+     "id": 167,
+     "image_url": "https://images.genius.com/ceaa680acc840340d9a15d738da73d66.887x887x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Project Pat",
+     "url": "https://genius.com/artists/Project-pat"
+    },
+    {
+     "api_path": "/artists/5339",
+     "header_image_url": "https://images.genius.com/e4b7d20e91974f621800c29420c9201c.667x1000x1.jpg",
+     "id": 5339,
+     "image_url": "https://images.genius.com/eae6139b5dd773b963107408154cb68d.1000x1000x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "DJ Paul",
+     "url": "https://genius.com/artists/Dj-paul",
+     "iq": 736
+    },
+    {
+     "api_path": "/artists/1073",
+     "header_image_url": "https://images.genius.com/adfbc864a2841c44a156c187af7f10a8.1000x661x1.jpg",
+     "id": 1073,
+     "image_url": "https://images.genius.com/d42f50ada8df12cb647ff9de20e2a2ea.304x304x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "Juicy J",
+     "url": "https://genius.com/artists/Juicy-j",
+     "iq": 483
+    }
+   ]
+  },
+  {
+   "label": "Recorded By",
+   "artists": [
+    {
+     "api_path": "/artists/642578",
+     "header_image_url": "https://images.genius.com/8e4c8d3ac29ffc4e129e564becd397e9.400x400x1.jpg",
+     "id": 642578,
+     "image_url": "https://images.genius.com/8e4c8d3ac29ffc4e129e564becd397e9.400x400x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Juro \u201cMez\u201d Davis",
+     "url": "https://genius.com/artists/Juro-mez-davis"
+    }
+   ]
+  },
+  {
+   "label": "Assistant Engineer",
+   "artists": [
+    {
+     "api_path": "/artists/647397",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+     "id": 647397,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Sean Kellett",
+     "url": "https://genius.com/artists/Sean-kellett"
+    }
+   ]
+  },
+  {
+   "label": "Additional Background Vocals",
+   "artists": [
+    {
+     "api_path": "/artists/65694",
+     "header_image_url": "https://images.genius.com/6b21f899171626d81e9110a51965b052.1000x1000x1.png",
+     "id": 65694,
+     "image_url": "https://images.genius.com/bb680208389f759ae51ea26181c31c02.400x400x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Kaye Fox",
+     "url": "https://genius.com/artists/Kaye-fox"
+    }
+   ]
+  },
+  {
+   "label": "Additional Production",
+   "artists": [
+    {
+     "api_path": "/artists/69",
+     "header_image_url": "https://images.genius.com/b4ced5fc34166c4798ae3a0e23aaa13d.1000x261x1.jpg",
+     "id": 69,
+     "image_url": "https://images.genius.com/9e6f453d188d0b0a3046f0898f4101f2.1000x1000x1.jpg",
+     "is_meme_verified": true,
+     "is_verified": true,
+     "name": "J. Cole",
+     "url": "https://genius.com/artists/J-cole",
+     "iq": 505
+    }
+   ]
+  }
+ ],
+ "description_annotation": {
+  "_type": "referent",
+  "annotator_id": 341761,
+  "annotator_login": "PharaohPapi",
+  "api_path": "/referents/4456821",
+  "classification": "accepted",
+  "fragment": "No Role Modelz",
+  "id": 4456821,
+  "is_description": true,
+  "path": "/4456821/J-cole-no-role-modelz/No-role-modelz",
+  "range": {
+   "content": "No Role Modelz"
+  },
+  "song_id": 599427,
+  "url": "https://genius.com/4456821/J-cole-no-role-modelz/No-role-modelz",
+  "verified_annotator_ids": [],
+  "annotatable": {
+   "api_path": "/songs/599427",
+   "client_timestamps": {
+    "updated_by_human_at": 1606071889,
+    "lyrics_updated_at": 1606071889
+   },
+   "context": "J. Cole",
+   "id": 599427,
+   "image_url": "https://images.genius.com/2f88c0a52697a42d3d0fb1e3276d2411.640x640x1.jpg",
+   "link_title": "No Role Modelz by\u00a0J.\u00a0Cole",
+   "title": "No Role Modelz",
+   "type": "Song",
+   "url": "https://genius.com/J-cole-no-role-modelz-lyrics"
+  },
+  "annotations": [
+   {
+    "api_path": "/annotations/4456821",
+    "body": {
+     "plain": "\u200bJ. Cole believes that shallow, materialistic \u201cL.A. hoes\u201d got that way because their only role models were talentless reality TV stars. But Cole also had no role models growing up, so what does that make him? A conflicted man who indulges in empty lust even though he knows it doesn\u2019t make him happy.\n\n\u201cNo Role Modelz\u201d was already a fan favorite on Cole\u2019s tour before being released as the fourth single from his third album, 2014 Forest Hills Drive. The \u201cfuck Hollywood\u201d theme of the album, which traces his own rise and response to fame, is particularly clear in this song\u2019s lyrics.\n\nThe song\u2019s hook interpolates Project Pat\u2019s 2001 hit \u201cDon\u2019t Save Her,\u201d and the track was produced by Phonix Beats and J. Cole. A clip of a speech by President George W. Bush is featured in an interlude before the song\u2019s bridge.\n\nCole said a few words about the inspiration behind \u201cNo Role Modelz\u201d while on tour:\n\nhttps://www.youtube.com/watch?v=A75f0lubIBM"
+    },
+    "comment_count": 5,
+    "community": true,
+    "custom_preview": null,
+    "has_voters": true,
+    "id": 4456821,
+    "pinned": false,
+    "share_url": "https://genius.com/4456821",
+    "source": null,
+    "state": "accepted",
+    "url": "https://genius.com/4456821/J-cole-no-role-modelz/No-role-modelz",
+    "verified": false,
+    "votes_total": 388,
+    "current_user_metadata": {
+     "permissions": [
+      "create_comment"
+     ],
+     "excluded_permissions": [
+      "vote",
+      "edit",
+      "cosign",
+      "uncosign",
+      "destroy",
+      "accept",
+      "reject",
+      "see_unreviewed",
+      "clear_votes",
+      "propose_edit_to",
+      "pin_to_profile",
+      "unpin_from_profile",
+      "update_source",
+      "edit_custom_preview"
+     ],
+     "interactions": {
+      "cosign": false,
+      "pyong": false,
+      "vote": null
+     },
+     "iq_by_action": {}
+    },
+    "authors": [
+     {
+      "attribution": 0.5276381909547738,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/292095",
+       "avatar": {
+        "tiny": {
+         "url": "https://images.genius.com/avatars/tiny/8e6a629ff60386b77689633a04104c53",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://images.genius.com/avatars/thumb/8e6a629ff60386b77689633a04104c53",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://images.genius.com/avatars/small/8e6a629ff60386b77689633a04104c53",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://images.genius.com/avatars/medium/8e6a629ff60386b77689633a04104c53",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://images.genius.com/avatars/medium/8e6a629ff60386b77689633a04104c53",
+       "human_readable_role_for_display": "Staff",
+       "id": 292095,
+       "iq": 96260,
+       "login": "bfred",
+       "name": "bfred",
+       "role_for_display": "staff",
+       "url": "https://genius.com/bfred",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     },
+     {
+      "attribution": 0.21105527638190957,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/150586",
+       "avatar": {
+        "tiny": {
+         "url": "https://images.rapgenius.com/avatars/tiny/075f4c0c9502f65ab47b100fd64d9c3a",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://images.rapgenius.com/avatars/thumb/075f4c0c9502f65ab47b100fd64d9c3a",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://images.rapgenius.com/avatars/small/075f4c0c9502f65ab47b100fd64d9c3a",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://images.rapgenius.com/avatars/medium/075f4c0c9502f65ab47b100fd64d9c3a",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://images.rapgenius.com/avatars/medium/075f4c0c9502f65ab47b100fd64d9c3a",
+       "human_readable_role_for_display": "Editor",
+       "id": 150586,
+       "iq": 17996,
+       "login": "jsomers",
+       "name": "James Somers",
+       "role_for_display": "editor",
+       "url": "https://genius.com/jsomers",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     },
+     {
+      "attribution": 0.07537688442211056,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/341761",
+       "avatar": {
+        "tiny": {
+         "url": "https://images.genius.com/avatars/tiny/a06ac6191824b3aed20bc7d11f87d25b",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://images.genius.com/avatars/thumb/a06ac6191824b3aed20bc7d11f87d25b",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://images.genius.com/avatars/small/a06ac6191824b3aed20bc7d11f87d25b",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://images.genius.com/avatars/medium/a06ac6191824b3aed20bc7d11f87d25b",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://images.genius.com/avatars/medium/a06ac6191824b3aed20bc7d11f87d25b",
+       "human_readable_role_for_display": "Contributor",
+       "id": 341761,
+       "iq": 38137,
+       "login": "PharaohPapi",
+       "name": "PharaohPapi",
+       "role_for_display": "contributor",
+       "url": "https://genius.com/PharaohPapi",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     },
+     {
+      "attribution": 0.07035175879396985,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/1808241",
+       "avatar": {
+        "tiny": {
+         "url": "https://assets.genius.com/images/default_avatar_16.png?1606943206",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://assets.genius.com/images/default_avatar_32.png?1606943206",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://assets.genius.com/images/default_avatar_100.png?1606943206",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+       "human_readable_role_for_display": null,
+       "id": 1808241,
+       "iq": 57,
+       "login": "ths1537",
+       "name": "ths1537",
+       "role_for_display": null,
+       "url": "https://genius.com/ths1537",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     },
+     {
+      "attribution": 0.05025125628140704,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/217970",
+       "avatar": {
+        "tiny": {
+         "url": "https://images.rapgenius.com/avatars/tiny/5251e75164ed4c758eaceb897478d5c3",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://images.rapgenius.com/avatars/thumb/5251e75164ed4c758eaceb897478d5c3",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://images.rapgenius.com/avatars/small/5251e75164ed4c758eaceb897478d5c3",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://images.rapgenius.com/avatars/medium/5251e75164ed4c758eaceb897478d5c3",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://images.rapgenius.com/avatars/medium/5251e75164ed4c758eaceb897478d5c3",
+       "human_readable_role_for_display": "Contributor",
+       "id": 217970,
+       "iq": 247186,
+       "login": "DC26",
+       "name": "DC26",
+       "role_for_display": "contributor",
+       "url": "https://genius.com/DC26",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     },
+     {
+      "attribution": 0.04020100502512562,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/1267847",
+       "avatar": {
+        "tiny": {
+         "url": "https://images.rapgenius.com/avatars/tiny/49f302f6442504ded4cf60b9af19882c",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://images.rapgenius.com/avatars/thumb/49f302f6442504ded4cf60b9af19882c",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://images.rapgenius.com/avatars/small/49f302f6442504ded4cf60b9af19882c",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://images.rapgenius.com/avatars/medium/49f302f6442504ded4cf60b9af19882c",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://images.rapgenius.com/avatars/medium/49f302f6442504ded4cf60b9af19882c",
+       "human_readable_role_for_display": null,
+       "id": 1267847,
+       "iq": 261,
+       "login": "YuelAmbesajer",
+       "name": "YuelAmbesajer",
+       "role_for_display": null,
+       "url": "https://genius.com/YuelAmbesajer",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     },
+     {
+      "attribution": 0.02512562814070352,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/172030",
+       "avatar": {
+        "tiny": {
+         "url": "https://images.genius.com/avatars/tiny/da3c5431b3fb000ec91bfb3dbb370112",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://images.genius.com/avatars/thumb/da3c5431b3fb000ec91bfb3dbb370112",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://images.genius.com/avatars/small/da3c5431b3fb000ec91bfb3dbb370112",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://images.genius.com/avatars/medium/da3c5431b3fb000ec91bfb3dbb370112",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://images.genius.com/avatars/medium/da3c5431b3fb000ec91bfb3dbb370112",
+       "human_readable_role_for_display": "Editor",
+       "id": 172030,
+       "iq": 261511,
+       "login": "zk123",
+       "name": "Zk123",
+       "role_for_display": "editor",
+       "url": "https://genius.com/zk123",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     }
+    ],
+    "cosigned_by": [],
+    "rejection_comment": null,
+    "verified_by": null
+   }
+  ]
+ },
+ "featured_artists": [],
+ "lyrics_marked_complete_by": null,
+ "media": [
+  {
+   "native_uri": "spotify:track:62vpWI1CHwFy7tMIcSStl8",
+   "provider": "spotify",
+   "type": "audio",
+   "url": "https://open.spotify.com/track/62vpWI1CHwFy7tMIcSStl8"
+  },
+  {
+   "provider": "youtube",
+   "start": 0,
+   "type": "video",
+   "url": "http://www.youtube.com/watch?v=2RrhwDKw-j4"
+  }
+ ],
+ "producer_artists": [
+  {
+   "api_path": "/artists/69",
+   "header_image_url": "https://images.genius.com/b4ced5fc34166c4798ae3a0e23aaa13d.1000x261x1.jpg",
+   "id": 69,
+   "image_url": "https://images.genius.com/9e6f453d188d0b0a3046f0898f4101f2.1000x1000x1.jpg",
+   "is_meme_verified": true,
+   "is_verified": true,
+   "name": "J. Cole",
+   "url": "https://genius.com/artists/J-cole",
+   "iq": 505
+  },
+  {
+   "api_path": "/artists/43747",
+   "header_image_url": "https://images.genius.com/b725745b8504a3ec6b52a4129bc2bd70.200x160x1.jpg",
+   "id": 43747,
+   "image_url": "https://images.genius.com/b725745b8504a3ec6b52a4129bc2bd70.200x160x1.jpg",
+   "is_meme_verified": false,
+   "is_verified": false,
+   "name": "Phonix Beats",
+   "url": "https://genius.com/artists/Phonix-beats"
+  }
+ ],
+ "song_relationships": [
+  {
+   "relationship_type": "samples",
+   "type": "samples",
+   "songs": []
+  },
+  {
+   "relationship_type": "sampled_in",
+   "type": "sampled_in",
+   "songs": [
+    {
+     "annotation_count": 3,
+     "api_path": "/songs/2393958",
+     "full_title": "No Role Modelz (Freestyle) by\u00a0Davis\u00a0Absolute",
+     "header_image_thumbnail_url": "https://images.rapgenius.com/5893c90823f2812f31c61441e935a0a5.300x150x1.png",
+     "header_image_url": "https://images.rapgenius.com/5893c90823f2812f31c61441e935a0a5.660x330x1.png",
+     "id": 2393958,
+     "lyrics_owner_id": 1326332,
+     "lyrics_state": "complete",
+     "path": "/Davis-absolute-no-role-modelz-freestyle-lyrics",
+     "pyongs_count": 1,
+     "song_art_image_thumbnail_url": "https://images.rapgenius.com/73dd20fe6326fe4cec3dfb716caf0b5b.300x300x1.jpg",
+     "song_art_image_url": "https://images.rapgenius.com/73dd20fe6326fe4cec3dfb716caf0b5b.960x960x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 2,
+      "hot": false
+     },
+     "title": "No Role Modelz (Freestyle)",
+     "title_with_featured": "No Role Modelz (Freestyle)",
+     "url": "https://genius.com/Davis-absolute-no-role-modelz-freestyle-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/332649",
+      "header_image_url": "https://images.genius.com/5e1589f71c02185d7979b5a210e9ead2.1000x667x1.jpg",
+      "id": 332649,
+      "image_url": "https://images.genius.com/84361884c2c24dae01f270dcbf0b043c.507x507x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": true,
+      "name": "Davis Absolute",
+      "url": "https://genius.com/artists/Davis-absolute",
+      "iq": 577
+     }
+    },
+    {
+     "annotation_count": 1,
+     "api_path": "/songs/2403518",
+     "full_title": "Real Love by\u00a0Mila\u00a0J",
+     "header_image_thumbnail_url": "https://images.genius.com/e97e29f546a4315f554b8e8fc3d915a1.300x300x1.jpg",
+     "header_image_url": "https://images.genius.com/e97e29f546a4315f554b8e8fc3d915a1.1000x1000x1.jpg",
+     "id": 2403518,
+     "lyrics_owner_id": 113967,
+     "lyrics_state": "complete",
+     "path": "/Mila-j-real-love-lyrics",
+     "pyongs_count": null,
+     "song_art_image_thumbnail_url": "https://images.genius.com/e97e29f546a4315f554b8e8fc3d915a1.300x300x1.jpg",
+     "song_art_image_url": "https://images.genius.com/e97e29f546a4315f554b8e8fc3d915a1.1000x1000x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 0,
+      "hot": false
+     },
+     "title": "Real Love",
+     "title_with_featured": "Real Love",
+     "url": "https://genius.com/Mila-j-real-love-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/19285",
+      "header_image_url": "https://images.genius.com/6a5bbd04096bf5fd84812430e1e1fc44.800x315x1.png",
+      "id": 19285,
+      "image_url": "https://images.genius.com/5363c0738e8ccd3f9e6b25affe706ecc.783x783x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": true,
+      "name": "Mila J",
+      "url": "https://genius.com/artists/Mila-j",
+      "iq": 189
+     }
+    },
+    {
+     "annotation_count": 0,
+     "api_path": "/songs/3051537",
+     "full_title": "THE TRUTH PART 2 by\u00a0Tribe\u00a0Mafia",
+     "header_image_thumbnail_url": "https://images.genius.com/d646aaa3b2e64835e951f351604920c9.300x300x1.jpg",
+     "header_image_url": "https://images.genius.com/d646aaa3b2e64835e951f351604920c9.1000x1000x1.jpg",
+     "id": 3051537,
+     "lyrics_owner_id": 4502300,
+     "lyrics_state": "complete",
+     "path": "/Tribe-mafia-the-truth-part-2-lyrics",
+     "pyongs_count": null,
+     "song_art_image_thumbnail_url": "https://images.genius.com/d646aaa3b2e64835e951f351604920c9.300x300x1.jpg",
+     "song_art_image_url": "https://images.genius.com/d646aaa3b2e64835e951f351604920c9.1000x1000x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 0,
+      "hot": false
+     },
+     "title": "THE TRUTH PART 2",
+     "title_with_featured": "THE TRUTH PART 2",
+     "url": "https://genius.com/Tribe-mafia-the-truth-part-2-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/286555",
+      "header_image_url": "https://images.genius.com/dcc16af9d00b637ece6e9a161b2a4434.1000x1000x1.jpg",
+      "id": 286555,
+      "image_url": "https://images.genius.com/d646aaa3b2e64835e951f351604920c9.1000x1000x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Tribe Mafia",
+      "url": "https://genius.com/artists/Tribe-mafia"
+     }
+    },
+    {
+     "annotation_count": 0,
+     "api_path": "/songs/3139365",
+     "full_title": "No Role Modelz (Remix) by\u00a0DJ\u00a0Discretion",
+     "header_image_thumbnail_url": "https://images.genius.com/d47efafc9ea98b6a367d120cb4a7a88f.300x169x1.jpg",
+     "header_image_url": "https://images.genius.com/d47efafc9ea98b6a367d120cb4a7a88f.1000x563x1.jpg",
+     "id": 3139365,
+     "lyrics_owner_id": 4851013,
+     "lyrics_state": "complete",
+     "path": "/Dj-discretion-no-role-modelz-remix-lyrics",
+     "pyongs_count": 1,
+     "song_art_image_thumbnail_url": "https://images.genius.com/d47efafc9ea98b6a367d120cb4a7a88f.300x169x1.jpg",
+     "song_art_image_url": "https://images.genius.com/d47efafc9ea98b6a367d120cb4a7a88f.1000x563x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 0,
+      "hot": false
+     },
+     "title": "No Role Modelz (Remix)",
+     "title_with_featured": "No Role Modelz (Remix)",
+     "url": "https://genius.com/Dj-discretion-no-role-modelz-remix-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/1061279",
+      "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+      "id": 1061279,
+      "image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "DJ Discretion",
+      "url": "https://genius.com/artists/Dj-discretion"
+     }
+    }
+   ]
+  },
+  {
+   "relationship_type": "interpolates",
+   "type": "interpolates",
+   "songs": [
+    {
+     "annotation_count": 3,
+     "api_path": "/songs/37920",
+     "full_title": "Don't Save Her by\u00a0Project\u00a0Pat (Ft.\u00a0Crunchy\u00a0Black & Juicy\u00a0J)",
+     "header_image_thumbnail_url": "https://images.genius.com/52938fbadeab93b4e455fc16fb557eac.300x300x1.jpg",
+     "header_image_url": "https://images.genius.com/52938fbadeab93b4e455fc16fb557eac.391x391x1.jpg",
+     "id": 37920,
+     "lyrics_owner_id": 50,
+     "lyrics_state": "complete",
+     "path": "/Project-pat-dont-save-her-lyrics",
+     "pyongs_count": 4,
+     "song_art_image_thumbnail_url": "https://images.genius.com/52938fbadeab93b4e455fc16fb557eac.300x300x1.jpg",
+     "song_art_image_url": "https://images.genius.com/52938fbadeab93b4e455fc16fb557eac.391x391x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 1,
+      "hot": false,
+      "pageviews": 42199
+     },
+     "title": "Don\u2019t Save Her",
+     "title_with_featured": "Don't Save Her (Ft.\u00a0Crunchy\u00a0Black & Juicy\u00a0J)",
+     "url": "https://genius.com/Project-pat-dont-save-her-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/167",
+      "header_image_url": "https://images.genius.com/6d4958bd96afe1560511ca216e6f7235.800x1000x1.jpg",
+      "id": 167,
+      "image_url": "https://images.genius.com/ceaa680acc840340d9a15d738da73d66.887x887x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Project Pat",
+      "url": "https://genius.com/artists/Project-pat"
+     }
+    }
+   ]
+  },
+  {
+   "relationship_type": "interpolated_by",
+   "type": "interpolated_by",
+   "songs": [
+    {
+     "annotation_count": 3,
+     "api_path": "/songs/2454467",
+     "full_title": "Hit The Lights by\u00a0Rowlan",
+     "header_image_thumbnail_url": "https://images.genius.com/7adcab15ae9deaf7a91a3c620d5f0650.300x300x1.jpg",
+     "header_image_url": "https://images.genius.com/7adcab15ae9deaf7a91a3c620d5f0650.1000x1000x1.jpg",
+     "id": 2454467,
+     "lyrics_owner_id": 334770,
+     "lyrics_state": "complete",
+     "path": "/Rowlan-hit-the-lights-lyrics",
+     "pyongs_count": null,
+     "song_art_image_thumbnail_url": "https://images.genius.com/7adcab15ae9deaf7a91a3c620d5f0650.300x300x1.jpg",
+     "song_art_image_url": "https://images.genius.com/7adcab15ae9deaf7a91a3c620d5f0650.1000x1000x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 2,
+      "hot": false
+     },
+     "title": "Hit The Lights",
+     "title_with_featured": "Hit The Lights",
+     "url": "https://genius.com/Rowlan-hit-the-lights-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/97853",
+      "header_image_url": "https://images.genius.com/3f95aa0c897b13bb930be241ec4a0805.1000x667x1.jpg",
+      "id": 97853,
+      "image_url": "https://images.genius.com/6ab566eb5023d45264211a8b6b56e6f2.1000x1000x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": true,
+      "name": "Rowlan",
+      "url": "https://genius.com/artists/Rowlan",
+      "iq": 6273
+     }
+    },
+    {
+     "annotation_count": 0,
+     "api_path": "/songs/3808981",
+     "full_title": "Nomination by\u00a0Millz\u00a0Davis",
+     "header_image_thumbnail_url": "https://images.genius.com/f5d850acfbc05b7a627e48adfe9df25a.300x300x1.jpg",
+     "header_image_url": "https://images.genius.com/f5d850acfbc05b7a627e48adfe9df25a.600x600x1.jpg",
+     "id": 3808981,
+     "lyrics_owner_id": 4939554,
+     "lyrics_state": "complete",
+     "path": "/Millz-davis-nomination-lyrics",
+     "pyongs_count": null,
+     "song_art_image_thumbnail_url": "https://images.genius.com/f5d850acfbc05b7a627e48adfe9df25a.300x300x1.jpg",
+     "song_art_image_url": "https://images.genius.com/f5d850acfbc05b7a627e48adfe9df25a.600x600x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 0,
+      "hot": false
+     },
+     "title": "Nomination",
+     "title_with_featured": "Nomination",
+     "url": "https://genius.com/Millz-davis-nomination-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/1513422",
+      "header_image_url": "https://images.genius.com/e129213cbba93b7bf5e793195d9a87f1.1000x666x1.jpg",
+      "id": 1513422,
+      "image_url": "https://images.genius.com/b31c15c70dca3f84639b77ed5b49e435.720x720x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Millz Davis",
+      "url": "https://genius.com/artists/Millz-davis"
+     }
+    }
+   ]
+  },
+  {
+   "relationship_type": "cover_of",
+   "type": "cover_of",
+   "songs": []
+  },
+  {
+   "relationship_type": "covered_by",
+   "type": "covered_by",
+   "songs": []
+  },
+  {
+   "relationship_type": "remix_of",
+   "type": "remix_of",
+   "songs": []
+  },
+  {
+   "relationship_type": "remixed_by",
+   "type": "remixed_by",
+   "songs": [
+    {
+     "annotation_count": 1,
+     "api_path": "/songs/1931294",
+     "full_title": "Everestt by\u00a0Toquel",
+     "header_image_thumbnail_url": "https://images.rapgenius.com/9b1d8c41232a05806c0bb5f5c45a5c4b.300x169x1.jpg",
+     "header_image_url": "https://images.rapgenius.com/9b1d8c41232a05806c0bb5f5c45a5c4b.1000x563x1.jpg",
+     "id": 1931294,
+     "lyrics_owner_id": 1145170,
+     "lyrics_state": "complete",
+     "path": "/Toquel-everestt-lyrics",
+     "pyongs_count": 1,
+     "song_art_image_thumbnail_url": "https://images.rapgenius.com/9b1d8c41232a05806c0bb5f5c45a5c4b.300x169x1.jpg",
+     "song_art_image_url": "https://images.rapgenius.com/9b1d8c41232a05806c0bb5f5c45a5c4b.1000x563x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 0,
+      "hot": false
+     },
+     "title": "Everestt",
+     "title_with_featured": "Everestt",
+     "url": "https://genius.com/Toquel-everestt-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/67601",
+      "header_image_url": "https://images.genius.com/3ab70701ff9deb64977c52d8eebb7779.1000x667x1.jpg",
+      "id": 67601,
+      "image_url": "https://images.genius.com/f52537cfb32a46b57db5f387fd02a39f.639x639x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": true,
+      "name": "Toquel",
+      "url": "https://genius.com/artists/Toquel",
+      "iq": 2205
+     }
+    },
+    {
+     "annotation_count": 0,
+     "api_path": "/songs/4543727",
+     "full_title": "PapiraRaw (J. Cole Remix) by\u00a0Devdsnow",
+     "header_image_thumbnail_url": "https://images.genius.com/dbed321afbcb59f65388c47de885144b.300x300x1.jpg",
+     "header_image_url": "https://images.genius.com/dbed321afbcb59f65388c47de885144b.500x500x1.jpg",
+     "id": 4543727,
+     "lyrics_owner_id": 7563636,
+     "lyrics_state": "complete",
+     "path": "/Devdsnow-papiraraw-j-cole-remix-lyrics",
+     "pyongs_count": null,
+     "song_art_image_thumbnail_url": "https://images.genius.com/dbed321afbcb59f65388c47de885144b.300x300x1.jpg",
+     "song_art_image_url": "https://images.genius.com/dbed321afbcb59f65388c47de885144b.500x500x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 0,
+      "hot": false
+     },
+     "title": "PapiraRaw (J. Cole Remix)",
+     "title_with_featured": "PapiraRaw (J. Cole Remix)",
+     "url": "https://genius.com/Devdsnow-papiraraw-j-cole-remix-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/1819990",
+      "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+      "id": 1819990,
+      "image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Devdsnow",
+      "url": "https://genius.com/artists/Devdsnow"
+     }
+    },
+    {
+     "annotation_count": 0,
+     "api_path": "/songs/5501843",
+     "full_title": "No Role Modelz (Remix) by\u00a0Cristal\u00a0(BR)",
+     "header_image_thumbnail_url": "https://images.genius.com/7fc35540edf53fff3673efb39dcc854c.300x300x1.png",
+     "header_image_url": "https://images.genius.com/7fc35540edf53fff3673efb39dcc854c.670x670x1.png",
+     "id": 5501843,
+     "lyrics_owner_id": 3941750,
+     "lyrics_state": "complete",
+     "path": "/Cristal-br-no-role-modelz-remix-lyrics",
+     "pyongs_count": null,
+     "song_art_image_thumbnail_url": "https://images.genius.com/7fc35540edf53fff3673efb39dcc854c.300x300x1.png",
+     "song_art_image_url": "https://images.genius.com/7fc35540edf53fff3673efb39dcc854c.670x670x1.png",
+     "stats": {
+      "unreviewed_annotations": 0,
+      "hot": false
+     },
+     "title": "No Role Modelz (Remix)",
+     "title_with_featured": "No Role Modelz (Remix)",
+     "url": "https://genius.com/Cristal-br-no-role-modelz-remix-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/2064498",
+      "header_image_url": "https://images.genius.com/50eaca55251844eb083ded5eb2452ff6.662x662x1.jpg",
+      "id": 2064498,
+      "image_url": "https://images.genius.com/4eaa43ca2fb93f26d632844e4a62bfd6.1000x1000x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": true,
+      "name": "Cristal (BR)",
+      "url": "https://genius.com/artists/Cristal-br",
+      "iq": 473
+     }
+    }
+   ]
+  },
+  {
+   "relationship_type": "live_version_of",
+   "type": "live_version_of",
+   "songs": []
+  },
+  {
+   "relationship_type": "performed_live_as",
+   "type": "performed_live_as",
+   "songs": [
+    {
+     "annotation_count": 0,
+     "api_path": "/songs/4254018",
+     "full_title": "No Role Modelz (Live) by\u00a0J.\u00a0Cole",
+     "header_image_thumbnail_url": "https://images.genius.com/6affcd514d0bc308d7761e9589cd9abc.300x300x1.jpg",
+     "header_image_url": "https://images.genius.com/6affcd514d0bc308d7761e9589cd9abc.1000x1000x1.jpg",
+     "id": 4254018,
+     "lyrics_owner_id": 2703119,
+     "lyrics_state": "complete",
+     "path": "/J-cole-no-role-modelz-live-lyrics",
+     "pyongs_count": 1,
+     "song_art_image_thumbnail_url": "https://images.genius.com/6affcd514d0bc308d7761e9589cd9abc.300x300x1.jpg",
+     "song_art_image_url": "https://images.genius.com/6affcd514d0bc308d7761e9589cd9abc.1000x1000x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 0,
+      "hot": false,
+      "pageviews": 7409
+     },
+     "title": "No Role Modelz (Live)",
+     "title_with_featured": "No Role Modelz (Live)",
+     "url": "https://genius.com/J-cole-no-role-modelz-live-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/69",
+      "header_image_url": "https://images.genius.com/b4ced5fc34166c4798ae3a0e23aaa13d.1000x261x1.jpg",
+      "id": 69,
+      "image_url": "https://images.genius.com/9e6f453d188d0b0a3046f0898f4101f2.1000x1000x1.jpg",
+      "is_meme_verified": true,
+      "is_verified": true,
+      "name": "J. Cole",
+      "url": "https://genius.com/artists/J-cole",
+      "iq": 505
+     }
+    }
+   ]
+  }
+ ],
+ "verified_annotations_by": [],
+ "verified_contributors": [],
+ "verified_lyrics_by": [],
+ "writer_artists": [
+  {
+   "api_path": "/artists/69",
+   "header_image_url": "https://images.genius.com/b4ced5fc34166c4798ae3a0e23aaa13d.1000x261x1.jpg",
+   "id": 69,
+   "image_url": "https://images.genius.com/9e6f453d188d0b0a3046f0898f4101f2.1000x1000x1.jpg",
+   "is_meme_verified": true,
+   "is_verified": true,
+   "name": "J. Cole",
+   "url": "https://genius.com/artists/J-cole",
+   "iq": 505
+  }
+ ],
+ "lyrics": "First things first: rest in peace Uncle Phil\nFor real\nYou the only father that I ever knew\nI get my bitch pregnant, I'ma be a better you\nProphecies that I made way back in the Ville\nFulfilled\nListen, even back when we was broke, my team ill\nMartin Luther King would'a been on Dreamville, talk to a nigga\n\nOne time for my L.A. sisters\nOne time for my L.A. hoes\nLame niggas can't tell the difference\nOne time for a nigga who know\n\nDon't save her, she don't wanna be saved\nDon't save her, she don't wanna be saved\nDon't save her, she don't wanna be saved\nDon't save her, she don't wanna be saved\n\nNo role models and I'm here right now\nNo role models to speak of\nSearchin' through my memory, my memory, I couldn't find one\nLast night I was gettin' my feet rubbed by the baddest bitch\nNot Trina but I swear to God, this bitch'll make you call your girl up\nAnd tell her, \"Hey, what's good?\nSorry I'm never comin' home, I'ma stay for good.\"\nThen hang the phone up and proceed to lay the wood\nI came fast like 9-1-1 in white neighborhoods\nAin't got no shame 'bout it\nShe think I'm spoiled and I'm rich 'cause I can have any bitch\nI got defensive and said, \"Nah, I was the same without it.\"\nBut then I thought back, back to a better me\nBefore I was a B-list celebrity\n'Fore I started callin' bitches \"bitches\" so heavily\nBack when you could get a platinum plaque without no melody, you wadn't sweatin' me\n\nOne time for my L.A. sisters\nOne time for my L.A. hoes\nLame niggas can't tell the difference\nOne time for a nigga who know\n\nDon't save her, she don't wanna be saved\nDon't save her, she don't wanna be saved\nDon't save her, she don't wanna be saved\nDon't save her, she don't wanna be saved\n\nI want a real love, dark-skinned Aunt Viv love\nThat Jada and that Will love\nThat leave a toothbrush at your crib love\nAnd you ain't gotta wonder whether that's your kid love\nNigga, I don't want no bitch from reality shows\nOut-of-touch-with-reality hoes\nOut in Hollywood bringin' back five or six hoes\nFuck 'em then we kick 'em to the do', nigga, you know how it go\nShe deserved that, she a bird, it's a bird trap\nYou think if I didn't rap she would flirt back?\nTakin' off her skirt, let her wear my shirt, 'fore she leave\n\"I'ma need my shirt back\" (Nigga, you know how it go)\n\nOne time for my L.A. sisters\nOne time for my L.A. hoes\nLame niggas can't tell the difference\nOne time for a nigga who know\n\nDon't save her, she don't wanna be saved\nDon't save her, she don't wanna be saved\nDon't save her, she don't wanna be saved\nDon't save her, she don't wanna be saved\n\nThere's an old saying in Tennessee\u2014I know it's in Texas, probably in Tennessee\u2014that says, fool me once\u2026 shame on\u2026 shame on you. Fool me\u2014can't get fooled again\n\nFool me one time, shame on you (Ayy)\nFool me twice, can't put the blame on you (Ayy)\nFool me three times, fuck the peace sign\nLoad the chopper, let it rain on you (Bop bop bop)\nFool me one time, shame on you (Ayy)\nFool me twice, can't put the blame on you (Ayy)\nFool me three times, fuck the peace sign\nLoad the chopper, let it rain on you (Bop bop bop)\n\nMy only regret was too young for Lisa Bonet\nMy only regret was too young for Nia Long\nNow all I'm left with is hoes from reality shows\nHand her a script, the bitch prolly couldn't read along\nMy only regret was too young for Sade Adu\nMy only regret, could never take Aaliyah home\nNow all I'm left with is hoes up in Greystone\nWith the stale face 'cause they know it's they song\n\nShe shallow but the pussy deep, she shallow\nShe shallow\nShe shallow but the pussy deep, she shallow (Yeah, ayy)\nShe shallow\nShe shallow but the pussy deep, she shallow\nShe shallow\nShe shallow but the pussy deep, she shallow\nShe shallow\n\nDon't save her, she don't wanna be saved\nDon't save her, she don't wanna be saved\nDon't save her, she don't wanna be saved\nDon't save her, she don't wanna be saved\nDon't save her, she don't wanna be saved\nDon't save her, she don't wanna be saved\nDon't save her, she don't wanna be saved\nDon't save her, she don't wanna be saved"
+}

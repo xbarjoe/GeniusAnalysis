@@ -1,0 +1,2007 @@
+{
+ "_type": "song",
+ "annotation_count": 22,
+ "api_path": "/songs/496445",
+ "full_title": "Trap Queen by\u00a0Fetty\u00a0Wap",
+ "header_image_thumbnail_url": "https://images.rapgenius.com/694274eb49f35ea1ad1acc36ab99390e.300x300x1.jpg",
+ "header_image_url": "https://images.rapgenius.com/694274eb49f35ea1ad1acc36ab99390e.640x640x1.jpg",
+ "id": 496445,
+ "instrumental": false,
+ "lyrics_owner_id": 104344,
+ "lyrics_state": "complete",
+ "lyrics_updated_at": 1600239979,
+ "path": "/Fetty-wap-trap-queen-lyrics",
+ "pyongs_count": 3179,
+ "song_art_image_thumbnail_url": "https://images.genius.com/9bc4ba5cffb770435bf740eedfa79e23.300x300x1.png",
+ "song_art_image_url": "https://images.genius.com/9bc4ba5cffb770435bf740eedfa79e23.1000x1000x1.png",
+ "stats": {
+  "accepted_annotations": 21,
+  "contributors": 228,
+  "iq_earners": 228,
+  "transcribers": 5,
+  "unreviewed_annotations": 0,
+  "verified_annotations": 0,
+  "concurrents": 4,
+  "hot": false,
+  "pageviews": 6949691
+ },
+ "title": "Trap Queen",
+ "title_with_featured": "Trap Queen",
+ "updated_by_human_at": 1606077740,
+ "url": "https://genius.com/Fetty-wap-trap-queen-lyrics",
+ "primary_artist": {
+  "api_path": "/artists/216609",
+  "header_image_url": "https://images.genius.com/cfdf0e6082f7216c2483b34c15420f43.700x393x1.jpg",
+  "id": 216609,
+  "image_url": "https://images.genius.com/b0686e6e7eec842de90328ac63f4da85.400x400x1.jpg",
+  "is_meme_verified": true,
+  "is_verified": true,
+  "name": "Fetty Wap",
+  "url": "https://genius.com/artists/Fetty-wap",
+  "iq": 100
+ },
+ "apple_music_id": "1039459590",
+ "apple_music_player_url": "https://genius.com/songs/496445/apple_music_player",
+ "description": {
+  "plain": "\u201cTrap Queen\u201d is the gratifying tale of Fetty Wap and his girl teaming up in the drug game. (A \u201ctrap\u201d is a place where drug deals happen.) A few months after releasing this song, the Paterson, New Jersey native signed to Lyor Cohen\u2019s 300 Entertainment.\n\nNearly a year after it was released, the song became a crossover sensation, hitting the #2 spot on the Billboard Hot 100 chart.\n\nFetty spoke to Complex about his inspiration for the song:\n\nI was just dealing with somebody at the time, and she was holding me down. We were building a lot, and I came up with the concept. She was my trap queen.\n\nThe term \u201ctrap queen\u201d first appears in Gucci Mane\u2019s 2006 song \u201cTrap Gurl\u201d.\n\nFetty told Maxim the \u201csong doesn\u2019t have anything to do with love, really\u2026\u201d It\u2019s about a girl who \u201clearned how to cook crack, and she kind of did it so good that she made enough for the both of us,\u201d he says. \u201cShe knew how to stretch that shit.\u201d\n\n\u201cIt\u2019s not like, \u2018Oh, babe, I love you, let\u2019s work for this,\u2019\u2026 No, we\u2019re about to go break the law, and we\u2019re gonna have some fun.\u201d"
+ },
+ "embed_content": "<div id='rg_embed_link_496445' class='rg_embed_link' data-song-id='496445'>Read <a href='https://genius.com/Fetty-wap-trap-queen-lyrics'>\u201cTrap Queen\u201d by Fetty\u00a0Wap</a> on Genius</div> <script crossorigin src='//genius.com/songs/496445/embed.js'></script>",
+ "featured_video": true,
+ "lyrics_placeholder_reason": null,
+ "recording_location": null,
+ "release_date": "2014-03-08",
+ "release_date_for_display": "March 8, 2014",
+ "current_user_metadata": {
+  "permissions": [
+   "see_pageviews",
+   "view_apple_music_player",
+   "create_comment",
+   "view_song_story_gallery"
+  ],
+  "excluded_permissions": [
+   "follow",
+   "award_transcription_iq",
+   "remove_transcription_iq",
+   "pyong",
+   "edit_lyrics",
+   "view_annotation_engagement_data",
+   "publish",
+   "unpublish",
+   "edit_spotify_details",
+   "hide",
+   "unhide",
+   "toggle_featured_video",
+   "add_pinned_annotation_to",
+   "add_community_annotation_to",
+   "destroy",
+   "mark_as_not_spam",
+   "edit_spotify_annotations_for",
+   "verify_lyrics",
+   "unverify_lyrics",
+   "edit_anything",
+   "edit_any_media",
+   "edit",
+   "rename",
+   "edit_tags",
+   "watch_fact_track",
+   "reindex",
+   "view_lyrics_synchronization",
+   "enable_media",
+   "disable_media",
+   "edit_lyrics_or_annotation_brackets",
+   "see_editorial_indicators",
+   "view_attribution_visualization",
+   "edit_annotation_brackets",
+   "preview_lyrics_for_export",
+   "hide_apple_player",
+   "unhide_apple_player",
+   "trigger_apple_match",
+   "mark_lyrics_evaluation_as_approved",
+   "mark_lyrics_evaluation_as_staff_approved",
+   "mark_lyrics_evaluation_as_unapproved",
+   "mark_lyrics_evaluation_as_un_staff_approved",
+   "view_transcriber_media_player",
+   "override_apple_match",
+   "edit_youtube_url",
+   "edit_soundcloud_url",
+   "edit_spotify_uuid",
+   "edit_vevo_url",
+   "moderate_annotations",
+   "create_annotation",
+   "see_short_id",
+   "manage_chart_item",
+   "create_tag",
+   "propose_lyrics_edit",
+   "moderate_lyrics_edit_proposals",
+   "preview_react_song_page"
+  ],
+  "interactions": {
+   "pyong": false,
+   "following": false
+  },
+  "relationships": {},
+  "iq_by_action": {}
+ },
+ "album": {
+  "api_path": "/albums/124183",
+  "cover_art_url": "https://images.genius.com/0c54c098e3d4ae687a8d76d969b2db84.500x500x1.jpg",
+  "full_title": "Up Next  by Fetty Wap",
+  "id": 124183,
+  "name": "Up Next ",
+  "url": "https://genius.com/albums/Fetty-wap/Up-next",
+  "artist": {
+   "api_path": "/artists/216609",
+   "header_image_url": "https://images.genius.com/cfdf0e6082f7216c2483b34c15420f43.700x393x1.jpg",
+   "id": 216609,
+   "image_url": "https://images.genius.com/b0686e6e7eec842de90328ac63f4da85.400x400x1.jpg",
+   "is_meme_verified": true,
+   "is_verified": true,
+   "name": "Fetty Wap",
+   "url": "https://genius.com/artists/Fetty-wap",
+   "iq": 100
+  }
+ },
+ "custom_performances": [
+  {
+   "label": "Mixing Engineer",
+   "artists": [
+    {
+     "api_path": "/artists/137577",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+     "id": 137577,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Peoples",
+     "url": "https://genius.com/artists/Peoples"
+    }
+   ]
+  },
+  {
+   "label": "Recording Engineer",
+   "artists": [
+    {
+     "api_path": "/artists/137577",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+     "id": 137577,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Peoples",
+     "url": "https://genius.com/artists/Peoples"
+    }
+   ]
+  },
+  {
+   "label": "Assistant Engineer",
+   "artists": [
+    {
+     "api_path": "/artists/75164",
+     "header_image_url": "https://images.genius.com/584efa82f6c09a4759560c1ddc023b24.300x300x1.jpg",
+     "id": 75164,
+     "image_url": "https://images.genius.com/584efa82f6c09a4759560c1ddc023b24.300x300x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Shy Boogs",
+     "url": "https://genius.com/artists/Shy-boogs"
+    }
+   ]
+  },
+  {
+   "label": "Video Second Unit Director",
+   "artists": [
+    {
+     "api_path": "/artists/1100279",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+     "id": 1100279,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Nicholas Lam",
+     "url": "https://genius.com/artists/Nicholas-lam"
+    }
+   ]
+  },
+  {
+   "label": "Video Producer",
+   "artists": [
+    {
+     "api_path": "/artists/2489011",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+     "id": 2489011,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Andrew Rawson",
+     "url": "https://genius.com/artists/Andrew-rawson"
+    }
+   ]
+  },
+  {
+   "label": "Video Director",
+   "artists": [
+    {
+     "api_path": "/artists/1045033",
+     "header_image_url": "https://images.genius.com/27ea6ed87acc327969cbbfceb3523acc.242x242x1.png",
+     "id": 1045033,
+     "image_url": "https://images.genius.com/27ea6ed87acc327969cbbfceb3523acc.242x242x1.png",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Tim Mattia",
+     "url": "https://genius.com/artists/Tim-mattia"
+    }
+   ]
+  },
+  {
+   "label": "Mastering Engineer",
+   "artists": [
+    {
+     "api_path": "/artists/2387676",
+     "header_image_url": "https://images.genius.com/e76fb4846940ea259b8d218c58475b38.640x418x1.jpg",
+     "id": 2387676,
+     "image_url": "https://images.genius.com/64c862ae5b3a6ea6fa1fb89a26d5f579.320x320x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "J. Lacy",
+     "url": "https://genius.com/artists/J-lacy"
+    }
+   ]
+  },
+  {
+   "label": "Publisher",
+   "artists": [
+    {
+     "api_path": "/artists/2261510",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+     "id": 2261510,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Sony/ATV Tunes",
+     "url": "https://genius.com/artists/Sony-atv-tunes"
+    },
+    {
+     "api_path": "/artists/1011919",
+     "header_image_url": "https://images.genius.com/26596e664ee4244a3a112d1a0eefabe3.220x102x1.png",
+     "id": 1011919,
+     "image_url": "https://images.genius.com/f39d8c1ab1923335932d0b5356758f39.382x382x1.png",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "BMG",
+     "url": "https://genius.com/artists/Bmg"
+    },
+    {
+     "api_path": "/artists/991352",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+     "id": 991352,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "RGF Productions",
+     "url": "https://genius.com/artists/Rgf-productions"
+    },
+    {
+     "api_path": "/artists/88331",
+     "header_image_url": "https://images.genius.com/b46212847df33dcc782ffff51fc737b4.1000x207x1.png",
+     "id": 88331,
+     "image_url": "https://images.genius.com/2a8cce70d4827d126ecbbc648a8ad62f.1000x1000x1.png",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Sony Music Entertainment",
+     "url": "https://genius.com/artists/Sony-music-entertainment"
+    },
+    {
+     "api_path": "/artists/577324",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+     "id": 577324,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Zoovier",
+     "url": "https://genius.com/artists/Zoovier"
+    },
+    {
+     "api_path": "/artists/2246632",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+     "id": 2246632,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Tony Fadd Beats",
+     "url": "https://genius.com/artists/Tony-fadd-beats"
+    },
+    {
+     "api_path": "/artists/2153218",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+     "id": 2153218,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Sony/ATV Allegro",
+     "url": "https://genius.com/artists/Sony-atv-allegro"
+    },
+    {
+     "api_path": "/artists/2227009",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+     "id": 2227009,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Goodefella4life",
+     "url": "https://genius.com/artists/Goodefella4life"
+    },
+    {
+     "api_path": "/artists/992360",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+     "id": 992360,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "BMG Gold Songs",
+     "url": "https://genius.com/artists/Bmg-gold-songs"
+    },
+    {
+     "api_path": "/artists/2246631",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+     "id": 2246631,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "45th & 3rd Music Publishing",
+     "url": "https://genius.com/artists/45th-and-3rd-music-publishing"
+    }
+   ]
+  },
+  {
+   "label": "Performance Rights",
+   "artists": [
+    {
+     "api_path": "/artists/551598",
+     "header_image_url": "https://images.genius.com/067d9bccf2ab6e5eded129861b73d9dc.851x315x1.jpg",
+     "id": 551598,
+     "image_url": "https://images.genius.com/5f24e8e67904faef419d736f2ade3f78.1000x1000x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "ASCAP",
+     "url": "https://genius.com/artists/Ascap"
+    }
+   ]
+  },
+  {
+   "label": "Distributor",
+   "artists": [
+    {
+     "api_path": "/artists/540920",
+     "header_image_url": "https://images.genius.com/cefa940e6d5b092b02b6dad23b83808b.512x512x1.png",
+     "id": 540920,
+     "image_url": "https://images.genius.com/cefa940e6d5b092b02b6dad23b83808b.512x512x1.png",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "300 Entertainment",
+     "url": "https://genius.com/artists/300-entertainment",
+     "iq": 307
+    }
+   ]
+  },
+  {
+   "label": "Copyright \u00a9",
+   "artists": [
+    {
+     "api_path": "/artists/991352",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+     "id": 991352,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "RGF Productions",
+     "url": "https://genius.com/artists/Rgf-productions"
+    },
+    {
+     "api_path": "/artists/540920",
+     "header_image_url": "https://images.genius.com/cefa940e6d5b092b02b6dad23b83808b.512x512x1.png",
+     "id": 540920,
+     "image_url": "https://images.genius.com/cefa940e6d5b092b02b6dad23b83808b.512x512x1.png",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "300 Entertainment",
+     "url": "https://genius.com/artists/300-entertainment",
+     "iq": 307
+    }
+   ]
+  },
+  {
+   "label": "Phonographic Copyright \u2117",
+   "artists": [
+    {
+     "api_path": "/artists/991352",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+     "id": 991352,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "RGF Productions",
+     "url": "https://genius.com/artists/Rgf-productions"
+    },
+    {
+     "api_path": "/artists/540920",
+     "header_image_url": "https://images.genius.com/cefa940e6d5b092b02b6dad23b83808b.512x512x1.png",
+     "id": 540920,
+     "image_url": "https://images.genius.com/cefa940e6d5b092b02b6dad23b83808b.512x512x1.png",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "300 Entertainment",
+     "url": "https://genius.com/artists/300-entertainment",
+     "iq": 307
+    }
+   ]
+  },
+  {
+   "label": "Label",
+   "artists": [
+    {
+     "api_path": "/artists/540920",
+     "header_image_url": "https://images.genius.com/cefa940e6d5b092b02b6dad23b83808b.512x512x1.png",
+     "id": 540920,
+     "image_url": "https://images.genius.com/cefa940e6d5b092b02b6dad23b83808b.512x512x1.png",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "300 Entertainment",
+     "url": "https://genius.com/artists/300-entertainment",
+     "iq": 307
+    },
+    {
+     "api_path": "/artists/991352",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+     "id": 991352,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "RGF Productions",
+     "url": "https://genius.com/artists/Rgf-productions"
+    }
+   ]
+  },
+  {
+   "label": "Additional Vocals",
+   "artists": [
+    {
+     "api_path": "/artists/331198",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+     "id": 331198,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "NittDaGritt",
+     "url": "https://genius.com/artists/Nittdagritt"
+    }
+   ]
+  }
+ ],
+ "description_annotation": {
+  "_type": "referent",
+  "annotator_id": 1122315,
+  "annotator_login": "QueenJ-Q",
+  "api_path": "/referents/3917200",
+  "classification": "accepted",
+  "fragment": "Trap Queen",
+  "id": 3917200,
+  "is_description": true,
+  "path": "/3917200/Fetty-wap-trap-queen/Trap-queen",
+  "range": {
+   "content": "Trap Queen"
+  },
+  "song_id": 496445,
+  "url": "https://genius.com/3917200/Fetty-wap-trap-queen/Trap-queen",
+  "verified_annotator_ids": [],
+  "annotatable": {
+   "api_path": "/songs/496445",
+   "client_timestamps": {
+    "updated_by_human_at": 1606077740,
+    "lyrics_updated_at": 1600239979
+   },
+   "context": "Fetty Wap",
+   "id": 496445,
+   "image_url": "https://images.genius.com/9bc4ba5cffb770435bf740eedfa79e23.1000x1000x1.png",
+   "link_title": "Trap Queen by\u00a0Fetty\u00a0Wap",
+   "title": "Trap Queen",
+   "type": "Song",
+   "url": "https://genius.com/Fetty-wap-trap-queen-lyrics"
+  },
+  "annotations": [
+   {
+    "api_path": "/annotations/3917200",
+    "body": {
+     "plain": "\u201cTrap Queen\u201d is the gratifying tale of Fetty Wap and his girl teaming up in the drug game. (A \u201ctrap\u201d is a place where drug deals happen.) A few months after releasing this song, the Paterson, New Jersey native signed to Lyor Cohen\u2019s 300 Entertainment.\n\nNearly a year after it was released, the song became a crossover sensation, hitting the #2 spot on the Billboard Hot 100 chart.\n\nFetty spoke to Complex about his inspiration for the song:\n\nI was just dealing with somebody at the time, and she was holding me down. We were building a lot, and I came up with the concept. She was my trap queen.\n\nThe term \u201ctrap queen\u201d first appears in Gucci Mane\u2019s 2006 song \u201cTrap Gurl\u201d.\n\nFetty told Maxim the \u201csong doesn\u2019t have anything to do with love, really\u2026\u201d It\u2019s about a girl who \u201clearned how to cook crack, and she kind of did it so good that she made enough for the both of us,\u201d he says. \u201cShe knew how to stretch that shit.\u201d\n\n\u201cIt\u2019s not like, \u2018Oh, babe, I love you, let\u2019s work for this,\u2019\u2026 No, we\u2019re about to go break the law, and we\u2019re gonna have some fun.\u201d"
+    },
+    "comment_count": 0,
+    "community": true,
+    "custom_preview": null,
+    "has_voters": true,
+    "id": 3917200,
+    "pinned": false,
+    "share_url": "https://genius.com/3917200",
+    "source": null,
+    "state": "accepted",
+    "url": "https://genius.com/3917200/Fetty-wap-trap-queen/Trap-queen",
+    "verified": false,
+    "votes_total": 159,
+    "current_user_metadata": {
+     "permissions": [
+      "create_comment"
+     ],
+     "excluded_permissions": [
+      "vote",
+      "edit",
+      "cosign",
+      "uncosign",
+      "destroy",
+      "accept",
+      "reject",
+      "see_unreviewed",
+      "clear_votes",
+      "propose_edit_to",
+      "pin_to_profile",
+      "unpin_from_profile",
+      "update_source",
+      "edit_custom_preview"
+     ],
+     "interactions": {
+      "cosign": false,
+      "pyong": false,
+      "vote": null
+     },
+     "iq_by_action": {}
+    },
+    "authors": [
+     {
+      "attribution": 0.4824120603015076,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/150586",
+       "avatar": {
+        "tiny": {
+         "url": "https://images.rapgenius.com/avatars/tiny/075f4c0c9502f65ab47b100fd64d9c3a",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://images.rapgenius.com/avatars/thumb/075f4c0c9502f65ab47b100fd64d9c3a",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://images.rapgenius.com/avatars/small/075f4c0c9502f65ab47b100fd64d9c3a",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://images.rapgenius.com/avatars/medium/075f4c0c9502f65ab47b100fd64d9c3a",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://images.rapgenius.com/avatars/medium/075f4c0c9502f65ab47b100fd64d9c3a",
+       "human_readable_role_for_display": "Editor",
+       "id": 150586,
+       "iq": 17996,
+       "login": "jsomers",
+       "name": "James Somers",
+       "role_for_display": "editor",
+       "url": "https://genius.com/jsomers",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     },
+     {
+      "attribution": 0.33668341708542715,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/104344",
+       "avatar": {
+        "tiny": {
+         "url": "https://images.genius.com/avatars/tiny/a1485559b7dd9463752d984ecd3dbeae",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://images.genius.com/avatars/thumb/a1485559b7dd9463752d984ecd3dbeae",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://images.genius.com/avatars/small/a1485559b7dd9463752d984ecd3dbeae",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://images.genius.com/avatars/medium/a1485559b7dd9463752d984ecd3dbeae",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://images.genius.com/f29273e26956c1f6c8d004d1e4533c2e.1000x1000x1.jpg",
+       "human_readable_role_for_display": "Staff",
+       "id": 104344,
+       "iq": 2663123,
+       "login": "streetlights",
+       "name": "\u200bstreetlights",
+       "role_for_display": "staff",
+       "url": "https://genius.com/streetlights",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     },
+     {
+      "attribution": 0.10552763819095479,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/130579",
+       "avatar": {
+        "tiny": {
+         "url": "https://s3.amazonaws.com/rapgenius/avatars/tiny/iKRdNr5hQfCLX2yvGBd6.jpg",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://s3.amazonaws.com/rapgenius/avatars/thumb/iKRdNr5hQfCLX2yvGBd6.jpg",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://s3.amazonaws.com/rapgenius/avatars/small/iKRdNr5hQfCLX2yvGBd6.jpg",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://s3.amazonaws.com/rapgenius/avatars/medium/iKRdNr5hQfCLX2yvGBd6.jpg",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://s3.amazonaws.com/rapgenius/avatars/medium/iKRdNr5hQfCLX2yvGBd6.jpg",
+       "human_readable_role_for_display": "Editor",
+       "id": 130579,
+       "iq": 7813,
+       "login": "IAintNoJoke",
+       "name": "IAintNoJoke",
+       "role_for_display": "editor",
+       "url": "https://genius.com/IAintNoJoke",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     },
+     {
+      "attribution": 0.030150753768844223,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/1122315",
+       "avatar": {
+        "tiny": {
+         "url": "https://assets.genius.com/images/default_avatar_16.png?1606943206",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://assets.genius.com/images/default_avatar_32.png?1606943206",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://assets.genius.com/images/default_avatar_100.png?1606943206",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+       "human_readable_role_for_display": "Contributor",
+       "id": 1122315,
+       "iq": 1241,
+       "login": "QueenJ-Q",
+       "name": "QueenJ-Q",
+       "role_for_display": "contributor",
+       "url": "https://genius.com/QueenJ-Q",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     },
+     {
+      "attribution": 0.02010050251256281,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/1049899",
+       "avatar": {
+        "tiny": {
+         "url": "https://assets.genius.com/images/default_avatar_16.png?1606943206",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://assets.genius.com/images/default_avatar_32.png?1606943206",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://assets.genius.com/images/default_avatar_100.png?1606943206",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+       "human_readable_role_for_display": null,
+       "id": 1049899,
+       "iq": 48,
+       "login": "nae8421",
+       "name": "nae8421",
+       "role_for_display": null,
+       "url": "https://genius.com/nae8421",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     },
+     {
+      "attribution": 0.02010050251256281,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/85148",
+       "avatar": {
+        "tiny": {
+         "url": "https://images.genius.com/avatars/tiny/77896ac9a18ac83a080bf4d6c1487b56",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://images.genius.com/avatars/thumb/77896ac9a18ac83a080bf4d6c1487b56",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://images.genius.com/avatars/small/77896ac9a18ac83a080bf4d6c1487b56",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://images.genius.com/avatars/medium/77896ac9a18ac83a080bf4d6c1487b56",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://images.genius.com/avatars/medium/77896ac9a18ac83a080bf4d6c1487b56",
+       "human_readable_role_for_display": "Staff",
+       "id": 85148,
+       "iq": 21665,
+       "login": "lil_tee",
+       "name": "ATodd",
+       "role_for_display": "staff",
+       "url": "https://genius.com/lil_tee",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     },
+     {
+      "attribution": 0.005025125628140703,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/791739",
+       "avatar": {
+        "tiny": {
+         "url": "https://images.genius.com/avatars/tiny/afb8987635e9390ebce6ea431f065e8c",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://images.genius.com/avatars/thumb/afb8987635e9390ebce6ea431f065e8c",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://images.genius.com/avatars/small/afb8987635e9390ebce6ea431f065e8c",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://images.genius.com/avatars/medium/afb8987635e9390ebce6ea431f065e8c",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://images.genius.com/avatars/medium/afb8987635e9390ebce6ea431f065e8c",
+       "human_readable_role_for_display": "Contributor",
+       "id": 791739,
+       "iq": 19245,
+       "login": "WhoAmIQuestionMark",
+       "name": "WhoAmIQuestionMark",
+       "role_for_display": "contributor",
+       "url": "https://genius.com/WhoAmIQuestionMark",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     }
+    ],
+    "cosigned_by": [],
+    "rejection_comment": null,
+    "verified_by": null
+   }
+  ]
+ },
+ "featured_artists": [],
+ "lyrics_marked_complete_by": null,
+ "media": [
+  {
+   "provider": "youtube",
+   "start": 5,
+   "type": "video",
+   "url": "http://www.youtube.com/watch?v=i_kF4zLNKio"
+  },
+  {
+   "native_uri": "spotify:track:2d8JP84HNLKhmd6IYOoupQ",
+   "provider": "spotify",
+   "type": "audio",
+   "url": "https://open.spotify.com/track/2d8JP84HNLKhmd6IYOoupQ"
+  },
+  {
+   "attribution": "harlem_fetty",
+   "provider": "soundcloud",
+   "type": "audio",
+   "url": "https://soundcloud.com/harlem_fetty/fetty-wap-trap-queen-rough"
+  }
+ ],
+ "producer_artists": [
+  {
+   "api_path": "/artists/61488",
+   "header_image_url": "https://images.genius.com/eb8242ea23e0f203ae77a1ea52ab3eeb.240x240x1.jpg",
+   "id": 61488,
+   "image_url": "https://images.genius.com/eb8242ea23e0f203ae77a1ea52ab3eeb.240x240x1.jpg",
+   "is_meme_verified": false,
+   "is_verified": false,
+   "name": "Tony Fadd",
+   "url": "https://genius.com/artists/Tony-fadd"
+  }
+ ],
+ "song_relationships": [
+  {
+   "relationship_type": "samples",
+   "type": "samples",
+   "songs": []
+  },
+  {
+   "relationship_type": "sampled_in",
+   "type": "sampled_in",
+   "songs": [
+    {
+     "annotation_count": 0,
+     "api_path": "/songs/690751",
+     "full_title": "Trap Queen Freestyle by\u00a0Yo\u00a0Gotti (Ft.\u00a0Fetty\u00a0Wap)",
+     "header_image_thumbnail_url": "https://images.genius.com/f517edc6ef4d2ff4ef1ae67054752f09.300x300x1.jpg",
+     "header_image_url": "https://images.genius.com/f517edc6ef4d2ff4ef1ae67054752f09.1000x1000x1.jpg",
+     "id": 690751,
+     "lyrics_owner_id": 104344,
+     "lyrics_state": "complete",
+     "path": "/Yo-gotti-trap-queen-freestyle-lyrics",
+     "pyongs_count": 14,
+     "song_art_image_thumbnail_url": "https://images.genius.com/f517edc6ef4d2ff4ef1ae67054752f09.300x300x1.jpg",
+     "song_art_image_url": "https://images.genius.com/f517edc6ef4d2ff4ef1ae67054752f09.1000x1000x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 0,
+      "hot": false,
+      "pageviews": 71334
+     },
+     "title": "Trap Queen Freestyle",
+     "title_with_featured": "Trap Queen Freestyle (Ft.\u00a0Fetty\u00a0Wap)",
+     "url": "https://genius.com/Yo-gotti-trap-queen-freestyle-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/118",
+      "header_image_url": "https://images.genius.com/89bf1b3f62c694f2bd8e5c3643a9c75f.1000x676x1.jpg",
+      "id": 118,
+      "image_url": "https://images.genius.com/993fc023fd24aa29153af7b870237e2f.730x730x1.jpg",
+      "is_meme_verified": true,
+      "is_verified": true,
+      "name": "Yo Gotti",
+      "url": "https://genius.com/artists/Yo-gotti",
+      "iq": 9632
+     }
+    },
+    {
+     "annotation_count": 4,
+     "api_path": "/songs/709673",
+     "full_title": "Trap Queen (Freestyle) by\u00a0Shy\u00a0Glizzy (Ft.\u00a0Fetty\u00a0Wap)",
+     "header_image_thumbnail_url": "https://images.genius.com/6d50fba28d8a6c6770b4b1d091bc0b8c.300x300x1.jpg",
+     "header_image_url": "https://images.genius.com/6d50fba28d8a6c6770b4b1d091bc0b8c.500x500x1.jpg",
+     "id": 709673,
+     "lyrics_owner_id": 922360,
+     "lyrics_state": "complete",
+     "path": "/Shy-glizzy-trap-queen-freestyle-lyrics",
+     "pyongs_count": 16,
+     "song_art_image_thumbnail_url": "https://images.genius.com/6d50fba28d8a6c6770b4b1d091bc0b8c.300x300x1.jpg",
+     "song_art_image_url": "https://images.genius.com/6d50fba28d8a6c6770b4b1d091bc0b8c.500x500x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 1,
+      "hot": false,
+      "pageviews": 11186
+     },
+     "title": "Trap Queen (Freestyle)",
+     "title_with_featured": "Trap Queen (Freestyle) (Ft.\u00a0Fetty\u00a0Wap)",
+     "url": "https://genius.com/Shy-glizzy-trap-queen-freestyle-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/19139",
+      "header_image_url": "https://images.genius.com/ff3bb39e1943f582b5f8171247a1b17e.1000x1000x1.jpg",
+      "id": 19139,
+      "image_url": "https://images.genius.com/483e63647f55327b26eea9b1834bd2fd.812x812x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": true,
+      "name": "Shy Glizzy",
+      "url": "https://genius.com/artists/Shy-glizzy",
+      "iq": 3788
+     }
+    },
+    {
+     "annotation_count": 2,
+     "api_path": "/songs/2399235",
+     "full_title": "Hip Hop Goes Broadway by\u00a0Superfruit",
+     "header_image_thumbnail_url": "https://images.rapgenius.com/9d4f41f627cd59c0f57103cb0d28b9a4.284x284x1.jpg",
+     "header_image_url": "https://images.rapgenius.com/9d4f41f627cd59c0f57103cb0d28b9a4.284x284x1.jpg",
+     "id": 2399235,
+     "lyrics_owner_id": 2673101,
+     "lyrics_state": "complete",
+     "path": "/Superfruit-hip-hop-goes-broadway-lyrics",
+     "pyongs_count": 1,
+     "song_art_image_thumbnail_url": "https://images.rapgenius.com/a4903bb1ae6694bf2db3d7e629033e6e.300x169x1.jpg",
+     "song_art_image_url": "https://images.rapgenius.com/a4903bb1ae6694bf2db3d7e629033e6e.1000x563x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 0,
+      "hot": false
+     },
+     "title": "Hip Hop Goes Broadway",
+     "title_with_featured": "Hip Hop Goes Broadway",
+     "url": "https://genius.com/Superfruit-hip-hop-goes-broadway-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/332639",
+      "header_image_url": "https://images.genius.com/821a97b32b2097eafe45e73c467faf2d.620x413x1.png",
+      "id": 332639,
+      "image_url": "https://images.genius.com/cd4fe75beaa8a87d2636367cc712ea02.563x563x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Superfruit",
+      "url": "https://genius.com/artists/Superfruit"
+     }
+    },
+    {
+     "annotation_count": 4,
+     "api_path": "/songs/2878329",
+     "full_title": "Malcat Hacrack - \u05de\u05dc\u05db\u05ea \u05d4\u05e7\u05e8\u05d0\u05e7 by\u00a0Lukach\u00a0- \u05dc\u05d5\u05e7\u05e5\u05f3",
+     "header_image_thumbnail_url": "https://images.genius.com/a90b07f915b6803beca271200011722e.300x300x1.jpg",
+     "header_image_url": "https://images.genius.com/a90b07f915b6803beca271200011722e.1000x1000x1.jpg",
+     "id": 2878329,
+     "lyrics_owner_id": 3400065,
+     "lyrics_state": "complete",
+     "path": "/Lukach-malcat-hacrack-lyrics",
+     "pyongs_count": null,
+     "song_art_image_thumbnail_url": "https://images.genius.com/a90b07f915b6803beca271200011722e.300x300x1.jpg",
+     "song_art_image_url": "https://images.genius.com/a90b07f915b6803beca271200011722e.1000x1000x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 0,
+      "hot": false
+     },
+     "title": "Malcat Hacrack - \u05de\u05dc\u05db\u05ea \u05d4\u05e7\u05e8\u05d0\u05e7",
+     "title_with_featured": "Malcat Hacrack - \u05de\u05dc\u05db\u05ea \u05d4\u05e7\u05e8\u05d0\u05e7",
+     "url": "https://genius.com/Lukach-malcat-hacrack-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/1010643",
+      "header_image_url": "https://images.genius.com/2537d3315f59ec76deda8ca7fd075ac1.680x382x1.jpg",
+      "id": 1010643,
+      "image_url": "https://images.genius.com/970ca99eb78a1333fda63073d643b18c.1000x1000x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": true,
+      "name": "Lukach - \u05dc\u05d5\u05e7\u05e5\u05f3",
+      "url": "https://genius.com/artists/Lukach",
+      "iq": 463
+     }
+    },
+    {
+     "annotation_count": 0,
+     "api_path": "/songs/2896279",
+     "full_title": "Snap Queen by\u00a0Gab\u00a0Joncas (Ft.\u00a0Jemcee\u00a0(QC))",
+     "header_image_thumbnail_url": "https://assets.genius.com/images/default_cover_image.png?1606943206",
+     "header_image_url": "https://assets.genius.com/images/default_cover_image.png?1606943206",
+     "id": 2896279,
+     "lyrics_owner_id": 3874376,
+     "lyrics_state": "complete",
+     "path": "/Gab-joncas-snap-queen-lyrics",
+     "pyongs_count": null,
+     "song_art_image_thumbnail_url": "https://assets.genius.com/images/default_cover_image.png?1606943206",
+     "song_art_image_url": "https://assets.genius.com/images/default_cover_image.png?1606943206",
+     "stats": {
+      "unreviewed_annotations": 0,
+      "hot": false
+     },
+     "title": "Snap Queen",
+     "title_with_featured": "Snap Queen (Ft.\u00a0Jemcee\u00a0(QC))",
+     "url": "https://genius.com/Gab-joncas-snap-queen-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/99929",
+      "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+      "id": 99929,
+      "image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Gab Joncas",
+      "url": "https://genius.com/artists/Gab-joncas"
+     }
+    },
+    {
+     "annotation_count": 10,
+     "api_path": "/songs/3264657",
+     "full_title": "Calc Queen by\u00a0Joe\u00a0McCuen",
+     "header_image_thumbnail_url": "https://images.genius.com/8eacfb74825433503df8f64b7a81dc0e.300x63x1.jpg",
+     "header_image_url": "https://images.genius.com/8eacfb74825433503df8f64b7a81dc0e.720x150x1.jpg",
+     "id": 3264657,
+     "lyrics_owner_id": 4443094,
+     "lyrics_state": "complete",
+     "path": "/Joe-mccuen-calc-queen-lyrics",
+     "pyongs_count": 1,
+     "song_art_image_thumbnail_url": "https://images.genius.com/83bc0ae38b2559498c7e0d80f850c766.300x300x1.jpg",
+     "song_art_image_url": "https://images.genius.com/83bc0ae38b2559498c7e0d80f850c766.500x500x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 10,
+      "hot": false
+     },
+     "title": "Calc Queen",
+     "title_with_featured": "Calc Queen",
+     "url": "https://genius.com/Joe-mccuen-calc-queen-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/1233383",
+      "header_image_url": "https://images.genius.com/6e27e5f73d2af8e6159537b18c0bb5d0.960x720x1.png",
+      "id": 1233383,
+      "image_url": "https://images.genius.com/469fc569cde3e66861ef63a8b9f7fee2.401x401x1.png",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Joe McCuen",
+      "url": "https://genius.com/artists/Joe-mccuen"
+     }
+    },
+    {
+     "annotation_count": 0,
+     "api_path": "/songs/3719173",
+     "full_title": "Trap Queen (Freestyle) by\u00a0King\u00a0Kryptonite",
+     "header_image_thumbnail_url": "https://images.genius.com/f14e5facac15e04954eea8f75335c890.300x300x1.jpg",
+     "header_image_url": "https://images.genius.com/f14e5facac15e04954eea8f75335c890.500x500x1.jpg",
+     "id": 3719173,
+     "lyrics_owner_id": 4356217,
+     "lyrics_state": "complete",
+     "path": "/King-kryptonite-trap-queen-freestyle-lyrics",
+     "pyongs_count": null,
+     "song_art_image_thumbnail_url": "https://images.genius.com/f14e5facac15e04954eea8f75335c890.300x300x1.jpg",
+     "song_art_image_url": "https://images.genius.com/f14e5facac15e04954eea8f75335c890.500x500x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 0,
+      "hot": false
+     },
+     "title": "Trap Queen (Freestyle)",
+     "title_with_featured": "Trap Queen (Freestyle)",
+     "url": "https://genius.com/King-kryptonite-trap-queen-freestyle-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/1474435",
+      "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+      "id": 1474435,
+      "image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "King Kryptonite",
+      "url": "https://genius.com/artists/King-kryptonite"
+     }
+    },
+    {
+     "annotation_count": 1,
+     "api_path": "/songs/5538532",
+     "full_title": "Quaquaraqu\u00e0 by\u00a0MASTROTA\u00a0GANG (Ft.\u00a0Emineminflex, GGCZZNCHT & Mc\u00a0Taglierino)",
+     "header_image_thumbnail_url": "https://images.genius.com/dfbc3f24010c1c44fc84de544bb374f8.300x300x1.jpg",
+     "header_image_url": "https://images.genius.com/dfbc3f24010c1c44fc84de544bb374f8.480x480x1.jpg",
+     "id": 5538532,
+     "lyrics_owner_id": 4572529,
+     "lyrics_state": "complete",
+     "path": "/Mastrota-gang-quaquaraqua-lyrics",
+     "pyongs_count": null,
+     "song_art_image_thumbnail_url": "https://images.genius.com/dfbc3f24010c1c44fc84de544bb374f8.300x300x1.jpg",
+     "song_art_image_url": "https://images.genius.com/dfbc3f24010c1c44fc84de544bb374f8.480x480x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 1,
+      "hot": false
+     },
+     "title": "Quaquaraqu\u00e0",
+     "title_with_featured": "Quaquaraqu\u00e0 (Ft.\u00a0Emineminflex, GGCZZNCHT & Mc\u00a0Taglierino)",
+     "url": "https://genius.com/Mastrota-gang-quaquaraqua-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/2224093",
+      "header_image_url": "https://images.genius.com/fba8da5db2d6156e9bbbc18f839a6112.848x480x1.jpg",
+      "id": 2224093,
+      "image_url": "https://images.genius.com/9c221e1657cd0647958f7a04697e6f66.479x479x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "MASTROTA GANG",
+      "url": "https://genius.com/artists/Mastrota-gang"
+     }
+    }
+   ]
+  },
+  {
+   "relationship_type": "interpolates",
+   "type": "interpolates",
+   "songs": []
+  },
+  {
+   "relationship_type": "interpolated_by",
+   "type": "interpolated_by",
+   "songs": [
+    {
+     "annotation_count": 10,
+     "api_path": "/songs/2433490",
+     "full_title": "Gin-I vs. Psycoses by\u00a0King\u00a0of the Dot (Ft.\u00a0Psycoses)",
+     "header_image_thumbnail_url": "https://images.rapgenius.com/7655e9f4b8f974a33d4a9ba989aa3832.300x169x1.jpg",
+     "header_image_url": "https://images.rapgenius.com/7655e9f4b8f974a33d4a9ba989aa3832.1000x563x1.jpg",
+     "id": 2433490,
+     "lyrics_owner_id": 303,
+     "lyrics_state": "complete",
+     "path": "/King-of-the-dot-gin-i-vs-psycoses-lyrics",
+     "pyongs_count": 1,
+     "song_art_image_thumbnail_url": "https://images.rapgenius.com/7655e9f4b8f974a33d4a9ba989aa3832.300x169x1.jpg",
+     "song_art_image_url": "https://images.rapgenius.com/7655e9f4b8f974a33d4a9ba989aa3832.1000x563x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 0,
+      "hot": false
+     },
+     "title": "Gin-I vs. Psycoses",
+     "title_with_featured": "Gin-I vs. Psycoses (Ft.\u00a0Psycoses)",
+     "url": "https://genius.com/King-of-the-dot-gin-i-vs-psycoses-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/117146",
+      "header_image_url": "https://images.genius.com/4cc36450de3b25a82183c9a1876caff9.900x900x1.jpg",
+      "id": 117146,
+      "image_url": "https://images.genius.com/4cc36450de3b25a82183c9a1876caff9.900x900x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "King of the Dot",
+      "url": "https://genius.com/artists/King-of-the-dot"
+     }
+    },
+    {
+     "annotation_count": 0,
+     "api_path": "/songs/3922270",
+     "full_title": "A Fetty Medley by\u00a0JRA",
+     "header_image_thumbnail_url": "https://images.genius.com/ea432bf21ee501922312f06cdab67642.300x225x1.jpg",
+     "header_image_url": "https://images.genius.com/ea432bf21ee501922312f06cdab67642.480x360x1.jpg",
+     "id": 3922270,
+     "lyrics_owner_id": 3158803,
+     "lyrics_state": "complete",
+     "path": "/Jra-a-fetty-medley-lyrics",
+     "pyongs_count": null,
+     "song_art_image_thumbnail_url": "https://images.genius.com/ea432bf21ee501922312f06cdab67642.300x225x1.jpg",
+     "song_art_image_url": "https://images.genius.com/ea432bf21ee501922312f06cdab67642.480x360x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 0,
+      "hot": false
+     },
+     "title": "A Fetty Medley",
+     "title_with_featured": "A Fetty Medley",
+     "url": "https://genius.com/Jra-a-fetty-medley-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/459380",
+      "header_image_url": "https://images.genius.com/ee784f8a3c6a6c1532aad1bcf98a0b71.604x453x1.jpg",
+      "id": 459380,
+      "image_url": "https://images.genius.com/891bed9727eec02250bba1999eef5943.300x300x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "JRA",
+      "url": "https://genius.com/artists/Jra"
+     }
+    },
+    {
+     "annotation_count": 3,
+     "api_path": "/songs/4241337",
+     "full_title": "How to Make Friends / Trap Queen (Parody) by\u00a0Cody\u00a0Strong",
+     "header_image_thumbnail_url": "https://images.genius.com/d28262c9d0d29f9ac4c2cceee4bec8ac.300x300x1.jpg",
+     "header_image_url": "https://images.genius.com/d28262c9d0d29f9ac4c2cceee4bec8ac.300x300x1.jpg",
+     "id": 4241337,
+     "lyrics_owner_id": 6372521,
+     "lyrics_state": "complete",
+     "path": "/Cody-strong-how-to-make-friends-trap-queen-parody-lyrics",
+     "pyongs_count": null,
+     "song_art_image_thumbnail_url": "https://images.genius.com/d28262c9d0d29f9ac4c2cceee4bec8ac.300x300x1.jpg",
+     "song_art_image_url": "https://images.genius.com/d28262c9d0d29f9ac4c2cceee4bec8ac.300x300x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 0,
+      "hot": false
+     },
+     "title": "How to Make Friends / Trap Queen (Parody)",
+     "title_with_featured": "How to Make Friends / Trap Queen (Parody)",
+     "url": "https://genius.com/Cody-strong-how-to-make-friends-trap-queen-parody-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/1057180",
+      "header_image_url": "https://images.genius.com/d4abe7fa3530afac60e322056de17705.900x900x1.jpg",
+      "id": 1057180,
+      "image_url": "https://images.genius.com/d28262c9d0d29f9ac4c2cceee4bec8ac.300x300x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Cody Strong",
+      "url": "https://genius.com/artists/Cody-strong"
+     }
+    },
+    {
+     "annotation_count": 0,
+     "api_path": "/songs/5044141",
+     "full_title": "Daylyt vs. Danja Zone by\u00a0King\u00a0of the Dot (Ft.\u00a0Danja\u00a0Zone & Daylyt)",
+     "header_image_thumbnail_url": "https://images.genius.com/f1148033e3698b3f5cff2935bd38eb28.300x169x1.jpg",
+     "header_image_url": "https://images.genius.com/f1148033e3698b3f5cff2935bd38eb28.1000x563x1.jpg",
+     "id": 5044141,
+     "lyrics_owner_id": 3082806,
+     "lyrics_state": "complete",
+     "path": "/King-of-the-dot-daylyt-vs-danja-zone-lyrics",
+     "pyongs_count": null,
+     "song_art_image_thumbnail_url": "https://images.genius.com/f1148033e3698b3f5cff2935bd38eb28.300x169x1.jpg",
+     "song_art_image_url": "https://images.genius.com/f1148033e3698b3f5cff2935bd38eb28.1000x563x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 0,
+      "hot": false
+     },
+     "title": "Daylyt vs. Danja Zone",
+     "title_with_featured": "Daylyt vs. Danja Zone (Ft.\u00a0Danja\u00a0Zone & Daylyt)",
+     "url": "https://genius.com/King-of-the-dot-daylyt-vs-danja-zone-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/117146",
+      "header_image_url": "https://images.genius.com/4cc36450de3b25a82183c9a1876caff9.900x900x1.jpg",
+      "id": 117146,
+      "image_url": "https://images.genius.com/4cc36450de3b25a82183c9a1876caff9.900x900x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "King of the Dot",
+      "url": "https://genius.com/artists/King-of-the-dot"
+     }
+    }
+   ]
+  },
+  {
+   "relationship_type": "cover_of",
+   "type": "cover_of",
+   "songs": []
+  },
+  {
+   "relationship_type": "covered_by",
+   "type": "covered_by",
+   "songs": [
+    {
+     "annotation_count": 0,
+     "api_path": "/songs/3721283",
+     "full_title": "Real Queen (Trap Queen Cover) by\u00a0Caziah\u00a0Cameron Banks",
+     "header_image_thumbnail_url": "https://assets.genius.com/images/default_cover_image.png?1606943206",
+     "header_image_url": "https://assets.genius.com/images/default_cover_image.png?1606943206",
+     "id": 3721283,
+     "lyrics_owner_id": 6388483,
+     "lyrics_state": "complete",
+     "path": "/Caziah-cameron-banks-real-queen-trap-queen-cover-lyrics",
+     "pyongs_count": null,
+     "song_art_image_thumbnail_url": "https://assets.genius.com/images/default_cover_image.png?1606943206",
+     "song_art_image_url": "https://assets.genius.com/images/default_cover_image.png?1606943206",
+     "stats": {
+      "unreviewed_annotations": 0,
+      "hot": false
+     },
+     "title": "Real Queen (Trap Queen Cover)",
+     "title_with_featured": "Real Queen (Trap Queen Cover)",
+     "url": "https://genius.com/Caziah-cameron-banks-real-queen-trap-queen-cover-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/1475423",
+      "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+      "id": 1475423,
+      "image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Caziah Cameron Banks",
+      "url": "https://genius.com/artists/Caziah-cameron-banks"
+     }
+    }
+   ]
+  },
+  {
+   "relationship_type": "remix_of",
+   "type": "remix_of",
+   "songs": []
+  },
+  {
+   "relationship_type": "remixed_by",
+   "type": "remixed_by",
+   "songs": [
+    {
+     "annotation_count": 1,
+     "api_path": "/songs/430204",
+     "full_title": "Trap Queen (Remix) by\u00a0RC\u00a0Magic",
+     "header_image_thumbnail_url": "https://images.genius.com/e77ad9a3f95f3a0c3619ab027ac6ef3f.300x300x1.jpg",
+     "header_image_url": "https://images.genius.com/e77ad9a3f95f3a0c3619ab027ac6ef3f.600x600x1.jpg",
+     "id": 430204,
+     "lyrics_owner_id": 865076,
+     "lyrics_state": "complete",
+     "path": "/Rc-magic-trap-queen-remix-lyrics",
+     "pyongs_count": 3,
+     "song_art_image_thumbnail_url": "https://images.genius.com/e77ad9a3f95f3a0c3619ab027ac6ef3f.300x300x1.jpg",
+     "song_art_image_url": "https://images.genius.com/e77ad9a3f95f3a0c3619ab027ac6ef3f.600x600x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 0,
+      "hot": false
+     },
+     "title": "Trap Queen (Remix)",
+     "title_with_featured": "Trap Queen (Remix)",
+     "url": "https://genius.com/Rc-magic-trap-queen-remix-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/179259",
+      "header_image_url": "https://images.rapgenius.com/avatars/medium/a7bea496ac864a3066b1607ecab799b9",
+      "id": 179259,
+      "image_url": "https://images.rapgenius.com/avatars/medium/a7bea496ac864a3066b1607ecab799b9",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "RC Magic",
+      "url": "https://genius.com/artists/Rc-magic",
+      "iq": 689
+     }
+    },
+    {
+     "annotation_count": 14,
+     "api_path": "/songs/712113",
+     "full_title": "Trap Queen (Remix) by\u00a0Montana\u00a0of 300 (Ft.\u00a0Jayln\u00a0Sanders)",
+     "header_image_thumbnail_url": "https://images.genius.com/93b16f538b49aa3a23b772fab9c86f77.300x300x1.jpg",
+     "header_image_url": "https://images.genius.com/93b16f538b49aa3a23b772fab9c86f77.640x640x1.jpg",
+     "id": 712113,
+     "lyrics_owner_id": 639491,
+     "lyrics_state": "complete",
+     "path": "/Montana-of-300-trap-queen-remix-lyrics",
+     "pyongs_count": 41,
+     "song_art_image_thumbnail_url": "https://images.genius.com/93b16f538b49aa3a23b772fab9c86f77.300x300x1.jpg",
+     "song_art_image_url": "https://images.genius.com/93b16f538b49aa3a23b772fab9c86f77.640x640x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 10,
+      "hot": false,
+      "pageviews": 112192
+     },
+     "title": "Trap Queen (Remix)",
+     "title_with_featured": "Trap Queen (Remix) (Ft.\u00a0Jayln\u00a0Sanders)",
+     "url": "https://genius.com/Montana-of-300-trap-queen-remix-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/35857",
+      "header_image_url": "https://images.genius.com/c4353179ebe85df8475d248f77b35ab1.1000x667x1.jpg",
+      "id": 35857,
+      "image_url": "https://images.genius.com/8a87caca9d8596de2be32bd4e6f83b58.446x446x1.jpg",
+      "is_meme_verified": true,
+      "is_verified": true,
+      "name": "Montana of 300",
+      "url": "https://genius.com/artists/Montana-of-300",
+      "iq": 2743
+     }
+    },
+    {
+     "annotation_count": 2,
+     "api_path": "/songs/718382",
+     "full_title": "Trap Queen (French Montana / Fabolous Remix) by\u00a0Fetty\u00a0Wap (Ft.\u00a0Fabolous & French\u00a0Montana)",
+     "header_image_thumbnail_url": "https://images.rapgenius.com/edace30ac0a32705f3465202a3a53f6f.300x300x1.jpg",
+     "header_image_url": "https://images.rapgenius.com/edace30ac0a32705f3465202a3a53f6f.500x500x1.jpg",
+     "id": 718382,
+     "lyrics_owner_id": 1242723,
+     "lyrics_state": "complete",
+     "path": "/Fetty-wap-trap-queen-french-montana-fabolous-remix-lyrics",
+     "pyongs_count": 19,
+     "song_art_image_thumbnail_url": "https://images.rapgenius.com/edace30ac0a32705f3465202a3a53f6f.300x300x1.jpg",
+     "song_art_image_url": "https://images.rapgenius.com/edace30ac0a32705f3465202a3a53f6f.500x500x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 0,
+      "hot": false,
+      "pageviews": 36094
+     },
+     "title": "Trap Queen (French Montana / Fabolous Remix)",
+     "title_with_featured": "Trap Queen (French Montana / Fabolous Remix) (Ft.\u00a0Fabolous & French\u00a0Montana)",
+     "url": "https://genius.com/Fetty-wap-trap-queen-french-montana-fabolous-remix-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/216609",
+      "header_image_url": "https://images.genius.com/cfdf0e6082f7216c2483b34c15420f43.700x393x1.jpg",
+      "id": 216609,
+      "image_url": "https://images.genius.com/b0686e6e7eec842de90328ac63f4da85.400x400x1.jpg",
+      "is_meme_verified": true,
+      "is_verified": true,
+      "name": "Fetty Wap",
+      "url": "https://genius.com/artists/Fetty-wap",
+      "iq": 100
+     }
+    },
+    {
+     "annotation_count": 3,
+     "api_path": "/songs/1783535",
+     "full_title": "Trap Queen (Pyde Remix) by\u00a0RUSSELL!",
+     "header_image_thumbnail_url": "https://images.rapgenius.com/740f30525aff64ed8aeb45b7fc5a68fd.300x300x1.png",
+     "header_image_url": "https://images.rapgenius.com/740f30525aff64ed8aeb45b7fc5a68fd.502x502x1.png",
+     "id": 1783535,
+     "lyrics_owner_id": 465779,
+     "lyrics_state": "complete",
+     "path": "/Russell-trap-queen-pyde-remix-lyrics",
+     "pyongs_count": 4,
+     "song_art_image_thumbnail_url": "https://images.rapgenius.com/740f30525aff64ed8aeb45b7fc5a68fd.300x300x1.png",
+     "song_art_image_url": "https://images.rapgenius.com/740f30525aff64ed8aeb45b7fc5a68fd.502x502x1.png",
+     "stats": {
+      "unreviewed_annotations": 0,
+      "hot": false
+     },
+     "title": "Trap Queen (Pyde Remix)",
+     "title_with_featured": "Trap Queen (Pyde Remix)",
+     "url": "https://genius.com/Russell-trap-queen-pyde-remix-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/1990",
+      "header_image_url": "https://images.genius.com/dbf95ddd20b6f763917b6564b80049fe.668x1000x1.jpg",
+      "id": 1990,
+      "image_url": "https://images.genius.com/129183884091d6487e23c0cc369eeaaa.801x801x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": true,
+      "name": "RUSSELL!",
+      "url": "https://genius.com/artists/Russell",
+      "iq": 5433
+     }
+    },
+    {
+     "annotation_count": 9,
+     "api_path": "/songs/1783870",
+     "full_title": "Trap Queen (Gucci Mane & Quavo Remix) by\u00a0Fetty\u00a0Wap (Ft.\u00a0Gucci\u00a0Mane & Quavo)",
+     "header_image_thumbnail_url": "https://images.rapgenius.com/36be6feb8dc7318bdc5d9201f8a1ad75.300x300x1.jpg",
+     "header_image_url": "https://images.rapgenius.com/36be6feb8dc7318bdc5d9201f8a1ad75.600x600x1.jpg",
+     "id": 1783870,
+     "lyrics_owner_id": 93685,
+     "lyrics_state": "complete",
+     "path": "/Fetty-wap-trap-queen-gucci-mane-and-quavo-remix-lyrics",
+     "pyongs_count": 7,
+     "song_art_image_thumbnail_url": "https://images.rapgenius.com/36be6feb8dc7318bdc5d9201f8a1ad75.300x300x1.jpg",
+     "song_art_image_url": "https://images.rapgenius.com/36be6feb8dc7318bdc5d9201f8a1ad75.600x600x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 0,
+      "hot": false,
+      "pageviews": 47642
+     },
+     "title": "Trap Queen (Gucci Mane & Quavo Remix)",
+     "title_with_featured": "Trap Queen (Gucci Mane & Quavo Remix) (Ft.\u00a0Gucci\u00a0Mane & Quavo)",
+     "url": "https://genius.com/Fetty-wap-trap-queen-gucci-mane-and-quavo-remix-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/216609",
+      "header_image_url": "https://images.genius.com/cfdf0e6082f7216c2483b34c15420f43.700x393x1.jpg",
+      "id": 216609,
+      "image_url": "https://images.genius.com/b0686e6e7eec842de90328ac63f4da85.400x400x1.jpg",
+      "is_meme_verified": true,
+      "is_verified": true,
+      "name": "Fetty Wap",
+      "url": "https://genius.com/artists/Fetty-wap",
+      "iq": 100
+     }
+    },
+    {
+     "annotation_count": 36,
+     "api_path": "/songs/2130204",
+     "full_title": "Trap Queen (Remix) by\u00a0Fetty\u00a0Wap (Ft.\u00a0Gradur)",
+     "header_image_thumbnail_url": "https://images.rapgenius.com/ada6af2fb98746b6b7023728f8ebce6d.300x300x1.jpg",
+     "header_image_url": "https://images.rapgenius.com/ada6af2fb98746b6b7023728f8ebce6d.1000x1000x1.jpg",
+     "id": 2130204,
+     "lyrics_owner_id": 419098,
+     "lyrics_state": "complete",
+     "path": "/Fetty-wap-trap-queen-remix-lyrics",
+     "pyongs_count": 22,
+     "song_art_image_thumbnail_url": "https://images.rapgenius.com/ada6af2fb98746b6b7023728f8ebce6d.300x300x1.jpg",
+     "song_art_image_url": "https://images.rapgenius.com/ada6af2fb98746b6b7023728f8ebce6d.1000x1000x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 0,
+      "hot": false,
+      "pageviews": 108055
+     },
+     "title": "Trap Queen (Remix)",
+     "title_with_featured": "Trap Queen (Remix) (Ft.\u00a0Gradur)",
+     "url": "https://genius.com/Fetty-wap-trap-queen-remix-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/216609",
+      "header_image_url": "https://images.genius.com/cfdf0e6082f7216c2483b34c15420f43.700x393x1.jpg",
+      "id": 216609,
+      "image_url": "https://images.genius.com/b0686e6e7eec842de90328ac63f4da85.400x400x1.jpg",
+      "is_meme_verified": true,
+      "is_verified": true,
+      "name": "Fetty Wap",
+      "url": "https://genius.com/artists/Fetty-wap",
+      "iq": 100
+     }
+    },
+    {
+     "annotation_count": 12,
+     "api_path": "/songs/2168971",
+     "full_title": "Muslim Queen by\u00a0Deen\u00a0Squad",
+     "header_image_thumbnail_url": "https://images.rapgenius.com/25e04db961b1c69f6513dc2c2ec8c316.300x300x1.jpg",
+     "header_image_url": "https://images.rapgenius.com/25e04db961b1c69f6513dc2c2ec8c316.640x640x1.jpg",
+     "id": 2168971,
+     "lyrics_owner_id": 205003,
+     "lyrics_state": "complete",
+     "path": "/Deen-squad-muslim-queen-lyrics",
+     "pyongs_count": 3,
+     "song_art_image_thumbnail_url": "https://images.rapgenius.com/25e04db961b1c69f6513dc2c2ec8c316.300x300x1.jpg",
+     "song_art_image_url": "https://images.rapgenius.com/25e04db961b1c69f6513dc2c2ec8c316.640x640x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 0,
+      "hot": false,
+      "pageviews": 51249
+     },
+     "title": "Muslim Queen",
+     "title_with_featured": "Muslim Queen",
+     "url": "https://genius.com/Deen-squad-muslim-queen-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/516695",
+      "header_image_url": "https://images.genius.com/eb7c0ba50e776cec8ec045d859b02c25.960x960x1.jpg",
+      "id": 516695,
+      "image_url": "https://images.genius.com/eb7c0ba50e776cec8ec045d859b02c25.960x960x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Deen Squad",
+      "url": "https://genius.com/artists/Deen-squad"
+     }
+    },
+    {
+     "annotation_count": 0,
+     "api_path": "/songs/2398805",
+     "full_title": "Trap Queen (Freestyle) by\u00a0Lil'\u00a0Kim",
+     "header_image_thumbnail_url": "https://images.genius.com/a962afc8eb044f679fc5b7e89c41c792.300x300x1.jpg",
+     "header_image_url": "https://images.genius.com/a962afc8eb044f679fc5b7e89c41c792.500x500x1.jpg",
+     "id": 2398805,
+     "lyrics_owner_id": 2603298,
+     "lyrics_state": "complete",
+     "path": "/Lil-kim-trap-queen-freestyle-lyrics",
+     "pyongs_count": null,
+     "song_art_image_thumbnail_url": "https://images.genius.com/a962afc8eb044f679fc5b7e89c41c792.300x300x1.jpg",
+     "song_art_image_url": "https://images.genius.com/a962afc8eb044f679fc5b7e89c41c792.500x500x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 0,
+      "hot": false
+     },
+     "title": "Trap Queen (Freestyle)",
+     "title_with_featured": "Trap Queen (Freestyle)",
+     "url": "https://genius.com/Lil-kim-trap-queen-freestyle-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/411",
+      "header_image_url": "https://images.genius.com/4d166d2738316648bafd34e5bcf0fcdd.667x1000x1.jpg",
+      "id": 411,
+      "image_url": "https://images.genius.com/1f3a02fe6bbec2bfa1c81631bea5ba67.1000x1000x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Lil\u2019 Kim",
+      "url": "https://genius.com/artists/Lil-kim"
+     }
+    },
+    {
+     "annotation_count": 0,
+     "api_path": "/songs/2413896",
+     "full_title": "Fallout King (Remix) by\u00a0Fatt\u00a0Tarr",
+     "header_image_thumbnail_url": "https://images.genius.com/dad5def4fba5e73612d1286e93dc15e1.222x222x1.jpg",
+     "header_image_url": "https://images.genius.com/dad5def4fba5e73612d1286e93dc15e1.222x222x1.jpg",
+     "id": 2413896,
+     "lyrics_owner_id": 335051,
+     "lyrics_state": "complete",
+     "path": "/Fatt-tarr-fallout-king-remix-lyrics",
+     "pyongs_count": null,
+     "song_art_image_thumbnail_url": "https://images.genius.com/dad5def4fba5e73612d1286e93dc15e1.222x222x1.jpg",
+     "song_art_image_url": "https://images.genius.com/dad5def4fba5e73612d1286e93dc15e1.222x222x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 0,
+      "hot": false
+     },
+     "title": "Fallout King (Remix)",
+     "title_with_featured": "Fallout King (Remix)",
+     "url": "https://genius.com/Fatt-tarr-fallout-king-remix-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/634083",
+      "header_image_url": "https://images.genius.com/dad5def4fba5e73612d1286e93dc15e1.222x222x1.jpg",
+      "id": 634083,
+      "image_url": "https://images.genius.com/dad5def4fba5e73612d1286e93dc15e1.222x222x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Fatt Tarr",
+      "url": "https://genius.com/artists/Fatt-tarr"
+     }
+    },
+    {
+     "annotation_count": 2,
+     "api_path": "/songs/2825046",
+     "full_title": "Trap Queen (French Remix) by\u00a0Fetty\u00a0Wap (Ft.\u00a0Kekra)",
+     "header_image_thumbnail_url": "https://images.genius.com/9149fdf3abd94447ae2c578979c6f320.300x300x1.jpg",
+     "header_image_url": "https://images.genius.com/9149fdf3abd94447ae2c578979c6f320.720x720x1.jpg",
+     "id": 2825046,
+     "lyrics_owner_id": 142424,
+     "lyrics_state": "complete",
+     "path": "/Fetty-wap-trap-queen-french-remix-lyrics",
+     "pyongs_count": 1,
+     "song_art_image_thumbnail_url": "https://images.genius.com/9149fdf3abd94447ae2c578979c6f320.300x300x1.jpg",
+     "song_art_image_url": "https://images.genius.com/9149fdf3abd94447ae2c578979c6f320.720x720x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 0,
+      "hot": false
+     },
+     "title": "Trap Queen (French Remix)",
+     "title_with_featured": "Trap Queen (French Remix) (Ft.\u00a0Kekra)",
+     "url": "https://genius.com/Fetty-wap-trap-queen-french-remix-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/216609",
+      "header_image_url": "https://images.genius.com/cfdf0e6082f7216c2483b34c15420f43.700x393x1.jpg",
+      "id": 216609,
+      "image_url": "https://images.genius.com/b0686e6e7eec842de90328ac63f4da85.400x400x1.jpg",
+      "is_meme_verified": true,
+      "is_verified": true,
+      "name": "Fetty Wap",
+      "url": "https://genius.com/artists/Fetty-wap",
+      "iq": 100
+     }
+    },
+    {
+     "annotation_count": 0,
+     "api_path": "/songs/2866548",
+     "full_title": "Trap queen by\u00a0Misa",
+     "header_image_thumbnail_url": "https://images.genius.com/907401b72ed44fef7b45bb6612ee96f9.300x300x1.jpg",
+     "header_image_url": "https://images.genius.com/907401b72ed44fef7b45bb6612ee96f9.960x960x1.jpg",
+     "id": 2866548,
+     "lyrics_owner_id": 1455543,
+     "lyrics_state": "complete",
+     "path": "/Misa-trap-queen-lyrics",
+     "pyongs_count": null,
+     "song_art_image_thumbnail_url": "https://images.genius.com/907401b72ed44fef7b45bb6612ee96f9.300x300x1.jpg",
+     "song_art_image_url": "https://images.genius.com/907401b72ed44fef7b45bb6612ee96f9.960x960x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 0,
+      "hot": false
+     },
+     "title": "Trap queen",
+     "title_with_featured": "Trap queen",
+     "url": "https://genius.com/Misa-trap-queen-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/99432",
+      "header_image_url": "https://images.genius.com/c5eaca979870696f6ee66b206372763c.960x960x1.jpg",
+      "id": 99432,
+      "image_url": "https://images.genius.com/907401b72ed44fef7b45bb6612ee96f9.960x960x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Misa",
+      "url": "https://genius.com/artists/Misa"
+     }
+    },
+    {
+     "annotation_count": 1,
+     "api_path": "/songs/2882818",
+     "full_title": "Trap Queen (Crankdat Remix) by\u00a0Crankdat",
+     "header_image_thumbnail_url": "https://images.genius.com/8db67b3fd512d69820e7df1c067cf076.300x300x1.png",
+     "header_image_url": "https://images.genius.com/8db67b3fd512d69820e7df1c067cf076.1000x1000x1.png",
+     "id": 2882818,
+     "lyrics_owner_id": 3750329,
+     "lyrics_state": "complete",
+     "path": "/Crankdat-trap-queen-crankdat-remix-lyrics",
+     "pyongs_count": null,
+     "song_art_image_thumbnail_url": "https://images.genius.com/8db67b3fd512d69820e7df1c067cf076.300x300x1.png",
+     "song_art_image_url": "https://images.genius.com/8db67b3fd512d69820e7df1c067cf076.1000x1000x1.png",
+     "stats": {
+      "unreviewed_annotations": 1,
+      "hot": false
+     },
+     "title": "Trap Queen (Crankdat Remix)",
+     "title_with_featured": "Trap Queen (Crankdat Remix)",
+     "url": "https://genius.com/Crankdat-trap-queen-crankdat-remix-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/1055884",
+      "header_image_url": "https://images.genius.com/f0afc196119a3b8da1c333decbc1f36e.1000x984x1.jpg",
+      "id": 1055884,
+      "image_url": "https://images.genius.com/cd9e3d56beb751da558a4b8240738e9f.400x400x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": true,
+      "name": "Crankdat",
+      "url": "https://genius.com/artists/Crankdat",
+      "iq": 261
+     }
+    },
+    {
+     "annotation_count": 0,
+     "api_path": "/songs/3339154",
+     "full_title": "N\u00e4ttiirentoo by\u00a0Chebaleba",
+     "header_image_thumbnail_url": "https://assets.genius.com/images/default_cover_image.png?1606943206",
+     "header_image_url": "https://assets.genius.com/images/default_cover_image.png?1606943206",
+     "id": 3339154,
+     "lyrics_owner_id": 3241055,
+     "lyrics_state": "complete",
+     "path": "/Chebaleba-nattiirentoo-lyrics",
+     "pyongs_count": null,
+     "song_art_image_thumbnail_url": "https://assets.genius.com/images/default_cover_image.png?1606943206",
+     "song_art_image_url": "https://assets.genius.com/images/default_cover_image.png?1606943206",
+     "stats": {
+      "unreviewed_annotations": 0,
+      "hot": false
+     },
+     "title": "N\u00e4ttiirentoo",
+     "title_with_featured": "N\u00e4ttiirentoo",
+     "url": "https://genius.com/Chebaleba-nattiirentoo-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/46300",
+      "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+      "id": 46300,
+      "image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Chebaleba",
+      "url": "https://genius.com/artists/Chebaleba"
+     }
+    },
+    {
+     "annotation_count": 0,
+     "api_path": "/songs/4006908",
+     "full_title": "\u5468\u308a\u5168\u90e8\u304c\u3044\u3044 (Mawari zenbu ga ii) (Trap Queen Remix) by\u00a0KOHH",
+     "header_image_thumbnail_url": "https://images.genius.com/8457cb0ad6da0c4bf632daf2b232fca4.300x269x1.jpg",
+     "header_image_url": "https://images.genius.com/8457cb0ad6da0c4bf632daf2b232fca4.1000x895x1.jpg",
+     "id": 4006908,
+     "lyrics_owner_id": 4498743,
+     "lyrics_state": "complete",
+     "path": "/Kohh-mawari-zenbu-ga-ii-trap-queen-remix-lyrics",
+     "pyongs_count": null,
+     "song_art_image_thumbnail_url": "https://images.genius.com/8457cb0ad6da0c4bf632daf2b232fca4.300x269x1.jpg",
+     "song_art_image_url": "https://images.genius.com/8457cb0ad6da0c4bf632daf2b232fca4.1000x895x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 0,
+      "hot": false
+     },
+     "title": "\u5468\u308a\u5168\u90e8\u304c\u3044\u3044 (Mawari zenbu ga ii) (Trap Queen Remix)",
+     "title_with_featured": "\u5468\u308a\u5168\u90e8\u304c\u3044\u3044 (Mawari zenbu ga ii) (Trap Queen Remix)",
+     "url": "https://genius.com/Kohh-mawari-zenbu-ga-ii-trap-queen-remix-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/251776",
+      "header_image_url": "https://images.genius.com/880e7aac8d404b71b413457853199beb.900x622x1.jpg",
+      "id": 251776,
+      "image_url": "https://images.genius.com/4ae0ee6656214fe43397330bb56b1ded.616x616x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "KOHH",
+      "url": "https://genius.com/artists/Kohh"
+     }
+    },
+    {
+     "annotation_count": 1,
+     "api_path": "/songs/4008157",
+     "full_title": "United State of Pop 2015 (50 Shades of Pop) by\u00a0DJ\u00a0Earworm",
+     "header_image_thumbnail_url": "https://images.genius.com/809ab5375a1592e7d644713fdc95ab31.300x300x1.jpg",
+     "header_image_url": "https://images.genius.com/809ab5375a1592e7d644713fdc95ab31.1000x1000x1.jpg",
+     "id": 4008157,
+     "lyrics_owner_id": 7122943,
+     "lyrics_state": "complete",
+     "path": "/Dj-earworm-united-state-of-pop-2015-50-shades-of-pop-lyrics",
+     "pyongs_count": null,
+     "song_art_image_thumbnail_url": "https://images.genius.com/809ab5375a1592e7d644713fdc95ab31.300x300x1.jpg",
+     "song_art_image_url": "https://images.genius.com/809ab5375a1592e7d644713fdc95ab31.1000x1000x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 1,
+      "hot": false
+     },
+     "title": "United State of Pop 2015 (50 Shades of Pop)",
+     "title_with_featured": "United State of Pop 2015 (50 Shades of Pop)",
+     "url": "https://genius.com/Dj-earworm-united-state-of-pop-2015-50-shades-of-pop-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/190620",
+      "header_image_url": "https://images.genius.com/e46eb8327e3ea450b0ba0e15bcd0af6a.642x642x1.jpg",
+      "id": 190620,
+      "image_url": "https://images.genius.com/e46eb8327e3ea450b0ba0e15bcd0af6a.642x642x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "DJ Earworm",
+      "url": "https://genius.com/artists/Dj-earworm"
+     }
+    },
+    {
+     "annotation_count": 1,
+     "api_path": "/songs/5370830",
+     "full_title": "Trap Baby Ft. Haiyti Robbery by\u00a0Money\u00a0Boy (Ft.\u00a0Haiyti)",
+     "header_image_thumbnail_url": "https://images.genius.com/dc0d7d18cb37c7a1a6675ffbcdb82f73.300x300x1.jpg",
+     "header_image_url": "https://images.genius.com/dc0d7d18cb37c7a1a6675ffbcdb82f73.567x567x1.jpg",
+     "id": 5370830,
+     "lyrics_owner_id": 3303368,
+     "lyrics_state": "complete",
+     "path": "/Money-boy-trap-baby-ft-haiyti-robbery-lyrics",
+     "pyongs_count": null,
+     "song_art_image_thumbnail_url": "https://images.genius.com/dc0d7d18cb37c7a1a6675ffbcdb82f73.300x300x1.jpg",
+     "song_art_image_url": "https://images.genius.com/dc0d7d18cb37c7a1a6675ffbcdb82f73.567x567x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 1,
+      "hot": false
+     },
+     "title": "Trap Baby Ft. Haiyti Robbery",
+     "title_with_featured": "Trap Baby Ft. Haiyti Robbery (Ft.\u00a0Haiyti)",
+     "url": "https://genius.com/Money-boy-trap-baby-ft-haiyti-robbery-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/13383",
+      "header_image_url": "https://images.genius.com/518af65aa7428ef8e51a2455e2407c76.800x533x1.jpg",
+      "id": 13383,
+      "image_url": "https://images.genius.com/608fffc47b1f8a36b38821cad6f72cc2.533x533x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": true,
+      "name": "Money Boy",
+      "url": "https://genius.com/artists/Money-boy",
+      "iq": 1447
+     }
+    },
+    {
+     "annotation_count": 0,
+     "api_path": "/songs/5599239",
+     "full_title": "SummerMash '15 by\u00a0DJ\u00a0Earworm",
+     "header_image_thumbnail_url": "https://images.genius.com/72338731e81a9553ce0a0cf34263b93d.300x300x1.png",
+     "header_image_url": "https://images.genius.com/72338731e81a9553ce0a0cf34263b93d.1000x1000x1.png",
+     "id": 5599239,
+     "lyrics_owner_id": 6685173,
+     "lyrics_state": "complete",
+     "path": "/Dj-earworm-summermash-15-lyrics",
+     "pyongs_count": null,
+     "song_art_image_thumbnail_url": "https://images.genius.com/72338731e81a9553ce0a0cf34263b93d.300x300x1.png",
+     "song_art_image_url": "https://images.genius.com/72338731e81a9553ce0a0cf34263b93d.1000x1000x1.png",
+     "stats": {
+      "unreviewed_annotations": 0,
+      "hot": false
+     },
+     "title": "SummerMash \u201915",
+     "title_with_featured": "SummerMash '15",
+     "url": "https://genius.com/Dj-earworm-summermash-15-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/190620",
+      "header_image_url": "https://images.genius.com/e46eb8327e3ea450b0ba0e15bcd0af6a.642x642x1.jpg",
+      "id": 190620,
+      "image_url": "https://images.genius.com/e46eb8327e3ea450b0ba0e15bcd0af6a.642x642x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "DJ Earworm",
+      "url": "https://genius.com/artists/Dj-earworm"
+     }
+    }
+   ]
+  },
+  {
+   "relationship_type": "live_version_of",
+   "type": "live_version_of",
+   "songs": []
+  },
+  {
+   "relationship_type": "performed_live_as",
+   "type": "performed_live_as",
+   "songs": []
+  }
+ ],
+ "verified_annotations_by": [],
+ "verified_contributors": [],
+ "verified_lyrics_by": [],
+ "writer_artists": [
+  {
+   "api_path": "/artists/61488",
+   "header_image_url": "https://images.genius.com/eb8242ea23e0f203ae77a1ea52ab3eeb.240x240x1.jpg",
+   "id": 61488,
+   "image_url": "https://images.genius.com/eb8242ea23e0f203ae77a1ea52ab3eeb.240x240x1.jpg",
+   "is_meme_verified": false,
+   "is_verified": false,
+   "name": "Tony Fadd",
+   "url": "https://genius.com/artists/Tony-fadd"
+  },
+  {
+   "api_path": "/artists/216609",
+   "header_image_url": "https://images.genius.com/cfdf0e6082f7216c2483b34c15420f43.700x393x1.jpg",
+   "id": 216609,
+   "image_url": "https://images.genius.com/b0686e6e7eec842de90328ac63f4da85.400x400x1.jpg",
+   "is_meme_verified": true,
+   "is_verified": true,
+   "name": "Fetty Wap",
+   "url": "https://genius.com/artists/Fetty-wap",
+   "iq": 100
+  }
+ ],
+ "lyrics": "RGF productions\nRemy Boyz, yah-ah\n1738, ayy\n\nI'm like \"Hey, what's up? Hello\" (Ayy)\nSeen yo pretty ass soon as you came in the door\nI just wanna chill, got a sack for us to roll\nMarried to the money, introduced her to my stove\nShowed her how to whip it, now she remixin' for low\nShe my trap queen, let her hit the bando\nWe be countin' up, watch how far them bands go\nWe just set a goal, talkin' matchin' Lambos\nAt 56 a gram, 5 a hundred grams though\nMan, I swear I love her, how she work the damn pole\nHit the strip club, we be lettin' bands go\nEverybody hatin', we just call them fans, though\nIn love with the money, I ain't never lettin' go\n\nAnd I get high with my baby (My baby)\nI just left the mall, I'm gettin' fly with my baby, yeah\nAnd I can ride with my baby (My baby)\nI be in the kitchen cookin' pies with my baby, yeah\nAnd I can ride with my baby (My baby)\nI just left the mall, I'm gettin' fly with my baby, yeah\nAnd I can ride with my baby\nI be in the kitchen cookin' pies\n\nI'm like, \"Hey, what's up? Hello\"\nI hit the strip with my trap queen, 'cause all we know is bands\nI just might snatch up a 'Rari and buy my boo a Lamb'\nI just might snatch her a necklace, drop a couple on a ring\nShe ain't wantin' for nothin' because I got her everything\nIt's big ZooWap from the bando\nRemind me where I can't go\nRemy Boyz got the stamp though\nCount up hella them bands though\nBoy how far can your bands go?\nFetty Wap, I'm livin' 50 thousand K how I stand though\nIf you checkin' for my pockets I'm like\u2026\n\nAnd I get high with my baby (My baby)\nI just left the mall, I'm gettin' fly with my baby, yeah\nAnd I can ride with my baby (My baby)\nI be in the kitchen cookin' pies with my baby, yeah\nAnd I can ride with my baby (My baby)\nI just left the mall, I'm gettin' fly with my baby, yeah\nAnd I can ride with my baby (My baby)\nI be in the kitchen cookin' pies\n\nI'm like, \"Hey, what's up? Hello\"\nSeen yo pretty ass soon as you came in the door\nI just wanna chill, got a sack for us to roll\nMarried to the money, introduced her to my stove\nShowed her how to whip it, now she remixin' for low\nShe my trap queen, let her hit the bando\nWe be countin' up, watch how far them bands go\nWe just set a goal, talkin' matchin' Lambos\nAt 56 a gram, 5 a hundred grams though\nMan, I swear I love her how she work the damn pole\nHit the strip club, we be lettin' bands go\nEverybody hatin', we just call them fans though\nIn love with the money, I ain't never lettin' go\n\nI be smokin' dope and you know Backwoods what I roll\nRemy Boyz, Fetty eatin' shit up, that's fasho\nI'll run in ya house, then I'll fuck your ho\n'Cause Remy Boyz or nothin'\nRe-Re-Remy Boyz or nothin', yeah\n\nYeah, you hear my boy\nSoundin' like a zillion bucks on the track\nI got whatever on my boy, whatever\nPut your money where your mouth is\nMoney on the wood make the game go good\nMoney out of sight cause fights\nPut up or shut up, huh?\nNitt Da Gritt, RGF Productions\nSquad"
+}

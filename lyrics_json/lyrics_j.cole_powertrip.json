@@ -1,0 +1,1545 @@
+{
+ "_type": "song",
+ "annotation_count": 22,
+ "api_path": "/songs/118063",
+ "full_title": "Power Trip by\u00a0J.\u00a0Cole (Ft.\u00a0Miguel)",
+ "header_image_thumbnail_url": "https://images.genius.com/89afbcd944c4799eb8844b5e95b3ee93.300x300x1.jpg",
+ "header_image_url": "https://images.genius.com/89afbcd944c4799eb8844b5e95b3ee93.1000x1000x1.jpg",
+ "id": 118063,
+ "instrumental": false,
+ "lyrics_owner_id": 149650,
+ "lyrics_state": "complete",
+ "lyrics_updated_at": 1583017603,
+ "path": "/J-cole-power-trip-lyrics",
+ "pyongs_count": 356,
+ "song_art_image_thumbnail_url": "https://images.rapgenius.com/6bxjwbfqghm9jqrtqt3d5l94y.300x300x1.jpg",
+ "song_art_image_url": "https://images.rapgenius.com/6bxjwbfqghm9jqrtqt3d5l94y.612x612x1.jpg",
+ "stats": {
+  "accepted_annotations": 21,
+  "contributors": 185,
+  "iq_earners": 184,
+  "transcribers": 9,
+  "unreviewed_annotations": 0,
+  "verified_annotations": 0,
+  "hot": false,
+  "pageviews": 3728386
+ },
+ "title": "Power Trip",
+ "title_with_featured": "Power Trip (Ft.\u00a0Miguel)",
+ "updated_by_human_at": 1606546091,
+ "url": "https://genius.com/J-cole-power-trip-lyrics",
+ "primary_artist": {
+  "api_path": "/artists/69",
+  "header_image_url": "https://images.genius.com/b4ced5fc34166c4798ae3a0e23aaa13d.1000x261x1.jpg",
+  "id": 69,
+  "image_url": "https://images.genius.com/9e6f453d188d0b0a3046f0898f4101f2.1000x1000x1.jpg",
+  "is_meme_verified": true,
+  "is_verified": true,
+  "name": "J. Cole",
+  "url": "https://genius.com/artists/J-cole",
+  "iq": 505
+ },
+ "apple_music_id": "651105810",
+ "apple_music_player_url": "https://genius.com/songs/118063/apple_music_player",
+ "description": {
+  "plain": "In 2013, Cole dropped Born Sinner\u2019s lead single just in time for Valentine\u2019s Day. His Facebook page stated this was a continuation of \u201cDreams,\u201d a track off of his second mixtape, The Warm Up.\n\nAccording to Cole himself the song has a double meaning, with the song not only about his love for a girl, but his love for hip-hop and how it\u2019s got him up all night trying to create chart topping love songs.\n\nA \u201cPower trip\u201d by definition is:\n\nA self-aggrandizing quest for ever-increasing control over others\n\nThis definition fits both \u201cDreams\u201d and \u201cPower Trip\u201d in that Cole is so obsessed with a girl, that he\u2019s willing to kill for her (in the music video, he actually does). It also explains his rise to stardom and how he wants to progress in the rap industry as well. He only wants to keep getting bigger and better.\n\nRead how they mixed the track, and why it took them 10 days, on soundonsound."
+ },
+ "embed_content": "<div id='rg_embed_link_118063' class='rg_embed_link' data-song-id='118063'>Read <a href='https://genius.com/J-cole-power-trip-lyrics'>\u201cPower Trip\u201d by J.\u00a0Cole</a> on Genius</div> <script crossorigin src='//genius.com/songs/118063/embed.js'></script>",
+ "featured_video": true,
+ "lyrics_placeholder_reason": null,
+ "recording_location": "Premier Studios (New York, NY) & Record Plant (Los Angeles, CA)",
+ "release_date": "2013-02-14",
+ "release_date_for_display": "February 14, 2013",
+ "current_user_metadata": {
+  "permissions": [
+   "see_pageviews",
+   "view_apple_music_player",
+   "create_comment",
+   "view_song_story_gallery"
+  ],
+  "excluded_permissions": [
+   "follow",
+   "award_transcription_iq",
+   "remove_transcription_iq",
+   "pyong",
+   "edit_lyrics",
+   "view_annotation_engagement_data",
+   "publish",
+   "unpublish",
+   "edit_spotify_details",
+   "hide",
+   "unhide",
+   "toggle_featured_video",
+   "add_pinned_annotation_to",
+   "add_community_annotation_to",
+   "destroy",
+   "mark_as_not_spam",
+   "edit_spotify_annotations_for",
+   "verify_lyrics",
+   "unverify_lyrics",
+   "edit_anything",
+   "edit_any_media",
+   "edit",
+   "rename",
+   "edit_tags",
+   "watch_fact_track",
+   "reindex",
+   "view_lyrics_synchronization",
+   "enable_media",
+   "disable_media",
+   "edit_lyrics_or_annotation_brackets",
+   "see_editorial_indicators",
+   "view_attribution_visualization",
+   "edit_annotation_brackets",
+   "preview_lyrics_for_export",
+   "hide_apple_player",
+   "unhide_apple_player",
+   "trigger_apple_match",
+   "mark_lyrics_evaluation_as_approved",
+   "mark_lyrics_evaluation_as_staff_approved",
+   "mark_lyrics_evaluation_as_unapproved",
+   "mark_lyrics_evaluation_as_un_staff_approved",
+   "view_transcriber_media_player",
+   "override_apple_match",
+   "edit_youtube_url",
+   "edit_soundcloud_url",
+   "edit_spotify_uuid",
+   "edit_vevo_url",
+   "moderate_annotations",
+   "create_annotation",
+   "see_short_id",
+   "manage_chart_item",
+   "create_tag",
+   "propose_lyrics_edit",
+   "moderate_lyrics_edit_proposals",
+   "preview_react_song_page"
+  ],
+  "interactions": {
+   "pyong": false,
+   "following": false
+  },
+  "relationships": {},
+  "iq_by_action": {}
+ },
+ "album": {
+  "api_path": "/albums/499569",
+  "cover_art_url": "https://images.genius.com/e6786c61652abdfe0bdc9cb646f9b1b6.1000x1000x1.jpg",
+  "full_title": "Born Sinner (Deluxe Version) by J. Cole",
+  "id": 499569,
+  "name": "Born Sinner (Deluxe Version)",
+  "url": "https://genius.com/albums/J-cole/Born-sinner-deluxe-version",
+  "artist": {
+   "api_path": "/artists/69",
+   "header_image_url": "https://images.genius.com/b4ced5fc34166c4798ae3a0e23aaa13d.1000x261x1.jpg",
+   "id": 69,
+   "image_url": "https://images.genius.com/9e6f453d188d0b0a3046f0898f4101f2.1000x1000x1.jpg",
+   "is_meme_verified": true,
+   "is_verified": true,
+   "name": "J. Cole",
+   "url": "https://genius.com/artists/J-cole",
+   "iq": 505
+  }
+ },
+ "custom_performances": [
+  {
+   "label": "Label",
+   "artists": [
+    {
+     "api_path": "/artists/618445",
+     "header_image_url": "https://images.genius.com/cd8242b014b3587e0e436f3e7a96ee5a.960x391x1.jpg",
+     "id": 618445,
+     "image_url": "https://images.genius.com/9182e18e6a784a3160c4adef52df5e6f.899x899x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Dreamville",
+     "url": "https://genius.com/artists/Dreamville"
+    },
+    {
+     "api_path": "/artists/57118",
+     "header_image_url": "https://images.genius.com/733a9682cded0888d3b42ac279cd1e53.660x440x1.jpg",
+     "id": 57118,
+     "image_url": "https://images.genius.com/733a9682cded0888d3b42ac279cd1e53.660x440x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Roc Nation",
+     "url": "https://genius.com/artists/Roc-nation"
+    },
+    {
+     "api_path": "/artists/30372",
+     "header_image_url": "https://images.genius.com/37994e562c585d846c732f6451cd0cf7.400x400x1.jpg",
+     "id": 30372,
+     "image_url": "https://images.genius.com/eda4152e91c56ea7ce8e17fbafadd081.400x400x1.jpg",
+     "is_meme_verified": true,
+     "is_verified": true,
+     "name": "Columbia Records",
+     "url": "https://genius.com/artists/Columbia-records",
+     "iq": 127
+    }
+   ]
+  },
+  {
+   "label": "Copyright \u00a9",
+   "artists": [
+    {
+     "api_path": "/artists/57118",
+     "header_image_url": "https://images.genius.com/733a9682cded0888d3b42ac279cd1e53.660x440x1.jpg",
+     "id": 57118,
+     "image_url": "https://images.genius.com/733a9682cded0888d3b42ac279cd1e53.660x440x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Roc Nation",
+     "url": "https://genius.com/artists/Roc-nation"
+    }
+   ]
+  },
+  {
+   "label": "Phonographic Copyright \u2117",
+   "artists": [
+    {
+     "api_path": "/artists/57118",
+     "header_image_url": "https://images.genius.com/733a9682cded0888d3b42ac279cd1e53.660x440x1.jpg",
+     "id": 57118,
+     "image_url": "https://images.genius.com/733a9682cded0888d3b42ac279cd1e53.660x440x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Roc Nation",
+     "url": "https://genius.com/artists/Roc-nation"
+    }
+   ]
+  },
+  {
+   "label": "Publisher",
+   "artists": [
+    {
+     "api_path": "/artists/1104563",
+     "header_image_url": "https://images.genius.com/6ee5d6766689e04358c1d0f8ea0ed8f0.600x600x1.png",
+     "id": 1104563,
+     "image_url": "https://images.genius.com/7b3fb2c00317cb2eb2453f9f4e7473d1.600x600x1.png",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Universal Music Group",
+     "url": "https://genius.com/artists/Universal-music-group"
+    },
+    {
+     "api_path": "/artists/2496822",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+     "id": 2496822,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "HuLaws Music",
+     "url": "https://genius.com/artists/Hulaws-music"
+    }
+   ]
+  },
+  {
+   "label": "Performance Rights",
+   "artists": [
+    {
+     "api_path": "/artists/1138091",
+     "header_image_url": "https://images.genius.com/5b84dbf7ba86e59c297143f076a56c9a.1000x1000x1.jpg",
+     "id": 1138091,
+     "image_url": "https://images.genius.com/051b0a6beabf8a9eb8768e9f874a542f.1000x1000x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "BMI",
+     "url": "https://genius.com/artists/Bmi"
+    }
+   ]
+  },
+  {
+   "label": "Mastering Engineer",
+   "artists": [
+    {
+     "api_path": "/artists/648244",
+     "header_image_url": "https://images.genius.com/a74508bdf5e1bf26f8263837990882ec.980x320x1.jpg",
+     "id": 648244,
+     "image_url": "https://images.genius.com/12d02c504d55a59a1bdb85fcf0bcb64a.320x320x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Chris Athens",
+     "url": "https://genius.com/artists/Chris-athens"
+    }
+   ]
+  },
+  {
+   "label": "Recording Engineer",
+   "artists": [
+    {
+     "api_path": "/artists/642578",
+     "header_image_url": "https://images.genius.com/8e4c8d3ac29ffc4e129e564becd397e9.400x400x1.jpg",
+     "id": 642578,
+     "image_url": "https://images.genius.com/8e4c8d3ac29ffc4e129e564becd397e9.400x400x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Juro \u201cMez\u201d Davis",
+     "url": "https://genius.com/artists/Juro-mez-davis"
+    }
+   ]
+  },
+  {
+   "label": "Mixing Engineer",
+   "artists": [
+    {
+     "api_path": "/artists/642578",
+     "header_image_url": "https://images.genius.com/8e4c8d3ac29ffc4e129e564becd397e9.400x400x1.jpg",
+     "id": 642578,
+     "image_url": "https://images.genius.com/8e4c8d3ac29ffc4e129e564becd397e9.400x400x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Juro \u201cMez\u201d Davis",
+     "url": "https://genius.com/artists/Juro-mez-davis"
+    }
+   ]
+  }
+ ],
+ "description_annotation": {
+  "_type": "referent",
+  "annotator_id": 149650,
+  "annotator_login": "boolin",
+  "api_path": "/referents/3743347",
+  "classification": "accepted",
+  "fragment": "Power Trip",
+  "id": 3743347,
+  "is_description": true,
+  "path": "/3743347/J-cole-power-trip/Power-trip",
+  "range": {
+   "content": "Power Trip"
+  },
+  "song_id": 118063,
+  "url": "https://genius.com/3743347/J-cole-power-trip/Power-trip",
+  "verified_annotator_ids": [],
+  "annotatable": {
+   "api_path": "/songs/118063",
+   "client_timestamps": {
+    "updated_by_human_at": 1606546091,
+    "lyrics_updated_at": 1583017603
+   },
+   "context": "J. Cole",
+   "id": 118063,
+   "image_url": "https://images.rapgenius.com/6bxjwbfqghm9jqrtqt3d5l94y.612x612x1.jpg",
+   "link_title": "Power Trip by\u00a0J.\u00a0Cole (Ft.\u00a0Miguel)",
+   "title": "Power Trip",
+   "type": "Song",
+   "url": "https://genius.com/J-cole-power-trip-lyrics"
+  },
+  "annotations": [
+   {
+    "api_path": "/annotations/3743347",
+    "body": {
+     "plain": "In 2013, Cole dropped Born Sinner\u2019s lead single just in time for Valentine\u2019s Day. His Facebook page stated this was a continuation of \u201cDreams,\u201d a track off of his second mixtape, The Warm Up.\n\nAccording to Cole himself the song has a double meaning, with the song not only about his love for a girl, but his love for hip-hop and how it\u2019s got him up all night trying to create chart topping love songs.\n\nA \u201cPower trip\u201d by definition is:\n\nA self-aggrandizing quest for ever-increasing control over others\n\nThis definition fits both \u201cDreams\u201d and \u201cPower Trip\u201d in that Cole is so obsessed with a girl, that he\u2019s willing to kill for her (in the music video, he actually does). It also explains his rise to stardom and how he wants to progress in the rap industry as well. He only wants to keep getting bigger and better.\n\nRead how they mixed the track, and why it took them 10 days, on soundonsound."
+    },
+    "comment_count": 0,
+    "community": true,
+    "custom_preview": null,
+    "has_voters": true,
+    "id": 3743347,
+    "pinned": false,
+    "share_url": "https://genius.com/3743347",
+    "source": null,
+    "state": "accepted",
+    "url": "https://genius.com/3743347/J-cole-power-trip/Power-trip",
+    "verified": false,
+    "votes_total": 161,
+    "current_user_metadata": {
+     "permissions": [
+      "create_comment"
+     ],
+     "excluded_permissions": [
+      "vote",
+      "edit",
+      "cosign",
+      "uncosign",
+      "destroy",
+      "accept",
+      "reject",
+      "see_unreviewed",
+      "clear_votes",
+      "propose_edit_to",
+      "pin_to_profile",
+      "unpin_from_profile",
+      "update_source",
+      "edit_custom_preview"
+     ],
+     "interactions": {
+      "cosign": false,
+      "pyong": false,
+      "vote": null
+     },
+     "iq_by_action": {}
+    },
+    "authors": [
+     {
+      "attribution": 0.4171779141104295,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/421409",
+       "avatar": {
+        "tiny": {
+         "url": "https://images.genius.com/avatars/tiny/4fd1b866825cb4eb303c8c860a81dd90",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://images.genius.com/avatars/thumb/4fd1b866825cb4eb303c8c860a81dd90",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://images.genius.com/avatars/small/4fd1b866825cb4eb303c8c860a81dd90",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://images.genius.com/avatars/medium/4fd1b866825cb4eb303c8c860a81dd90",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://images.genius.com/0777fae97db5098ad31722700d407759.1000x625x1.jpg",
+       "human_readable_role_for_display": "Editor",
+       "id": 421409,
+       "iq": 40880,
+       "login": "Drew",
+       "name": "Drxw",
+       "role_for_display": "editor",
+       "url": "https://genius.com/Drew",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     },
+     {
+      "attribution": 0.26380368098159507,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/149650",
+       "avatar": {
+        "tiny": {
+         "url": "https://images.rapgenius.com/avatars/tiny/ad190fca65cca7eed60e581a81706753",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://images.rapgenius.com/avatars/thumb/ad190fca65cca7eed60e581a81706753",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://images.rapgenius.com/avatars/small/ad190fca65cca7eed60e581a81706753",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://images.rapgenius.com/avatars/medium/ad190fca65cca7eed60e581a81706753",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://images.rapgenius.com/avatars/medium/ad190fca65cca7eed60e581a81706753",
+       "human_readable_role_for_display": "Contributor",
+       "id": 149650,
+       "iq": 117945,
+       "login": "boolin",
+       "name": "\u00adboolin",
+       "role_for_display": "contributor",
+       "url": "https://genius.com/boolin",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     },
+     {
+      "attribution": 0.09202453987730061,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/458792",
+       "avatar": {
+        "tiny": {
+         "url": "https://images.genius.com/avatars/tiny/e2bd00d48b48b2489eb3f2a969dd1ed3",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://images.genius.com/avatars/thumb/e2bd00d48b48b2489eb3f2a969dd1ed3",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://images.genius.com/avatars/small/e2bd00d48b48b2489eb3f2a969dd1ed3",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://images.genius.com/avatars/medium/e2bd00d48b48b2489eb3f2a969dd1ed3",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://images.genius.com/e8a303ab79861711fb6aa79f1e231f90.960x617x1.jpg",
+       "human_readable_role_for_display": "Moderator",
+       "id": 458792,
+       "iq": 335865,
+       "login": "Skhills",
+       "name": "Skhills #BlackLivesMatter",
+       "role_for_display": "moderator",
+       "url": "https://genius.com/Skhills",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     },
+     {
+      "attribution": 0.06134969325153374,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/12624",
+       "avatar": {
+        "tiny": {
+         "url": "https://images.rapgenius.com/avatars/tiny/e2a61ee1c301748a8e574129e1ccd6cc",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://images.rapgenius.com/avatars/thumb/e2a61ee1c301748a8e574129e1ccd6cc",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://images.rapgenius.com/avatars/small/e2a61ee1c301748a8e574129e1ccd6cc",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://images.rapgenius.com/avatars/medium/e2a61ee1c301748a8e574129e1ccd6cc",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://images.rapgenius.com/avatars/medium/e2a61ee1c301748a8e574129e1ccd6cc",
+       "human_readable_role_for_display": "Contributor",
+       "id": 12624,
+       "iq": 10038,
+       "login": "notuhtroll",
+       "name": "Notatroll",
+       "role_for_display": "contributor",
+       "url": "https://genius.com/notuhtroll",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     },
+     {
+      "attribution": 0.05521472392638037,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/3008731",
+       "avatar": {
+        "tiny": {
+         "url": "https://images.rapgenius.com/avatars/tiny/ad14d753f95b45647e6f879531d697d6",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://images.rapgenius.com/avatars/thumb/ad14d753f95b45647e6f879531d697d6",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://images.rapgenius.com/avatars/small/ad14d753f95b45647e6f879531d697d6",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://images.rapgenius.com/avatars/medium/ad14d753f95b45647e6f879531d697d6",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://images.rapgenius.com/avatars/medium/ad14d753f95b45647e6f879531d697d6",
+       "human_readable_role_for_display": "Contributor",
+       "id": 3008731,
+       "iq": 521,
+       "login": "Xonshiz",
+       "name": "Xonshiz",
+       "role_for_display": "contributor",
+       "url": "https://genius.com/Xonshiz",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     },
+     {
+      "attribution": 0.04294478527607362,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/172030",
+       "avatar": {
+        "tiny": {
+         "url": "https://images.genius.com/avatars/tiny/da3c5431b3fb000ec91bfb3dbb370112",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://images.genius.com/avatars/thumb/da3c5431b3fb000ec91bfb3dbb370112",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://images.genius.com/avatars/small/da3c5431b3fb000ec91bfb3dbb370112",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://images.genius.com/avatars/medium/da3c5431b3fb000ec91bfb3dbb370112",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://images.genius.com/avatars/medium/da3c5431b3fb000ec91bfb3dbb370112",
+       "human_readable_role_for_display": "Editor",
+       "id": 172030,
+       "iq": 261511,
+       "login": "zk123",
+       "name": "Zk123",
+       "role_for_display": "editor",
+       "url": "https://genius.com/zk123",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     },
+     {
+      "attribution": 0.024539877300613498,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/11524",
+       "avatar": {
+        "tiny": {
+         "url": "https://images.rapgenius.com/avatars/tiny/e7b84a26140d5becfc5614929303367f",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://images.rapgenius.com/avatars/thumb/e7b84a26140d5becfc5614929303367f",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://images.rapgenius.com/avatars/small/e7b84a26140d5becfc5614929303367f",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://images.rapgenius.com/avatars/medium/e7b84a26140d5becfc5614929303367f",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://images.rapgenius.com/avatars/medium/e7b84a26140d5becfc5614929303367f",
+       "human_readable_role_for_display": "Editor",
+       "id": 11524,
+       "iq": 277795,
+       "login": "tomi",
+       "name": "Tomi Fischer",
+       "role_for_display": "editor",
+       "url": "https://genius.com/tomi",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     },
+     {
+      "attribution": 0.018404907975460124,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/14660",
+       "avatar": {
+        "tiny": {
+         "url": "https://images.rapgenius.com/avatars/tiny/81d2c7151070d649b610c8f68c8becac",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://images.rapgenius.com/avatars/thumb/81d2c7151070d649b610c8f68c8becac",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://images.rapgenius.com/avatars/small/81d2c7151070d649b610c8f68c8becac",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://images.rapgenius.com/avatars/medium/81d2c7151070d649b610c8f68c8becac",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://images.rapgenius.com/avatars/medium/81d2c7151070d649b610c8f68c8becac",
+       "human_readable_role_for_display": "Editor",
+       "id": 14660,
+       "iq": 233429,
+       "login": "Magnitude901",
+       "name": "Magnitude901",
+       "role_for_display": "editor",
+       "url": "https://genius.com/Magnitude901",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     },
+     {
+      "attribution": 0.012269938650306749,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/131",
+       "avatar": {
+        "tiny": {
+         "url": "https://images.rapgenius.com/avatars/tiny/494a521d3e55c0891b007707a07304fb",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://images.rapgenius.com/avatars/thumb/494a521d3e55c0891b007707a07304fb",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://images.rapgenius.com/avatars/small/494a521d3e55c0891b007707a07304fb",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://images.rapgenius.com/avatars/medium/494a521d3e55c0891b007707a07304fb",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://images.rapgenius.com/avatars/medium/494a521d3e55c0891b007707a07304fb",
+       "human_readable_role_for_display": "Contributor",
+       "id": 131,
+       "iq": 90833,
+       "login": "superflyronald",
+       "name": "Superflyronald",
+       "role_for_display": "contributor",
+       "url": "https://genius.com/superflyronald",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     },
+     {
+      "attribution": 0.006134969325153374,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/131902",
+       "avatar": {
+        "tiny": {
+         "url": "https://s3.amazonaws.com/rapgenius/avatars/tiny/1362892139_vTJcXpMQC1i6P575sDoQ.jpg",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://s3.amazonaws.com/rapgenius/avatars/thumb/1362892139_vTJcXpMQC1i6P575sDoQ.jpg",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://s3.amazonaws.com/rapgenius/avatars/small/1362892140_vTJcXpMQC1i6P575sDoQ.jpg",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://s3.amazonaws.com/rapgenius/avatars/medium/1362892139_vTJcXpMQC1i6P575sDoQ.jpg",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://s3.amazonaws.com/rapgenius/avatars/medium/1362892139_vTJcXpMQC1i6P575sDoQ.jpg",
+       "human_readable_role_for_display": "Contributor",
+       "id": 131902,
+       "iq": 15494,
+       "login": "arobie1992",
+       "name": "arobie1992",
+       "role_for_display": "contributor",
+       "url": "https://genius.com/arobie1992",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     },
+     {
+      "attribution": 0.006134969325153374,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/47098",
+       "avatar": {
+        "tiny": {
+         "url": "https://s3.amazonaws.com/rapgenius/avatars/tiny/47098_photo%20(3).JPG",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://s3.amazonaws.com/rapgenius/avatars/thumb/1358288554_47098_photo%20(3).JPG",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://s3.amazonaws.com/rapgenius/avatars/small/1358288554_47098_photo%20(3).JPG",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://s3.amazonaws.com/rapgenius/avatars/medium/1358288554_47098_photo%20(3).JPG",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://s3.amazonaws.com/rapgenius/avatars/medium/1358288554_47098_photo%20(3).JPG",
+       "human_readable_role_for_display": "Editor",
+       "id": 47098,
+       "iq": 90160,
+       "login": "notero",
+       "name": "Notero",
+       "role_for_display": "editor",
+       "url": "https://genius.com/notero",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     }
+    ],
+    "cosigned_by": [],
+    "rejection_comment": null,
+    "verified_by": null
+   }
+  ]
+ },
+ "featured_artists": [
+  {
+   "api_path": "/artists/446",
+   "header_image_url": "https://images.genius.com/013817f84ff3978a291e31c737d963dd.1000x663x1.jpg",
+   "id": 446,
+   "image_url": "https://images.genius.com/2a256efadf2dd3f533cef169dc2bd753.721x721x1.jpg",
+   "is_meme_verified": false,
+   "is_verified": true,
+   "name": "Miguel",
+   "url": "https://genius.com/artists/Miguel",
+   "iq": 4769
+  }
+ ],
+ "lyrics_marked_complete_by": null,
+ "media": [
+  {
+   "provider": "youtube",
+   "start": 0,
+   "type": "video",
+   "url": "http://www.youtube.com/watch?v=7AjD7nKiUQ4"
+  },
+  {
+   "native_uri": "spotify:track:1EbWiEra7ovNsMq3DeLSDy",
+   "provider": "spotify",
+   "type": "audio",
+   "url": "https://open.spotify.com/track/1EbWiEra7ovNsMq3DeLSDy"
+  },
+  {
+   "attribution": "j cole",
+   "provider": "soundcloud",
+   "type": "audio",
+   "url": "https://soundcloud.com/j-cole/power-trip"
+  }
+ ],
+ "producer_artists": [
+  {
+   "api_path": "/artists/69",
+   "header_image_url": "https://images.genius.com/b4ced5fc34166c4798ae3a0e23aaa13d.1000x261x1.jpg",
+   "id": 69,
+   "image_url": "https://images.genius.com/9e6f453d188d0b0a3046f0898f4101f2.1000x1000x1.jpg",
+   "is_meme_verified": true,
+   "is_verified": true,
+   "name": "J. Cole",
+   "url": "https://genius.com/artists/J-cole",
+   "iq": 505
+  }
+ ],
+ "song_relationships": [
+  {
+   "relationship_type": "samples",
+   "type": "samples",
+   "songs": [
+    {
+     "annotation_count": 0,
+     "api_path": "/songs/2430531",
+     "full_title": "No More by\u00a0Hubert\u00a0Laws",
+     "header_image_thumbnail_url": "https://images.genius.com/e5b1dbbeb9ee3099d2601344b640efaa.300x300x1.jpg",
+     "header_image_url": "https://images.genius.com/e5b1dbbeb9ee3099d2601344b640efaa.600x600x1.jpg",
+     "id": 2430531,
+     "lyrics_owner_id": 172030,
+     "lyrics_state": "complete",
+     "path": "/Hubert-laws-no-more-lyrics",
+     "pyongs_count": null,
+     "song_art_image_thumbnail_url": "https://images.genius.com/e5b1dbbeb9ee3099d2601344b640efaa.300x300x1.jpg",
+     "song_art_image_url": "https://images.genius.com/e5b1dbbeb9ee3099d2601344b640efaa.600x600x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 0,
+      "hot": false
+     },
+     "title": "No More",
+     "title_with_featured": "No More",
+     "url": "https://genius.com/Hubert-laws-no-more-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/560996",
+      "header_image_url": "https://images.genius.com/40b9358daa9f7acf9d77855d82b6e55e.608x442x1.jpg",
+      "id": 560996,
+      "image_url": "https://images.genius.com/40b9358daa9f7acf9d77855d82b6e55e.608x442x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Hubert Laws",
+      "url": "https://genius.com/artists/Hubert-laws"
+     }
+    }
+   ]
+  },
+  {
+   "relationship_type": "sampled_in",
+   "type": "sampled_in",
+   "songs": [
+    {
+     "annotation_count": 1,
+     "api_path": "/songs/193600",
+     "full_title": "Power Trip by\u00a0Daniel\u00a0Fern\u00e1ndez 0058",
+     "header_image_thumbnail_url": "https://images.genius.com/48e63c2dac0f17bc2b81b9f75f419ae0.300x300x1.jpg",
+     "header_image_url": "https://images.genius.com/48e63c2dac0f17bc2b81b9f75f419ae0.1000x1000x1.jpg",
+     "id": 193600,
+     "lyrics_owner_id": 143643,
+     "lyrics_state": "complete",
+     "path": "/Daniel-fernandez-0058-power-trip-lyrics",
+     "pyongs_count": null,
+     "song_art_image_thumbnail_url": "https://images.genius.com/48e63c2dac0f17bc2b81b9f75f419ae0.300x300x1.jpg",
+     "song_art_image_url": "https://images.genius.com/48e63c2dac0f17bc2b81b9f75f419ae0.1000x1000x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 0,
+      "hot": false
+     },
+     "title": "Power Trip",
+     "title_with_featured": "Power Trip",
+     "url": "https://genius.com/Daniel-fernandez-0058-power-trip-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/48863",
+      "header_image_url": "https://images.genius.com/e3b2ea3a2ba4177c1c93f97caf3aa040.1000x1000x1.png",
+      "id": 48863,
+      "image_url": "https://images.genius.com/48e63c2dac0f17bc2b81b9f75f419ae0.1000x1000x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Daniel Fern\u00e1ndez 0058",
+      "url": "https://genius.com/artists/Daniel-fernandez-0058",
+      "iq": 1105
+     }
+    },
+    {
+     "annotation_count": 8,
+     "api_path": "/songs/682059",
+     "full_title": "Slow by\u00a0Halsey (Ft.\u00a0Lido)",
+     "header_image_thumbnail_url": "https://images.rapgenius.com/44711ef21cb177b01ccb2e20788972a8.300x300x1.png",
+     "header_image_url": "https://images.rapgenius.com/44711ef21cb177b01ccb2e20788972a8.600x600x1.png",
+     "id": 682059,
+     "lyrics_owner_id": 1458189,
+     "lyrics_state": "complete",
+     "path": "/Halsey-slow-lyrics",
+     "pyongs_count": 20,
+     "song_art_image_thumbnail_url": "https://images.rapgenius.com/44711ef21cb177b01ccb2e20788972a8.300x300x1.png",
+     "song_art_image_url": "https://images.rapgenius.com/44711ef21cb177b01ccb2e20788972a8.600x600x1.png",
+     "stats": {
+      "unreviewed_annotations": 4,
+      "hot": false,
+      "pageviews": 62753
+     },
+     "title": "Slow",
+     "title_with_featured": "Slow (Ft.\u00a0Lido)",
+     "url": "https://genius.com/Halsey-slow-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/228636",
+      "header_image_url": "https://images.genius.com/023cdfc5c6c7a7dbb8305440c481903b.1000x1000x1.jpg",
+      "id": 228636,
+      "image_url": "https://images.genius.com/3e573241985d8a92a9b3ae9a2f144d68.399x399x1.jpg",
+      "is_meme_verified": true,
+      "is_verified": true,
+      "name": "Halsey",
+      "url": "https://genius.com/artists/Halsey",
+      "iq": 1525
+     }
+    },
+    {
+     "annotation_count": 3,
+     "api_path": "/songs/3097666",
+     "full_title": "Luis Fonsi & Daddy Yankee - Despacito Remix ft. Justin Bieber (SING OFF vs. Pixie Lott) by\u00a0Conor\u00a0Maynard (Ft.\u00a0Pixie\u00a0Lott)",
+     "header_image_thumbnail_url": "https://images.genius.com/40800fa7d2b6fe66db71c7ad51a957fc.300x300x1.jpg",
+     "header_image_url": "https://images.genius.com/40800fa7d2b6fe66db71c7ad51a957fc.1000x1000x1.jpg",
+     "id": 3097666,
+     "lyrics_owner_id": 4440506,
+     "lyrics_state": "complete",
+     "path": "/Conor-maynard-luis-fonsi-and-daddy-yankee-despacito-remix-ft-justin-bieber-sing-off-vs-pixie-lott-lyrics",
+     "pyongs_count": 2,
+     "song_art_image_thumbnail_url": "https://images.genius.com/40800fa7d2b6fe66db71c7ad51a957fc.300x300x1.jpg",
+     "song_art_image_url": "https://images.genius.com/40800fa7d2b6fe66db71c7ad51a957fc.1000x1000x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 3,
+      "hot": false,
+      "pageviews": 32822
+     },
+     "title": "Luis Fonsi & Daddy Yankee - Despacito Remix ft. Justin Bieber (SING OFF vs. Pixie Lott)",
+     "title_with_featured": "Luis Fonsi & Daddy Yankee - Despacito Remix ft. Justin Bieber (SING OFF vs. Pixie Lott) (Ft.\u00a0Pixie\u00a0Lott)",
+     "url": "https://genius.com/Conor-maynard-luis-fonsi-and-daddy-yankee-despacito-remix-ft-justin-bieber-sing-off-vs-pixie-lott-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/21941",
+      "header_image_url": "https://images.genius.com/2d3a8a588d504ca90e4049b2d3ec9c83.1000x525x1.jpg",
+      "id": 21941,
+      "image_url": "https://images.genius.com/40800fa7d2b6fe66db71c7ad51a957fc.1000x1000x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": true,
+      "name": "Conor Maynard",
+      "url": "https://genius.com/artists/Conor-maynard",
+      "iq": 263
+     }
+    }
+   ]
+  },
+  {
+   "relationship_type": "interpolates",
+   "type": "interpolates",
+   "songs": [
+    {
+     "annotation_count": 22,
+     "api_path": "/songs/50025",
+     "full_title": "I\u2019m On One by\u00a0DJ\u00a0Khaled (Ft.\u00a0Drake, Lil\u00a0Wayne & Rick\u00a0Ross)",
+     "header_image_thumbnail_url": "https://images.genius.com/bd2d4328b53d5c64f92dae423b41cb7a.300x300x1.jpg",
+     "header_image_url": "https://images.genius.com/bd2d4328b53d5c64f92dae423b41cb7a.1000x1000x1.jpg",
+     "id": 50025,
+     "lyrics_owner_id": 3335,
+     "lyrics_state": "complete",
+     "path": "/Dj-khaled-im-on-one-lyrics",
+     "pyongs_count": 85,
+     "song_art_image_thumbnail_url": "https://images.genius.com/9b9f763b47b15d028264da945f390ae8.300x300x1.png",
+     "song_art_image_url": "https://images.genius.com/9b9f763b47b15d028264da945f390ae8.640x640x1.png",
+     "stats": {
+      "unreviewed_annotations": 6,
+      "concurrents": 2,
+      "hot": false,
+      "pageviews": 1181450
+     },
+     "title": "I\u2019m On One",
+     "title_with_featured": "I\u2019m On One (Ft.\u00a0Drake, Lil\u00a0Wayne & Rick\u00a0Ross)",
+     "url": "https://genius.com/Dj-khaled-im-on-one-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/158",
+      "header_image_url": "https://images.genius.com/ab6d177ad39383915733cf37ca1fb301.999x999x1.jpg",
+      "id": 158,
+      "image_url": "https://images.genius.com/ab6d177ad39383915733cf37ca1fb301.999x999x1.jpg",
+      "is_meme_verified": true,
+      "is_verified": true,
+      "name": "DJ Khaled",
+      "url": "https://genius.com/artists/Dj-khaled",
+      "iq": 4897
+     }
+    },
+    {
+     "annotation_count": 12,
+     "api_path": "/songs/88657",
+     "full_title": "Gimme 20 Dollars by\u00a0Ron\u00a0Browz (Ft.\u00a0Slenderman)",
+     "header_image_thumbnail_url": "https://images.genius.com/abf0544ef9cc7632024107f931220877.300x294x1.jpg",
+     "header_image_url": "https://images.genius.com/abf0544ef9cc7632024107f931220877.400x392x1.jpg",
+     "id": 88657,
+     "lyrics_owner_id": 149650,
+     "lyrics_state": "complete",
+     "path": "/Ron-browz-gimme-20-dollars-lyrics",
+     "pyongs_count": 1,
+     "song_art_image_thumbnail_url": "https://images.genius.com/abf0544ef9cc7632024107f931220877.300x294x1.jpg",
+     "song_art_image_url": "https://images.genius.com/abf0544ef9cc7632024107f931220877.400x392x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 12,
+      "hot": false,
+      "pageviews": 19880
+     },
+     "title": "Gimme 20 Dollars",
+     "title_with_featured": "Gimme 20 Dollars (Ft.\u00a0Slenderman)",
+     "url": "https://genius.com/Ron-browz-gimme-20-dollars-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/335",
+      "header_image_url": "https://images.genius.com/abf0544ef9cc7632024107f931220877.400x392x1.jpg",
+      "id": 335,
+      "image_url": "https://images.genius.com/abf0544ef9cc7632024107f931220877.400x392x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Ron Browz",
+      "url": "https://genius.com/artists/Ron-browz"
+     }
+    }
+   ]
+  },
+  {
+   "relationship_type": "interpolated_by",
+   "type": "interpolated_by",
+   "songs": [
+    {
+     "annotation_count": 1,
+     "api_path": "/songs/3572378",
+     "full_title": "Communication by\u00a0Arin\u00a0Ray (Ft.\u00a0Shelley\u00a0FKA DRAM)",
+     "header_image_thumbnail_url": "https://images.genius.com/a40de415a3fb750e6edd890b82b86d0f.300x300x1.png",
+     "header_image_url": "https://images.genius.com/a40de415a3fb750e6edd890b82b86d0f.600x600x1.png",
+     "id": 3572378,
+     "lyrics_owner_id": 111685,
+     "lyrics_state": "complete",
+     "path": "/Arin-ray-communication-lyrics",
+     "pyongs_count": 3,
+     "song_art_image_thumbnail_url": "https://images.genius.com/a40de415a3fb750e6edd890b82b86d0f.300x300x1.png",
+     "song_art_image_url": "https://images.genius.com/a40de415a3fb750e6edd890b82b86d0f.600x600x1.png",
+     "stats": {
+      "unreviewed_annotations": 1,
+      "hot": false,
+      "pageviews": 22458
+     },
+     "title": "Communication",
+     "title_with_featured": "Communication (Ft.\u00a0Shelley\u00a0FKA DRAM)",
+     "url": "https://genius.com/Arin-ray-communication-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/508874",
+      "header_image_url": "https://images.genius.com/7673289971236678f09e7910fd384952.1000x1000x1.jpg",
+      "id": 508874,
+      "image_url": "https://images.genius.com/3577115442a0c5ffb185ae4be31d3123.1000x1000x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": true,
+      "name": "Arin Ray",
+      "url": "https://genius.com/artists/Arin-ray",
+      "iq": 154
+     }
+    },
+    {
+     "annotation_count": 9,
+     "api_path": "/songs/5251893",
+     "full_title": "Would You Believe? by\u00a0Yomommigotbarss (Ft.\u00a0WArTi\u00a0cArTi & WArTi\u00a0cArTi)",
+     "header_image_thumbnail_url": "https://images.genius.com/1e5ee9984b0c988367001fe336eba85b.300x533x1.jpg",
+     "header_image_url": "https://images.genius.com/1e5ee9984b0c988367001fe336eba85b.563x1000x1.jpg",
+     "id": 5251893,
+     "lyrics_owner_id": 10249928,
+     "lyrics_state": "complete",
+     "path": "/Yomommigotbarss-would-you-believe-lyrics",
+     "pyongs_count": 1,
+     "song_art_image_thumbnail_url": "https://images.genius.com/1e5ee9984b0c988367001fe336eba85b.300x533x1.jpg",
+     "song_art_image_url": "https://images.genius.com/1e5ee9984b0c988367001fe336eba85b.563x1000x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 9,
+      "hot": false
+     },
+     "title": "Would You Believe?",
+     "title_with_featured": "Would You Believe? (Ft.\u00a0WArTi\u00a0cArTi & WArTi\u00a0cArTi)",
+     "url": "https://genius.com/Yomommigotbarss-would-you-believe-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/2106443",
+      "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+      "id": 2106443,
+      "image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Yomommigotbarss",
+      "url": "https://genius.com/artists/Yomommigotbarss"
+     }
+    }
+   ]
+  },
+  {
+   "relationship_type": "cover_of",
+   "type": "cover_of",
+   "songs": []
+  },
+  {
+   "relationship_type": "covered_by",
+   "type": "covered_by",
+   "songs": [
+    {
+     "annotation_count": 7,
+     "api_path": "/songs/367735",
+     "full_title": "Power Trip (Rendition) by\u00a0SoMo",
+     "header_image_thumbnail_url": "https://images.genius.com/c9a4eecc80256d4bed383d163d3b47f2.300x300x1.jpg",
+     "header_image_url": "https://images.genius.com/c9a4eecc80256d4bed383d163d3b47f2.843x843x1.jpg",
+     "id": 367735,
+     "lyrics_owner_id": 603842,
+     "lyrics_state": "complete",
+     "path": "/Somo-power-trip-rendition-lyrics",
+     "pyongs_count": 23,
+     "song_art_image_thumbnail_url": "https://images.genius.com/c9a4eecc80256d4bed383d163d3b47f2.300x300x1.jpg",
+     "song_art_image_url": "https://images.genius.com/c9a4eecc80256d4bed383d163d3b47f2.843x843x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 7,
+      "hot": false,
+      "pageviews": 64246
+     },
+     "title": "Power Trip (Rendition)",
+     "title_with_featured": "Power Trip (Rendition)",
+     "url": "https://genius.com/Somo-power-trip-rendition-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/50384",
+      "header_image_url": "https://images.genius.com/b8414fd6cf0573f8d86c3d8dc7183e04.1000x625x1.jpg",
+      "id": 50384,
+      "image_url": "https://images.genius.com/c9a4eecc80256d4bed383d163d3b47f2.843x843x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": true,
+      "name": "SoMo",
+      "url": "https://genius.com/artists/Somo",
+      "iq": 120
+     }
+    },
+    {
+     "annotation_count": 0,
+     "api_path": "/songs/4723823",
+     "full_title": "Power Trip/Take Care (SiriusXM) by\u00a0Dermot\u00a0Kennedy",
+     "header_image_thumbnail_url": "https://images.genius.com/c315a70b46158903a9878b1d70901405.300x300x1.jpg",
+     "header_image_url": "https://images.genius.com/c315a70b46158903a9878b1d70901405.800x800x1.jpg",
+     "id": 4723823,
+     "lyrics_owner_id": 6372521,
+     "lyrics_state": "complete",
+     "path": "/Dermot-kennedy-power-trip-take-care-siriusxm-lyrics",
+     "pyongs_count": null,
+     "song_art_image_thumbnail_url": "https://images.genius.com/c315a70b46158903a9878b1d70901405.300x300x1.jpg",
+     "song_art_image_url": "https://images.genius.com/c315a70b46158903a9878b1d70901405.800x800x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 0,
+      "hot": false
+     },
+     "title": "Power Trip/Take Care (SiriusXM)",
+     "title_with_featured": "Power Trip/Take Care (SiriusXM)",
+     "url": "https://genius.com/Dermot-kennedy-power-trip-take-care-siriusxm-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/656224",
+      "header_image_url": "https://images.genius.com/e340b284c3c2b0c455f2260a2df2884c.800x800x1.jpg",
+      "id": 656224,
+      "image_url": "https://images.genius.com/c315a70b46158903a9878b1d70901405.800x800x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": true,
+      "name": "Dermot Kennedy",
+      "url": "https://genius.com/artists/Dermot-kennedy",
+      "iq": 515
+     }
+    }
+   ]
+  },
+  {
+   "relationship_type": "remix_of",
+   "type": "remix_of",
+   "songs": []
+  },
+  {
+   "relationship_type": "remixed_by",
+   "type": "remixed_by",
+   "songs": [
+    {
+     "annotation_count": 1,
+     "api_path": "/songs/336531",
+     "full_title": "Power Trip by\u00a0Retrok1DD",
+     "header_image_thumbnail_url": "https://assets.genius.com/images/default_cover_image.png?1606943206",
+     "header_image_url": "https://assets.genius.com/images/default_cover_image.png?1606943206",
+     "id": 336531,
+     "lyrics_owner_id": 158010,
+     "lyrics_state": "complete",
+     "path": "/Retrok1dd-power-trip-lyrics",
+     "pyongs_count": null,
+     "song_art_image_thumbnail_url": "https://assets.genius.com/images/default_cover_image.png?1606943206",
+     "song_art_image_url": "https://assets.genius.com/images/default_cover_image.png?1606943206",
+     "stats": {
+      "unreviewed_annotations": 0,
+      "hot": false
+     },
+     "title": "Power Trip",
+     "title_with_featured": "Power Trip",
+     "url": "https://genius.com/Retrok1dd-power-trip-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/79114",
+      "header_image_url": "https://s3.amazonaws.com/rapgenius/avatars/medium/b1EcqojSPmyANMVc7xzg.jpg",
+      "id": 79114,
+      "image_url": "https://s3.amazonaws.com/rapgenius/avatars/medium/b1EcqojSPmyANMVc7xzg.jpg",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Retrok1DD",
+      "url": "https://genius.com/artists/Retrok1dd",
+      "iq": 204
+     }
+    },
+    {
+     "annotation_count": 0,
+     "api_path": "/songs/4620042",
+     "full_title": "Trippy by\u00a0Sabbath\u00a0M",
+     "header_image_thumbnail_url": "https://images.genius.com/485b97450be58759a40c2168750b3c8c.300x300x1.jpg",
+     "header_image_url": "https://images.genius.com/485b97450be58759a40c2168750b3c8c.1000x1000x1.jpg",
+     "id": 4620042,
+     "lyrics_owner_id": 4469443,
+     "lyrics_state": "complete",
+     "path": "/Sabbath-m-trippy-lyrics",
+     "pyongs_count": null,
+     "song_art_image_thumbnail_url": "https://images.genius.com/485b97450be58759a40c2168750b3c8c.300x300x1.jpg",
+     "song_art_image_url": "https://images.genius.com/485b97450be58759a40c2168750b3c8c.1000x1000x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 0,
+      "hot": false
+     },
+     "title": "Trippy",
+     "title_with_featured": "Trippy",
+     "url": "https://genius.com/Sabbath-m-trippy-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/1849240",
+      "header_image_url": "https://images.genius.com/da7302f570dd2b2b2161f32a9d7b5851.1000x982x1.jpg",
+      "id": 1849240,
+      "image_url": "https://images.genius.com/485b97450be58759a40c2168750b3c8c.1000x1000x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Sabbath M",
+      "url": "https://genius.com/artists/Sabbath-m"
+     }
+    },
+    {
+     "annotation_count": 9,
+     "api_path": "/songs/5251893",
+     "full_title": "Would You Believe? by\u00a0Yomommigotbarss (Ft.\u00a0WArTi\u00a0cArTi & WArTi\u00a0cArTi)",
+     "header_image_thumbnail_url": "https://images.genius.com/1e5ee9984b0c988367001fe336eba85b.300x533x1.jpg",
+     "header_image_url": "https://images.genius.com/1e5ee9984b0c988367001fe336eba85b.563x1000x1.jpg",
+     "id": 5251893,
+     "lyrics_owner_id": 10249928,
+     "lyrics_state": "complete",
+     "path": "/Yomommigotbarss-would-you-believe-lyrics",
+     "pyongs_count": 1,
+     "song_art_image_thumbnail_url": "https://images.genius.com/1e5ee9984b0c988367001fe336eba85b.300x533x1.jpg",
+     "song_art_image_url": "https://images.genius.com/1e5ee9984b0c988367001fe336eba85b.563x1000x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 9,
+      "hot": false
+     },
+     "title": "Would You Believe?",
+     "title_with_featured": "Would You Believe? (Ft.\u00a0WArTi\u00a0cArTi & WArTi\u00a0cArTi)",
+     "url": "https://genius.com/Yomommigotbarss-would-you-believe-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/2106443",
+      "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+      "id": 2106443,
+      "image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Yomommigotbarss",
+      "url": "https://genius.com/artists/Yomommigotbarss"
+     }
+    },
+    {
+     "annotation_count": 0,
+     "api_path": "/songs/5294824",
+     "full_title": "Power Trip (QueMix) by\u00a0Jacquees (Ft.\u00a0King\u00a0Issa)",
+     "header_image_thumbnail_url": "https://images.genius.com/68bd34090aad498098e7e0de4ce619e5.300x300x1.jpg",
+     "header_image_url": "https://images.genius.com/68bd34090aad498098e7e0de4ce619e5.500x500x1.jpg",
+     "id": 5294824,
+     "lyrics_owner_id": 2703119,
+     "lyrics_state": "complete",
+     "path": "/Jacquees-power-trip-quemix-lyrics",
+     "pyongs_count": null,
+     "song_art_image_thumbnail_url": "https://images.genius.com/68bd34090aad498098e7e0de4ce619e5.300x300x1.jpg",
+     "song_art_image_url": "https://images.genius.com/68bd34090aad498098e7e0de4ce619e5.500x500x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 0,
+      "hot": false
+     },
+     "title": "Power Trip (QueMix)",
+     "title_with_featured": "Power Trip (QueMix) (Ft.\u00a0King\u00a0Issa)",
+     "url": "https://genius.com/Jacquees-power-trip-quemix-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/13616",
+      "header_image_url": "https://images.genius.com/cf5806086c7c970771336110217bae60.300x250x1.jpg",
+      "id": 13616,
+      "image_url": "https://images.genius.com/cf5806086c7c970771336110217bae60.300x250x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": true,
+      "name": "Jacquees",
+      "url": "https://genius.com/artists/Jacquees",
+      "iq": 2474
+     }
+    }
+   ]
+  },
+  {
+   "relationship_type": "live_version_of",
+   "type": "live_version_of",
+   "songs": []
+  },
+  {
+   "relationship_type": "performed_live_as",
+   "type": "performed_live_as",
+   "songs": []
+  }
+ ],
+ "verified_annotations_by": [],
+ "verified_contributors": [],
+ "verified_lyrics_by": [],
+ "writer_artists": [
+  {
+   "api_path": "/artists/69",
+   "header_image_url": "https://images.genius.com/b4ced5fc34166c4798ae3a0e23aaa13d.1000x261x1.jpg",
+   "id": 69,
+   "image_url": "https://images.genius.com/9e6f453d188d0b0a3046f0898f4101f2.1000x1000x1.jpg",
+   "is_meme_verified": true,
+   "is_verified": true,
+   "name": "J. Cole",
+   "url": "https://genius.com/artists/J-cole",
+   "iq": 505
+  }
+ ],
+ "lyrics": "Got me up all night\nAll I'm singin' is love songs\nShe got me up all night\nConstant drinkin' and love songs\nShe got me up all night\nDown-and-out with these love songs\nShe got me up all night\nDrownin' out with these love songs\nShe got me up all night (Yeah)\nAll I'm singin' is love songs\nShe got me up all night (Yeah)\nConstant drinkin' and love songs\nShe got me up all night (Yeah)\nDown-and-out with these love songs\nShe got me open all night (Uh-huh)\nGot me open all night, hey\n\nOkay, back when I was sleeping in my mama crib\nOr even back when I was up there in Mohammed crib\nPaying seventeen-hundred for the rent, money well-spent\nNo heater, but a nigga made heat, may I vent?\nHad a thing for ya, even wrote the song \"Dreams\" for ya\n\u2018Cause I had dreams for ya, thoughts of a ring for ya\nChildish shit, you know child and shit\nAnonymous flowers sent, you know coward shit\nNow a nigga signed to Hov, took a power trip\nBack home, I'm grown now, and the city's my throne now, huh\nThe same clubs that I used to get tossed out\nLife got Kriss Kross'd: totally crossed out\n\u2018Cause now I'm in this bitch and I'm totally bossed out\nOld chicks crying \u2018cause they know that they lost out\nBut I'm still on you, I'm still on you\nMy drink spill on me, while I feel on you, I'm sayin'\u2014\n\nWould you believe me if I said I'm in love?\nBaby, I want you to want me\nWould you believe me if I said I'm in love?\nBaby, I want ya\n\nAnd we are, we are, we are\nGot me up all night\nAnd we are, we are, we are\nAll I'm singin' is love songs\nAnd we are, we are, we are\nGot me up all night\nAnd we are, we are, we are (She got me)\nAnd we are, we are, we are (She got me)\n\nWell, this has got to be the longest crush ever\nIf I ever get to fuck it'd be the longest bust ever\nLove is a drug, like the strongest stuff ever and\nFuck it, I'm on one, you feel me?\nShe on a power trip, she got me where she want a nigga\nWife'ing in the club, man, my homies gon' disown a nigga\nLike, \"Give me twenty dollars, dollars!\"\nAss stupid, how you get to college, college?\nI'm in your city and I'm wonderin' if you're home now\nWent and found a man, but I'm hopin' you're alone now\nCan't help but feeling like I dropped the ball, clich\u00e9\nI used to pop up on you at the mall each day\nNow, typically I kick game like East Bay\nBut you got a nigga freeze-framed yelling: \"Please play!\"\nFor Pete's sake, homie, pull it together\nJust fuck her one time and be through with forever, but\u2014\n\nWould you believe me if I said I'm in love?\nBaby, I want you to want me\nWould you believe me if I said I'm in love?\nBaby, I want ya, yeah\n\nAnd we are, we are, we are\nGot me up all night\nAnd we are, we are, we are\nAll I'm singin' is love songs\nAnd we are, we are, we are\nGot me up all night\nAnd we are, we are, we are (She got me)\nAnd we are, we are, we are (She got me)\n\nGot me up all night (All night)\nAll I'm singin' is love songs\nShe got me up all night (All night)\nConstant drinkin' and love songs\nShe got me up all night (All night)\nDown-and-out with these love songs\nShe got me up all night (All night)\nDrownin' out with these love songs\nShe got me up all night (Yeah)\nAll I'm singin' is love songs\nShe got me up all night (Yeah)\nConstant drinkin' and love songs\nShe got me up all night (Yeah)\nDown-and-out with these love songs\nShe got me open all night (Uh-huh)\nGot me open all night, hey\n\nBack when I was sleeping in my mama crib\n*Space Bar Tap*"
+}

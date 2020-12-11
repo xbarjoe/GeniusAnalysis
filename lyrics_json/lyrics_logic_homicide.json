@@ -1,0 +1,1949 @@
+{
+ "_type": "song",
+ "annotation_count": 28,
+ "api_path": "/songs/4519154",
+ "full_title": "Homicide by\u00a0Logic (Ft.\u00a0Eminem)",
+ "header_image_thumbnail_url": "https://images.genius.com/06bf17fa07f1737e6ac698235ff1f79a.300x300x1.jpg",
+ "header_image_url": "https://images.genius.com/06bf17fa07f1737e6ac698235ff1f79a.1000x1000x1.jpg",
+ "id": 4519154,
+ "instrumental": false,
+ "lyrics_owner_id": 3375166,
+ "lyrics_state": "complete",
+ "lyrics_updated_at": 1606399609,
+ "path": "/Logic-homicide-lyrics",
+ "pyongs_count": 686,
+ "song_art_image_thumbnail_url": "https://images.genius.com/0fcc4b059e115bc7694cc2b039738c11.300x300x1.png",
+ "song_art_image_url": "https://images.genius.com/0fcc4b059e115bc7694cc2b039738c11.1000x1000x1.png",
+ "stats": {
+  "accepted_annotations": 27,
+  "contributors": 526,
+  "iq_earners": 526,
+  "transcribers": 6,
+  "unreviewed_annotations": 0,
+  "verified_annotations": 0,
+  "concurrents": 4,
+  "hot": false,
+  "pageviews": 3361292
+ },
+ "title": "Homicide",
+ "title_with_featured": "Homicide (Ft.\u00a0Eminem)",
+ "updated_by_human_at": 1606399609,
+ "url": "https://genius.com/Logic-homicide-lyrics",
+ "primary_artist": {
+  "api_path": "/artists/7922",
+  "header_image_url": "https://images.genius.com/f6b08bf607b94a279d743e14bbca2a3a.1000x563x1.jpg",
+  "id": 7922,
+  "image_url": "https://images.genius.com/0f975524d106026e89de983689d007c4.900x900x1.jpg",
+  "is_meme_verified": true,
+  "is_verified": true,
+  "name": "Logic",
+  "url": "https://genius.com/artists/Logic",
+  "iq": 91961
+ },
+ "apple_music_id": "1462976453",
+ "apple_music_player_url": "https://genius.com/songs/4519154/apple_music_player",
+ "description": {
+  "plain": "\u201cHomicide\" is the third single released from Logic\u2019s 2019 album, Confessions of a Dangerous Mind.\n\nThe track exhibits Logic and Eminem\u2019s rapid-fire flows. The title seems to assert that they are lyrically murdering their detractors and non-lyrical rappers.\n\nIn a 2018 interview with HardKnockTV, Logic shared his thoughts on Eminem and his desire to collaborate with him:\n\nIt was awesome [\u2026] to be recognized by one of my favorite MCs of all time, one of my favorite artists [\u2026] I fuck with him. I want to work with him. I want to do a song with him. I think that could be pretty cool."
+ },
+ "embed_content": "<div id='rg_embed_link_4519154' class='rg_embed_link' data-song-id='4519154'>Read <a href='https://genius.com/Logic-homicide-lyrics'>\u201cHomicide\u201d by Logic</a> on Genius</div> <script crossorigin src='//genius.com/songs/4519154/embed.js'></script>",
+ "fact_track": {
+  "provider": "spotify",
+  "external_url": "https://open.spotify.com/track/0Lw6aQcBFWTQ9m4MSwwwes",
+  "button_text": "Behind the Lyrics in Spotify",
+  "help_link_text": "What's a Fact Track?",
+  "help_link_url": "https://genius.com/a/genius-and-spotify-together"
+ },
+ "featured_video": false,
+ "lyrics_placeholder_reason": null,
+ "recording_location": null,
+ "release_date": "2019-05-03",
+ "release_date_for_display": "May 3, 2019",
+ "current_user_metadata": {
+  "permissions": [
+   "see_pageviews",
+   "watch_fact_track",
+   "view_apple_music_player",
+   "create_comment",
+   "view_song_story_gallery"
+  ],
+  "excluded_permissions": [
+   "follow",
+   "award_transcription_iq",
+   "remove_transcription_iq",
+   "pyong",
+   "edit_lyrics",
+   "view_annotation_engagement_data",
+   "publish",
+   "unpublish",
+   "edit_spotify_details",
+   "hide",
+   "unhide",
+   "toggle_featured_video",
+   "add_pinned_annotation_to",
+   "add_community_annotation_to",
+   "destroy",
+   "mark_as_not_spam",
+   "edit_spotify_annotations_for",
+   "verify_lyrics",
+   "unverify_lyrics",
+   "edit_anything",
+   "edit_any_media",
+   "edit",
+   "rename",
+   "edit_tags",
+   "reindex",
+   "view_lyrics_synchronization",
+   "enable_media",
+   "disable_media",
+   "edit_lyrics_or_annotation_brackets",
+   "see_editorial_indicators",
+   "view_attribution_visualization",
+   "edit_annotation_brackets",
+   "preview_lyrics_for_export",
+   "hide_apple_player",
+   "unhide_apple_player",
+   "trigger_apple_match",
+   "mark_lyrics_evaluation_as_approved",
+   "mark_lyrics_evaluation_as_staff_approved",
+   "mark_lyrics_evaluation_as_unapproved",
+   "mark_lyrics_evaluation_as_un_staff_approved",
+   "view_transcriber_media_player",
+   "override_apple_match",
+   "edit_youtube_url",
+   "edit_soundcloud_url",
+   "edit_spotify_uuid",
+   "edit_vevo_url",
+   "moderate_annotations",
+   "create_annotation",
+   "see_short_id",
+   "manage_chart_item",
+   "create_tag",
+   "propose_lyrics_edit",
+   "moderate_lyrics_edit_proposals",
+   "preview_react_song_page"
+  ],
+  "interactions": {
+   "pyong": false,
+   "following": false
+  },
+  "relationships": {},
+  "iq_by_action": {}
+ },
+ "album": {
+  "api_path": "/albums/514278",
+  "cover_art_url": "https://images.genius.com/b8bc3fc4f330e08a83f5fc20182b092f.1000x1000x1.png",
+  "full_title": "Confessions of a Dangerous Mind by Logic",
+  "id": 514278,
+  "name": "Confessions of a Dangerous Mind",
+  "url": "https://genius.com/albums/Logic/Confessions-of-a-dangerous-mind",
+  "artist": {
+   "api_path": "/artists/7922",
+   "header_image_url": "https://images.genius.com/f6b08bf607b94a279d743e14bbca2a3a.1000x563x1.jpg",
+   "id": 7922,
+   "image_url": "https://images.genius.com/0f975524d106026e89de983689d007c4.900x900x1.jpg",
+   "is_meme_verified": true,
+   "is_verified": true,
+   "name": "Logic",
+   "url": "https://genius.com/artists/Logic",
+   "iq": 91961
+  }
+ },
+ "custom_performances": [
+  {
+   "label": "Distributor",
+   "artists": [
+    {
+     "api_path": "/artists/1104563",
+     "header_image_url": "https://images.genius.com/6ee5d6766689e04358c1d0f8ea0ed8f0.600x600x1.png",
+     "id": 1104563,
+     "image_url": "https://images.genius.com/7b3fb2c00317cb2eb2453f9f4e7473d1.600x600x1.png",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Universal Music Group",
+     "url": "https://genius.com/artists/Universal-music-group"
+    }
+   ]
+  },
+  {
+   "label": "Performance Rights",
+   "artists": [
+    {
+     "api_path": "/artists/551598",
+     "header_image_url": "https://images.genius.com/067d9bccf2ab6e5eded129861b73d9dc.851x315x1.jpg",
+     "id": 551598,
+     "image_url": "https://images.genius.com/5f24e8e67904faef419d736f2ade3f78.1000x1000x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "ASCAP",
+     "url": "https://genius.com/artists/Ascap"
+    },
+    {
+     "api_path": "/artists/1138091",
+     "header_image_url": "https://images.genius.com/5b84dbf7ba86e59c297143f076a56c9a.1000x1000x1.jpg",
+     "id": 1138091,
+     "image_url": "https://images.genius.com/051b0a6beabf8a9eb8768e9f874a542f.1000x1000x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "BMI",
+     "url": "https://genius.com/artists/Bmi"
+    }
+   ]
+  },
+  {
+   "label": "Publisher",
+   "artists": [
+    {
+     "api_path": "/artists/2260022",
+     "header_image_url": "https://images.genius.com/7d7e1ecc5ef1fb69f470103c5b36ab48.1000x1000x1.png",
+     "id": 2260022,
+     "image_url": "https://images.genius.com/7d7e1ecc5ef1fb69f470103c5b36ab48.1000x1000x1.png",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Me Gusta Music",
+     "url": "https://genius.com/artists/Me-gusta-music"
+    },
+    {
+     "api_path": "/artists/2234628",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+     "id": 2234628,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Que Chevere Music",
+     "url": "https://genius.com/artists/Que-chevere-music"
+    },
+    {
+     "api_path": "/artists/31225",
+     "header_image_url": "https://images.genius.com/760a17a7b90a540ca98045e088646286.226x226x1.png",
+     "id": 31225,
+     "image_url": "https://images.genius.com/760a17a7b90a540ca98045e088646286.226x226x1.png",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "SHROOM",
+     "url": "https://genius.com/artists/Shroom"
+    },
+    {
+     "api_path": "/artists/1477261",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+     "id": 1477261,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Three Oh One Productions",
+     "url": "https://genius.com/artists/Three-oh-one-productions"
+    },
+    {
+     "api_path": "/artists/1104563",
+     "header_image_url": "https://images.genius.com/6ee5d6766689e04358c1d0f8ea0ed8f0.600x600x1.png",
+     "id": 1104563,
+     "image_url": "https://images.genius.com/7b3fb2c00317cb2eb2453f9f4e7473d1.600x600x1.png",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Universal Music Group",
+     "url": "https://genius.com/artists/Universal-music-group"
+    },
+    {
+     "api_path": "/artists/650212",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+     "id": 650212,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Shroom Shady Music",
+     "url": "https://genius.com/artists/Shroom-shady-music"
+    }
+   ]
+  },
+  {
+   "label": "Video Director",
+   "artists": [
+    {
+     "api_path": "/artists/1316288",
+     "header_image_url": "https://images.genius.com/4bf0d3faf19a7ce8dd9c0ee31a17f65a.1000x1000x1.jpg",
+     "id": 1316288,
+     "image_url": "https://images.genius.com/4bf0d3faf19a7ce8dd9c0ee31a17f65a.1000x1000x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "James Larese",
+     "url": "https://genius.com/artists/James-larese"
+    }
+   ]
+  },
+  {
+   "label": "Artwork",
+   "artists": [
+    {
+     "api_path": "/artists/227271",
+     "header_image_url": "https://images.genius.com/d88d8cc0e2de513f2ea809fa495f2ff0.1000x370x1.jpg",
+     "id": 227271,
+     "image_url": "https://images.genius.com/892390710f8b328bd3f52e0d91d4c6c6.750x750x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Sam Spratt",
+     "url": "https://genius.com/artists/Sam-spratt"
+    }
+   ]
+  },
+  {
+   "label": "Label",
+   "artists": [
+    {
+     "api_path": "/artists/1104563",
+     "header_image_url": "https://images.genius.com/6ee5d6766689e04358c1d0f8ea0ed8f0.600x600x1.png",
+     "id": 1104563,
+     "image_url": "https://images.genius.com/7b3fb2c00317cb2eb2453f9f4e7473d1.600x600x1.png",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Universal Music Group",
+     "url": "https://genius.com/artists/Universal-music-group"
+    },
+    {
+     "api_path": "/artists/79113",
+     "header_image_url": "https://images.genius.com/79c41ff236bc5014781976bbb8323dba.1000x525x1.jpg",
+     "id": 79113,
+     "image_url": "https://images.genius.com/f3374b6a83bc9d6248a7464cef582482.512x512x1.png",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Def Jam Recordings",
+     "url": "https://genius.com/artists/Def-jam-recordings"
+    },
+    {
+     "api_path": "/artists/110816",
+     "header_image_url": "https://images.genius.com/310b2e9ded64f21aa0f68dd6deb44ffb.1000x338x1.jpg",
+     "id": 110816,
+     "image_url": "https://images.genius.com/b02755aa65d23fe1fcd140bc70713450.499x499x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Visionary Music Group",
+     "url": "https://genius.com/artists/Visionary-music-group"
+    }
+   ]
+  },
+  {
+   "label": "Copyright \u00a9",
+   "artists": [
+    {
+     "api_path": "/artists/1104563",
+     "header_image_url": "https://images.genius.com/6ee5d6766689e04358c1d0f8ea0ed8f0.600x600x1.png",
+     "id": 1104563,
+     "image_url": "https://images.genius.com/7b3fb2c00317cb2eb2453f9f4e7473d1.600x600x1.png",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Universal Music Group",
+     "url": "https://genius.com/artists/Universal-music-group"
+    },
+    {
+     "api_path": "/artists/79113",
+     "header_image_url": "https://images.genius.com/79c41ff236bc5014781976bbb8323dba.1000x525x1.jpg",
+     "id": 79113,
+     "image_url": "https://images.genius.com/f3374b6a83bc9d6248a7464cef582482.512x512x1.png",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Def Jam Recordings",
+     "url": "https://genius.com/artists/Def-jam-recordings"
+    }
+   ]
+  },
+  {
+   "label": "Mixing Engineer",
+   "artists": [
+    {
+     "api_path": "/artists/636418",
+     "header_image_url": "https://images.genius.com/a6bf893212c0961bedb2d0c145259273.471x218x1.webp",
+     "id": 636418,
+     "image_url": "https://images.genius.com/7e20b1e3ca2c3d8e0e3e91c451416401.251x251x1.png",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Bobby Campbell",
+     "url": "https://genius.com/artists/Bobby-campbell"
+    }
+   ]
+  },
+  {
+   "label": "Additional Vocals",
+   "artists": [
+    {
+     "api_path": "/artists/1449109",
+     "header_image_url": "https://images.genius.com/da280e579cace130138a846e10cd70f5.405x405x1.jpg",
+     "id": 1449109,
+     "image_url": "https://images.genius.com/da280e579cace130138a846e10cd70f5.405x405x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Smokey Legendary",
+     "url": "https://genius.com/artists/Smokey-legendary"
+    },
+    {
+     "api_path": "/artists/1573343",
+     "header_image_url": "https://images.genius.com/c5fd0cd3bb3b64361d9497b9ec5254e4.400x289x1.jpg",
+     "id": 1573343,
+     "image_url": "https://images.genius.com/64651620f98adf76966e97ff33dd325a.500x500x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Chris D\u2019Elia",
+     "url": "https://genius.com/artists/Chris-delia"
+    }
+   ]
+  },
+  {
+   "label": "Recording Engineer",
+   "artists": [
+    {
+     "api_path": "/artists/636418",
+     "header_image_url": "https://images.genius.com/a6bf893212c0961bedb2d0c145259273.471x218x1.webp",
+     "id": 636418,
+     "image_url": "https://images.genius.com/7e20b1e3ca2c3d8e0e3e91c451416401.251x251x1.png",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Bobby Campbell",
+     "url": "https://genius.com/artists/Bobby-campbell"
+    }
+   ]
+  },
+  {
+   "label": "Phonographic Copyright \u2117",
+   "artists": [
+    {
+     "api_path": "/artists/79113",
+     "header_image_url": "https://images.genius.com/79c41ff236bc5014781976bbb8323dba.1000x525x1.jpg",
+     "id": 79113,
+     "image_url": "https://images.genius.com/f3374b6a83bc9d6248a7464cef582482.512x512x1.png",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Def Jam Recordings",
+     "url": "https://genius.com/artists/Def-jam-recordings"
+    },
+    {
+     "api_path": "/artists/1104563",
+     "header_image_url": "https://images.genius.com/6ee5d6766689e04358c1d0f8ea0ed8f0.600x600x1.png",
+     "id": 1104563,
+     "image_url": "https://images.genius.com/7b3fb2c00317cb2eb2453f9f4e7473d1.600x600x1.png",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Universal Music Group",
+     "url": "https://genius.com/artists/Universal-music-group"
+    }
+   ]
+  }
+ ],
+ "description_annotation": {
+  "_type": "referent",
+  "annotator_id": 3375166,
+  "annotator_login": "SharpshooterWB",
+  "api_path": "/referents/17074344",
+  "classification": "accepted",
+  "fragment": "Homicide",
+  "id": 17074344,
+  "is_description": true,
+  "path": "/17074344/Logic-homicide/Homicide",
+  "range": {
+   "content": "Homicide"
+  },
+  "song_id": 4519154,
+  "url": "https://genius.com/17074344/Logic-homicide/Homicide",
+  "verified_annotator_ids": [],
+  "annotatable": {
+   "api_path": "/songs/4519154",
+   "client_timestamps": {
+    "updated_by_human_at": 1606399609,
+    "lyrics_updated_at": 1606399609
+   },
+   "context": "Logic",
+   "id": 4519154,
+   "image_url": "https://images.genius.com/0fcc4b059e115bc7694cc2b039738c11.1000x1000x1.png",
+   "link_title": "Homicide by\u00a0Logic (Ft.\u00a0Eminem)",
+   "title": "Homicide",
+   "type": "Song",
+   "url": "https://genius.com/Logic-homicide-lyrics"
+  },
+  "annotations": [
+   {
+    "api_path": "/annotations/17074344",
+    "body": {
+     "plain": "\u201cHomicide\" is the third single released from Logic\u2019s 2019 album, Confessions of a Dangerous Mind.\n\nThe track exhibits Logic and Eminem\u2019s rapid-fire flows. The title seems to assert that they are lyrically murdering their detractors and non-lyrical rappers.\n\nIn a 2018 interview with HardKnockTV, Logic shared his thoughts on Eminem and his desire to collaborate with him:\n\nIt was awesome [\u2026] to be recognized by one of my favorite MCs of all time, one of my favorite artists [\u2026] I fuck with him. I want to work with him. I want to do a song with him. I think that could be pretty cool."
+    },
+    "comment_count": 0,
+    "community": true,
+    "custom_preview": null,
+    "has_voters": true,
+    "id": 17074344,
+    "pinned": false,
+    "share_url": "https://genius.com/17074344",
+    "source": null,
+    "state": "accepted",
+    "url": "https://genius.com/17074344/Logic-homicide/Homicide",
+    "verified": false,
+    "votes_total": 664,
+    "current_user_metadata": {
+     "permissions": [
+      "create_comment"
+     ],
+     "excluded_permissions": [
+      "vote",
+      "edit",
+      "cosign",
+      "uncosign",
+      "destroy",
+      "accept",
+      "reject",
+      "see_unreviewed",
+      "clear_votes",
+      "propose_edit_to",
+      "pin_to_profile",
+      "unpin_from_profile",
+      "update_source",
+      "edit_custom_preview"
+     ],
+     "interactions": {
+      "cosign": false,
+      "pyong": false,
+      "vote": null
+     },
+     "iq_by_action": {}
+    },
+    "authors": [
+     {
+      "attribution": 0.8137254901960784,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/3375166",
+       "avatar": {
+        "tiny": {
+         "url": "https://images.genius.com/f5ad556e854be294e987afbec90a9ab9.952x952x1.png",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://images.genius.com/f5ad556e854be294e987afbec90a9ab9.952x952x1.png",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://images.genius.com/f5ad556e854be294e987afbec90a9ab9.952x952x1.png",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://images.genius.com/f5ad556e854be294e987afbec90a9ab9.952x952x1.png",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://images.genius.com/6cd4f76bd6b13de7a556679f76a16295.1000x946x1.png",
+       "human_readable_role_for_display": "Moderator",
+       "id": 3375166,
+       "iq": 245094,
+       "login": "SharpshooterWB",
+       "name": "Wes Brown",
+       "role_for_display": "moderator",
+       "url": "https://genius.com/SharpshooterWB",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     },
+     {
+      "attribution": 0.09803921568627452,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/5713170",
+       "avatar": {
+        "tiny": {
+         "url": "https://images.genius.com/avatars/tiny/2dcf2b9180f407745b0404402b9e9ebd",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://images.genius.com/avatars/thumb/2dcf2b9180f407745b0404402b9e9ebd",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://images.genius.com/avatars/small/2dcf2b9180f407745b0404402b9e9ebd",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://images.genius.com/avatars/medium/2dcf2b9180f407745b0404402b9e9ebd",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/pimmw47peyd",
+       "human_readable_role_for_display": "Editor",
+       "id": 5713170,
+       "iq": 13133,
+       "login": "introspection",
+       "name": "introspection",
+       "role_for_display": "editor",
+       "url": "https://genius.com/introspection",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     },
+     {
+      "attribution": 0.05882352941176471,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/427740",
+       "avatar": {
+        "tiny": {
+         "url": "https://images.genius.com/98da1237cc15b84540a205c92d1c849d.1000x1000x1.png",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://images.genius.com/98da1237cc15b84540a205c92d1c849d.1000x1000x1.png",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://images.genius.com/98da1237cc15b84540a205c92d1c849d.1000x1000x1.png",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://images.genius.com/98da1237cc15b84540a205c92d1c849d.1000x1000x1.png",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://images.genius.com/07830534fd792498abeaa68622ca801c.1000x223x1.jpg",
+       "human_readable_role_for_display": "Editor",
+       "id": 427740,
+       "iq": 244611,
+       "login": "yxng-nate",
+       "name": "Nathaniel Hall",
+       "role_for_display": "editor",
+       "url": "https://genius.com/yxng-nate",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     },
+     {
+      "attribution": 0.029411764705882356,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/1603328",
+       "avatar": {
+        "tiny": {
+         "url": "https://images.genius.com/avatars/tiny/98fd3350d7e66a87b9adc6df7331926a",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://images.genius.com/avatars/thumb/98fd3350d7e66a87b9adc6df7331926a",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://images.genius.com/avatars/small/98fd3350d7e66a87b9adc6df7331926a",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://images.genius.com/avatars/medium/98fd3350d7e66a87b9adc6df7331926a",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://images.genius.com/e372f40ee0a6d090ffd11b4c5518a5a9.1000x370x1.jpg",
+       "human_readable_role_for_display": "Moderator",
+       "id": 1603328,
+       "iq": 351925,
+       "login": "kingkillmonger",
+       "name": "\u029e|a\u00e7e|w\u0153|k",
+       "role_for_display": "moderator",
+       "url": "https://genius.com/kingkillmonger",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     }
+    ],
+    "cosigned_by": [],
+    "rejection_comment": null,
+    "verified_by": null
+   }
+  ]
+ },
+ "featured_artists": [
+  {
+   "api_path": "/artists/45",
+   "header_image_url": "https://images.genius.com/a9f98b20f8aa7a32650a1dfa5f3de088.1000x445x1.jpg",
+   "id": 45,
+   "image_url": "https://images.genius.com/f300798551b97fe030876123afb8c33a.805x805x1.jpg",
+   "is_meme_verified": true,
+   "is_verified": true,
+   "name": "Eminem",
+   "url": "https://genius.com/artists/Eminem",
+   "iq": 214212
+  }
+ ],
+ "lyrics_marked_complete_by": {
+  "api_path": "/users/104344",
+  "avatar": {
+   "tiny": {
+    "url": "https://images.genius.com/avatars/tiny/a1485559b7dd9463752d984ecd3dbeae",
+    "bounding_box": {
+     "width": 16,
+     "height": 16
+    }
+   },
+   "thumb": {
+    "url": "https://images.genius.com/avatars/thumb/a1485559b7dd9463752d984ecd3dbeae",
+    "bounding_box": {
+     "width": 32,
+     "height": 32
+    }
+   },
+   "small": {
+    "url": "https://images.genius.com/avatars/small/a1485559b7dd9463752d984ecd3dbeae",
+    "bounding_box": {
+     "width": 100,
+     "height": 100
+    }
+   },
+   "medium": {
+    "url": "https://images.genius.com/avatars/medium/a1485559b7dd9463752d984ecd3dbeae",
+    "bounding_box": {
+     "width": 300,
+     "height": 400
+    }
+   }
+  },
+  "header_image_url": "https://images.genius.com/f29273e26956c1f6c8d004d1e4533c2e.1000x1000x1.jpg",
+  "human_readable_role_for_display": "Staff",
+  "id": 104344,
+  "iq": 2663123,
+  "login": "streetlights",
+  "name": "\u200bstreetlights",
+  "role_for_display": "staff",
+  "url": "https://genius.com/streetlights",
+  "current_user_metadata": {
+   "permissions": [],
+   "excluded_permissions": [
+    "follow"
+   ],
+   "interactions": {
+    "following": false
+   }
+  }
+ },
+ "media": [
+  {
+   "native_uri": "spotify:track:0Lw6aQcBFWTQ9m4MSwwwes",
+   "provider": "spotify",
+   "type": "audio",
+   "url": "https://open.spotify.com/track/0Lw6aQcBFWTQ9m4MSwwwes"
+  },
+  {
+   "attribution": "logic_official",
+   "provider": "soundcloud",
+   "type": "audio",
+   "url": "https://soundcloud.com/logic_official/homicide-feat-eminem"
+  },
+  {
+   "provider": "youtube",
+   "start": 0,
+   "type": "video",
+   "url": "http://www.youtube.com/watch?v=eQkSArQxYJg"
+  }
+ ],
+ "producer_artists": [
+  {
+   "api_path": "/artists/31225",
+   "header_image_url": "https://images.genius.com/760a17a7b90a540ca98045e088646286.226x226x1.png",
+   "id": 31225,
+   "image_url": "https://images.genius.com/760a17a7b90a540ca98045e088646286.226x226x1.png",
+   "is_meme_verified": false,
+   "is_verified": false,
+   "name": "SHROOM",
+   "url": "https://genius.com/artists/Shroom"
+  },
+  {
+   "api_path": "/artists/1752695",
+   "header_image_url": "https://images.genius.com/794d955c40d35452f686a7772d4e3741.400x400x1.jpg",
+   "id": 1752695,
+   "image_url": "https://images.genius.com/794d955c40d35452f686a7772d4e3741.400x400x1.jpg",
+   "is_meme_verified": false,
+   "is_verified": false,
+   "name": "BREGMA",
+   "url": "https://genius.com/artists/Bregma"
+  }
+ ],
+ "song_relationships": [
+  {
+   "relationship_type": "samples",
+   "type": "samples",
+   "songs": [
+    {
+     "annotation_count": 2,
+     "api_path": "/songs/3947272",
+     "full_title": "Eminem Parody by\u00a0Chris\u00a0D'Elia",
+     "header_image_thumbnail_url": "https://images.genius.com/ca802bef24f23367b27f67d26ac4cd14.300x225x1.jpg",
+     "header_image_url": "https://images.genius.com/ca802bef24f23367b27f67d26ac4cd14.480x360x1.jpg",
+     "id": 3947272,
+     "lyrics_owner_id": 3680720,
+     "lyrics_state": "complete",
+     "path": "/Chris-delia-eminem-parody-lyrics",
+     "pyongs_count": 5,
+     "song_art_image_thumbnail_url": "https://images.genius.com/ca802bef24f23367b27f67d26ac4cd14.300x225x1.jpg",
+     "song_art_image_url": "https://images.genius.com/ca802bef24f23367b27f67d26ac4cd14.480x360x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 0,
+      "hot": false,
+      "pageviews": 41962
+     },
+     "title": "Eminem Parody",
+     "title_with_featured": "Eminem Parody",
+     "url": "https://genius.com/Chris-delia-eminem-parody-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/1573343",
+      "header_image_url": "https://images.genius.com/c5fd0cd3bb3b64361d9497b9ec5254e4.400x289x1.jpg",
+      "id": 1573343,
+      "image_url": "https://images.genius.com/64651620f98adf76966e97ff33dd325a.500x500x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Chris D\u2019Elia",
+      "url": "https://genius.com/artists/Chris-delia"
+     }
+    }
+   ]
+  },
+  {
+   "relationship_type": "sampled_in",
+   "type": "sampled_in",
+   "songs": [
+    {
+     "annotation_count": 1,
+     "api_path": "/songs/4808343",
+     "full_title": "Homicide by\u00a0Tihom",
+     "header_image_thumbnail_url": "https://images.genius.com/dfb1c980daa12c98da6ad99ff5d56565.300x300x1.jpg",
+     "header_image_url": "https://images.genius.com/dfb1c980daa12c98da6ad99ff5d56565.1000x1000x1.jpg",
+     "id": 4808343,
+     "lyrics_owner_id": 4609286,
+     "lyrics_state": "complete",
+     "path": "/Tihom-homicide-lyrics",
+     "pyongs_count": 1,
+     "song_art_image_thumbnail_url": "https://images.genius.com/dfb1c980daa12c98da6ad99ff5d56565.300x300x1.jpg",
+     "song_art_image_url": "https://images.genius.com/dfb1c980daa12c98da6ad99ff5d56565.1000x1000x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 1,
+      "hot": false
+     },
+     "title": "Homicide",
+     "title_with_featured": "Homicide",
+     "url": "https://genius.com/Tihom-homicide-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/1180710",
+      "header_image_url": "https://images.genius.com/31607c21aa23c769224046d781968189.1000x1000x1.jpg",
+      "id": 1180710,
+      "image_url": "https://images.genius.com/31607c21aa23c769224046d781968189.1000x1000x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Tihom",
+      "url": "https://genius.com/artists/Tihom"
+     }
+    }
+   ]
+  },
+  {
+   "relationship_type": "interpolates",
+   "type": "interpolates",
+   "songs": [
+    {
+     "annotation_count": 30,
+     "api_path": "/songs/3542151",
+     "full_title": "44 More by\u00a0Logic",
+     "header_image_thumbnail_url": "https://images.genius.com/e39cc910c3ed4aaa8df540780ec3caee.300x300x1.jpg",
+     "header_image_url": "https://images.genius.com/e39cc910c3ed4aaa8df540780ec3caee.1000x1000x1.jpg",
+     "id": 3542151,
+     "lyrics_owner_id": 2595704,
+     "lyrics_state": "complete",
+     "path": "/Logic-44-more-lyrics",
+     "pyongs_count": 381,
+     "song_art_image_thumbnail_url": "https://images.genius.com/199be2c3c2f9bbf65f09228618e3836b.300x300x1.jpg",
+     "song_art_image_url": "https://images.genius.com/199be2c3c2f9bbf65f09228618e3836b.1000x1000x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 1,
+      "concurrents": 2,
+      "hot": false,
+      "pageviews": 1571047
+     },
+     "title": "44 More",
+     "title_with_featured": "44 More",
+     "url": "https://genius.com/Logic-44-more-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/7922",
+      "header_image_url": "https://images.genius.com/f6b08bf607b94a279d743e14bbca2a3a.1000x563x1.jpg",
+      "id": 7922,
+      "image_url": "https://images.genius.com/0f975524d106026e89de983689d007c4.900x900x1.jpg",
+      "is_meme_verified": true,
+      "is_verified": true,
+      "name": "Logic",
+      "url": "https://genius.com/artists/Logic",
+      "iq": 91961
+     }
+    },
+    {
+     "annotation_count": 18,
+     "api_path": "/songs/4250029",
+     "full_title": "Rainy Days by\u00a0WESTSIDE\u00a0BOOGIE (Ft.\u00a0Eminem)",
+     "header_image_thumbnail_url": "https://images.genius.com/d67127a01aca68c20247b6e9925acd7c.300x169x1.jpg",
+     "header_image_url": "https://images.genius.com/d67127a01aca68c20247b6e9925acd7c.1000x563x1.jpg",
+     "id": 4250029,
+     "lyrics_owner_id": 314656,
+     "lyrics_state": "complete",
+     "path": "/Westside-boogie-rainy-days-lyrics",
+     "pyongs_count": 117,
+     "song_art_image_thumbnail_url": "https://images.genius.com/a3ee92b0d44dbdb74a9ace5fdefed78c.300x300x1.png",
+     "song_art_image_url": "https://images.genius.com/a3ee92b0d44dbdb74a9ace5fdefed78c.1000x1000x1.png",
+     "stats": {
+      "unreviewed_annotations": 1,
+      "hot": false,
+      "pageviews": 328593
+     },
+     "title": "Rainy Days",
+     "title_with_featured": "Rainy Days (Ft.\u00a0Eminem)",
+     "url": "https://genius.com/Westside-boogie-rainy-days-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/28147",
+      "header_image_url": "https://images.genius.com/bc59c49ee0e83e8a03d44ed13ef6291b.640x640x1.jpg",
+      "id": 28147,
+      "image_url": "https://images.genius.com/df2a27b9bc740c4a60548a743cf0589a.640x640x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": true,
+      "name": "WESTSIDE BOOGIE",
+      "url": "https://genius.com/artists/Westside-boogie",
+      "iq": 925
+     }
+    },
+    {
+     "annotation_count": 13,
+     "api_path": "/songs/3293077",
+     "full_title": "Designer by\u00a0Lil\u00a0Pump",
+     "header_image_thumbnail_url": "https://images.genius.com/4869465760bb5181653bc2c26e72a6aa.300x300x1.png",
+     "header_image_url": "https://images.genius.com/4869465760bb5181653bc2c26e72a6aa.1000x1000x1.png",
+     "id": 3293077,
+     "lyrics_owner_id": 3375166,
+     "lyrics_state": "complete",
+     "path": "/Lil-pump-designer-lyrics",
+     "pyongs_count": 35,
+     "song_art_image_thumbnail_url": "https://images.genius.com/4869465760bb5181653bc2c26e72a6aa.300x300x1.png",
+     "song_art_image_url": "https://images.genius.com/4869465760bb5181653bc2c26e72a6aa.1000x1000x1.png",
+     "stats": {
+      "unreviewed_annotations": 0,
+      "hot": false,
+      "pageviews": 284279
+     },
+     "title": "Designer",
+     "title_with_featured": "Designer",
+     "url": "https://genius.com/Lil-pump-designer-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/654932",
+      "header_image_url": "https://images.genius.com/27e07bb393f050b5a010cb413c47bb34.1000x165x1.jpg",
+      "id": 654932,
+      "image_url": "https://images.genius.com/21c55a8b60672ff8c60bc0b231613950.640x640x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Lil Pump",
+      "url": "https://genius.com/artists/Lil-pump"
+     }
+    },
+    {
+     "annotation_count": 28,
+     "api_path": "/songs/601809",
+     "full_title": "Feeling Myself by\u00a0Nicki\u00a0Minaj (Ft.\u00a0Beyonc\u00e9)",
+     "header_image_thumbnail_url": "https://images.genius.com/241ad7221370aa774d091c511c5d2e55.300x179x1.jpg",
+     "header_image_url": "https://images.genius.com/241ad7221370aa774d091c511c5d2e55.1000x595x1.jpg",
+     "id": 601809,
+     "lyrics_owner_id": 599242,
+     "lyrics_state": "complete",
+     "path": "/Nicki-minaj-feeling-myself-lyrics",
+     "pyongs_count": 1305,
+     "song_art_image_thumbnail_url": "https://images.genius.com/f4afcb2f0ace3086b2cc6e54d7ec1253.300x300x1.png",
+     "song_art_image_url": "https://images.genius.com/f4afcb2f0ace3086b2cc6e54d7ec1253.1000x1000x1.png",
+     "stats": {
+      "unreviewed_annotations": 0,
+      "concurrents": 2,
+      "hot": false,
+      "pageviews": 2951319
+     },
+     "title": "Feeling Myself",
+     "title_with_featured": "Feeling Myself (Ft.\u00a0Beyonc\u00e9)",
+     "url": "https://genius.com/Nicki-minaj-feeling-myself-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/92",
+      "header_image_url": "https://images.genius.com/ab2a85c825e8e602ff228a210a218473.913x498x1.png",
+      "id": 92,
+      "image_url": "https://images.genius.com/be1eda80c5e637a4f1450fa68408f3a2.1000x1000x1.jpg",
+      "is_meme_verified": true,
+      "is_verified": true,
+      "name": "Nicki Minaj",
+      "url": "https://genius.com/artists/Nicki-minaj",
+      "iq": 3277
+     }
+    },
+    {
+     "annotation_count": 32,
+     "api_path": "/songs/68",
+     "full_title": "My Name Is by\u00a0Eminem",
+     "header_image_thumbnail_url": "https://images.genius.com/f5c0f3e1308ed40c78311b3a0029cb34.300x169x1.jpg",
+     "header_image_url": "https://images.genius.com/f5c0f3e1308ed40c78311b3a0029cb34.1000x563x1.jpg",
+     "id": 68,
+     "lyrics_owner_id": 7,
+     "lyrics_state": "complete",
+     "path": "/Eminem-my-name-is-lyrics",
+     "pyongs_count": 169,
+     "song_art_image_thumbnail_url": "https://images.genius.com/8c9bd63a7f349272ac1c011382c725c2.300x300x1.png",
+     "song_art_image_url": "https://images.genius.com/8c9bd63a7f349272ac1c011382c725c2.1000x1000x1.png",
+     "stats": {
+      "unreviewed_annotations": 0,
+      "hot": false,
+      "pageviews": 1264586
+     },
+     "title": "My Name Is",
+     "title_with_featured": "My Name Is",
+     "url": "https://genius.com/Eminem-my-name-is-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/45",
+      "header_image_url": "https://images.genius.com/a9f98b20f8aa7a32650a1dfa5f3de088.1000x445x1.jpg",
+      "id": 45,
+      "image_url": "https://images.genius.com/f300798551b97fe030876123afb8c33a.805x805x1.jpg",
+      "is_meme_verified": true,
+      "is_verified": true,
+      "name": "Eminem",
+      "url": "https://genius.com/artists/Eminem",
+      "iq": 214212
+     }
+    }
+   ]
+  },
+  {
+   "relationship_type": "interpolated_by",
+   "type": "interpolated_by",
+   "songs": [
+    {
+     "annotation_count": 26,
+     "api_path": "/songs/4573439",
+     "full_title": "Isis by\u00a0Joyner\u00a0Lucas (Ft.\u00a0Logic)",
+     "header_image_thumbnail_url": "https://images.genius.com/d0eb2b80d212b93b097d604c4c6af62e.300x300x1.jpg",
+     "header_image_url": "https://images.genius.com/d0eb2b80d212b93b097d604c4c6af62e.680x680x1.jpg",
+     "id": 4573439,
+     "lyrics_owner_id": 126836,
+     "lyrics_state": "complete",
+     "path": "/Joyner-lucas-isis-lyrics",
+     "pyongs_count": 151,
+     "song_art_image_thumbnail_url": "https://images.genius.com/d0eb2b80d212b93b097d604c4c6af62e.300x300x1.jpg",
+     "song_art_image_url": "https://images.genius.com/d0eb2b80d212b93b097d604c4c6af62e.680x680x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 0,
+      "hot": false,
+      "pageviews": 1245720
+     },
+     "title": "Isis",
+     "title_with_featured": "Isis (Ft.\u00a0Logic)",
+     "url": "https://genius.com/Joyner-lucas-isis-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/345077",
+      "header_image_url": "https://images.genius.com/e4a1f4f393a6f2895ef728dd3bbc6cb3.1000x855x1.jpg",
+      "id": 345077,
+      "image_url": "https://images.genius.com/878e845295c819856874c2de04d464e7.794x794x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": true,
+      "name": "Joyner Lucas",
+      "url": "https://genius.com/artists/Joyner-lucas",
+      "iq": 5603
+     }
+    },
+    {
+     "annotation_count": 0,
+     "api_path": "/songs/4706895",
+     "full_title": "Assassin by\u00a0YUNGMEX",
+     "header_image_thumbnail_url": "https://images.genius.com/1660e46f3decbad926ef45cc6613e46b.300x300x1.png",
+     "header_image_url": "https://images.genius.com/1660e46f3decbad926ef45cc6613e46b.500x500x1.png",
+     "id": 4706895,
+     "lyrics_owner_id": 8865387,
+     "lyrics_state": "complete",
+     "path": "/Yungmex-assassin-lyrics",
+     "pyongs_count": null,
+     "song_art_image_thumbnail_url": "https://images.genius.com/1660e46f3decbad926ef45cc6613e46b.300x300x1.png",
+     "song_art_image_url": "https://images.genius.com/1660e46f3decbad926ef45cc6613e46b.500x500x1.png",
+     "stats": {
+      "unreviewed_annotations": 0,
+      "hot": false
+     },
+     "title": "Assassin",
+     "title_with_featured": "Assassin",
+     "url": "https://genius.com/Yungmex-assassin-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/1962591",
+      "header_image_url": "https://images.genius.com/94be64362100cbc91a7016dcc1d1964d.729x729x1.jpg",
+      "id": 1962591,
+      "image_url": "https://images.genius.com/c2e9590c371663b061fe9b4d6f350a11.729x729x1.png",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "YUNGMEX",
+      "url": "https://genius.com/artists/Yungmex"
+     }
+    },
+    {
+     "annotation_count": 2,
+     "api_path": "/songs/4807946",
+     "full_title": "Relevant by\u00a0Twisted\u00a0Insane (Ft.\u00a0Dikulz)",
+     "header_image_thumbnail_url": "https://images.genius.com/ea7c8d43c008439a818822b953c9e78d.300x300x1.png",
+     "header_image_url": "https://images.genius.com/ea7c8d43c008439a818822b953c9e78d.464x464x1.png",
+     "id": 4807946,
+     "lyrics_owner_id": 5469207,
+     "lyrics_state": "complete",
+     "path": "/Twisted-insane-relevant-lyrics",
+     "pyongs_count": null,
+     "song_art_image_thumbnail_url": "https://images.genius.com/ea7c8d43c008439a818822b953c9e78d.300x300x1.png",
+     "song_art_image_url": "https://images.genius.com/ea7c8d43c008439a818822b953c9e78d.464x464x1.png",
+     "stats": {
+      "unreviewed_annotations": 2,
+      "hot": false
+     },
+     "title": "Relevant",
+     "title_with_featured": "Relevant (Ft.\u00a0Dikulz)",
+     "url": "https://genius.com/Twisted-insane-relevant-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/11590",
+      "header_image_url": "https://images.genius.com/1d25cf1f52c1e4798fc52e1cf2fa425c.918x531x1.png",
+      "id": 11590,
+      "image_url": "https://images.genius.com/a4cdc3d7545d1c72ce9436c23b2770d1.1000x1000x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Twisted Insane",
+      "url": "https://genius.com/artists/Twisted-insane"
+     }
+    },
+    {
+     "annotation_count": 38,
+     "api_path": "/songs/4957589",
+     "full_title": "Squadeca Cypher, Vol. 2 by\u00a0SQUADECA! (Ft.\u00a0Glexander, Jonathon\u00a0(Rap), Lil\u00a0Fagkii, Ni$h!th, Sir\u00a0Ramen & Sol\u00a0(Rap))",
+     "header_image_thumbnail_url": "https://images.genius.com/7365e244021a7210dc127e7e8ec18e94.300x300x1.png",
+     "header_image_url": "https://images.genius.com/7365e244021a7210dc127e7e8ec18e94.1000x1000x1.png",
+     "id": 4957589,
+     "lyrics_owner_id": 9418819,
+     "lyrics_state": "complete",
+     "path": "/Squadeca-squadeca-cypher-vol-2-lyrics",
+     "pyongs_count": null,
+     "song_art_image_thumbnail_url": "https://images.genius.com/7365e244021a7210dc127e7e8ec18e94.300x300x1.png",
+     "song_art_image_url": "https://images.genius.com/7365e244021a7210dc127e7e8ec18e94.1000x1000x1.png",
+     "stats": {
+      "unreviewed_annotations": 32,
+      "hot": false
+     },
+     "title": "Squadeca Cypher, Vol. 2",
+     "title_with_featured": "Squadeca Cypher, Vol. 2 (Ft.\u00a0Glexander, Jonathon\u00a0(Rap), Lil\u00a0Fagkii, Ni$h!th, Sir\u00a0Ramen & Sol\u00a0(Rap))",
+     "url": "https://genius.com/Squadeca-squadeca-cypher-vol-2-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/1985664",
+      "header_image_url": "https://images.genius.com/104bed6a720d8a2e49ad61b8619c1fd6.500x500x1.jpg",
+      "id": 1985664,
+      "image_url": "https://images.genius.com/104bed6a720d8a2e49ad61b8619c1fd6.500x500x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "SQUADECA!",
+      "url": "https://genius.com/artists/Squadeca"
+     }
+    },
+    {
+     "annotation_count": 39,
+     "api_path": "/songs/5180439",
+     "full_title": "Godzilla by\u00a0Eminem (Ft.\u00a0Juice\u00a0WRLD)",
+     "header_image_thumbnail_url": "https://images.genius.com/828acd1e1136e2e79248620d4ff2be4d.300x300x1.png",
+     "header_image_url": "https://images.genius.com/828acd1e1136e2e79248620d4ff2be4d.600x600x1.png",
+     "id": 5180439,
+     "lyrics_owner_id": 8117646,
+     "lyrics_state": "complete",
+     "path": "/Eminem-godzilla-lyrics",
+     "pyongs_count": 1044,
+     "song_art_image_thumbnail_url": "https://images.genius.com/e7ec9f0d94b506dadfc6a34a801cd56d.300x300x1.png",
+     "song_art_image_url": "https://images.genius.com/e7ec9f0d94b506dadfc6a34a801cd56d.600x600x1.png",
+     "stats": {
+      "unreviewed_annotations": 2,
+      "concurrents": 11,
+      "hot": false,
+      "pageviews": 5213679
+     },
+     "title": "Godzilla",
+     "title_with_featured": "Godzilla (Ft.\u00a0Juice\u00a0WRLD)",
+     "url": "https://genius.com/Eminem-godzilla-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/45",
+      "header_image_url": "https://images.genius.com/a9f98b20f8aa7a32650a1dfa5f3de088.1000x445x1.jpg",
+      "id": 45,
+      "image_url": "https://images.genius.com/f300798551b97fe030876123afb8c33a.805x805x1.jpg",
+      "is_meme_verified": true,
+      "is_verified": true,
+      "name": "Eminem",
+      "url": "https://genius.com/artists/Eminem",
+      "iq": 214212
+     }
+    },
+    {
+     "annotation_count": 11,
+     "api_path": "/songs/5198810",
+     "full_title": "Godzilla (Remix) by\u00a0Crypt\u00a0(Rap)",
+     "header_image_thumbnail_url": "https://images.genius.com/cad0433595b13bbe556e3ed2bee181e8.300x300x1.png",
+     "header_image_url": "https://images.genius.com/cad0433595b13bbe556e3ed2bee181e8.800x801x1.png",
+     "id": 5198810,
+     "lyrics_owner_id": 4592112,
+     "lyrics_state": "complete",
+     "path": "/Crypt-rap-godzilla-remix-lyrics",
+     "pyongs_count": 1,
+     "song_art_image_thumbnail_url": "https://images.genius.com/cad0433595b13bbe556e3ed2bee181e8.300x300x1.png",
+     "song_art_image_url": "https://images.genius.com/cad0433595b13bbe556e3ed2bee181e8.800x801x1.png",
+     "stats": {
+      "unreviewed_annotations": 11,
+      "hot": false,
+      "pageviews": 11933
+     },
+     "title": "Godzilla (Remix)",
+     "title_with_featured": "Godzilla (Remix)",
+     "url": "https://genius.com/Crypt-rap-godzilla-remix-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/1577437",
+      "header_image_url": "https://images.genius.com/32884b3836d97cae2b60c9ae9f0ac657.1000x333x1.jpg",
+      "id": 1577437,
+      "image_url": "https://images.genius.com/e27f92baa470dc32cca84f8fc69ed030.600x600x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": true,
+      "name": "Crypt (Rap)",
+      "url": "https://genius.com/artists/Crypt-rap",
+      "iq": 656
+     }
+    }
+   ]
+  },
+  {
+   "relationship_type": "cover_of",
+   "type": "cover_of",
+   "songs": []
+  },
+  {
+   "relationship_type": "covered_by",
+   "type": "covered_by",
+   "songs": []
+  },
+  {
+   "relationship_type": "remix_of",
+   "type": "remix_of",
+   "songs": []
+  },
+  {
+   "relationship_type": "remixed_by",
+   "type": "remixed_by",
+   "songs": [
+    {
+     "annotation_count": 32,
+     "api_path": "/songs/3576912",
+     "full_title": "Homicide Freestyle by\u00a0Dax",
+     "header_image_thumbnail_url": "https://images.genius.com/3ea23a48e8b53c9dfa8e4ff93694d639.300x300x1.jpg",
+     "header_image_url": "https://images.genius.com/3ea23a48e8b53c9dfa8e4ff93694d639.809x809x1.jpg",
+     "id": 3576912,
+     "lyrics_owner_id": 4733728,
+     "lyrics_state": "complete",
+     "path": "/Dax-homicide-freestyle-lyrics",
+     "pyongs_count": 3,
+     "song_art_image_thumbnail_url": "https://images.genius.com/3ea23a48e8b53c9dfa8e4ff93694d639.300x300x1.jpg",
+     "song_art_image_url": "https://images.genius.com/3ea23a48e8b53c9dfa8e4ff93694d639.809x809x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 32,
+      "hot": false,
+      "pageviews": 18003
+     },
+     "title": "Homicide Freestyle",
+     "title_with_featured": "Homicide Freestyle",
+     "url": "https://genius.com/Dax-homicide-freestyle-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/16711",
+      "header_image_url": "https://images.genius.com/44e95e196b60371bc405f61d2ef225ee.620x350x1.jpg",
+      "id": 16711,
+      "image_url": "https://images.genius.com/ebaef6dee442778e7fe3a61e15a62464.555x555x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": true,
+      "name": "Dax",
+      "url": "https://genius.com/artists/Dax",
+      "iq": 2406
+     }
+    },
+    {
+     "annotation_count": 0,
+     "api_path": "/songs/4531909",
+     "full_title": "Homicide (Remix) by\u00a0N0va",
+     "header_image_thumbnail_url": "https://images.genius.com/79bf9ea606adcdba059834b9227d61bd.300x300x1.jpg",
+     "header_image_url": "https://images.genius.com/79bf9ea606adcdba059834b9227d61bd.500x500x1.jpg",
+     "id": 4531909,
+     "lyrics_owner_id": 1686983,
+     "lyrics_state": "complete",
+     "path": "/N0va-homicide-remix-lyrics",
+     "pyongs_count": null,
+     "song_art_image_thumbnail_url": "https://images.genius.com/79bf9ea606adcdba059834b9227d61bd.300x300x1.jpg",
+     "song_art_image_url": "https://images.genius.com/79bf9ea606adcdba059834b9227d61bd.500x500x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 0,
+      "hot": false
+     },
+     "title": "Homicide (Remix)",
+     "title_with_featured": "Homicide (Remix)",
+     "url": "https://genius.com/N0va-homicide-remix-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/1057015",
+      "header_image_url": "https://images.genius.com/cd3d390ddeaccdceb93e95845244f26c.960x640x1.jpg",
+      "id": 1057015,
+      "image_url": "https://images.genius.com/36458bd098adc9f7bf9a513d09d0cfad.1000x1000x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": true,
+      "name": "N0va",
+      "url": "https://genius.com/artists/N0va",
+      "iq": 2696
+     }
+    },
+    {
+     "annotation_count": 6,
+     "api_path": "/songs/4532923",
+     "full_title": "Homicide Scrud Up (Remix) by\u00a0Scru\u00a0Face Jean",
+     "header_image_thumbnail_url": "https://images.genius.com/148db43b9be8eae853eeb82b5e41875a.300x300x1.jpg",
+     "header_image_url": "https://images.genius.com/148db43b9be8eae853eeb82b5e41875a.640x640x1.jpg",
+     "id": 4532923,
+     "lyrics_owner_id": 6020638,
+     "lyrics_state": "complete",
+     "path": "/Scru-face-jean-homicide-scrud-up-remix-lyrics",
+     "pyongs_count": 1,
+     "song_art_image_thumbnail_url": "https://images.genius.com/148db43b9be8eae853eeb82b5e41875a.300x300x1.jpg",
+     "song_art_image_url": "https://images.genius.com/148db43b9be8eae853eeb82b5e41875a.640x640x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 6,
+      "hot": false
+     },
+     "title": "Homicide Scrud Up (Remix)",
+     "title_with_featured": "Homicide Scrud Up (Remix)",
+     "url": "https://genius.com/Scru-face-jean-homicide-scrud-up-remix-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/18158",
+      "header_image_url": "https://images.genius.com/6bddc4d1835562f33247a1c9010c8db2.1000x429x1.jpg",
+      "id": 18158,
+      "image_url": "https://images.genius.com/d89ca78fbb95353d0140c335c2379391.555x555x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Scru Face Jean",
+      "url": "https://genius.com/artists/Scru-face-jean"
+     }
+    },
+    {
+     "annotation_count": 0,
+     "api_path": "/songs/4540688",
+     "full_title": "Homicide (Freestyle) by\u00a0ItsUnknownMF",
+     "header_image_thumbnail_url": "https://images.genius.com/14bd2f14c2617a2fe93f26115bddaf82.300x300x1.jpg",
+     "header_image_url": "https://images.genius.com/14bd2f14c2617a2fe93f26115bddaf82.1000x1000x1.jpg",
+     "id": 4540688,
+     "lyrics_owner_id": 5084092,
+     "lyrics_state": "complete",
+     "path": "/Itsunknownmf-homicide-freestyle-lyrics",
+     "pyongs_count": null,
+     "song_art_image_thumbnail_url": "https://images.genius.com/14bd2f14c2617a2fe93f26115bddaf82.300x300x1.jpg",
+     "song_art_image_url": "https://images.genius.com/14bd2f14c2617a2fe93f26115bddaf82.1000x1000x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 0,
+      "hot": false
+     },
+     "title": "Homicide (Freestyle)",
+     "title_with_featured": "Homicide (Freestyle)",
+     "url": "https://genius.com/Itsunknownmf-homicide-freestyle-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/1573879",
+      "header_image_url": "https://images.genius.com/7c692a814b8dde92dc0338839af21d6c.1000x563x1.jpg",
+      "id": 1573879,
+      "image_url": "https://images.genius.com/077de991d1698fc64323365ea04dfc77.998x998x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "ItsUnknownMF",
+      "url": "https://genius.com/artists/Itsunknownmf"
+     }
+    },
+    {
+     "annotation_count": 0,
+     "api_path": "/songs/4541754",
+     "full_title": "Homicide (Remix) by\u00a0Cryptic\u00a0Wisdom",
+     "header_image_thumbnail_url": "https://images.genius.com/2968735e048d40d067f592efe031b69e.300x300x1.jpg",
+     "header_image_url": "https://images.genius.com/2968735e048d40d067f592efe031b69e.862x862x1.jpg",
+     "id": 4541754,
+     "lyrics_owner_id": 139827,
+     "lyrics_state": "complete",
+     "path": "/Cryptic-wisdom-homicide-remix-lyrics",
+     "pyongs_count": null,
+     "song_art_image_thumbnail_url": "https://images.genius.com/2968735e048d40d067f592efe031b69e.300x300x1.jpg",
+     "song_art_image_url": "https://images.genius.com/2968735e048d40d067f592efe031b69e.862x862x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 0,
+      "hot": false
+     },
+     "title": "Homicide (Remix)",
+     "title_with_featured": "Homicide (Remix)",
+     "url": "https://genius.com/Cryptic-wisdom-homicide-remix-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/12493",
+      "header_image_url": "https://images.genius.com/8cf115c3558dd1af4cfe9916fc79b06e.1000x158x1.png",
+      "id": 12493,
+      "image_url": "https://images.genius.com/2968735e048d40d067f592efe031b69e.862x862x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": true,
+      "name": "Cryptic Wisdom",
+      "url": "https://genius.com/artists/Cryptic-wisdom",
+      "iq": 200
+     }
+    },
+    {
+     "annotation_count": 5,
+     "api_path": "/songs/4543852",
+     "full_title": "Homicide Remix by\u00a0GAWNE",
+     "header_image_thumbnail_url": "https://images.genius.com/4cc3def38c7bf0bf8b0ec09a53c0763d.300x300x1.jpg",
+     "header_image_url": "https://images.genius.com/4cc3def38c7bf0bf8b0ec09a53c0763d.500x500x1.jpg",
+     "id": 4543852,
+     "lyrics_owner_id": 971106,
+     "lyrics_state": "complete",
+     "path": "/Gawne-homicide-remix-lyrics",
+     "pyongs_count": null,
+     "song_art_image_thumbnail_url": "https://images.genius.com/4cc3def38c7bf0bf8b0ec09a53c0763d.300x300x1.jpg",
+     "song_art_image_url": "https://images.genius.com/4cc3def38c7bf0bf8b0ec09a53c0763d.500x500x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 5,
+      "hot": false
+     },
+     "title": "Homicide Remix",
+     "title_with_featured": "Homicide Remix",
+     "url": "https://genius.com/Gawne-homicide-remix-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/1712233",
+      "header_image_url": "https://images.genius.com/a1cc3ad86f2979c6664512c4af56dff3.1000x667x1.jpg",
+      "id": 1712233,
+      "image_url": "https://images.genius.com/c712c6373e77761c4974651bacca6786.1000x1000x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": true,
+      "name": "GAWNE",
+      "url": "https://genius.com/artists/Gawne",
+      "iq": 1632
+     }
+    },
+    {
+     "annotation_count": 0,
+     "api_path": "/songs/4557527",
+     "full_title": "Homicide by\u00a0Mellow",
+     "header_image_thumbnail_url": "https://images.genius.com/2225bc44047dd939a9d7363b81059ab2.300x300x1.jpg",
+     "header_image_url": "https://images.genius.com/2225bc44047dd939a9d7363b81059ab2.500x500x1.jpg",
+     "id": 4557527,
+     "lyrics_owner_id": 4876172,
+     "lyrics_state": "complete",
+     "path": "/Mellow-homicide-lyrics",
+     "pyongs_count": null,
+     "song_art_image_thumbnail_url": "https://images.genius.com/2225bc44047dd939a9d7363b81059ab2.300x300x1.jpg",
+     "song_art_image_url": "https://images.genius.com/2225bc44047dd939a9d7363b81059ab2.500x500x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 0,
+      "hot": false
+     },
+     "title": "Homicide",
+     "title_with_featured": "Homicide",
+     "url": "https://genius.com/Mellow-homicide-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/8751",
+      "header_image_url": "https://images.genius.com/61822f6d9110815cfaaf12ceb557c985.1000x210x1.jpg",
+      "id": 8751,
+      "image_url": "https://images.genius.com/2225bc44047dd939a9d7363b81059ab2.500x500x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Mellow",
+      "url": "https://genius.com/artists/Mellow"
+     }
+    },
+    {
+     "annotation_count": 0,
+     "api_path": "/songs/4585869",
+     "full_title": "Homicide Remix by\u00a0Anilyst",
+     "header_image_thumbnail_url": "https://images.genius.com/51d899c4d5878d36a950753c21ed58ab.300x300x1.jpg",
+     "header_image_url": "https://images.genius.com/51d899c4d5878d36a950753c21ed58ab.960x960x1.jpg",
+     "id": 4585869,
+     "lyrics_owner_id": 210695,
+     "lyrics_state": "complete",
+     "path": "/Anilyst-homicide-remix-lyrics",
+     "pyongs_count": null,
+     "song_art_image_thumbnail_url": "https://images.genius.com/51d899c4d5878d36a950753c21ed58ab.300x300x1.jpg",
+     "song_art_image_url": "https://images.genius.com/51d899c4d5878d36a950753c21ed58ab.960x960x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 0,
+      "hot": false
+     },
+     "title": "Homicide Remix",
+     "title_with_featured": "Homicide Remix",
+     "url": "https://genius.com/Anilyst-homicide-remix-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/18928",
+      "header_image_url": "https://images.genius.com/ee569f5456c00558d150dcba48d17f0a.960x960x1.jpg",
+      "id": 18928,
+      "image_url": "https://images.genius.com/51d899c4d5878d36a950753c21ed58ab.960x960x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": true,
+      "name": "Anilyst",
+      "url": "https://genius.com/artists/Anilyst",
+      "iq": 3963
+     }
+    },
+    {
+     "annotation_count": 1,
+     "api_path": "/songs/4608970",
+     "full_title": "Homicide Remix by\u00a0Merkules",
+     "header_image_thumbnail_url": "https://images.genius.com/b54072651faf48fd4f54c2476ed2f061.300x300x1.jpg",
+     "header_image_url": "https://images.genius.com/b54072651faf48fd4f54c2476ed2f061.1000x1000x1.jpg",
+     "id": 4608970,
+     "lyrics_owner_id": 1968515,
+     "lyrics_state": "complete",
+     "path": "/Merkules-homicide-remix-lyrics",
+     "pyongs_count": null,
+     "song_art_image_thumbnail_url": "https://images.genius.com/b54072651faf48fd4f54c2476ed2f061.300x300x1.jpg",
+     "song_art_image_url": "https://images.genius.com/b54072651faf48fd4f54c2476ed2f061.1000x1000x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 1,
+      "hot": false
+     },
+     "title": "Homicide Remix",
+     "title_with_featured": "Homicide Remix",
+     "url": "https://genius.com/Merkules-homicide-remix-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/72445",
+      "header_image_url": "https://images.genius.com/ec397746767afe2ff0239c75914615cd.1000x333x1.jpg",
+      "id": 72445,
+      "image_url": "https://images.genius.com/b54072651faf48fd4f54c2476ed2f061.1000x1000x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Merkules",
+      "url": "https://genius.com/artists/Merkules"
+     }
+    },
+    {
+     "annotation_count": 1,
+     "api_path": "/songs/4694181",
+     "full_title": "G\u00e9nocide by\u00a0Ill-Yes",
+     "header_image_thumbnail_url": "https://images.genius.com/c9cb602e09a6dcbac001d438db1ce2a3.300x300x1.jpg",
+     "header_image_url": "https://images.genius.com/c9cb602e09a6dcbac001d438db1ce2a3.1000x1000x1.jpg",
+     "id": 4694181,
+     "lyrics_owner_id": 4514026,
+     "lyrics_state": "complete",
+     "path": "/Ill-yes-genocide-lyrics",
+     "pyongs_count": null,
+     "song_art_image_thumbnail_url": "https://images.genius.com/c9cb602e09a6dcbac001d438db1ce2a3.300x300x1.jpg",
+     "song_art_image_url": "https://images.genius.com/c9cb602e09a6dcbac001d438db1ce2a3.1000x1000x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 1,
+      "hot": false
+     },
+     "title": "G\u00e9nocide",
+     "title_with_featured": "G\u00e9nocide",
+     "url": "https://genius.com/Ill-yes-genocide-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/265124",
+      "header_image_url": "https://images.genius.com/cf3cb2d5be9260023beea48878d1d1bc.467x467x1.jpg",
+      "id": 265124,
+      "image_url": "https://images.genius.com/6a047d6dec77985ee583425b5237a202.467x467x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": true,
+      "name": "Ill-Yes",
+      "url": "https://genius.com/artists/Ill-yes",
+      "iq": 141
+     }
+    },
+    {
+     "annotation_count": 1,
+     "api_path": "/songs/4867154",
+     "full_title": "Homicide (Remix) by\u00a0DJD34TH",
+     "header_image_thumbnail_url": "https://images.genius.com/3c7add5860cf39ac6ce83c6ed6929541.299x168x1.jpg",
+     "header_image_url": "https://images.genius.com/3c7add5860cf39ac6ce83c6ed6929541.299x168x1.jpg",
+     "id": 4867154,
+     "lyrics_owner_id": 7433338,
+     "lyrics_state": "complete",
+     "path": "/Djd34th-homicide-remix-lyrics",
+     "pyongs_count": null,
+     "song_art_image_thumbnail_url": "https://images.genius.com/3c7add5860cf39ac6ce83c6ed6929541.299x168x1.jpg",
+     "song_art_image_url": "https://images.genius.com/3c7add5860cf39ac6ce83c6ed6929541.299x168x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 0,
+      "hot": false
+     },
+     "title": "Homicide (Remix)",
+     "title_with_featured": "Homicide (Remix)",
+     "url": "https://genius.com/Djd34th-homicide-remix-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/1648122",
+      "header_image_url": "https://images.genius.com/3341f52fb5a92a243f82a78af36369af.300x300x1.png",
+      "id": 1648122,
+      "image_url": "https://images.genius.com/07727a6604cb615d988c761569a77630.1000x1000x1.png",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "DJD34TH",
+      "url": "https://genius.com/artists/Djd34th",
+      "iq": 6330
+     }
+    },
+    {
+     "annotation_count": 2,
+     "api_path": "/songs/5141322",
+     "full_title": "Homicide (Nitin Randhawa Remix) by\u00a0Nitin\u00a0Randhawa",
+     "header_image_thumbnail_url": "https://images.genius.com/7e438977144d6b9230fe4cbc34c37165.300x169x1.jpg",
+     "header_image_url": "https://images.genius.com/7e438977144d6b9230fe4cbc34c37165.1000x563x1.jpg",
+     "id": 5141322,
+     "lyrics_owner_id": 10011852,
+     "lyrics_state": "complete",
+     "path": "/Nitin-randhawa-homicide-nitin-randhawa-remix-lyrics",
+     "pyongs_count": 1,
+     "song_art_image_thumbnail_url": "https://images.genius.com/ce2b0e0c49f770dea4d2cb9b16f5cfed.300x300x1.png",
+     "song_art_image_url": "https://images.genius.com/ce2b0e0c49f770dea4d2cb9b16f5cfed.720x720x1.png",
+     "stats": {
+      "unreviewed_annotations": 2,
+      "hot": false
+     },
+     "title": "Homicide (Nitin Randhawa Remix)",
+     "title_with_featured": "Homicide (Nitin Randhawa Remix)",
+     "url": "https://genius.com/Nitin-randhawa-homicide-nitin-randhawa-remix-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/1417326",
+      "header_image_url": "https://images.genius.com/fa89aafa15b46914e920f4076faa1dc0.288x288x1.jpg",
+      "id": 1417326,
+      "image_url": "https://images.genius.com/fa89aafa15b46914e920f4076faa1dc0.288x288x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Nitin Randhawa",
+      "url": "https://genius.com/artists/Nitin-randhawa"
+     }
+    },
+    {
+     "annotation_count": 0,
+     "api_path": "/songs/5529940",
+     "full_title": "Homicide Remix by\u00a0Jesse\u00a0James (Rap) (Ft.\u00a0Swisher\u00a0Sleep)",
+     "header_image_thumbnail_url": "https://images.genius.com/68b04f356ec637678f03d6a4a4e4660e.300x300x1.jpg",
+     "header_image_url": "https://images.genius.com/68b04f356ec637678f03d6a4a4e4660e.399x399x1.jpg",
+     "id": 5529940,
+     "lyrics_owner_id": 39610,
+     "lyrics_state": "complete",
+     "path": "/Jesse-james-rap-homicide-remix-lyrics",
+     "pyongs_count": null,
+     "song_art_image_thumbnail_url": "https://images.genius.com/68b04f356ec637678f03d6a4a4e4660e.300x300x1.jpg",
+     "song_art_image_url": "https://images.genius.com/68b04f356ec637678f03d6a4a4e4660e.399x399x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 0,
+      "hot": false
+     },
+     "title": "Homicide Remix",
+     "title_with_featured": "Homicide Remix (Ft.\u00a0Swisher\u00a0Sleep)",
+     "url": "https://genius.com/Jesse-james-rap-homicide-remix-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/2444379",
+      "header_image_url": "https://images.genius.com/68b04f356ec637678f03d6a4a4e4660e.399x399x1.jpg",
+      "id": 2444379,
+      "image_url": "https://images.genius.com/68b04f356ec637678f03d6a4a4e4660e.399x399x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Jesse James (Rap)",
+      "url": "https://genius.com/artists/Jesse-james-rap"
+     }
+    },
+    {
+     "annotation_count": 0,
+     "api_path": "/songs/6118042",
+     "full_title": "Homicide (Remix) by\u00a0KING\u00a0BLITZ",
+     "header_image_thumbnail_url": "https://images.genius.com/16fb794424270c620a7c749c566d7dfd.300x300x1.jpg",
+     "header_image_url": "https://images.genius.com/16fb794424270c620a7c749c566d7dfd.500x500x1.jpg",
+     "id": 6118042,
+     "lyrics_owner_id": 12091992,
+     "lyrics_state": "complete",
+     "path": "/King-blitz-homicide-remix-lyrics",
+     "pyongs_count": null,
+     "song_art_image_thumbnail_url": "https://images.genius.com/16fb794424270c620a7c749c566d7dfd.300x300x1.jpg",
+     "song_art_image_url": "https://images.genius.com/16fb794424270c620a7c749c566d7dfd.500x500x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 0,
+      "hot": false
+     },
+     "title": "Homicide (Remix)",
+     "title_with_featured": "Homicide (Remix)",
+     "url": "https://genius.com/King-blitz-homicide-remix-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/2090108",
+      "header_image_url": "https://images.genius.com/a954b2f0b0d71a4ba228ede2d0cc6767.761x430x1.png",
+      "id": 2090108,
+      "image_url": "https://images.genius.com/84c9cdd4f7807ff371e506873ba4cb39.400x400x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "KING BLITZ",
+      "url": "https://genius.com/artists/King-blitz"
+     }
+    }
+   ]
+  },
+  {
+   "relationship_type": "live_version_of",
+   "type": "live_version_of",
+   "songs": []
+  },
+  {
+   "relationship_type": "performed_live_as",
+   "type": "performed_live_as",
+   "songs": []
+  }
+ ],
+ "verified_annotations_by": [],
+ "verified_contributors": [
+  {
+   "contributions": [
+    "lyrics"
+   ],
+   "artist": {
+    "api_path": "/artists/45",
+    "header_image_url": "https://images.genius.com/a9f98b20f8aa7a32650a1dfa5f3de088.1000x445x1.jpg",
+    "id": 45,
+    "image_url": "https://images.genius.com/f300798551b97fe030876123afb8c33a.805x805x1.jpg",
+    "is_meme_verified": true,
+    "is_verified": true,
+    "name": "Eminem",
+    "url": "https://genius.com/artists/Eminem",
+    "iq": 214212
+   },
+   "user": {
+    "api_path": "/users/1628085",
+    "avatar": {
+     "tiny": {
+      "url": "https://images.genius.com/avatars/tiny/ea27079a0ac8266d17c5006936c32f42",
+      "bounding_box": {
+       "width": 16,
+       "height": 16
+      }
+     },
+     "thumb": {
+      "url": "https://images.genius.com/avatars/thumb/ea27079a0ac8266d17c5006936c32f42",
+      "bounding_box": {
+       "width": 32,
+       "height": 32
+      }
+     },
+     "small": {
+      "url": "https://images.genius.com/avatars/small/ea27079a0ac8266d17c5006936c32f42",
+      "bounding_box": {
+       "width": 100,
+       "height": 100
+      }
+     },
+     "medium": {
+      "url": "https://images.genius.com/avatars/medium/ea27079a0ac8266d17c5006936c32f42",
+      "bounding_box": {
+       "width": 300,
+       "height": 400
+      }
+     }
+    },
+    "header_image_url": "https://images.genius.com/a9f98b20f8aa7a32650a1dfa5f3de088.1000x445x1.jpg",
+    "human_readable_role_for_display": "Verified Artist",
+    "id": 1628085,
+    "iq": 214212,
+    "login": "eminem",
+    "name": "Eminem",
+    "role_for_display": "verified_artist",
+    "url": "https://genius.com/eminem",
+    "current_user_metadata": {
+     "permissions": [],
+     "excluded_permissions": [
+      "follow"
+     ],
+     "interactions": {
+      "following": false
+     }
+    }
+   }
+  }
+ ],
+ "verified_lyrics_by": [
+  {
+   "api_path": "/users/1628085",
+   "avatar": {
+    "tiny": {
+     "url": "https://images.genius.com/avatars/tiny/ea27079a0ac8266d17c5006936c32f42",
+     "bounding_box": {
+      "width": 16,
+      "height": 16
+     }
+    },
+    "thumb": {
+     "url": "https://images.genius.com/avatars/thumb/ea27079a0ac8266d17c5006936c32f42",
+     "bounding_box": {
+      "width": 32,
+      "height": 32
+     }
+    },
+    "small": {
+     "url": "https://images.genius.com/avatars/small/ea27079a0ac8266d17c5006936c32f42",
+     "bounding_box": {
+      "width": 100,
+      "height": 100
+     }
+    },
+    "medium": {
+     "url": "https://images.genius.com/avatars/medium/ea27079a0ac8266d17c5006936c32f42",
+     "bounding_box": {
+      "width": 300,
+      "height": 400
+     }
+    }
+   },
+   "header_image_url": "https://images.genius.com/a9f98b20f8aa7a32650a1dfa5f3de088.1000x445x1.jpg",
+   "human_readable_role_for_display": "Verified Artist",
+   "id": 1628085,
+   "iq": 214212,
+   "login": "eminem",
+   "name": "Eminem",
+   "role_for_display": "verified_artist",
+   "url": "https://genius.com/eminem",
+   "current_user_metadata": {
+    "permissions": [],
+    "excluded_permissions": [
+     "follow"
+    ],
+    "interactions": {
+     "following": false
+    }
+   }
+  }
+ ],
+ "writer_artists": [
+  {
+   "api_path": "/artists/1809912",
+   "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+   "id": 1809912,
+   "image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+   "is_meme_verified": false,
+   "is_verified": false,
+   "name": "Tim Schoegje",
+   "url": "https://genius.com/artists/Tim-schoegje"
+  },
+  {
+   "api_path": "/artists/7922",
+   "header_image_url": "https://images.genius.com/f6b08bf607b94a279d743e14bbca2a3a.1000x563x1.jpg",
+   "id": 7922,
+   "image_url": "https://images.genius.com/0f975524d106026e89de983689d007c4.900x900x1.jpg",
+   "is_meme_verified": true,
+   "is_verified": true,
+   "name": "Logic",
+   "url": "https://genius.com/artists/Logic",
+   "iq": 91961
+  },
+  {
+   "api_path": "/artists/45",
+   "header_image_url": "https://images.genius.com/a9f98b20f8aa7a32650a1dfa5f3de088.1000x445x1.jpg",
+   "id": 45,
+   "image_url": "https://images.genius.com/f300798551b97fe030876123afb8c33a.805x805x1.jpg",
+   "is_meme_verified": true,
+   "is_verified": true,
+   "name": "Eminem",
+   "url": "https://genius.com/artists/Eminem",
+   "iq": 214212
+  },
+  {
+   "api_path": "/artists/33782",
+   "header_image_url": "https://images.genius.com/b11dcb349ce12ee3fb1e6ac903756351.1000x698x1.jpg",
+   "id": 33782,
+   "image_url": "https://images.genius.com/93b6573df63cc5675a8273d131b00b1f.1000x1000x1.jpg",
+   "is_meme_verified": false,
+   "is_verified": false,
+   "name": "Luis Resto",
+   "url": "https://genius.com/artists/Luis-resto"
+  },
+  {
+   "api_path": "/artists/1809911",
+   "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+   "id": 1809911,
+   "image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+   "is_meme_verified": false,
+   "is_verified": false,
+   "name": "Donnell Stephens III",
+   "url": "https://genius.com/artists/Donnell-stephens-iii"
+  },
+  {
+   "api_path": "/artists/1809910",
+   "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+   "id": 1809910,
+   "image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+   "is_meme_verified": false,
+   "is_verified": false,
+   "name": "Dillan Bailard",
+   "url": "https://genius.com/artists/Dillan-bailard"
+  },
+  {
+   "api_path": "/artists/1809909",
+   "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+   "id": 1809909,
+   "image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+   "is_meme_verified": false,
+   "is_verified": false,
+   "name": "Jeremy Uribe",
+   "url": "https://genius.com/artists/Jeremy-uribe"
+  }
+ ],
+ "lyrics": "Son, you know why you the greatest alive?\nWhy, Dad?\nBecause you came out of my balls, nigga\nHahahahahaha\n(Roof!)\n\nFuck rap\nBustin' like an addict with a semi-automatic\nWho done had it, and he ready for anybody to buck back\nHold up, catch a vibe, ain't no way in hell we leavin' nobody alive\nLeave a suicide note, fuck that\nBobby feelin' villainous, he killin' this\nI'm comin' for your man and his lady and even the baby\nI'm feelin' like I'm, chika-chika-chika, Slim Shady with rabies\n\nI'm foamin' at the mouth, ain't nobody takin' me out\nEvery single rapper in the industry, yeah, they know what I'm about\nAnd I dare you to test me\n'Cause not a single one of you motherfuckers impress me\nAnd maybe that's a little bit of an exaggeration\nBut I'm full of innovation\nAnd I'm tired of all of this high school \"He's cool, he's not\" rap shit\nCan a single one of you motherfuckers even rap? Shit\nNo, this ain't a diss to the game, this a gas to the flame\nNowadays, everybody sound the same, shit's lame\nLike a moth to the flame, I'ma reel 'em in and kill 'em\nKnow you feelin' lyricism when I'm spillin' it, I'm feelin' myself\nYeah, yeah, Bobby Boy, he be feelin' himself\nMass murder like this can't be good for my health\nWhen I rap like this, do I sound like shit?\nWell, it don't really matter, 'cause I'm killin' this shit\nYeah, I'm killin' this shit\nOh yeah, oh yeah, I'm killin' this shit\nBobby, how many times you been killin' this shit?\nFind another rhyme, goddamn, nigga, shit\n\nFuck rap\nBustin' like an addict with a semi-automatic\nWho done had it, and he ready for anybody to buck back\nHold up, catch a vibe, ain't no way in hell we leavin' nobody alive\nLeave a suicide note, fuck that\nBobby feelin' villainous, he killin' this\nI'm comin' for your man and his lady and even the baby\nI'm feelin' like I'm, chika-chika-chika-chika\nChika-chika-chika-chika-chika, Slim Shady\n\nThere's nowhere to hide, we call this shit genocide\nHit 'em with that (Do-do-do) and they die\nWe gon' leave 'em crucified, we call this shit genocide\nI got bitches, I got hoes, I got rare designer clothes\nNo, we ain't fuckin' with that\nYeah, there's a time and a place\nBut if you ain't comin' with the illest of raps\nCallin' yourself the greatest alive\nThen you don't deserve to do that\nNo, no, oh no, no, please do not do that\nYou gon' get smacked\nYou gon' make Bobby attack\nYou gon' make Bobby Boy snap\nYou gon' make Bobby Boy snap (Bobby Boy!)\n\nFuck rap\nBustin' like an addict with a semi-automatic\nWho done had it, and he ready for anybody to buck back\nHold up, catch a vibe, ain't no way in hell we leavin' nobody alive\nLeave a suicide note, fuck that\nBobby feelin' villainous, he killin' this\nI'm comin' for your man and his lady and even the baby\nI'm feelin' like I'm chika-chika-chika-chika\nChika-chika-chika-chika-chika, Slim Shady\n\nJigga-jigga-jigga-jigga-jigga like JAY-Z\nJig is up, you fuckers who didn't write anything\nAre getting washed, liga-liga-liga, like bathing\nYoung Hova, I know hitters like Yankees\nGun toters that pull triggers like crazy\nUnloadin', leave you shot up in your Rover\nYour body goes limp and slumps over\nLike A-Rod in a month lull, but he just homered\nHol' up, I said \"Rover\" because now your Rover is red\nLike Red Rover, so you know what I meant\nBut I roll over my opponents instead\nMakin' dog sounds 'cause I gotta keep breakin' these bars down\nI'll go slow for the speds\nBut when I go (Roof!) like the Dobermann said\nI still think the (Roof!) would go over your head (Ha-ha)\nBeast mode, motherfuckers 'bout to get hit\nWith so many foul lines, you'll think I'm a free throw\nFigured it was about time for people to eat crow\nYou about to get out-rhymed, how could I be dethroned?\nI stay on my toes like the repo, a behemoth in sheep's clothes\nFrom the East Coast to the West, I'm the ethos and I'm the G.O.A.T\nWho the best, I don't gotta say a fuckin' thing, though\n'Cause MCs know\nBut you don't wanna hear me spit the facts\nYour shit is ass like a tailbone\nOr you're trapped in your cell phone\nOr my chicken scratch, or my self-loathe\nI don't wanna fuckin' listen to you spit your raps someone else wrote\nUsed to get beat up by the big kids\nUsed to let the big kids steal my big wheel\nAnd I wouldn't do shit but just sit still\nNow money's not a big deal\nI'm rich, I wipe my ass with six mill'\nBig bills like a platypus\nA caterpillar's comin' to get the cannabis\nI'm lookin' for the smoke but you motherfuckers are scatterin'\nBatterin' everything and I've had it with the inadequate\nMan, I can see my dick is standin' stiff as a mannequin\nAnd I'm bringin' the bandana back, and the fuckin' headband again\nA handkerchief and I'm thinkin' of bringin' the fuckin' fingerless gloves back\nAnd not giving a singular fuck, like fuck rap\nI sound like a fuckin' millionaire\nWith a Derringer with a hair trigger\n'Bout to bear hug a fuckin' terrier, the Ric Flair dripper\nY'all couldn't hold a candle at a prayer vigil\nWhen I vent, they compare me to a fuckin' air duct\nI'm 'bout to bare-knuckle it, nah, fuck it\nI'm gonna go upside their head with a Nantucket\nAbraca-fuckin'-dabra\nThe track is the blood, I'm attracted, I'm attackin' it\nWhat? Dracula, fuck that shit\nI'm up, back with a thud\nMan, stop\n\nLook what I'm plannin', plannin', I'm plannin' to\nDo all this while ya panickin'\nAnd you're lookin' and starin' at mannequins\nAnd I'm goin' to Fanagans\nTrying to get up a plan against\nAll of the blana-kazana-ka-fam-bam-bannigans\nWhile of all the bana-kazanika Hanna in a cabana\nYou're in a cab-\nI'm in a cabana and a Janet\nI'm in a cabana chantin' all this standup banter\nWhile you don't got the stamina, you're lackin' the stamina\nYou're lackin' the stamina while you're divorcin' Harrison Ford\nAnd I'm in a Porsche on the floorboards\nWhile I'm world tourin'\nYou usin' way too many napkins, papkins\nLapkins and chapki-\nYou using ChapStick and napkins while I'm bapkin'\nFlappin' around like a bapkin'\nFlamminababbitapannitajampkin\nDammit, a can of pada-"
+}

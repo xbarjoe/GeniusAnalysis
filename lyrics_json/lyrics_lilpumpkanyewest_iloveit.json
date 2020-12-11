@@ -1,0 +1,3704 @@
+{
+ "_type": "song",
+ "annotation_count": 13,
+ "api_path": "/songs/3944360",
+ "full_title": "I Love It by\u00a0Lil\u00a0Pump & Kanye West (Ft.\u00a0Adele\u00a0Givens)",
+ "header_image_thumbnail_url": "https://images.genius.com/ed6e2cd1ac5764c45a0959b073e353fb.300x169x1.jpg",
+ "header_image_url": "https://images.genius.com/ed6e2cd1ac5764c45a0959b073e353fb.1000x562x1.jpg",
+ "id": 3944360,
+ "instrumental": false,
+ "lyrics_owner_id": 104344,
+ "lyrics_state": "complete",
+ "lyrics_updated_at": 1604840855,
+ "path": "/Lil-pump-and-kanye-west-i-love-it-lyrics",
+ "pyongs_count": 193,
+ "song_art_image_thumbnail_url": "https://images.genius.com/8b95f4c24d85c1e478b5d4ee74a06fcf.300x300x1.png",
+ "song_art_image_url": "https://images.genius.com/8b95f4c24d85c1e478b5d4ee74a06fcf.1000x1000x1.png",
+ "stats": {
+  "accepted_annotations": 12,
+  "contributors": 259,
+  "iq_earners": 259,
+  "transcribers": 3,
+  "unreviewed_annotations": 0,
+  "verified_annotations": 0,
+  "hot": false,
+  "pageviews": 3335233
+ },
+ "title": "I Love It",
+ "title_with_featured": "I Love It (Ft.\u00a0Adele\u00a0Givens)",
+ "updated_by_human_at": 1604840855,
+ "url": "https://genius.com/Lil-pump-and-kanye-west-i-love-it-lyrics",
+ "primary_artist": {
+  "api_path": "/artists/1572772",
+  "header_image_url": "https://images.genius.com/1720b347cadb4a040dc895501b5201cf.620x348x1.jpg",
+  "id": 1572772,
+  "image_url": "https://images.genius.com/4e637e4714fc857001d14f7ddbdab921.750x750x1.jpg",
+  "is_meme_verified": false,
+  "is_verified": false,
+  "name": "Lil Pump & Kanye West",
+  "url": "https://genius.com/artists/Lil-pump-and-kanye-west"
+ },
+ "apple_music_id": "1452980465",
+ "apple_music_player_url": "https://genius.com/songs/3944360/apple_music_player",
+ "description": {
+  "plain": "An unlikely duo, Kanye West and Lil Pump teamed up for \u201cI Love It,\u201d a song about their respective sexual preferences. The song and its accompanying music video were debuted at the inaugural Pornhub Awards in Los Angeles, California; Kanye served as co-creative director of the event.\n\nOn August 10, 2018, Kanye was interviewed on Jimmy Kimmel Live. Towards the end of the interview, Kimmel asked Kanye if having daughters had changed Kanye\u2019s attitude toward women, to which he replied, \u201cNah, I still look at Pornhub.\u201d After the interview\u2019s release, Pornhub reached out to Kanye via Twitter, giving him a lifetime premium membership to show appreciation for his support. This sequence of events led to a professional partnership between the two parties, as demonstrated by Ye\u2019s involvement in the 2018 Pornhub Awards.\n\nOn August 19, 2018, Kanye attended 2 Chainz\u2019s wedding, wearing a suit and undersized Yeezy slides. Many people on the internet made fun of Ye\u2019s slides, and he responded by posting an image of himself wearing extremely oversized slides. These slides ended up being worn in the music video for this song.\n\nThe song and music video became a huge success, accumulating more than 76 million views in its first week, (temporarily) becoming the biggest-ever global debut for a hip-hop video on YouTube. It would go on to accumulate 210.2 million views in its first four weeks.\n\n\u201cI Love It\u201d peaked at #6 on the Billboard Hot 100, becoming Kanye\u2019s biggest hit since 2015\u2019s \u201cFourFiveSeconds,\u201d which peaked at #4. His second highest charting song of 2018 was \u201cYikes,\u201d which debuted and peaked at #8.\n\nOn September 29, 2018, Kanye and Pump performed an edited version of this song on Saturday Night Live, which was officially released on the 30th as the \u201cFreaky Girl Edit.\u201d\n\nOn October 12, 2018, Billboard published their \u201c21 Under 21\u201d interview with Lil Pump. According to Pump, his contributions to this song were recorded in fifteen minutes during his 18th birthday party, and the song\u2019s explicit chorus was Kanye\u2019s idea.\n\n\u201cI Love It\u201d eventually found a home on Pump\u2019s 2019 album, Harverd Dropout."
+ },
+ "embed_content": "<div id='rg_embed_link_3944360' class='rg_embed_link' data-song-id='3944360'>Read <a href='https://genius.com/Lil-pump-and-kanye-west-i-love-it-lyrics'>\u201cI Love It\u201d by Lil\u00a0Pump & Kanye West</a> on Genius</div> <script crossorigin src='//genius.com/songs/3944360/embed.js'></script>",
+ "fact_track": {
+  "provider": "spotify",
+  "external_url": "https://open.spotify.com/track/4S8d14HvHb70ImctNgVzQQ",
+  "button_text": "Behind the Lyrics in Spotify",
+  "help_link_text": "What's a Fact Track?",
+  "help_link_url": "https://genius.com/a/genius-and-spotify-together"
+ },
+ "featured_video": true,
+ "lyrics_placeholder_reason": null,
+ "recording_location": "",
+ "release_date": "2018-09-06",
+ "release_date_for_display": "September 6, 2018",
+ "current_user_metadata": {
+  "permissions": [
+   "see_pageviews",
+   "watch_fact_track",
+   "view_apple_music_player",
+   "create_comment",
+   "view_song_story_gallery"
+  ],
+  "excluded_permissions": [
+   "follow",
+   "award_transcription_iq",
+   "remove_transcription_iq",
+   "pyong",
+   "edit_lyrics",
+   "view_annotation_engagement_data",
+   "publish",
+   "unpublish",
+   "edit_spotify_details",
+   "hide",
+   "unhide",
+   "toggle_featured_video",
+   "add_pinned_annotation_to",
+   "add_community_annotation_to",
+   "destroy",
+   "mark_as_not_spam",
+   "edit_spotify_annotations_for",
+   "verify_lyrics",
+   "unverify_lyrics",
+   "edit_anything",
+   "edit_any_media",
+   "edit",
+   "rename",
+   "edit_tags",
+   "reindex",
+   "view_lyrics_synchronization",
+   "enable_media",
+   "disable_media",
+   "edit_lyrics_or_annotation_brackets",
+   "see_editorial_indicators",
+   "view_attribution_visualization",
+   "edit_annotation_brackets",
+   "preview_lyrics_for_export",
+   "hide_apple_player",
+   "unhide_apple_player",
+   "trigger_apple_match",
+   "mark_lyrics_evaluation_as_approved",
+   "mark_lyrics_evaluation_as_staff_approved",
+   "mark_lyrics_evaluation_as_unapproved",
+   "mark_lyrics_evaluation_as_un_staff_approved",
+   "view_transcriber_media_player",
+   "override_apple_match",
+   "edit_youtube_url",
+   "edit_soundcloud_url",
+   "edit_spotify_uuid",
+   "edit_vevo_url",
+   "moderate_annotations",
+   "create_annotation",
+   "see_short_id",
+   "manage_chart_item",
+   "create_tag",
+   "propose_lyrics_edit",
+   "moderate_lyrics_edit_proposals",
+   "preview_react_song_page"
+  ],
+  "interactions": {
+   "pyong": false,
+   "following": false
+  },
+  "relationships": {},
+  "iq_by_action": {}
+ },
+ "album": {
+  "api_path": "/albums/395433",
+  "cover_art_url": "https://images.genius.com/801bd62d84c2687a9990d257ad4766bc.1000x1000x1.jpg",
+  "full_title": "Harverd Dropout by Lil Pump",
+  "id": 395433,
+  "name": "Harverd Dropout",
+  "url": "https://genius.com/albums/Lil-pump/Harverd-dropout",
+  "artist": {
+   "api_path": "/artists/654932",
+   "header_image_url": "https://images.genius.com/27e07bb393f050b5a010cb413c47bb34.1000x165x1.jpg",
+   "id": 654932,
+   "image_url": "https://images.genius.com/21c55a8b60672ff8c60bc0b231613950.640x640x1.jpg",
+   "is_meme_verified": false,
+   "is_verified": false,
+   "name": "Lil Pump",
+   "url": "https://genius.com/artists/Lil-pump"
+  }
+ },
+ "custom_performances": [
+  {
+   "label": "Publisher",
+   "artists": [
+    {
+     "api_path": "/artists/552001",
+     "header_image_url": "https://images.genius.com/ea903798493807f1f9aab3d8af3057a1.1000x667x1.jpg",
+     "id": 552001,
+     "image_url": "https://images.genius.com/4cd33d13c84b272fb2c75e600c4b0ac6.720x720x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "CBMIX",
+     "url": "https://genius.com/artists/Cbmix"
+    },
+    {
+     "api_path": "/artists/30935",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+     "id": 30935,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Downtown Music",
+     "url": "https://genius.com/artists/Downtown-music"
+    },
+    {
+     "api_path": "/artists/569149",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+     "id": 569149,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "EMI Blackwood Music",
+     "url": "https://genius.com/artists/Emi-blackwood-music"
+    },
+    {
+     "api_path": "/artists/2255308",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+     "id": 2255308,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Howe Sound Music Publishing",
+     "url": "https://genius.com/artists/Howe-sound-music-publishing"
+    },
+    {
+     "api_path": "/artists/647232",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+     "id": 647232,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Please Gimme My Publishing",
+     "url": "https://genius.com/artists/Please-gimme-my-publishing"
+    },
+    {
+     "api_path": "/artists/1190818",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+     "id": 1190818,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Flyte Tyme Tunes",
+     "url": "https://genius.com/artists/Flyte-tyme-tunes"
+    },
+    {
+     "api_path": "/artists/1104563",
+     "header_image_url": "https://images.genius.com/6ee5d6766689e04358c1d0f8ea0ed8f0.600x600x1.png",
+     "id": 1104563,
+     "image_url": "https://images.genius.com/7b3fb2c00317cb2eb2453f9f4e7473d1.600x600x1.png",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Universal Music Group",
+     "url": "https://genius.com/artists/Universal-music-group"
+    },
+    {
+     "api_path": "/artists/2141298",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+     "id": 2141298,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "KMR Music Royalties II SCSP",
+     "url": "https://genius.com/artists/Kmr-music-royalties-ii-scsp"
+    },
+    {
+     "api_path": "/artists/1222368",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+     "id": 1222368,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Downtown DLJ Songs",
+     "url": "https://genius.com/artists/Downtown-dlj-songs"
+    },
+    {
+     "api_path": "/artists/2244390",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+     "id": 2244390,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Cypress Park Music",
+     "url": "https://genius.com/artists/Cypress-park-music"
+    },
+    {
+     "api_path": "/artists/2244391",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+     "id": 2244391,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Esskeetit Publishing",
+     "url": "https://genius.com/artists/Esskeetit-publishing"
+    },
+    {
+     "api_path": "/artists/1179023",
+     "header_image_url": "https://images.genius.com/92e4ea9ba616ee53bae21dc2e037a1e2.1000x1000x1.jpg",
+     "id": 1179023,
+     "image_url": "https://images.genius.com/f19c358ac9db989328ffc9a3de85bbd4.1000x1000x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Kobalt Music",
+     "url": "https://genius.com/artists/Kobalt-music"
+    },
+    {
+     "api_path": "/artists/1027245",
+     "header_image_url": "https://images.genius.com/d3ed92439d6d4b514136e4d940114626.400x400x1.jpg",
+     "id": 1027245,
+     "image_url": "https://images.genius.com/d3ed92439d6d4b514136e4d940114626.400x400x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Tha Lights Global",
+     "url": "https://genius.com/artists/Tha-lights-global"
+    },
+    {
+     "api_path": "/artists/88331",
+     "header_image_url": "https://images.genius.com/b46212847df33dcc782ffff51fc737b4.1000x207x1.png",
+     "id": 88331,
+     "image_url": "https://images.genius.com/2a8cce70d4827d126ecbbc648a8ad62f.1000x1000x1.png",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Sony Music Entertainment",
+     "url": "https://genius.com/artists/Sony-music-entertainment"
+    },
+    {
+     "api_path": "/artists/1209162",
+     "header_image_url": "https://images.genius.com/159ffe1bdbffeaf422f56a9a648f8b21.1000x485x1.png",
+     "id": 1209162,
+     "image_url": "https://images.genius.com/fd149dde35fbbd337e610fa4b159fd33.224x224x1.png",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "EMI Music Publishing Group",
+     "url": "https://genius.com/artists/Emi-music-publishing-group"
+    },
+    {
+     "api_path": "/artists/1572244",
+     "header_image_url": "https://images.genius.com/83227b6b4008a9306a295781f97df9c9.200x200x1.jpg",
+     "id": 1572244,
+     "image_url": "https://images.genius.com/b827d626af7be9b6f0f03d849ea068c2.900x900x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Vydia",
+     "url": "https://genius.com/artists/Vydia"
+    }
+   ]
+  },
+  {
+   "label": "Performance Rights",
+   "artists": [
+    {
+     "api_path": "/artists/1138091",
+     "header_image_url": "https://images.genius.com/5b84dbf7ba86e59c297143f076a56c9a.1000x1000x1.jpg",
+     "id": 1138091,
+     "image_url": "https://images.genius.com/051b0a6beabf8a9eb8768e9f874a542f.1000x1000x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "BMI",
+     "url": "https://genius.com/artists/Bmi"
+    },
+    {
+     "api_path": "/artists/551598",
+     "header_image_url": "https://images.genius.com/067d9bccf2ab6e5eded129861b73d9dc.851x315x1.jpg",
+     "id": 551598,
+     "image_url": "https://images.genius.com/5f24e8e67904faef419d736f2ade3f78.1000x1000x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "ASCAP",
+     "url": "https://genius.com/artists/Ascap"
+    }
+   ]
+  },
+  {
+   "label": "Other",
+   "artists": [
+    {
+     "api_path": "/artists/1804118",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+     "id": 1804118,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Elana Radin",
+     "url": "https://genius.com/artists/Elana-radin"
+    }
+   ]
+  },
+  {
+   "label": "Studio Personnel",
+   "artists": [
+    {
+     "api_path": "/artists/27443",
+     "header_image_url": "https://images.genius.com/ddb2ae45aa5621a06595b2338b9d54e2.1000x1000x1.jpg",
+     "id": 27443,
+     "image_url": "https://images.genius.com/ddb2ae45aa5621a06595b2338b9d54e2.1000x1000x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Anthony Kilhoffer",
+     "url": "https://genius.com/artists/Anthony-kilhoffer"
+    },
+    {
+     "api_path": "/artists/7161",
+     "header_image_url": "https://images.genius.com/c7ccae089aebbe3d2e2350eccbf954aa.1000x996x1.jpg",
+     "id": 7161,
+     "image_url": "https://images.genius.com/05560ddb3447ee05467c8e2f2b791122.640x640x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "MIKE DEAN",
+     "url": "https://genius.com/artists/Mike-dean"
+    },
+    {
+     "api_path": "/artists/41861",
+     "header_image_url": "https://images.genius.com/4c529f3233c188cd0e2f8a8e4ed3dc6b.338x338x1.png",
+     "id": 41861,
+     "image_url": "https://images.genius.com/4c529f3233c188cd0e2f8a8e4ed3dc6b.338x338x1.png",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Jess Jackson",
+     "url": "https://genius.com/artists/Jess-jackson"
+    },
+    {
+     "api_path": "/artists/1090332",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+     "id": 1090332,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Zach Djurich",
+     "url": "https://genius.com/artists/Zach-djurich"
+    }
+   ]
+  },
+  {
+   "label": "Copyright \u00a9",
+   "artists": [
+    {
+     "api_path": "/artists/1104563",
+     "header_image_url": "https://images.genius.com/6ee5d6766689e04358c1d0f8ea0ed8f0.600x600x1.png",
+     "id": 1104563,
+     "image_url": "https://images.genius.com/7b3fb2c00317cb2eb2453f9f4e7473d1.600x600x1.png",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Universal Music Group",
+     "url": "https://genius.com/artists/Universal-music-group"
+    },
+    {
+     "api_path": "/artists/79113",
+     "header_image_url": "https://images.genius.com/79c41ff236bc5014781976bbb8323dba.1000x525x1.jpg",
+     "id": 79113,
+     "image_url": "https://images.genius.com/f3374b6a83bc9d6248a7464cef582482.512x512x1.png",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Def Jam Recordings",
+     "url": "https://genius.com/artists/Def-jam-recordings"
+    },
+    {
+     "api_path": "/artists/1112276",
+     "header_image_url": "https://images.genius.com/159917d9c26b9cfe66c0b04493a1f05a.900x900x1.png",
+     "id": 1112276,
+     "image_url": "https://images.genius.com/340e19086e9ebeae265e6e4947b0ffcb.900x900x1.png",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Warner Music Group",
+     "url": "https://genius.com/artists/Warner-music-group"
+    },
+    {
+     "api_path": "/artists/213768",
+     "header_image_url": "https://images.genius.com/e033b66a25c548d0a2bc29cbbdda244a.770x433x1.jpg",
+     "id": 213768,
+     "image_url": "https://images.genius.com/299224af186138eff34848f0c12e80df.617x617x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "G.O.O.D. Music",
+     "url": "https://genius.com/artists/Good-music"
+    }
+   ]
+  },
+  {
+   "label": "Phonographic Copyright \u2117",
+   "artists": [
+    {
+     "api_path": "/artists/1104563",
+     "header_image_url": "https://images.genius.com/6ee5d6766689e04358c1d0f8ea0ed8f0.600x600x1.png",
+     "id": 1104563,
+     "image_url": "https://images.genius.com/7b3fb2c00317cb2eb2453f9f4e7473d1.600x600x1.png",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Universal Music Group",
+     "url": "https://genius.com/artists/Universal-music-group"
+    },
+    {
+     "api_path": "/artists/79113",
+     "header_image_url": "https://images.genius.com/79c41ff236bc5014781976bbb8323dba.1000x525x1.jpg",
+     "id": 79113,
+     "image_url": "https://images.genius.com/f3374b6a83bc9d6248a7464cef582482.512x512x1.png",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Def Jam Recordings",
+     "url": "https://genius.com/artists/Def-jam-recordings"
+    },
+    {
+     "api_path": "/artists/1112276",
+     "header_image_url": "https://images.genius.com/159917d9c26b9cfe66c0b04493a1f05a.900x900x1.png",
+     "id": 1112276,
+     "image_url": "https://images.genius.com/340e19086e9ebeae265e6e4947b0ffcb.900x900x1.png",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Warner Music Group",
+     "url": "https://genius.com/artists/Warner-music-group"
+    },
+    {
+     "api_path": "/artists/213768",
+     "header_image_url": "https://images.genius.com/e033b66a25c548d0a2bc29cbbdda244a.770x433x1.jpg",
+     "id": 213768,
+     "image_url": "https://images.genius.com/299224af186138eff34848f0c12e80df.617x617x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "G.O.O.D. Music",
+     "url": "https://genius.com/artists/Good-music"
+    }
+   ]
+  },
+  {
+   "label": "Label",
+   "artists": [
+    {
+     "api_path": "/artists/79113",
+     "header_image_url": "https://images.genius.com/79c41ff236bc5014781976bbb8323dba.1000x525x1.jpg",
+     "id": 79113,
+     "image_url": "https://images.genius.com/f3374b6a83bc9d6248a7464cef582482.512x512x1.png",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Def Jam Recordings",
+     "url": "https://genius.com/artists/Def-jam-recordings"
+    },
+    {
+     "api_path": "/artists/1112276",
+     "header_image_url": "https://images.genius.com/159917d9c26b9cfe66c0b04493a1f05a.900x900x1.png",
+     "id": 1112276,
+     "image_url": "https://images.genius.com/340e19086e9ebeae265e6e4947b0ffcb.900x900x1.png",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Warner Music Group",
+     "url": "https://genius.com/artists/Warner-music-group"
+    },
+    {
+     "api_path": "/artists/1027245",
+     "header_image_url": "https://images.genius.com/d3ed92439d6d4b514136e4d940114626.400x400x1.jpg",
+     "id": 1027245,
+     "image_url": "https://images.genius.com/d3ed92439d6d4b514136e4d940114626.400x400x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Tha Lights Global",
+     "url": "https://genius.com/artists/Tha-lights-global"
+    },
+    {
+     "api_path": "/artists/213768",
+     "header_image_url": "https://images.genius.com/e033b66a25c548d0a2bc29cbbdda244a.770x433x1.jpg",
+     "id": 213768,
+     "image_url": "https://images.genius.com/299224af186138eff34848f0c12e80df.617x617x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "G.O.O.D. Music",
+     "url": "https://genius.com/artists/Good-music"
+    },
+    {
+     "api_path": "/artists/1104563",
+     "header_image_url": "https://images.genius.com/6ee5d6766689e04358c1d0f8ea0ed8f0.600x600x1.png",
+     "id": 1104563,
+     "image_url": "https://images.genius.com/7b3fb2c00317cb2eb2453f9f4e7473d1.600x600x1.png",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Universal Music Group",
+     "url": "https://genius.com/artists/Universal-music-group"
+    }
+   ]
+  },
+  {
+   "label": "Video Vfx",
+   "artists": [
+    {
+     "api_path": "/artists/1336061",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+     "id": 1336061,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "GloriaFX",
+     "url": "https://genius.com/artists/Gloriafx"
+    }
+   ]
+  },
+  {
+   "label": "Video Director",
+   "artists": [
+    {
+     "api_path": "/artists/72",
+     "header_image_url": "https://images.genius.com/f06d0a5bd6ca3bd7e21471fb1026f887.1000x563x1.png",
+     "id": 72,
+     "image_url": "https://images.genius.com/fa9bb3a420324d4310ec4104a70c4c30.634x634x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Kanye West",
+     "url": "https://genius.com/artists/Kanye-west"
+    },
+    {
+     "api_path": "/artists/1572776",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+     "id": 1572776,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Amanda Adelson",
+     "url": "https://genius.com/artists/Amanda-adelson"
+    }
+   ]
+  },
+  {
+   "label": "Video Producer",
+   "artists": [
+    {
+     "api_path": "/artists/1606256",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+     "id": 1606256,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Laura Klein",
+     "url": "https://genius.com/artists/Laura-klein"
+    },
+    {
+     "api_path": "/artists/1051129",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+     "id": 1051129,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Kathleen Heffernan",
+     "url": "https://genius.com/artists/Kathleen-heffernan"
+    }
+   ]
+  },
+  {
+   "label": "Mixing Engineer",
+   "artists": [
+    {
+     "api_path": "/artists/27443",
+     "header_image_url": "https://images.genius.com/ddb2ae45aa5621a06595b2338b9d54e2.1000x1000x1.jpg",
+     "id": 27443,
+     "image_url": "https://images.genius.com/ddb2ae45aa5621a06595b2338b9d54e2.1000x1000x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Anthony Kilhoffer",
+     "url": "https://genius.com/artists/Anthony-kilhoffer"
+    },
+    {
+     "api_path": "/artists/7161",
+     "header_image_url": "https://images.genius.com/c7ccae089aebbe3d2e2350eccbf954aa.1000x996x1.jpg",
+     "id": 7161,
+     "image_url": "https://images.genius.com/05560ddb3447ee05467c8e2f2b791122.640x640x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "MIKE DEAN",
+     "url": "https://genius.com/artists/Mike-dean"
+    },
+    {
+     "api_path": "/artists/41861",
+     "header_image_url": "https://images.genius.com/4c529f3233c188cd0e2f8a8e4ed3dc6b.338x338x1.png",
+     "id": 41861,
+     "image_url": "https://images.genius.com/4c529f3233c188cd0e2f8a8e4ed3dc6b.338x338x1.png",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Jess Jackson",
+     "url": "https://genius.com/artists/Jess-jackson"
+    }
+   ]
+  },
+  {
+   "label": "Video Director Of Photography",
+   "artists": [
+    {
+     "api_path": "/artists/1606255",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+     "id": 1606255,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Sam Levy",
+     "url": "https://genius.com/artists/Sam-levy"
+    },
+    {
+     "api_path": "/artists/1606254",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+     "id": 1606254,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Jason McCormick",
+     "url": "https://genius.com/artists/Jason-mccormick"
+    }
+   ]
+  },
+  {
+   "label": "Video Production Designer",
+   "artists": [
+    {
+     "api_path": "/artists/1606253",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+     "id": 1606253,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Tino Schaedler",
+     "url": "https://genius.com/artists/Tino-schaedler"
+    }
+   ]
+  },
+  {
+   "label": "Video Costume Designer",
+   "artists": [
+    {
+     "api_path": "/artists/1346403",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+     "id": 1346403,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Renelou Pandora",
+     "url": "https://genius.com/artists/Renelou-pandora"
+    }
+   ]
+  },
+  {
+   "label": "Video Hair",
+   "artists": [
+    {
+     "api_path": "/artists/363177",
+     "header_image_url": "https://images.genius.com/dde9aa95d9da0f4c3e0e94931f0708ed.400x300x1.jpg",
+     "id": 363177,
+     "image_url": "https://images.genius.com/cb9376a173d23f5606a1c12dd6d5c239.336x336x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Marcia Hines",
+     "url": "https://genius.com/artists/Marcia-hines"
+    },
+    {
+     "api_path": "/artists/1606250",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+     "id": 1606250,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Kristin Heitkotter",
+     "url": "https://genius.com/artists/Kristin-heitkotter"
+    }
+   ]
+  },
+  {
+   "label": "Video Makeup",
+   "artists": [
+    {
+     "api_path": "/artists/1606249",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+     "id": 1606249,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Jo Baker",
+     "url": "https://genius.com/artists/Jo-baker"
+    },
+    {
+     "api_path": "/artists/1606248",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+     "id": 1606248,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Jennifer Hanching",
+     "url": "https://genius.com/artists/Jennifer-hanching"
+    }
+   ]
+  },
+  {
+   "label": "Video Editor",
+   "artists": [
+    {
+     "api_path": "/artists/1232172",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+     "id": 1232172,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Jeff Buchanan",
+     "url": "https://genius.com/artists/Jeff-buchanan"
+    }
+   ]
+  },
+  {
+   "label": "Video Assistant Editor",
+   "artists": [
+    {
+     "api_path": "/artists/1606247",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+     "id": 1606247,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Bye Dillon Stoneburner",
+     "url": "https://genius.com/artists/Bye-dillon-stoneburner"
+    }
+   ]
+  },
+  {
+   "label": "Video Coloring",
+   "artists": [
+    {
+     "api_path": "/artists/1210191",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+     "id": 1210191,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Framestore",
+     "url": "https://genius.com/artists/Framestore"
+    },
+    {
+     "api_path": "/artists/1606246",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+     "id": 1606246,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Beau Leon",
+     "url": "https://genius.com/artists/Beau-leon"
+    }
+   ]
+  },
+  {
+   "label": "Video Executive Producer",
+   "artists": [
+    {
+     "api_path": "/artists/208048",
+     "header_image_url": "https://images.genius.com/b536b43a77fcc303895d25d4b9241f01.968x1000x1.jpg",
+     "id": 208048,
+     "image_url": "https://images.genius.com/8c16935787de838522dc5abcaeb103b4.1000x1000x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Spike Jonze",
+     "url": "https://genius.com/artists/Spike-jonze"
+    }
+   ]
+  },
+  {
+   "label": "Primary Artists",
+   "artists": [
+    {
+     "api_path": "/artists/72",
+     "header_image_url": "https://images.genius.com/f06d0a5bd6ca3bd7e21471fb1026f887.1000x563x1.png",
+     "id": 72,
+     "image_url": "https://images.genius.com/fa9bb3a420324d4310ec4104a70c4c30.634x634x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Kanye West",
+     "url": "https://genius.com/artists/Kanye-west"
+    },
+    {
+     "api_path": "/artists/654932",
+     "header_image_url": "https://images.genius.com/27e07bb393f050b5a010cb413c47bb34.1000x165x1.jpg",
+     "id": 654932,
+     "image_url": "https://images.genius.com/21c55a8b60672ff8c60bc0b231613950.640x640x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Lil Pump",
+     "url": "https://genius.com/artists/Lil-pump"
+    }
+   ]
+  },
+  {
+   "label": "Cover Artwork",
+   "artists": [
+    {
+     "api_path": "/artists/1574121",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+     "id": 1574121,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Shadi Al-Atallah",
+     "url": "https://genius.com/artists/Shadi-al-atallah"
+    }
+   ]
+  },
+  {
+   "label": "Engineer",
+   "artists": [
+    {
+     "api_path": "/artists/1090332",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+     "id": 1090332,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Zach Djurich",
+     "url": "https://genius.com/artists/Zach-djurich"
+    }
+   ]
+  }
+ ],
+ "description_annotation": {
+  "_type": "referent",
+  "annotator_id": 5738847,
+  "annotator_login": "GrandmasterFleshlight",
+  "api_path": "/referents/15332000",
+  "classification": "accepted",
+  "fragment": "I Love It",
+  "id": 15332000,
+  "is_description": true,
+  "path": "/15332000/Lil-pump-and-kanye-west-i-love-it/I-love-it",
+  "range": {
+   "content": "I Love It"
+  },
+  "song_id": 3944360,
+  "url": "https://genius.com/15332000/Lil-pump-and-kanye-west-i-love-it/I-love-it",
+  "verified_annotator_ids": [],
+  "annotatable": {
+   "api_path": "/songs/3944360",
+   "client_timestamps": {
+    "updated_by_human_at": 1604840855,
+    "lyrics_updated_at": 1604840855
+   },
+   "context": "Lil Pump & Kanye West",
+   "id": 3944360,
+   "image_url": "https://images.genius.com/8b95f4c24d85c1e478b5d4ee74a06fcf.1000x1000x1.png",
+   "link_title": "I Love It by\u00a0Lil\u00a0Pump & Kanye West (Ft.\u00a0Adele\u00a0Givens)",
+   "title": "I Love It",
+   "type": "Song",
+   "url": "https://genius.com/Lil-pump-and-kanye-west-i-love-it-lyrics"
+  },
+  "annotations": [
+   {
+    "api_path": "/annotations/15332000",
+    "body": {
+     "plain": "An unlikely duo, Kanye West and Lil Pump teamed up for \u201cI Love It,\u201d a song about their respective sexual preferences. The song and its accompanying music video were debuted at the inaugural Pornhub Awards in Los Angeles, California; Kanye served as co-creative director of the event.\n\nOn August 10, 2018, Kanye was interviewed on Jimmy Kimmel Live. Towards the end of the interview, Kimmel asked Kanye if having daughters had changed Kanye\u2019s attitude toward women, to which he replied, \u201cNah, I still look at Pornhub.\u201d After the interview\u2019s release, Pornhub reached out to Kanye via Twitter, giving him a lifetime premium membership to show appreciation for his support. This sequence of events led to a professional partnership between the two parties, as demonstrated by Ye\u2019s involvement in the 2018 Pornhub Awards.\n\nOn August 19, 2018, Kanye attended 2 Chainz\u2019s wedding, wearing a suit and undersized Yeezy slides. Many people on the internet made fun of Ye\u2019s slides, and he responded by posting an image of himself wearing extremely oversized slides. These slides ended up being worn in the music video for this song.\n\nThe song and music video became a huge success, accumulating more than 76 million views in its first week, (temporarily) becoming the biggest-ever global debut for a hip-hop video on YouTube. It would go on to accumulate 210.2 million views in its first four weeks.\n\n\u201cI Love It\u201d peaked at #6 on the Billboard Hot 100, becoming Kanye\u2019s biggest hit since 2015\u2019s \u201cFourFiveSeconds,\u201d which peaked at #4. His second highest charting song of 2018 was \u201cYikes,\u201d which debuted and peaked at #8.\n\nOn September 29, 2018, Kanye and Pump performed an edited version of this song on Saturday Night Live, which was officially released on the 30th as the \u201cFreaky Girl Edit.\u201d\n\nOn October 12, 2018, Billboard published their \u201c21 Under 21\u201d interview with Lil Pump. According to Pump, his contributions to this song were recorded in fifteen minutes during his 18th birthday party, and the song\u2019s explicit chorus was Kanye\u2019s idea.\n\n\u201cI Love It\u201d eventually found a home on Pump\u2019s 2019 album, Harverd Dropout."
+    },
+    "comment_count": 3,
+    "community": true,
+    "custom_preview": null,
+    "has_voters": true,
+    "id": 15332000,
+    "pinned": false,
+    "share_url": "https://genius.com/15332000",
+    "source": null,
+    "state": "accepted",
+    "url": "https://genius.com/15332000/Lil-pump-and-kanye-west-i-love-it/I-love-it",
+    "verified": false,
+    "votes_total": 316,
+    "current_user_metadata": {
+     "permissions": [
+      "create_comment"
+     ],
+     "excluded_permissions": [
+      "vote",
+      "edit",
+      "cosign",
+      "uncosign",
+      "destroy",
+      "accept",
+      "reject",
+      "see_unreviewed",
+      "clear_votes",
+      "propose_edit_to",
+      "pin_to_profile",
+      "unpin_from_profile",
+      "update_source",
+      "edit_custom_preview"
+     ],
+     "interactions": {
+      "cosign": false,
+      "pyong": false,
+      "vote": null
+     },
+     "iq_by_action": {}
+    },
+    "authors": [
+     {
+      "attribution": 0.5408450704225352,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/427740",
+       "avatar": {
+        "tiny": {
+         "url": "https://images.genius.com/98da1237cc15b84540a205c92d1c849d.1000x1000x1.png",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://images.genius.com/98da1237cc15b84540a205c92d1c849d.1000x1000x1.png",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://images.genius.com/98da1237cc15b84540a205c92d1c849d.1000x1000x1.png",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://images.genius.com/98da1237cc15b84540a205c92d1c849d.1000x1000x1.png",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://images.genius.com/07830534fd792498abeaa68622ca801c.1000x223x1.jpg",
+       "human_readable_role_for_display": "Editor",
+       "id": 427740,
+       "iq": 244558,
+       "login": "yxng-nate",
+       "name": "Nathaniel Hall",
+       "role_for_display": "editor",
+       "url": "https://genius.com/yxng-nate",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     },
+     {
+      "attribution": 0.4,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/5738847",
+       "avatar": {
+        "tiny": {
+         "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/2dc7w5ftlaa",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/2dc7w5ftlaa",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/2dc7w5ftlaa",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/2dc7w5ftlaa",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/m4p4ixbkp8r",
+       "human_readable_role_for_display": "Editor",
+       "id": 5738847,
+       "iq": 22483,
+       "login": "GrandmasterFleshlight",
+       "name": "GrandmasterFleshlight",
+       "role_for_display": "editor",
+       "url": "https://genius.com/GrandmasterFleshlight",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     },
+     {
+      "attribution": 0.03943661971830986,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/1211266",
+       "avatar": {
+        "tiny": {
+         "url": "https://images.genius.com/avatars/tiny/b82d6751e33eecea719c18ddf7bbbb80",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://images.genius.com/avatars/thumb/b82d6751e33eecea719c18ddf7bbbb80",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://images.genius.com/avatars/small/b82d6751e33eecea719c18ddf7bbbb80",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://images.genius.com/avatars/medium/b82d6751e33eecea719c18ddf7bbbb80",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://images.genius.com/ef55d98e8bdb6e2b194b8022207d58a5.460x460x71.gif",
+       "human_readable_role_for_display": "Editor",
+       "id": 1211266,
+       "iq": 55936,
+       "login": "UnKorruptedKhi",
+       "name": "UnKorruptedKhi",
+       "role_for_display": "editor",
+       "url": "https://genius.com/UnKorruptedKhi",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     },
+     {
+      "attribution": 0.01408450704225352,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/8162862",
+       "avatar": {
+        "tiny": {
+         "url": "https://assets.genius.com/images/default_avatar_16.png?1606943206",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://assets.genius.com/images/default_avatar_32.png?1606943206",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://assets.genius.com/images/default_avatar_100.png?1606943206",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+       "human_readable_role_for_display": null,
+       "id": 8162862,
+       "iq": 6,
+       "login": "Grxom",
+       "name": "Grxom",
+       "role_for_display": null,
+       "url": "https://genius.com/Grxom",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     },
+     {
+      "attribution": 0.005633802816901409,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/6527570",
+       "avatar": {
+        "tiny": {
+         "url": "https://images.genius.com/avatars/tiny/1bbb3a8e59f3fa532b3e5315f680ed64",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://images.genius.com/avatars/thumb/1bbb3a8e59f3fa532b3e5315f680ed64",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://images.genius.com/avatars/small/1bbb3a8e59f3fa532b3e5315f680ed64",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://images.genius.com/avatars/medium/1bbb3a8e59f3fa532b3e5315f680ed64",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://images.genius.com/avatars/medium/1bbb3a8e59f3fa532b3e5315f680ed64",
+       "human_readable_role_for_display": "Editor",
+       "id": 6527570,
+       "iq": 31349,
+       "login": "RDilla13",
+       "name": "RDilla13",
+       "role_for_display": "editor",
+       "url": "https://genius.com/RDilla13",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     }
+    ],
+    "cosigned_by": [],
+    "rejection_comment": null,
+    "verified_by": null
+   }
+  ]
+ },
+ "featured_artists": [
+  {
+   "api_path": "/artists/1572771",
+   "header_image_url": "https://images.genius.com/5e34481d48cb4e61a026a78ec4a98ae8.690x690x1.jpg",
+   "id": 1572771,
+   "image_url": "https://images.genius.com/5e34481d48cb4e61a026a78ec4a98ae8.690x690x1.jpg",
+   "is_meme_verified": false,
+   "is_verified": false,
+   "name": "Adele Givens",
+   "url": "https://genius.com/artists/Adele-givens"
+  }
+ ],
+ "lyrics_marked_complete_by": {
+  "api_path": "/users/104344",
+  "avatar": {
+   "tiny": {
+    "url": "https://images.genius.com/avatars/tiny/a1485559b7dd9463752d984ecd3dbeae",
+    "bounding_box": {
+     "width": 16,
+     "height": 16
+    }
+   },
+   "thumb": {
+    "url": "https://images.genius.com/avatars/thumb/a1485559b7dd9463752d984ecd3dbeae",
+    "bounding_box": {
+     "width": 32,
+     "height": 32
+    }
+   },
+   "small": {
+    "url": "https://images.genius.com/avatars/small/a1485559b7dd9463752d984ecd3dbeae",
+    "bounding_box": {
+     "width": 100,
+     "height": 100
+    }
+   },
+   "medium": {
+    "url": "https://images.genius.com/avatars/medium/a1485559b7dd9463752d984ecd3dbeae",
+    "bounding_box": {
+     "width": 300,
+     "height": 400
+    }
+   }
+  },
+  "header_image_url": "https://images.genius.com/f29273e26956c1f6c8d004d1e4533c2e.1000x1000x1.jpg",
+  "human_readable_role_for_display": "Staff",
+  "id": 104344,
+  "iq": 2663099,
+  "login": "streetlights",
+  "name": "\u200bstreetlights",
+  "role_for_display": "staff",
+  "url": "https://genius.com/streetlights",
+  "current_user_metadata": {
+   "permissions": [],
+   "excluded_permissions": [
+    "follow"
+   ],
+   "interactions": {
+    "following": false
+   }
+  }
+ },
+ "media": [
+  {
+   "provider": "youtube",
+   "start": 0,
+   "type": "video",
+   "url": "http://www.youtube.com/watch?v=cwQgjq0mCdE"
+  },
+  {
+   "native_uri": "spotify:track:4S8d14HvHb70ImctNgVzQQ",
+   "provider": "spotify",
+   "type": "audio",
+   "url": "https://open.spotify.com/track/4S8d14HvHb70ImctNgVzQQ"
+  },
+  {
+   "attribution": "kanyewest",
+   "provider": "soundcloud",
+   "type": "audio",
+   "url": "https://soundcloud.com/kanyewest/i-love-it-kanye-west-lil-pump"
+  }
+ ],
+ "producer_artists": [
+  {
+   "api_path": "/artists/72",
+   "header_image_url": "https://images.genius.com/f06d0a5bd6ca3bd7e21471fb1026f887.1000x563x1.png",
+   "id": 72,
+   "image_url": "https://images.genius.com/fa9bb3a420324d4310ec4104a70c4c30.634x634x1.jpg",
+   "is_meme_verified": false,
+   "is_verified": false,
+   "name": "Kanye West",
+   "url": "https://genius.com/artists/Kanye-west"
+  },
+  {
+   "api_path": "/artists/27594",
+   "header_image_url": "https://images.genius.com/62cd67929251cbfb2418e229d0057358.683x683x1.jpg",
+   "id": 27594,
+   "image_url": "https://images.genius.com/62cd67929251cbfb2418e229d0057358.683x683x1.jpg",
+   "is_meme_verified": false,
+   "is_verified": false,
+   "name": "Clark Kent",
+   "url": "https://genius.com/artists/Clark-kent"
+  },
+  {
+   "api_path": "/artists/552001",
+   "header_image_url": "https://images.genius.com/ea903798493807f1f9aab3d8af3057a1.1000x667x1.jpg",
+   "id": 552001,
+   "image_url": "https://images.genius.com/4cd33d13c84b272fb2c75e600c4b0ac6.720x720x1.jpg",
+   "is_meme_verified": false,
+   "is_verified": false,
+   "name": "CBMIX",
+   "url": "https://genius.com/artists/Cbmix"
+  },
+  {
+   "api_path": "/artists/35355",
+   "header_image_url": "https://images.genius.com/1785f1c2b24ff32d42bc44897726cb43.350x467x1.jpg",
+   "id": 35355,
+   "image_url": "https://images.genius.com/e64bc291df1fbfa3e69aa1c360c0c905.571x571x1.jpg",
+   "is_meme_verified": false,
+   "is_verified": false,
+   "name": "Ronny J",
+   "url": "https://genius.com/artists/Ronny-j"
+  }
+ ],
+ "song_relationships": [
+  {
+   "relationship_type": "samples",
+   "type": "samples",
+   "songs": []
+  },
+  {
+   "relationship_type": "sampled_in",
+   "type": "sampled_in",
+   "songs": [
+    {
+     "annotation_count": 15,
+     "api_path": "/songs/3990077",
+     "full_title": "Bars From The Sunken Place by\u00a0Family\u00a0Bvsiness",
+     "header_image_thumbnail_url": "https://images.genius.com/317eab0e9c9045bd3088fbe790177806.300x300x1.jpg",
+     "header_image_url": "https://images.genius.com/317eab0e9c9045bd3088fbe790177806.1000x1000x1.jpg",
+     "id": 3990077,
+     "lyrics_owner_id": 3271330,
+     "lyrics_state": "complete",
+     "path": "/Family-bvsiness-bars-from-the-sunken-place-lyrics",
+     "pyongs_count": null,
+     "song_art_image_thumbnail_url": "https://images.genius.com/317eab0e9c9045bd3088fbe790177806.300x300x1.jpg",
+     "song_art_image_url": "https://images.genius.com/317eab0e9c9045bd3088fbe790177806.1000x1000x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 15,
+      "hot": false
+     },
+     "title": "Bars From The Sunken Place",
+     "title_with_featured": "Bars From The Sunken Place",
+     "url": "https://genius.com/Family-bvsiness-bars-from-the-sunken-place-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/1521483",
+      "header_image_url": "https://images.genius.com/b28ed23a4bdb69da263c7bc7641aca1c.700x700x1.jpg",
+      "id": 1521483,
+      "image_url": "https://images.genius.com/7f73b53802c5599dc3e8859799020d38.467x467x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Family Bvsiness",
+      "url": "https://genius.com/artists/Family-bvsiness"
+     }
+    },
+    {
+     "annotation_count": 4,
+     "api_path": "/songs/4031772",
+     "full_title": "I Ship It by\u00a0Reyggtv\u00a0& KatieK\u00f8rbis",
+     "header_image_thumbnail_url": "https://images.genius.com/9f162ba94ba7714aaea7c669234793f7.300x300x1.jpg",
+     "header_image_url": "https://images.genius.com/9f162ba94ba7714aaea7c669234793f7.1000x1000x1.jpg",
+     "id": 4031772,
+     "lyrics_owner_id": 5208170,
+     "lyrics_state": "complete",
+     "path": "/Reyggtv-and-katiekrbis-i-ship-it-lyrics",
+     "pyongs_count": null,
+     "song_art_image_thumbnail_url": "https://images.genius.com/9f162ba94ba7714aaea7c669234793f7.300x300x1.jpg",
+     "song_art_image_url": "https://images.genius.com/9f162ba94ba7714aaea7c669234793f7.1000x1000x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 4,
+      "hot": false
+     },
+     "title": "I Ship It",
+     "title_with_featured": "I Ship It",
+     "url": "https://genius.com/Reyggtv-and-katiekrbis-i-ship-it-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/1611142",
+      "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+      "id": 1611142,
+      "image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Reyggtv & KatieK\u00f8rbis",
+      "url": "https://genius.com/artists/Reyggtv-and-katiekrbis"
+     }
+    },
+    {
+     "annotation_count": 1,
+     "api_path": "/songs/4146623",
+     "full_title": "Nonstop Pop 2018 by\u00a0Isosine",
+     "header_image_thumbnail_url": "https://images.genius.com/cdf8b3b043c0df26e74751d0fa772096.300x300x1.jpg",
+     "header_image_url": "https://images.genius.com/cdf8b3b043c0df26e74751d0fa772096.1000x1000x1.jpg",
+     "id": 4146623,
+     "lyrics_owner_id": 1458288,
+     "lyrics_state": "complete",
+     "path": "/Isosine-nonstop-pop-2018-lyrics",
+     "pyongs_count": null,
+     "song_art_image_thumbnail_url": "https://images.genius.com/cdf8b3b043c0df26e74751d0fa772096.300x300x1.jpg",
+     "song_art_image_url": "https://images.genius.com/cdf8b3b043c0df26e74751d0fa772096.1000x1000x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 0,
+      "hot": false
+     },
+     "title": "Nonstop Pop 2018",
+     "title_with_featured": "Nonstop Pop 2018",
+     "url": "https://genius.com/Isosine-nonstop-pop-2018-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/1334091",
+      "header_image_url": "https://images.genius.com/cdf8b3b043c0df26e74751d0fa772096.1000x1000x1.jpg",
+      "id": 1334091,
+      "image_url": "https://images.genius.com/cdf8b3b043c0df26e74751d0fa772096.1000x1000x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Isosine",
+      "url": "https://genius.com/artists/Isosine"
+     }
+    },
+    {
+     "annotation_count": 6,
+     "api_path": "/songs/4158176",
+     "full_title": "Zoomer Anthem by\u00a0Acrylo",
+     "header_image_thumbnail_url": "https://images.genius.com/7feee1f9ed52064bc12524dfbeb66fe4.300x300x1.jpg",
+     "header_image_url": "https://images.genius.com/7feee1f9ed52064bc12524dfbeb66fe4.500x500x1.jpg",
+     "id": 4158176,
+     "lyrics_owner_id": 4469304,
+     "lyrics_state": "complete",
+     "path": "/Acrylo-zoomer-anthem-lyrics",
+     "pyongs_count": null,
+     "song_art_image_thumbnail_url": "https://images.genius.com/7feee1f9ed52064bc12524dfbeb66fe4.300x300x1.jpg",
+     "song_art_image_url": "https://images.genius.com/7feee1f9ed52064bc12524dfbeb66fe4.500x500x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 1,
+      "hot": false
+     },
+     "title": "Zoomer Anthem",
+     "title_with_featured": "Zoomer Anthem",
+     "url": "https://genius.com/Acrylo-zoomer-anthem-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/1505008",
+      "header_image_url": "https://images.genius.com/23fcb0032f15834d9ef7bf4b7423939e.1000x333x1.jpg",
+      "id": 1505008,
+      "image_url": "https://images.genius.com/90452ade68f3ecd7b9937285ca3286be.288x288x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Acrylo",
+      "url": "https://genius.com/artists/Acrylo"
+     }
+    },
+    {
+     "annotation_count": 0,
+     "api_path": "/songs/4162298",
+     "full_title": "I Love It (Remix) by\u00a0Call\u00a0Me Ham",
+     "header_image_thumbnail_url": "https://images.genius.com/5322fd08023e675c2a49d1e6b8ec766c.300x300x1.jpg",
+     "header_image_url": "https://images.genius.com/5322fd08023e675c2a49d1e6b8ec766c.708x708x1.jpg",
+     "id": 4162298,
+     "lyrics_owner_id": 7570481,
+     "lyrics_state": "complete",
+     "path": "/Call-me-ham-i-love-it-remix-annotated",
+     "pyongs_count": null,
+     "song_art_image_thumbnail_url": "https://images.genius.com/5322fd08023e675c2a49d1e6b8ec766c.300x300x1.jpg",
+     "song_art_image_url": "https://images.genius.com/5322fd08023e675c2a49d1e6b8ec766c.708x708x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 0,
+      "hot": false
+     },
+     "title": "I Love It (Remix)",
+     "title_with_featured": "I Love It (Remix)",
+     "url": "https://genius.com/Call-me-ham-i-love-it-remix-annotated",
+     "primary_artist": {
+      "api_path": "/artists/1668904",
+      "header_image_url": "https://images.genius.com/086012919756907cff0507f991f2bcbb.1000x166x1.jpg",
+      "id": 1668904,
+      "image_url": "https://images.genius.com/5322fd08023e675c2a49d1e6b8ec766c.708x708x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Call Me Ham",
+      "url": "https://genius.com/artists/Call-me-ham"
+     }
+    },
+    {
+     "annotation_count": 1,
+     "api_path": "/songs/4324984",
+     "full_title": "Baby I'm Back (Meme It Back Extended) by\u00a0Pluffaduff",
+     "header_image_thumbnail_url": "https://images.genius.com/3f9af5a79e389df4e7fd342ea29d8625.300x168x1.webp",
+     "header_image_url": "https://images.genius.com/3f9af5a79e389df4e7fd342ea29d8625.336x188x1.webp",
+     "id": 4324984,
+     "lyrics_owner_id": 1587767,
+     "lyrics_state": "complete",
+     "path": "/Pluffaduff-baby-im-back-meme-it-back-extended-lyrics",
+     "pyongs_count": null,
+     "song_art_image_thumbnail_url": "https://images.genius.com/3f9af5a79e389df4e7fd342ea29d8625.300x168x1.webp",
+     "song_art_image_url": "https://images.genius.com/3f9af5a79e389df4e7fd342ea29d8625.336x188x1.webp",
+     "stats": {
+      "unreviewed_annotations": 1,
+      "hot": false
+     },
+     "title": "Baby I\u2019m Back (Meme It Back Extended)",
+     "title_with_featured": "Baby I'm Back (Meme It Back Extended)",
+     "url": "https://genius.com/Pluffaduff-baby-im-back-meme-it-back-extended-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/1673277",
+      "header_image_url": "https://images.genius.com/877a0d5ee19d09c81188103ce9cb825d.288x288x1.jpg",
+      "id": 1673277,
+      "image_url": "https://images.genius.com/877a0d5ee19d09c81188103ce9cb825d.288x288x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Pluffaduff",
+      "url": "https://genius.com/artists/Pluffaduff"
+     }
+    },
+    {
+     "annotation_count": 1,
+     "api_path": "/songs/4383807",
+     "full_title": "Big Man by\u00a0Lil\u00a0Shank and Lit Cage",
+     "header_image_thumbnail_url": "https://images.genius.com/565a84cd21b41e170ade5ddbb0020811.300x450x1.jpg",
+     "header_image_url": "https://images.genius.com/565a84cd21b41e170ade5ddbb0020811.433x650x1.jpg",
+     "id": 4383807,
+     "lyrics_owner_id": 6508047,
+     "lyrics_state": "complete",
+     "path": "/Lil-shank-and-lit-cage-big-man-lyrics",
+     "pyongs_count": null,
+     "song_art_image_thumbnail_url": "https://images.genius.com/565a84cd21b41e170ade5ddbb0020811.300x450x1.jpg",
+     "song_art_image_url": "https://images.genius.com/565a84cd21b41e170ade5ddbb0020811.433x650x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 1,
+      "hot": false
+     },
+     "title": "Big Man",
+     "title_with_featured": "Big Man",
+     "url": "https://genius.com/Lil-shank-and-lit-cage-big-man-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/1833590",
+      "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+      "id": 1833590,
+      "image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Lil Shank and Lit Cage",
+      "url": "https://genius.com/artists/Lil-shank-and-lit-cage"
+     }
+    },
+    {
+     "annotation_count": 0,
+     "api_path": "/songs/4439451",
+     "full_title": "I Mine it by\u00a0Kyloluke12",
+     "header_image_thumbnail_url": "https://images.genius.com/20045e75e322fc427f11b685d514cc8e.300x300x1.png",
+     "header_image_url": "https://images.genius.com/20045e75e322fc427f11b685d514cc8e.800x800x1.png",
+     "id": 4439451,
+     "lyrics_owner_id": 6428591,
+     "lyrics_state": "complete",
+     "path": "/Kyloluke12-i-mine-it-lyrics",
+     "pyongs_count": null,
+     "song_art_image_thumbnail_url": "https://images.genius.com/20045e75e322fc427f11b685d514cc8e.300x300x1.png",
+     "song_art_image_url": "https://images.genius.com/20045e75e322fc427f11b685d514cc8e.800x800x1.png",
+     "stats": {
+      "unreviewed_annotations": 0,
+      "hot": false
+     },
+     "title": "I Mine it",
+     "title_with_featured": "I Mine it",
+     "url": "https://genius.com/Kyloluke12-i-mine-it-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/1594740",
+      "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+      "id": 1594740,
+      "image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Kyloluke12",
+      "url": "https://genius.com/artists/Kyloluke12"
+     }
+    },
+    {
+     "annotation_count": 1,
+     "api_path": "/songs/4660738",
+     "full_title": "I just hit a Bhop by\u00a0MattCS",
+     "header_image_thumbnail_url": "https://images.genius.com/fbdcea65990b43608757091414447715.300x300x1.jpg",
+     "header_image_url": "https://images.genius.com/fbdcea65990b43608757091414447715.500x500x1.jpg",
+     "id": 4660738,
+     "lyrics_owner_id": 6213936,
+     "lyrics_state": "complete",
+     "path": "/Mattcs-i-just-hit-a-bhop-lyrics",
+     "pyongs_count": null,
+     "song_art_image_thumbnail_url": "https://images.genius.com/fbdcea65990b43608757091414447715.300x300x1.jpg",
+     "song_art_image_url": "https://images.genius.com/fbdcea65990b43608757091414447715.500x500x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 1,
+      "hot": false
+     },
+     "title": "I just hit a Bhop",
+     "title_with_featured": "I just hit a Bhop",
+     "url": "https://genius.com/Mattcs-i-just-hit-a-bhop-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/1724494",
+      "header_image_url": "https://images.genius.com/0c21f2dac2edeef6342883f06e3384e3.288x288x1.jpg",
+      "id": 1724494,
+      "image_url": "https://images.genius.com/0c21f2dac2edeef6342883f06e3384e3.288x288x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "MattCS",
+      "url": "https://genius.com/artists/Mattcs"
+     }
+    },
+    {
+     "annotation_count": 0,
+     "api_path": "/songs/4676022",
+     "full_title": "Dangerous by\u00a0DeathbyRomy (Ft.\u00a0\u200bblackbear)",
+     "header_image_thumbnail_url": "https://images.genius.com/f0bc8ace46766b12db08c6173880b2fb.300x300x1.jpg",
+     "header_image_url": "https://images.genius.com/f0bc8ace46766b12db08c6173880b2fb.600x600x1.jpg",
+     "id": 4676022,
+     "lyrics_owner_id": 126836,
+     "lyrics_state": "complete",
+     "path": "/Deathbyromy-dangerous-lyrics",
+     "pyongs_count": null,
+     "song_art_image_thumbnail_url": "https://images.genius.com/f0bc8ace46766b12db08c6173880b2fb.300x300x1.jpg",
+     "song_art_image_url": "https://images.genius.com/f0bc8ace46766b12db08c6173880b2fb.600x600x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 0,
+      "hot": false,
+      "pageviews": 12327
+     },
+     "title": "Dangerous",
+     "title_with_featured": "Dangerous (Ft.\u00a0\u200bblackbear)",
+     "url": "https://genius.com/Deathbyromy-dangerous-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/1408596",
+      "header_image_url": "https://images.genius.com/8000d6a39fb3b74e62ba73be908cce9e.500x278x1.png",
+      "id": 1408596,
+      "image_url": "https://images.genius.com/3ae8dae6bceffeeb715a7f337a497f10.800x800x1.png",
+      "is_meme_verified": false,
+      "is_verified": true,
+      "name": "DeathbyRomy",
+      "url": "https://genius.com/artists/Deathbyromy",
+      "iq": 376
+     }
+    },
+    {
+     "annotation_count": 0,
+     "api_path": "/songs/4871147",
+     "full_title": "SUPER MEME MEGAMIX ULTIMATE by\u00a0Vincent\u00a0Mashups",
+     "header_image_thumbnail_url": "https://images.genius.com/b5c6d19072efb5bf08cf280cb10276cc.224x224x1.jpg",
+     "header_image_url": "https://images.genius.com/b5c6d19072efb5bf08cf280cb10276cc.224x224x1.jpg",
+     "id": 4871147,
+     "lyrics_owner_id": 8942631,
+     "lyrics_state": "complete",
+     "path": "/Vincent-mashups-super-meme-megamix-ultimate-lyrics",
+     "pyongs_count": 1,
+     "song_art_image_thumbnail_url": "https://images.genius.com/b5c6d19072efb5bf08cf280cb10276cc.224x224x1.jpg",
+     "song_art_image_url": "https://images.genius.com/b5c6d19072efb5bf08cf280cb10276cc.224x224x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 0,
+      "hot": false
+     },
+     "title": "SUPER MEME MEGAMIX ULTIMATE",
+     "title_with_featured": "SUPER MEME MEGAMIX ULTIMATE",
+     "url": "https://genius.com/Vincent-mashups-super-meme-megamix-ultimate-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/1950550",
+      "header_image_url": "https://images.genius.com/b5c6d19072efb5bf08cf280cb10276cc.224x224x1.jpg",
+      "id": 1950550,
+      "image_url": "https://images.genius.com/b5c6d19072efb5bf08cf280cb10276cc.224x224x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Vincent Mashups",
+      "url": "https://genius.com/artists/Vincent-mashups"
+     }
+    },
+    {
+     "annotation_count": 1,
+     "api_path": "/songs/5007362",
+     "full_title": "Lil Pump and Kanye play Minecraft by\u00a0Acrylo",
+     "header_image_thumbnail_url": "https://images.genius.com/971b8637c53c1f6a7ba0b9756f14a484.300x300x1.jpg",
+     "header_image_url": "https://images.genius.com/971b8637c53c1f6a7ba0b9756f14a484.900x900x1.jpg",
+     "id": 5007362,
+     "lyrics_owner_id": 9297516,
+     "lyrics_state": "complete",
+     "path": "/Acrylo-lil-pump-and-kanye-play-minecraft-lyrics",
+     "pyongs_count": null,
+     "song_art_image_thumbnail_url": "https://images.genius.com/971b8637c53c1f6a7ba0b9756f14a484.300x300x1.jpg",
+     "song_art_image_url": "https://images.genius.com/971b8637c53c1f6a7ba0b9756f14a484.900x900x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 1,
+      "hot": false
+     },
+     "title": "Lil Pump and Kanye play Minecraft",
+     "title_with_featured": "Lil Pump and Kanye play Minecraft",
+     "url": "https://genius.com/Acrylo-lil-pump-and-kanye-play-minecraft-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/1505008",
+      "header_image_url": "https://images.genius.com/23fcb0032f15834d9ef7bf4b7423939e.1000x333x1.jpg",
+      "id": 1505008,
+      "image_url": "https://images.genius.com/90452ade68f3ecd7b9937285ca3286be.288x288x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Acrylo",
+      "url": "https://genius.com/artists/Acrylo"
+     }
+    },
+    {
+     "annotation_count": 5,
+     "api_path": "/songs/5585934",
+     "full_title": "Sexy Guy / Diamond Hoe by\u00a0Expensive\u00a0Dispenser",
+     "header_image_thumbnail_url": "https://images.genius.com/33750b3b04f18906f00ff2b860a52f52.300x300x1.jpg",
+     "header_image_url": "https://images.genius.com/33750b3b04f18906f00ff2b860a52f52.500x500x1.jpg",
+     "id": 5585934,
+     "lyrics_owner_id": 8505279,
+     "lyrics_state": "complete",
+     "path": "/Expensive-dispenser-sexy-guy-diamond-hoe-lyrics",
+     "pyongs_count": null,
+     "song_art_image_thumbnail_url": "https://images.genius.com/33750b3b04f18906f00ff2b860a52f52.300x300x1.jpg",
+     "song_art_image_url": "https://images.genius.com/33750b3b04f18906f00ff2b860a52f52.500x500x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 5,
+      "hot": false
+     },
+     "title": "Sexy Guy / Diamond Hoe",
+     "title_with_featured": "Sexy Guy / Diamond Hoe",
+     "url": "https://genius.com/Expensive-dispenser-sexy-guy-diamond-hoe-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/2057747",
+      "header_image_url": "https://images.genius.com/33750b3b04f18906f00ff2b860a52f52.500x500x1.jpg",
+      "id": 2057747,
+      "image_url": "https://images.genius.com/33750b3b04f18906f00ff2b860a52f52.500x500x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Expensive Dispenser",
+      "url": "https://genius.com/artists/Expensive-dispenser"
+     }
+    },
+    {
+     "annotation_count": 1,
+     "api_path": "/songs/5674853",
+     "full_title": "SUPER MEME MEGAMIX ULTIMATE 2 by\u00a0Vincent\u00a0Mashups",
+     "header_image_thumbnail_url": "https://images.genius.com/c05b6b55874a200ea5c5a02859a5658b.300x169x1.jpg",
+     "header_image_url": "https://images.genius.com/c05b6b55874a200ea5c5a02859a5658b.1000x563x1.jpg",
+     "id": 5674853,
+     "lyrics_owner_id": 6741179,
+     "lyrics_state": "complete",
+     "path": "/Vincent-mashups-super-meme-megamix-ultimate-2-lyrics",
+     "pyongs_count": 2,
+     "song_art_image_thumbnail_url": "https://images.genius.com/c05b6b55874a200ea5c5a02859a5658b.300x169x1.jpg",
+     "song_art_image_url": "https://images.genius.com/c05b6b55874a200ea5c5a02859a5658b.1000x563x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 1,
+      "hot": false
+     },
+     "title": "SUPER MEME MEGAMIX ULTIMATE 2",
+     "title_with_featured": "SUPER MEME MEGAMIX ULTIMATE 2",
+     "url": "https://genius.com/Vincent-mashups-super-meme-megamix-ultimate-2-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/1950550",
+      "header_image_url": "https://images.genius.com/b5c6d19072efb5bf08cf280cb10276cc.224x224x1.jpg",
+      "id": 1950550,
+      "image_url": "https://images.genius.com/b5c6d19072efb5bf08cf280cb10276cc.224x224x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Vincent Mashups",
+      "url": "https://genius.com/artists/Vincent-mashups"
+     }
+    },
+    {
+     "annotation_count": 0,
+     "api_path": "/songs/5955202",
+     "full_title": "I LOVE IT.mp3 by\u00a0\u200btoasty\u00a0digital",
+     "header_image_thumbnail_url": "https://images.genius.com/7f9c7cc4f056eba0171f7f28d4c416b7.300x300x1.png",
+     "header_image_url": "https://images.genius.com/7f9c7cc4f056eba0171f7f28d4c416b7.1000x1000x1.png",
+     "id": 5955202,
+     "lyrics_owner_id": 10422011,
+     "lyrics_state": "complete",
+     "path": "/Toasty-digital-i-love-itmp3-lyrics",
+     "pyongs_count": null,
+     "song_art_image_thumbnail_url": "https://images.genius.com/7f9c7cc4f056eba0171f7f28d4c416b7.300x300x1.png",
+     "song_art_image_url": "https://images.genius.com/7f9c7cc4f056eba0171f7f28d4c416b7.1000x1000x1.png",
+     "stats": {
+      "unreviewed_annotations": 0,
+      "hot": false
+     },
+     "title": "I LOVE IT.mp3",
+     "title_with_featured": "I LOVE IT.mp3",
+     "url": "https://genius.com/Toasty-digital-i-love-itmp3-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/2355252",
+      "header_image_url": "https://images.genius.com/6e9a02b6f5fc50acf720f69c0c9c6e62.100x100x1.jpg",
+      "id": 2355252,
+      "image_url": "https://images.genius.com/6e9a02b6f5fc50acf720f69c0c9c6e62.100x100x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "\u200btoasty digital",
+      "url": "https://genius.com/artists/Toasty-digital"
+     }
+    }
+   ]
+  },
+  {
+   "relationship_type": "interpolates",
+   "type": "interpolates",
+   "songs": [
+    {
+     "annotation_count": 1,
+     "api_path": "/songs/5427096",
+     "full_title": "I Love It (Demo) by\u00a0Lil\u00a0Pump & Kanye West",
+     "header_image_thumbnail_url": "https://images.genius.com/ad3950137b4dea7879489adb9e711d9a.300x300x1.png",
+     "header_image_url": "https://images.genius.com/ad3950137b4dea7879489adb9e711d9a.330x330x1.png",
+     "id": 5427096,
+     "lyrics_owner_id": 2962216,
+     "lyrics_state": "complete",
+     "path": "/Lil-pump-and-kanye-west-i-love-it-demo-lyrics",
+     "pyongs_count": null,
+     "song_art_image_thumbnail_url": "https://images.genius.com/ad3950137b4dea7879489adb9e711d9a.300x300x1.png",
+     "song_art_image_url": "https://images.genius.com/ad3950137b4dea7879489adb9e711d9a.330x330x1.png",
+     "stats": {
+      "unreviewed_annotations": 0,
+      "hot": false
+     },
+     "title": "I Love It (Demo)",
+     "title_with_featured": "I Love It (Demo)",
+     "url": "https://genius.com/Lil-pump-and-kanye-west-i-love-it-demo-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/1572772",
+      "header_image_url": "https://images.genius.com/1720b347cadb4a040dc895501b5201cf.620x348x1.jpg",
+      "id": 1572772,
+      "image_url": "https://images.genius.com/4e637e4714fc857001d14f7ddbdab921.750x750x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Lil Pump & Kanye West",
+      "url": "https://genius.com/artists/Lil-pump-and-kanye-west"
+     }
+    },
+    {
+     "annotation_count": 1,
+     "api_path": "/songs/5424535",
+     "full_title": "Queen Bitch (WWMD Demo) by\u00a0Pusha\u00a0T (Ft.\u00a0Kanye\u00a0West)",
+     "header_image_thumbnail_url": "https://images.genius.com/3848a33849ac0270faf010425ac01c3d.300x300x1.png",
+     "header_image_url": "https://images.genius.com/3848a33849ac0270faf010425ac01c3d.600x600x1.png",
+     "id": 5424535,
+     "lyrics_owner_id": 2962216,
+     "lyrics_state": "complete",
+     "path": "/Pusha-t-queen-bitch-wwmd-demo-lyrics",
+     "pyongs_count": null,
+     "song_art_image_thumbnail_url": "https://images.genius.com/3848a33849ac0270faf010425ac01c3d.300x300x1.png",
+     "song_art_image_url": "https://images.genius.com/3848a33849ac0270faf010425ac01c3d.600x600x1.png",
+     "stats": {
+      "unreviewed_annotations": 0,
+      "hot": false
+     },
+     "title": "Queen Bitch (WWMD Demo)",
+     "title_with_featured": "Queen Bitch (WWMD Demo) (Ft.\u00a0Kanye\u00a0West)",
+     "url": "https://genius.com/Pusha-t-queen-bitch-wwmd-demo-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/643",
+      "header_image_url": "https://images.genius.com/1bc34e5deca22b440c5d186ef06720f2.1000x668x1.jpg",
+      "id": 643,
+      "image_url": "https://images.genius.com/66e8896c8c1bb069880e68e1abc3f74f.900x900x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": true,
+      "name": "Pusha T",
+      "url": "https://genius.com/artists/Pusha-t",
+      "iq": 56176
+     }
+    },
+    {
+     "annotation_count": 4,
+     "api_path": "/songs/3680634",
+     "full_title": "Lift Yourself by\u00a0Kanye\u00a0West",
+     "header_image_thumbnail_url": "https://images.genius.com/fd5674fe707a8ed54cd43c3bae6b907c.300x300x1.png",
+     "header_image_url": "https://images.genius.com/fd5674fe707a8ed54cd43c3bae6b907c.1000x1000x1.png",
+     "id": 3680634,
+     "lyrics_owner_id": 104344,
+     "lyrics_state": "complete",
+     "path": "/Kanye-west-lift-yourself-lyrics",
+     "pyongs_count": 166,
+     "song_art_image_thumbnail_url": "https://images.genius.com/fd5674fe707a8ed54cd43c3bae6b907c.300x300x1.png",
+     "song_art_image_url": "https://images.genius.com/fd5674fe707a8ed54cd43c3bae6b907c.1000x1000x1.png",
+     "stats": {
+      "unreviewed_annotations": 0,
+      "hot": false,
+      "pageviews": 1610771
+     },
+     "title": "Lift Yourself",
+     "title_with_featured": "Lift Yourself",
+     "url": "https://genius.com/Kanye-west-lift-yourself-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/72",
+      "header_image_url": "https://images.genius.com/f06d0a5bd6ca3bd7e21471fb1026f887.1000x563x1.png",
+      "id": 72,
+      "image_url": "https://images.genius.com/fa9bb3a420324d4310ec4104a70c4c30.634x634x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Kanye West",
+      "url": "https://genius.com/artists/Kanye-west"
+     }
+    }
+   ]
+  },
+  {
+   "relationship_type": "interpolated_by",
+   "type": "interpolated_by",
+   "songs": [
+    {
+     "annotation_count": 0,
+     "api_path": "/songs/3973367",
+     "full_title": "I MINED IT by\u00a0MineCraft\u00a0Awesome Parodys",
+     "header_image_thumbnail_url": "https://i.genius.com/ca7225f3ddcd99d651e0ccf13d69a69155b8d75d?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DsMRm6rvk1LY%26feature%3Demb_title",
+     "header_image_url": "https://i.genius.com/ca7225f3ddcd99d651e0ccf13d69a69155b8d75d?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DsMRm6rvk1LY%26feature%3Demb_title",
+     "id": 3973367,
+     "lyrics_owner_id": 4846314,
+     "lyrics_state": "complete",
+     "path": "/Minecraft-awesome-parodys-i-mined-it-lyrics",
+     "pyongs_count": 1,
+     "song_art_image_thumbnail_url": "https://i.genius.com/ca7225f3ddcd99d651e0ccf13d69a69155b8d75d?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DsMRm6rvk1LY%26feature%3Demb_title",
+     "song_art_image_url": "https://i.genius.com/ca7225f3ddcd99d651e0ccf13d69a69155b8d75d?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DsMRm6rvk1LY%26feature%3Demb_title",
+     "stats": {
+      "unreviewed_annotations": 0,
+      "hot": false
+     },
+     "title": "I MINED IT",
+     "title_with_featured": "I MINED IT",
+     "url": "https://genius.com/Minecraft-awesome-parodys-i-mined-it-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/1058740",
+      "header_image_url": "https://images.genius.com/67f53502515a89ee0e5afee547041242.1000x562x1.jpg",
+      "id": 1058740,
+      "image_url": "https://images.genius.com/5bd154612eaf8685222ea8b1780982fe.512x512x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "MineCraft Awesome Parodys",
+      "url": "https://genius.com/artists/Minecraft-awesome-parodys"
+     }
+    },
+    {
+     "annotation_count": 2,
+     "api_path": "/songs/3989213",
+     "full_title": "I Love the Smelly Feet by\u00a0Submarine\u00a0Man (Ft.\u00a0Footye\u00a0North & Lama\u00a0Doodle)",
+     "header_image_thumbnail_url": "https://images.genius.com/9974e56a465c85a3f7f7250c902881fc.300x300x1.jpg",
+     "header_image_url": "https://images.genius.com/9974e56a465c85a3f7f7250c902881fc.640x640x1.jpg",
+     "id": 3989213,
+     "lyrics_owner_id": 5460907,
+     "lyrics_state": "complete",
+     "path": "/Submarine-man-i-love-the-smelly-feet-lyrics",
+     "pyongs_count": null,
+     "song_art_image_thumbnail_url": "https://images.genius.com/9974e56a465c85a3f7f7250c902881fc.300x300x1.jpg",
+     "song_art_image_url": "https://images.genius.com/9974e56a465c85a3f7f7250c902881fc.640x640x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 2,
+      "hot": false
+     },
+     "title": "I Love the Smelly Feet",
+     "title_with_featured": "I Love the Smelly Feet (Ft.\u00a0Footye\u00a0North & Lama\u00a0Doodle)",
+     "url": "https://genius.com/Submarine-man-i-love-the-smelly-feet-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/1484265",
+      "header_image_url": "https://images.genius.com/86d7aca6c637e8d132f07a3abbd252b8.1000x625x1.png",
+      "id": 1484265,
+      "image_url": "https://images.genius.com/a12f28fea1a86333204922587409d583.463x463x1.png",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Submarine Man",
+      "url": "https://genius.com/artists/Submarine-man"
+     }
+    },
+    {
+     "annotation_count": 4,
+     "api_path": "/songs/4003284",
+     "full_title": "I Hate It by\u00a0Lil\u00a0Dump (Meme Rapper)",
+     "header_image_thumbnail_url": "https://images.genius.com/9d95c3d31515c1c5fdf97d512a6c28f4.300x300x1.png",
+     "header_image_url": "https://images.genius.com/9d95c3d31515c1c5fdf97d512a6c28f4.1000x1000x1.png",
+     "id": 4003284,
+     "lyrics_owner_id": 6688786,
+     "lyrics_state": "complete",
+     "path": "/Lil-dump-meme-rapper-i-hate-it-lyrics",
+     "pyongs_count": null,
+     "song_art_image_thumbnail_url": "https://images.genius.com/9d95c3d31515c1c5fdf97d512a6c28f4.300x300x1.png",
+     "song_art_image_url": "https://images.genius.com/9d95c3d31515c1c5fdf97d512a6c28f4.1000x1000x1.png",
+     "stats": {
+      "unreviewed_annotations": 4,
+      "hot": false
+     },
+     "title": "I Hate It",
+     "title_with_featured": "I Hate It",
+     "url": "https://genius.com/Lil-dump-meme-rapper-i-hate-it-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/1367641",
+      "header_image_url": "https://images.genius.com/c375fe882b08bf41b8ee88d6fb4c3c11.1000x210x1.png",
+      "id": 1367641,
+      "image_url": "https://images.genius.com/f14f69fce5a1ca9f629f503aae1bf5e4.800x800x1.png",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Lil Dump (Meme Rapper)",
+      "url": "https://genius.com/artists/Lil-dump-meme-rapper"
+     }
+    },
+    {
+     "annotation_count": 1,
+     "api_path": "/songs/4014076",
+     "full_title": "\u200byou're such a good boy by\u00a0Gus\u00a0Johnson",
+     "header_image_thumbnail_url": "https://images.genius.com/08a4a2598954207857f8d5d5bafea88c.300x169x1.jpg",
+     "header_image_url": "https://images.genius.com/08a4a2598954207857f8d5d5bafea88c.1000x563x1.jpg",
+     "id": 4014076,
+     "lyrics_owner_id": 6965672,
+     "lyrics_state": "complete",
+     "path": "/Gus-johnson-youre-such-a-good-boy-lyrics",
+     "pyongs_count": null,
+     "song_art_image_thumbnail_url": "https://images.genius.com/08a4a2598954207857f8d5d5bafea88c.300x169x1.jpg",
+     "song_art_image_url": "https://images.genius.com/08a4a2598954207857f8d5d5bafea88c.1000x563x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 1,
+      "hot": false,
+      "pageviews": 5692
+     },
+     "title": "\u200byou\u2019re such a good boy",
+     "title_with_featured": "\u200byou're such a good boy",
+     "url": "https://genius.com/Gus-johnson-youre-such-a-good-boy-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/856091",
+      "header_image_url": "https://images.genius.com/d2f2d17e2645c997ce51e02b041378fa.300x300x1.jpg",
+      "id": 856091,
+      "image_url": "https://images.genius.com/fa3039920acd878be33dffa677135c88.1000x1000x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Gus Johnson",
+      "url": "https://genius.com/artists/Gus-johnson"
+     }
+    },
+    {
+     "annotation_count": 4,
+     "api_path": "/songs/4023446",
+     "full_title": "You'll Love It by\u00a0James\u00a0Corden (Ft.\u00a0Reggie\u00a0Watts)",
+     "header_image_thumbnail_url": "https://images.genius.com/ef1640d8166dd824e1af5de748e5696d.300x225x1.jpg",
+     "header_image_url": "https://images.genius.com/ef1640d8166dd824e1af5de748e5696d.480x360x1.jpg",
+     "id": 4023446,
+     "lyrics_owner_id": 4367769,
+     "lyrics_state": "complete",
+     "path": "/James-corden-youll-love-it-lyrics",
+     "pyongs_count": null,
+     "song_art_image_thumbnail_url": "https://images.genius.com/ef1640d8166dd824e1af5de748e5696d.300x225x1.jpg",
+     "song_art_image_url": "https://images.genius.com/ef1640d8166dd824e1af5de748e5696d.480x360x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 0,
+      "hot": false
+     },
+     "title": "You\u2019ll Love It",
+     "title_with_featured": "You'll Love It (Ft.\u00a0Reggie\u00a0Watts)",
+     "url": "https://genius.com/James-corden-youll-love-it-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/181968",
+      "header_image_url": "https://images.genius.com/beeb783a35c05c2138ec65ac241cc88e.1000x751x1.png",
+      "id": 181968,
+      "image_url": "https://images.genius.com/2d82cf48802fac20a3db1c4bafb3f6c6.674x674x1.png",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "James Corden",
+      "url": "https://genius.com/artists/James-corden"
+     }
+    },
+    {
+     "annotation_count": 5,
+     "api_path": "/songs/4157754",
+     "full_title": "\u200bmedic bag (i need it) by\u00a0MarioInATopHat",
+     "header_image_thumbnail_url": "https://images.genius.com/4444f7f73c978970118253245aca4b39.300x300x1.jpg",
+     "header_image_url": "https://images.genius.com/4444f7f73c978970118253245aca4b39.500x500x1.jpg",
+     "id": 4157754,
+     "lyrics_owner_id": 4013289,
+     "lyrics_state": "complete",
+     "path": "/Marioinatophat-medic-bag-i-need-it-lyrics",
+     "pyongs_count": null,
+     "song_art_image_thumbnail_url": "https://images.genius.com/4444f7f73c978970118253245aca4b39.300x300x1.jpg",
+     "song_art_image_url": "https://images.genius.com/4444f7f73c978970118253245aca4b39.500x500x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 5,
+      "hot": false
+     },
+     "title": "\u200bmedic bag (i need it)",
+     "title_with_featured": "\u200bmedic bag (i need it)",
+     "url": "https://genius.com/Marioinatophat-medic-bag-i-need-it-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/1667036",
+      "header_image_url": "https://images.genius.com/6a8804026e56e4b29278023dbe3f2d75.1000x210x1.jpg",
+      "id": 1667036,
+      "image_url": "https://images.genius.com/27df92df5ae4df83b0974555368d874a.500x500x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "MarioInATopHat",
+      "url": "https://genius.com/artists/Marioinatophat"
+     }
+    },
+    {
+     "annotation_count": 16,
+     "api_path": "/songs/4245092",
+     "full_title": "TVTB by\u00a0Fedez (Ft.\u00a0Dark\u00a0Polo Gang)",
+     "header_image_thumbnail_url": "https://images.genius.com/75048ddb179d5ad580fab77926ecb210.300x300x1.jpg",
+     "header_image_url": "https://images.genius.com/75048ddb179d5ad580fab77926ecb210.1000x1000x1.jpg",
+     "id": 4245092,
+     "lyrics_owner_id": 6934005,
+     "lyrics_state": "complete",
+     "path": "/Fedez-tvtb-lyrics",
+     "pyongs_count": null,
+     "song_art_image_thumbnail_url": "https://images.genius.com/75048ddb179d5ad580fab77926ecb210.300x300x1.jpg",
+     "song_art_image_url": "https://images.genius.com/75048ddb179d5ad580fab77926ecb210.1000x1000x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 10,
+      "hot": false,
+      "pageviews": 31481
+     },
+     "title": "TVTB",
+     "title_with_featured": "TVTB (Ft.\u00a0Dark\u00a0Polo Gang)",
+     "url": "https://genius.com/Fedez-tvtb-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/56003",
+      "header_image_url": "https://images.genius.com/1a4ae55f15a477a7d84213165fc82a1d.1000x625x1.jpg",
+      "id": 56003,
+      "image_url": "https://images.genius.com/d4db21799e3cdf94e2a2747236e2a917.750x750x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Fedez",
+      "url": "https://genius.com/artists/Fedez"
+     }
+    },
+    {
+     "annotation_count": 1,
+     "api_path": "/songs/4383807",
+     "full_title": "Big Man by\u00a0Lil\u00a0Shank and Lit Cage",
+     "header_image_thumbnail_url": "https://images.genius.com/565a84cd21b41e170ade5ddbb0020811.300x450x1.jpg",
+     "header_image_url": "https://images.genius.com/565a84cd21b41e170ade5ddbb0020811.433x650x1.jpg",
+     "id": 4383807,
+     "lyrics_owner_id": 6508047,
+     "lyrics_state": "complete",
+     "path": "/Lil-shank-and-lit-cage-big-man-lyrics",
+     "pyongs_count": null,
+     "song_art_image_thumbnail_url": "https://images.genius.com/565a84cd21b41e170ade5ddbb0020811.300x450x1.jpg",
+     "song_art_image_url": "https://images.genius.com/565a84cd21b41e170ade5ddbb0020811.433x650x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 1,
+      "hot": false
+     },
+     "title": "Big Man",
+     "title_with_featured": "Big Man",
+     "url": "https://genius.com/Lil-shank-and-lit-cage-big-man-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/1833590",
+      "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+      "id": 1833590,
+      "image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Lil Shank and Lit Cage",
+      "url": "https://genius.com/artists/Lil-shank-and-lit-cage"
+     }
+    },
+    {
+     "annotation_count": 5,
+     "api_path": "/songs/4480105",
+     "full_title": "LOST BALLADS VHS by\u00a0Joji",
+     "header_image_thumbnail_url": "https://images.genius.com/a8e200d089f86ebb23ea586a41bfaaed.300x300x1.png",
+     "header_image_url": "https://images.genius.com/a8e200d089f86ebb23ea586a41bfaaed.1000x1000x1.png",
+     "id": 4480105,
+     "lyrics_owner_id": 3763537,
+     "lyrics_state": "complete",
+     "path": "/Joji-lost-ballads-vhs-annotated",
+     "pyongs_count": null,
+     "song_art_image_thumbnail_url": "https://images.genius.com/a8e200d089f86ebb23ea586a41bfaaed.300x300x1.png",
+     "song_art_image_url": "https://images.genius.com/a8e200d089f86ebb23ea586a41bfaaed.1000x1000x1.png",
+     "stats": {
+      "unreviewed_annotations": 4,
+      "hot": false
+     },
+     "title": "LOST BALLADS VHS",
+     "title_with_featured": "LOST BALLADS VHS",
+     "url": "https://genius.com/Joji-lost-ballads-vhs-annotated",
+     "primary_artist": {
+      "api_path": "/artists/630470",
+      "header_image_url": "https://images.genius.com/188546ce904017b9b313d944f240c1de.1000x562x1.jpg",
+      "id": 630470,
+      "image_url": "https://images.genius.com/d20ee1f900287060716f7594ccba7ea3.1000x1000x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": true,
+      "name": "Joji",
+      "url": "https://genius.com/artists/Joji",
+      "iq": 14919
+     }
+    },
+    {
+     "annotation_count": 1,
+     "api_path": "/songs/4604470",
+     "full_title": "Fantastik by\u00a0Epademik",
+     "header_image_thumbnail_url": "https://images.genius.com/ad6bc154fe7c59af4453b531b481fb65.300x298x1.png",
+     "header_image_url": "https://images.genius.com/ad6bc154fe7c59af4453b531b481fb65.326x324x1.png",
+     "id": 4604470,
+     "lyrics_owner_id": 8630755,
+     "lyrics_state": "complete",
+     "path": "/Epademik-fantastik-lyrics",
+     "pyongs_count": null,
+     "song_art_image_thumbnail_url": "https://images.genius.com/ad6bc154fe7c59af4453b531b481fb65.300x298x1.png",
+     "song_art_image_url": "https://images.genius.com/ad6bc154fe7c59af4453b531b481fb65.326x324x1.png",
+     "stats": {
+      "unreviewed_annotations": 0,
+      "hot": false
+     },
+     "title": "Fantastik",
+     "title_with_featured": "Fantastik",
+     "url": "https://genius.com/Epademik-fantastik-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/1825196",
+      "header_image_url": "https://images.genius.com/370257afdc74508ae50d1a2d57e7d646.522x162x1.jpg",
+      "id": 1825196,
+      "image_url": "https://images.genius.com/19b5fde70354ab81b4edb52d7d770fd6.1000x1000x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": true,
+      "name": "Epademik",
+      "url": "https://genius.com/artists/Epademik",
+      "iq": 442
+     }
+    },
+    {
+     "annotation_count": 2,
+     "api_path": "/songs/4646526",
+     "full_title": "BRUHSHOT by\u00a0JamesCube",
+     "header_image_thumbnail_url": "https://images.genius.com/f6b85bda42aac21eb18f66c50b83d92c.300x330x1.png",
+     "header_image_url": "https://images.genius.com/f6b85bda42aac21eb18f66c50b83d92c.439x483x1.png",
+     "id": 4646526,
+     "lyrics_owner_id": 6688786,
+     "lyrics_state": "complete",
+     "path": "/Jamescube-bruhshot-lyrics",
+     "pyongs_count": null,
+     "song_art_image_thumbnail_url": "https://images.genius.com/f6b85bda42aac21eb18f66c50b83d92c.300x330x1.png",
+     "song_art_image_url": "https://images.genius.com/f6b85bda42aac21eb18f66c50b83d92c.439x483x1.png",
+     "stats": {
+      "unreviewed_annotations": 2,
+      "hot": false
+     },
+     "title": "BRUHSHOT",
+     "title_with_featured": "BRUHSHOT",
+     "url": "https://genius.com/Jamescube-bruhshot-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/1597450",
+      "header_image_url": "https://images.genius.com/0626d4f174a2829f2ef9b7d3cf605775.256x256x1.jpg",
+      "id": 1597450,
+      "image_url": "https://images.genius.com/306234b332a85e79a07b40bc67899a8f.750x750x1.png",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "JamesCube",
+      "url": "https://genius.com/artists/Jamescube"
+     }
+    },
+    {
+     "annotation_count": 0,
+     "api_path": "/songs/4870866",
+     "full_title": "I MINED IT by\u00a0Lil\u00a0Meme",
+     "header_image_thumbnail_url": "https://images.genius.com/c4e96b7558dd27b430bde09666633d1e.300x169x1.jpg",
+     "header_image_url": "https://images.genius.com/c4e96b7558dd27b430bde09666633d1e.1000x563x1.jpg",
+     "id": 4870866,
+     "lyrics_owner_id": 6933028,
+     "lyrics_state": "complete",
+     "path": "/Lil-meme-i-mined-it-lyrics",
+     "pyongs_count": null,
+     "song_art_image_thumbnail_url": "https://images.genius.com/c4e96b7558dd27b430bde09666633d1e.300x169x1.jpg",
+     "song_art_image_url": "https://images.genius.com/c4e96b7558dd27b430bde09666633d1e.1000x563x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 0,
+      "hot": false
+     },
+     "title": "I MINED IT",
+     "title_with_featured": "I MINED IT",
+     "url": "https://genius.com/Lil-meme-i-mined-it-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/1687169",
+      "header_image_url": "https://images.genius.com/a903f558c84da211d3fbe8ccbcf9ce6c.835x1000x1.jpg",
+      "id": 1687169,
+      "image_url": "https://images.genius.com/6bbfc1f433a6b998635585606863d10e.552x552x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Lil Meme",
+      "url": "https://genius.com/artists/Lil-meme"
+     }
+    },
+    {
+     "annotation_count": 0,
+     "api_path": "/songs/5130745",
+     "full_title": "Kapara - \u05db\u05e4\u05e8\u05d4 by\u00a0Yangstarr\u00a0- \u05d9\u05d0\u05e0\u05d2\u05e1\u05d8\u05d0\u05e8\u05e8",
+     "header_image_thumbnail_url": "https://images.genius.com/a87f353102c376b28bc3db1cc89d493e.300x300x1.png",
+     "header_image_url": "https://images.genius.com/a87f353102c376b28bc3db1cc89d493e.1000x1000x1.png",
+     "id": 5130745,
+     "lyrics_owner_id": 5896203,
+     "lyrics_state": "unreleased",
+     "path": "/Yangstarr-kapara-lyrics",
+     "pyongs_count": null,
+     "song_art_image_thumbnail_url": "https://images.genius.com/a87f353102c376b28bc3db1cc89d493e.300x300x1.png",
+     "song_art_image_url": "https://images.genius.com/a87f353102c376b28bc3db1cc89d493e.1000x1000x1.png",
+     "stats": {
+      "unreviewed_annotations": 0,
+      "hot": false
+     },
+     "title": "Kapara - \u05db\u05e4\u05e8\u05d4",
+     "title_with_featured": "Kapara - \u05db\u05e4\u05e8\u05d4",
+     "url": "https://genius.com/Yangstarr-kapara-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/1367002",
+      "header_image_url": "https://images.genius.com/8a1c9bd8b4d3233f8a92a4743dd1baa1.1000x667x1.png",
+      "id": 1367002,
+      "image_url": "https://images.genius.com/81ac2a01fda41cf8671138af895ef7e2.1000x1000x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": true,
+      "name": "Yangstarr - \u05d9\u05d0\u05e0\u05d2\u05e1\u05d8\u05d0\u05e8\u05e8",
+      "url": "https://genius.com/artists/Yangstarr",
+      "iq": 2612
+     }
+    },
+    {
+     "annotation_count": 0,
+     "api_path": "/songs/5348581",
+     "full_title": "\u043a\u0430\u043a\u0430\u043d\u044c\u0435 2 (like kanye) by\u00a0\u0431\u0443\u043b\u0435\u0432\u0430\u00a0\u043f\u0435\u0440\u0435\u043c\u0435\u043d\u043d\u0430\u044f & \u043c\u0446 \u0431\u0430\u043b\u0434\u043e\u0439\u043e\u0431 (boolean variable & mc baldoyob)",
+     "header_image_thumbnail_url": "https://assets.genius.com/images/default_cover_image.png?1606943206",
+     "header_image_url": "https://assets.genius.com/images/default_cover_image.png?1606943206",
+     "id": 5348581,
+     "lyrics_owner_id": 4206222,
+     "lyrics_state": "complete",
+     "path": "/And-boolean-variable-and-mc-baldoyob-2-like-kanye-lyrics",
+     "pyongs_count": null,
+     "song_art_image_thumbnail_url": "https://assets.genius.com/images/default_cover_image.png?1606943206",
+     "song_art_image_url": "https://assets.genius.com/images/default_cover_image.png?1606943206",
+     "stats": {
+      "unreviewed_annotations": 0,
+      "hot": false
+     },
+     "title": "\u043a\u0430\u043a\u0430\u043d\u044c\u0435 2 (like kanye)",
+     "title_with_featured": "\u043a\u0430\u043a\u0430\u043d\u044c\u0435 2 (like kanye)",
+     "url": "https://genius.com/And-boolean-variable-and-mc-baldoyob-2-like-kanye-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/2086885",
+      "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+      "id": 2086885,
+      "image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "\u0431\u0443\u043b\u0435\u0432\u0430 \u043f\u0435\u0440\u0435\u043c\u0435\u043d\u043d\u0430\u044f & \u043c\u0446 \u0431\u0430\u043b\u0434\u043e\u0439\u043e\u0431 (boolean variable & mc baldoyob)",
+      "url": "https://genius.com/artists/And-boolean-variable-and-mc-baldoyob"
+     }
+    },
+    {
+     "annotation_count": 1,
+     "api_path": "/songs/5458334",
+     "full_title": "Bounce Dat by\u00a0Bright\u00a0Campa",
+     "header_image_thumbnail_url": "https://images.genius.com/6f9ce6b48d3ee99cc7ee60d8f75f9fd0.300x300x1.jpg",
+     "header_image_url": "https://images.genius.com/6f9ce6b48d3ee99cc7ee60d8f75f9fd0.902x902x1.jpg",
+     "id": 5458334,
+     "lyrics_owner_id": 5628993,
+     "lyrics_state": "complete",
+     "path": "/Bright-campa-bounce-dat-lyrics",
+     "pyongs_count": null,
+     "song_art_image_thumbnail_url": "https://images.genius.com/6f9ce6b48d3ee99cc7ee60d8f75f9fd0.300x300x1.jpg",
+     "song_art_image_url": "https://images.genius.com/6f9ce6b48d3ee99cc7ee60d8f75f9fd0.902x902x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 0,
+      "hot": false
+     },
+     "title": "Bounce Dat",
+     "title_with_featured": "Bounce Dat",
+     "url": "https://genius.com/Bright-campa-bounce-dat-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/1285747",
+      "header_image_url": "https://images.genius.com/ba210606291ac4235c460feecde2dbf3.1000x333x1.png",
+      "id": 1285747,
+      "image_url": "https://images.genius.com/6f9ce6b48d3ee99cc7ee60d8f75f9fd0.902x902x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": true,
+      "name": "Bright Campa",
+      "url": "https://genius.com/artists/Bright-campa",
+      "iq": 40000
+     }
+    },
+    {
+     "annotation_count": 0,
+     "api_path": "/songs/5639787",
+     "full_title": "Such a Whore (Stellular Remix) by\u00a0Jvla",
+     "header_image_thumbnail_url": "https://images.genius.com/644d74fb25fad259456f4199d14b269f.300x300x1.jpg",
+     "header_image_url": "https://images.genius.com/644d74fb25fad259456f4199d14b269f.1000x1000x1.jpg",
+     "id": 5639787,
+     "lyrics_owner_id": 4269265,
+     "lyrics_state": "complete",
+     "path": "/Jvla-such-a-whore-stellular-remix-lyrics",
+     "pyongs_count": null,
+     "song_art_image_thumbnail_url": "https://images.genius.com/644d74fb25fad259456f4199d14b269f.300x300x1.jpg",
+     "song_art_image_url": "https://images.genius.com/644d74fb25fad259456f4199d14b269f.1000x1000x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 0,
+      "hot": false,
+      "pageviews": 51976
+     },
+     "title": "Such a Whore (Stellular Remix)",
+     "title_with_featured": "Such a Whore (Stellular Remix)",
+     "url": "https://genius.com/Jvla-such-a-whore-stellular-remix-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/2270402",
+      "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+      "id": 2270402,
+      "image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Jvla",
+      "url": "https://genius.com/artists/Jvla"
+     }
+    }
+   ]
+  },
+  {
+   "relationship_type": "cover_of",
+   "type": "cover_of",
+   "songs": []
+  },
+  {
+   "relationship_type": "covered_by",
+   "type": "covered_by",
+   "songs": [
+    {
+     "annotation_count": 0,
+     "api_path": "/songs/4289581",
+     "full_title": "\u0418\u0437\u0432\u0438\u043d\u0435\u043d\u0438\u0435 \u0437\u0430 \u0412\u0435\u0440\u0442\u0443\u0445\u0443 (Apology for Vertuhu) by\u00a0\u0427\u043e\u0442\u043a\u0438\u0439\u00a0\u041f\u0430\u0446\u0430 (Chotkiy Paca)",
+     "header_image_thumbnail_url": "https://images.genius.com/edbe0781b82e6f7c016989ab6f1a624f.300x169x1.jpg",
+     "header_image_url": "https://images.genius.com/edbe0781b82e6f7c016989ab6f1a624f.1000x563x1.jpg",
+     "id": 4289581,
+     "lyrics_owner_id": 7803948,
+     "lyrics_state": "complete",
+     "path": "/Chotkiy-paca-apology-for-vertuhu-lyrics",
+     "pyongs_count": null,
+     "song_art_image_thumbnail_url": "https://images.genius.com/edbe0781b82e6f7c016989ab6f1a624f.300x169x1.jpg",
+     "song_art_image_url": "https://images.genius.com/edbe0781b82e6f7c016989ab6f1a624f.1000x563x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 0,
+      "hot": false
+     },
+     "title": "\u0418\u0437\u0432\u0438\u043d\u0435\u043d\u0438\u0435 \u0437\u0430 \u0412\u0435\u0440\u0442\u0443\u0445\u0443 (Apology for Vertuhu)",
+     "title_with_featured": "\u0418\u0437\u0432\u0438\u043d\u0435\u043d\u0438\u0435 \u0437\u0430 \u0412\u0435\u0440\u0442\u0443\u0445\u0443 (Apology for Vertuhu)",
+     "url": "https://genius.com/Chotkiy-paca-apology-for-vertuhu-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/1716764",
+      "header_image_url": "https://images.genius.com/7ebd6080df70b2d065d32d84e80ac1c6.288x288x1.jpg",
+      "id": 1716764,
+      "image_url": "https://images.genius.com/7ebd6080df70b2d065d32d84e80ac1c6.288x288x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "\u0427\u043e\u0442\u043a\u0438\u0439 \u041f\u0430\u0446\u0430 (Chotkiy Paca)",
+      "url": "https://genius.com/artists/Chotkiy-paca"
+     }
+    },
+    {
+     "annotation_count": 0,
+     "api_path": "/songs/5583286",
+     "full_title": "I Love It by\u00a0Fame\u00a0on Fire",
+     "header_image_thumbnail_url": "https://images.genius.com/329189fa1aded6b34f6476f42ec0f8b4.300x300x1.jpg",
+     "header_image_url": "https://images.genius.com/329189fa1aded6b34f6476f42ec0f8b4.500x500x1.jpg",
+     "id": 5583286,
+     "lyrics_owner_id": 321054,
+     "lyrics_state": "complete",
+     "path": "/Fame-on-fire-i-love-it-lyrics",
+     "pyongs_count": null,
+     "song_art_image_thumbnail_url": "https://images.genius.com/329189fa1aded6b34f6476f42ec0f8b4.300x300x1.jpg",
+     "song_art_image_url": "https://images.genius.com/329189fa1aded6b34f6476f42ec0f8b4.500x500x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 0,
+      "hot": false
+     },
+     "title": "I Love It",
+     "title_with_featured": "I Love It",
+     "url": "https://genius.com/Fame-on-fire-i-love-it-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/1064801",
+      "header_image_url": "https://images.genius.com/ce6dc87f81ccefb9be2825295e080d05.1000x563x1.jpg",
+      "id": 1064801,
+      "image_url": "https://images.genius.com/360cf40fcc3974140b22e4619871634b.1000x1000x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": true,
+      "name": "Fame on Fire",
+      "url": "https://genius.com/artists/Fame-on-fire",
+      "iq": 659
+     }
+    }
+   ]
+  },
+  {
+   "relationship_type": "remix_of",
+   "type": "remix_of",
+   "songs": []
+  },
+  {
+   "relationship_type": "remixed_by",
+   "type": "remixed_by",
+   "songs": [
+    {
+     "annotation_count": 11,
+     "api_path": "/songs/3949021",
+     "full_title": "I Love It (UK Remix) by\u00a0Cadet (Ft.\u00a0Yungen)",
+     "header_image_thumbnail_url": "https://images.genius.com/18f9c9a8762fd74f2d1cef3f75840b00.300x276x1.jpg",
+     "header_image_url": "https://images.genius.com/18f9c9a8762fd74f2d1cef3f75840b00.706x650x1.jpg",
+     "id": 3949021,
+     "lyrics_owner_id": 947961,
+     "lyrics_state": "complete",
+     "path": "/Cadet-i-love-it-uk-remix-lyrics",
+     "pyongs_count": null,
+     "song_art_image_thumbnail_url": "https://images.genius.com/18f9c9a8762fd74f2d1cef3f75840b00.300x276x1.jpg",
+     "song_art_image_url": "https://images.genius.com/18f9c9a8762fd74f2d1cef3f75840b00.706x650x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 3,
+      "hot": false,
+      "pageviews": 7462
+     },
+     "title": "I Love It (UK Remix)",
+     "title_with_featured": "I Love It (UK Remix) (Ft.\u00a0Yungen)",
+     "url": "https://genius.com/Cadet-i-love-it-uk-remix-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/94888",
+      "header_image_url": "https://images.genius.com/dff4c45fce56555f228feeace9257ee0.1000x667x1.jpg",
+      "id": 94888,
+      "image_url": "https://images.genius.com/9db2bc94a35881662088ec9ddd907bfe.1000x1000x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": true,
+      "name": "Cadet",
+      "url": "https://genius.com/artists/Cadet",
+      "iq": 100
+     }
+    },
+    {
+     "annotation_count": 3,
+     "api_path": "/songs/3955260",
+     "full_title": "Bin Laden (I Love It Rmx) by\u00a0Pedar (Ft.\u00a0Wello)",
+     "header_image_thumbnail_url": "https://images.genius.com/3c0aa73ce686919a99f01e5bc99b1231.300x300x1.jpg",
+     "header_image_url": "https://images.genius.com/3c0aa73ce686919a99f01e5bc99b1231.1000x1000x1.jpg",
+     "id": 3955260,
+     "lyrics_owner_id": 1668382,
+     "lyrics_state": "complete",
+     "path": "/Pedar-bin-laden-i-love-it-rmx-lyrics",
+     "pyongs_count": null,
+     "song_art_image_thumbnail_url": "https://images.genius.com/3c0aa73ce686919a99f01e5bc99b1231.300x300x1.jpg",
+     "song_art_image_url": "https://images.genius.com/3c0aa73ce686919a99f01e5bc99b1231.1000x1000x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 1,
+      "hot": false
+     },
+     "title": "Bin Laden (I Love It Rmx)",
+     "title_with_featured": "Bin Laden (I Love It Rmx) (Ft.\u00a0Wello)",
+     "url": "https://genius.com/Pedar-bin-laden-i-love-it-rmx-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/586509",
+      "header_image_url": "https://images.genius.com/3d143b4f7d80cfc32256bce467552eea.1000x750x1.jpg",
+      "id": 586509,
+      "image_url": "https://images.genius.com/b44f022fd876c9bbb3ae58508bbda121.1000x1000x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": true,
+      "name": "Pedar",
+      "url": "https://genius.com/artists/Pedar",
+      "iq": 6873
+     }
+    },
+    {
+     "annotation_count": 1,
+     "api_path": "/songs/3958067",
+     "full_title": "I Love It (Skiimix) by\u00a0Rizzie\u00a0Redd (Ft.\u00a0Zae\u00a0(FRA))",
+     "header_image_thumbnail_url": "https://images.genius.com/033d04c4d21dfe4f4f4c624f98eaf3f0.300x300x1.png",
+     "header_image_url": "https://images.genius.com/033d04c4d21dfe4f4f4c624f98eaf3f0.1000x1000x1.png",
+     "id": 3958067,
+     "lyrics_owner_id": 5858671,
+     "lyrics_state": "complete",
+     "path": "/Rizzie-redd-i-love-it-skiimix-lyrics",
+     "pyongs_count": 2,
+     "song_art_image_thumbnail_url": "https://images.genius.com/033d04c4d21dfe4f4f4c624f98eaf3f0.300x300x1.png",
+     "song_art_image_url": "https://images.genius.com/033d04c4d21dfe4f4f4c624f98eaf3f0.1000x1000x1.png",
+     "stats": {
+      "unreviewed_annotations": 0,
+      "hot": false
+     },
+     "title": "I Love It (Skiimix)",
+     "title_with_featured": "I Love It (Skiimix) (Ft.\u00a0Zae\u00a0(FRA))",
+     "url": "https://genius.com/Rizzie-redd-i-love-it-skiimix-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/1343371",
+      "header_image_url": "https://images.genius.com/43bb05c4e041012bca5bdb8f68f2b097.1000x1000x1.jpg",
+      "id": 1343371,
+      "image_url": "https://images.genius.com/26f0d495420c506a085378c51b139779.1000x1000x1.png",
+      "is_meme_verified": false,
+      "is_verified": true,
+      "name": "Rizzie Redd",
+      "url": "https://genius.com/artists/Rizzie-redd",
+      "iq": 1078
+     }
+    },
+    {
+     "annotation_count": 0,
+     "api_path": "/songs/3964264",
+     "full_title": "I Love It (Minecraft Parody) by\u00a0Galaxy\u00a0Goats",
+     "header_image_thumbnail_url": "https://images.genius.com/a49347dba9c3bda270ab38716133bdad.300x169x1.jpg",
+     "header_image_url": "https://images.genius.com/a49347dba9c3bda270ab38716133bdad.1000x563x1.jpg",
+     "id": 3964264,
+     "lyrics_owner_id": 4469304,
+     "lyrics_state": "complete",
+     "path": "/Galaxy-goats-i-love-it-minecraft-parody-lyrics",
+     "pyongs_count": 1,
+     "song_art_image_thumbnail_url": "https://images.genius.com/a49347dba9c3bda270ab38716133bdad.300x169x1.jpg",
+     "song_art_image_url": "https://images.genius.com/a49347dba9c3bda270ab38716133bdad.1000x563x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 0,
+      "hot": false,
+      "pageviews": 16998
+     },
+     "title": "I Love It (Minecraft Parody)",
+     "title_with_featured": "I Love It (Minecraft Parody)",
+     "url": "https://genius.com/Galaxy-goats-i-love-it-minecraft-parody-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/1100877",
+      "header_image_url": "https://images.genius.com/ed76e95151d2c587847d5856e7df7fa8.500x500x1.jpg",
+      "id": 1100877,
+      "image_url": "https://images.genius.com/ed76e95151d2c587847d5856e7df7fa8.500x500x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Galaxy Goats",
+      "url": "https://genius.com/artists/Galaxy-goats"
+     }
+    },
+    {
+     "annotation_count": 2,
+     "api_path": "/songs/3968211",
+     "full_title": "\u0418\u0437\u0432\u0438\u043d\u0435\u043d\u0438\u0435 \u0437\u0430 Ibiza (Apologising For Ibiza) [Kanye West & Lil Pump parody] by\u00a0\u0424\u0438\u043b\u0438\u043f\u043f\u00a0\u041a\u0438\u0440\u043a\u043e\u0440\u043e\u0432 (Philipp Kirkorov) & \u041d\u0438\u043a\u043e\u043b\u0430\u0439 \u0411\u0430\u0441\u043a\u043e\u0432 (Nikolay Baskov)",
+     "header_image_thumbnail_url": "https://images.genius.com/2b2a92a626c0949d124c2de0163bb4f3.300x158x1.jpg",
+     "header_image_url": "https://images.genius.com/2b2a92a626c0949d124c2de0163bb4f3.1000x525x1.jpg",
+     "id": 3968211,
+     "lyrics_owner_id": 4966248,
+     "lyrics_state": "complete",
+     "path": "/Philipp-kirkorov-and-nikolay-baskov-ibiza-apologising-for-ibiza-kanye-west-and-lil-pump-parody-lyrics",
+     "pyongs_count": null,
+     "song_art_image_thumbnail_url": "https://images.genius.com/2b2a92a626c0949d124c2de0163bb4f3.300x158x1.jpg",
+     "song_art_image_url": "https://images.genius.com/2b2a92a626c0949d124c2de0163bb4f3.1000x525x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 2,
+      "hot": false
+     },
+     "title": "\u0418\u0437\u0432\u0438\u043d\u0435\u043d\u0438\u0435 \u0437\u0430 Ibiza (Apologising For Ibiza) [Kanye West & Lil Pump parody]",
+     "title_with_featured": "\u0418\u0437\u0432\u0438\u043d\u0435\u043d\u0438\u0435 \u0437\u0430 Ibiza (Apologising For Ibiza) [Kanye West & Lil Pump parody]",
+     "url": "https://genius.com/Philipp-kirkorov-and-nikolay-baskov-ibiza-apologising-for-ibiza-kanye-west-and-lil-pump-parody-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/1547177",
+      "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+      "id": 1547177,
+      "image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "\u0424\u0438\u043b\u0438\u043f\u043f \u041a\u0438\u0440\u043a\u043e\u0440\u043e\u0432 (Philipp Kirkorov) & \u041d\u0438\u043a\u043e\u043b\u0430\u0439 \u0411\u0430\u0441\u043a\u043e\u0432 (Nikolay Baskov)",
+      "url": "https://genius.com/artists/Philipp-kirkorov-and-nikolay-baskov"
+     }
+    },
+    {
+     "annotation_count": 0,
+     "api_path": "/songs/3971309",
+     "full_title": "I Love Lucid Dreams by\u00a0Finny\u00a0Music",
+     "header_image_thumbnail_url": "https://images.genius.com/c72fd6eac782395356c0e8d9d8a56844.300x300x1.jpg",
+     "header_image_url": "https://images.genius.com/c72fd6eac782395356c0e8d9d8a56844.808x808x1.jpg",
+     "id": 3971309,
+     "lyrics_owner_id": 3633135,
+     "lyrics_state": "unreleased",
+     "path": "/Finny-music-i-love-lucid-dreams-lyrics",
+     "pyongs_count": null,
+     "song_art_image_thumbnail_url": "https://images.genius.com/c72fd6eac782395356c0e8d9d8a56844.300x300x1.jpg",
+     "song_art_image_url": "https://images.genius.com/c72fd6eac782395356c0e8d9d8a56844.808x808x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 0,
+      "hot": false
+     },
+     "title": "I Love Lucid Dreams",
+     "title_with_featured": "I Love Lucid Dreams",
+     "url": "https://genius.com/Finny-music-i-love-lucid-dreams-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/1217243",
+      "header_image_url": "https://images.genius.com/db5ac2642addfacef9347cd42a92c6ac.1000x1000x1.jpg",
+      "id": 1217243,
+      "image_url": "https://images.genius.com/5c9a93a85be50855286b414f66cb8d34.882x882x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Finny Music",
+      "url": "https://genius.com/artists/Finny-music"
+     }
+    },
+    {
+     "annotation_count": 0,
+     "api_path": "/songs/3975732",
+     "full_title": "I Love It (Vladimir Cauchemar Remix) by\u00a0Vladimir\u00a0Cauchemar",
+     "header_image_thumbnail_url": "https://images.genius.com/b912bd68cb9d184c40dc11acc82c748e.300x169x1.jpg",
+     "header_image_url": "https://images.genius.com/b912bd68cb9d184c40dc11acc82c748e.1000x563x1.jpg",
+     "id": 3975732,
+     "lyrics_owner_id": 5428057,
+     "lyrics_state": "complete",
+     "path": "/Vladimir-cauchemar-i-love-it-vladimir-cauchemar-remix-lyrics",
+     "pyongs_count": null,
+     "song_art_image_thumbnail_url": "https://images.genius.com/f2e47b7941e5b4a5ae68321d44db04d6.300x300x1.jpg",
+     "song_art_image_url": "https://images.genius.com/f2e47b7941e5b4a5ae68321d44db04d6.500x500x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 0,
+      "hot": false
+     },
+     "title": "I Love It (Vladimir Cauchemar Remix)",
+     "title_with_featured": "I Love It (Vladimir Cauchemar Remix)",
+     "url": "https://genius.com/Vladimir-cauchemar-i-love-it-vladimir-cauchemar-remix-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/1452406",
+      "header_image_url": "https://images.genius.com/4d067f6a6790e1cf9bd146f35371ca68.590x390x1.png",
+      "id": 1452406,
+      "image_url": "https://images.genius.com/15990c39d48974109523e011a227bedd.544x544x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Vladimir Cauchemar",
+      "url": "https://genius.com/artists/Vladimir-cauchemar"
+     }
+    },
+    {
+     "annotation_count": 1,
+     "api_path": "/songs/3989785",
+     "full_title": "I Love It (Freaky Girl Edit) by\u00a0Lil\u00a0Pump & Kanye West (Ft.\u00a0Adele\u00a0Givens)",
+     "header_image_thumbnail_url": "https://images.genius.com/49041141ee5b7b873934fbfea2583a2a.300x200x1.jpg",
+     "header_image_url": "https://images.genius.com/49041141ee5b7b873934fbfea2583a2a.980x653x1.jpg",
+     "id": 3989785,
+     "lyrics_owner_id": 3355833,
+     "lyrics_state": "complete",
+     "path": "/Lil-pump-and-kanye-west-i-love-it-freaky-girl-edit-lyrics",
+     "pyongs_count": null,
+     "song_art_image_thumbnail_url": "https://images.genius.com/87e12cf13879122d53b5a05eeae2e668.268x268x1.jpg",
+     "song_art_image_url": "https://images.genius.com/87e12cf13879122d53b5a05eeae2e668.268x268x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 0,
+      "hot": false,
+      "pageviews": 65834
+     },
+     "title": "I Love It (Freaky Girl Edit)",
+     "title_with_featured": "I Love It (Freaky Girl Edit) (Ft.\u00a0Adele\u00a0Givens)",
+     "url": "https://genius.com/Lil-pump-and-kanye-west-i-love-it-freaky-girl-edit-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/1572772",
+      "header_image_url": "https://images.genius.com/1720b347cadb4a040dc895501b5201cf.620x348x1.jpg",
+      "id": 1572772,
+      "image_url": "https://images.genius.com/4e637e4714fc857001d14f7ddbdab921.750x750x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Lil Pump & Kanye West",
+      "url": "https://genius.com/artists/Lil-pump-and-kanye-west"
+     }
+    },
+    {
+     "annotation_count": 0,
+     "api_path": "/songs/3991598",
+     "full_title": "I Mine It by\u00a0ReptileLegit",
+     "header_image_thumbnail_url": "https://images.genius.com/963e7024301a793eca434abb181b5565.300x300x1.jpg",
+     "header_image_url": "https://images.genius.com/963e7024301a793eca434abb181b5565.600x600x1.jpg",
+     "id": 3991598,
+     "lyrics_owner_id": 4469304,
+     "lyrics_state": "complete",
+     "path": "/Reptilelegit-i-mine-it-lyrics",
+     "pyongs_count": null,
+     "song_art_image_thumbnail_url": "https://images.genius.com/963e7024301a793eca434abb181b5565.300x300x1.jpg",
+     "song_art_image_url": "https://images.genius.com/963e7024301a793eca434abb181b5565.600x600x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 0,
+      "hot": false
+     },
+     "title": "I Mine It",
+     "title_with_featured": "I Mine It",
+     "url": "https://genius.com/Reptilelegit-i-mine-it-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/1457302",
+      "header_image_url": "https://images.genius.com/46c1ec551f71f8f52f4c33e01c438428.900x900x1.jpg",
+      "id": 1457302,
+      "image_url": "https://images.genius.com/b67fb262b651ef6d3e14aa50922c62e0.640x640x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": true,
+      "name": "ReptileLegit",
+      "url": "https://genius.com/artists/Reptilelegit",
+      "iq": 1862
+     }
+    },
+    {
+     "annotation_count": 7,
+     "api_path": "/songs/4003994",
+     "full_title": "Useless by\u00a0CaptainSparklez (Ft.\u00a0TryHardNinja)",
+     "header_image_thumbnail_url": "https://images.genius.com/0889be9c0b25c4a67ecb04bf4a8ef39d.300x169x1.jpg",
+     "header_image_url": "https://images.genius.com/0889be9c0b25c4a67ecb04bf4a8ef39d.1000x563x1.jpg",
+     "id": 4003994,
+     "lyrics_owner_id": 5597111,
+     "lyrics_state": "complete",
+     "path": "/Captainsparklez-useless-lyrics",
+     "pyongs_count": 1,
+     "song_art_image_thumbnail_url": "https://images.genius.com/0889be9c0b25c4a67ecb04bf4a8ef39d.300x169x1.jpg",
+     "song_art_image_url": "https://images.genius.com/0889be9c0b25c4a67ecb04bf4a8ef39d.1000x563x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 7,
+      "hot": false,
+      "pageviews": 9409
+     },
+     "title": "Useless",
+     "title_with_featured": "Useless (Ft.\u00a0TryHardNinja)",
+     "url": "https://genius.com/Captainsparklez-useless-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/21677",
+      "header_image_url": "https://images.genius.com/1ae27282cbfeeac28833b70b46018f4c.500x500x1.png",
+      "id": 21677,
+      "image_url": "https://images.genius.com/dfa68166b6fe13da482b96156a39d5c7.499x499x1.png",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "CaptainSparklez",
+      "url": "https://genius.com/artists/Captainsparklez"
+     }
+    },
+    {
+     "annotation_count": 0,
+     "api_path": "/songs/4007538",
+     "full_title": "Going On Tour by\u00a0Dax",
+     "header_image_thumbnail_url": "https://images.genius.com/4e04e6177b11a0e1ad794282135ebce1.300x300x1.jpg",
+     "header_image_url": "https://images.genius.com/4e04e6177b11a0e1ad794282135ebce1.500x500x1.jpg",
+     "id": 4007538,
+     "lyrics_owner_id": 5177186,
+     "lyrics_state": "complete",
+     "path": "/Dax-going-on-tour-lyrics",
+     "pyongs_count": null,
+     "song_art_image_thumbnail_url": "https://images.genius.com/4e04e6177b11a0e1ad794282135ebce1.300x300x1.jpg",
+     "song_art_image_url": "https://images.genius.com/4e04e6177b11a0e1ad794282135ebce1.500x500x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 0,
+      "hot": false
+     },
+     "title": "Going On Tour",
+     "title_with_featured": "Going On Tour",
+     "url": "https://genius.com/Dax-going-on-tour-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/16711",
+      "header_image_url": "https://images.genius.com/44e95e196b60371bc405f61d2ef225ee.620x350x1.jpg",
+      "id": 16711,
+      "image_url": "https://images.genius.com/ebaef6dee442778e7fe3a61e15a62464.555x555x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": true,
+      "name": "Dax",
+      "url": "https://genius.com/artists/Dax",
+      "iq": 2406
+     }
+    },
+    {
+     "annotation_count": 1,
+     "api_path": "/songs/4021562",
+     "full_title": "I Love It (Spotty2Naughty Remix) by\u00a0Spotty2Naughty",
+     "header_image_thumbnail_url": "https://images.genius.com/4e90730a9a49414fe9113273a0722a19.300x300x1.jpg",
+     "header_image_url": "https://images.genius.com/4e90730a9a49414fe9113273a0722a19.400x400x1.jpg",
+     "id": 4021562,
+     "lyrics_owner_id": 5512686,
+     "lyrics_state": "complete",
+     "path": "/Spotty2naughty-i-love-it-spotty2naughty-remix-lyrics",
+     "pyongs_count": null,
+     "song_art_image_thumbnail_url": "https://images.genius.com/4e90730a9a49414fe9113273a0722a19.300x300x1.jpg",
+     "song_art_image_url": "https://images.genius.com/4e90730a9a49414fe9113273a0722a19.400x400x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 1,
+      "hot": false
+     },
+     "title": "I Love It (Spotty2Naughty Remix)",
+     "title_with_featured": "I Love It (Spotty2Naughty Remix)",
+     "url": "https://genius.com/Spotty2naughty-i-love-it-spotty2naughty-remix-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/1606232",
+      "header_image_url": "https://images.genius.com/4e90730a9a49414fe9113273a0722a19.400x400x1.jpg",
+      "id": 1606232,
+      "image_url": "https://images.genius.com/4e90730a9a49414fe9113273a0722a19.400x400x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Spotty2Naughty",
+      "url": "https://genius.com/artists/Spotty2naughty"
+     }
+    },
+    {
+     "annotation_count": 0,
+     "api_path": "/songs/4025962",
+     "full_title": "\u0428\u0430\u043b\u0430\u0432\u0430 (Ho) by\u00a0Illumate",
+     "header_image_thumbnail_url": "https://images.genius.com/946bdc6ac1126c1d9b4093be9bf4d57a.300x300x1.jpg",
+     "header_image_url": "https://images.genius.com/946bdc6ac1126c1d9b4093be9bf4d57a.562x562x1.jpg",
+     "id": 4025962,
+     "lyrics_owner_id": 4381392,
+     "lyrics_state": "complete",
+     "path": "/Illumate-ho-lyrics",
+     "pyongs_count": 1,
+     "song_art_image_thumbnail_url": "https://images.genius.com/c54f582c0b9e5f3721343f009d560ee4.300x300x1.jpg",
+     "song_art_image_url": "https://images.genius.com/c54f582c0b9e5f3721343f009d560ee4.1000x1000x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 0,
+      "hot": false,
+      "pageviews": 16177
+     },
+     "title": "\u0428\u0430\u043b\u0430\u0432\u0430 (Ho)",
+     "title_with_featured": "\u0428\u0430\u043b\u0430\u0432\u0430 (Ho)",
+     "url": "https://genius.com/Illumate-ho-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/277724",
+      "header_image_url": "https://images.genius.com/3e2a2344887c2d6bdc678810fdbbf92b.1000x625x1.png",
+      "id": 277724,
+      "image_url": "https://images.genius.com/9885ab17ac30312827b5a9da74d13f80.1000x1000x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": true,
+      "name": "Illumate",
+      "url": "https://genius.com/artists/Illumate",
+      "iq": 13538
+     }
+    },
+    {
+     "annotation_count": 1,
+     "api_path": "/songs/4049081",
+     "full_title": "Twins Of Mind by\u00a0Stoned\u00a0Devil",
+     "header_image_thumbnail_url": "https://images.genius.com/36ef3201259074e237151844835e11f8.300x300x1.jpg",
+     "header_image_url": "https://images.genius.com/36ef3201259074e237151844835e11f8.1000x1000x1.jpg",
+     "id": 4049081,
+     "lyrics_owner_id": 5628993,
+     "lyrics_state": "complete",
+     "path": "/Stoned-devil-twins-of-mind-lyrics",
+     "pyongs_count": null,
+     "song_art_image_thumbnail_url": "https://images.genius.com/36ef3201259074e237151844835e11f8.300x300x1.jpg",
+     "song_art_image_url": "https://images.genius.com/36ef3201259074e237151844835e11f8.1000x1000x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 0,
+      "hot": false
+     },
+     "title": "Twins Of Mind",
+     "title_with_featured": "Twins Of Mind",
+     "url": "https://genius.com/Stoned-devil-twins-of-mind-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/631125",
+      "header_image_url": "https://images.genius.com/d89ad4e36b4715bb62d40df00f649183.1000x1000x1.png",
+      "id": 631125,
+      "image_url": "https://images.genius.com/17461e6e0cb0199c399d5b08b7c5a041.1000x1000x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Stoned Devil",
+      "url": "https://genius.com/artists/Stoned-devil"
+     }
+    },
+    {
+     "annotation_count": 3,
+     "api_path": "/songs/4056291",
+     "full_title": "Tim Westwood Freestyle by\u00a0Cordae",
+     "header_image_thumbnail_url": "https://images.genius.com/cdcd50866f42a95f36cdc4419c99818a.300x225x1.jpg",
+     "header_image_url": "https://images.genius.com/cdcd50866f42a95f36cdc4419c99818a.480x360x1.jpg",
+     "id": 4056291,
+     "lyrics_owner_id": 4212581,
+     "lyrics_state": "complete",
+     "path": "/Cordae-tim-westwood-freestyle-lyrics",
+     "pyongs_count": null,
+     "song_art_image_thumbnail_url": "https://images.genius.com/cdcd50866f42a95f36cdc4419c99818a.300x225x1.jpg",
+     "song_art_image_url": "https://images.genius.com/cdcd50866f42a95f36cdc4419c99818a.480x360x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 0,
+      "hot": false
+     },
+     "title": "Tim Westwood Freestyle",
+     "title_with_featured": "Tim Westwood Freestyle",
+     "url": "https://genius.com/Cordae-tim-westwood-freestyle-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/1469896",
+      "header_image_url": "https://images.genius.com/8f9a340420327687748fdaf6e0b89d55.640x800x1.jpg",
+      "id": 1469896,
+      "image_url": "https://images.genius.com/c7d6e6c2372df32ba403edb5c9e723f9.640x640x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": true,
+      "name": "Cordae",
+      "url": "https://genius.com/artists/Cordae",
+      "iq": 4842
+     }
+    },
+    {
+     "annotation_count": 8,
+     "api_path": "/songs/4063543",
+     "full_title": "I Read Lots of Fanfiction by\u00a0Lil\u00a0Meerkat (Ft.\u00a0Lil\u00a0Bodypillow & Tom\u00a0Sawyer)",
+     "header_image_thumbnail_url": "https://images.genius.com/e8478cdee54754f7d3b9f7ee6d8cb337.300x169x1.jpg",
+     "header_image_url": "https://images.genius.com/e8478cdee54754f7d3b9f7ee6d8cb337.1000x563x1.jpg",
+     "id": 4063543,
+     "lyrics_owner_id": 7290373,
+     "lyrics_state": "complete",
+     "path": "/Lil-meerkat-i-read-lots-of-fanfiction-lyrics",
+     "pyongs_count": 1,
+     "song_art_image_thumbnail_url": "https://images.genius.com/73c2ec125745750bc047602773bc31bf.300x300x1.jpg",
+     "song_art_image_url": "https://images.genius.com/73c2ec125745750bc047602773bc31bf.500x500x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 8,
+      "hot": false
+     },
+     "title": "I Read Lots of Fanfiction",
+     "title_with_featured": "I Read Lots of Fanfiction (Ft.\u00a0Lil\u00a0Bodypillow & Tom\u00a0Sawyer)",
+     "url": "https://genius.com/Lil-meerkat-i-read-lots-of-fanfiction-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/1624565",
+      "header_image_url": "https://images.genius.com/93a098d22bdf322347cafa6b8893644a.400x212x1.png",
+      "id": 1624565,
+      "image_url": "https://images.genius.com/e31e96316ffb2898bc0d060a90c2e591.480x270x9.gif",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Lil Meerkat",
+      "url": "https://genius.com/artists/Lil-meerkat"
+     }
+    },
+    {
+     "annotation_count": 1,
+     "api_path": "/songs/4069358",
+     "full_title": "I Love It (Remix) by\u00a0Lil\u00a0Pump & Kanye West (Ft.\u00a0Valee)",
+     "header_image_thumbnail_url": "https://images.genius.com/ad3950137b4dea7879489adb9e711d9a.300x300x1.png",
+     "header_image_url": "https://images.genius.com/ad3950137b4dea7879489adb9e711d9a.330x330x1.png",
+     "id": 4069358,
+     "lyrics_owner_id": 104344,
+     "lyrics_state": "unreleased",
+     "path": "/Lil-pump-and-kanye-west-i-love-it-remix-lyrics",
+     "pyongs_count": 1,
+     "song_art_image_thumbnail_url": "https://images.genius.com/ad3950137b4dea7879489adb9e711d9a.300x300x1.png",
+     "song_art_image_url": "https://images.genius.com/ad3950137b4dea7879489adb9e711d9a.330x330x1.png",
+     "stats": {
+      "unreviewed_annotations": 0,
+      "hot": false
+     },
+     "title": "I Love It (Remix)",
+     "title_with_featured": "I Love It (Remix) (Ft.\u00a0Valee)",
+     "url": "https://genius.com/Lil-pump-and-kanye-west-i-love-it-remix-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/1572772",
+      "header_image_url": "https://images.genius.com/1720b347cadb4a040dc895501b5201cf.620x348x1.jpg",
+      "id": 1572772,
+      "image_url": "https://images.genius.com/4e637e4714fc857001d14f7ddbdab921.750x750x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Lil Pump & Kanye West",
+      "url": "https://genius.com/artists/Lil-pump-and-kanye-west"
+     }
+    },
+    {
+     "annotation_count": 9,
+     "api_path": "/songs/4100105",
+     "full_title": "I Love It 2 by\u00a0FlyingKitty",
+     "header_image_thumbnail_url": "https://images.genius.com/c4ed69a2dcb25a872a131cc0f940ee5c.300x169x1.jpg",
+     "header_image_url": "https://images.genius.com/c4ed69a2dcb25a872a131cc0f940ee5c.1000x563x1.jpg",
+     "id": 4100105,
+     "lyrics_owner_id": 5209503,
+     "lyrics_state": "complete",
+     "path": "/Flyingkitty-i-love-it-2-lyrics",
+     "pyongs_count": 7,
+     "song_art_image_thumbnail_url": "https://images.genius.com/a29683a649fcc4eb3bd78addf61dcc95.300x300x1.jpg",
+     "song_art_image_url": "https://images.genius.com/a29683a649fcc4eb3bd78addf61dcc95.500x500x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 7,
+      "hot": false,
+      "pageviews": 8765
+     },
+     "title": "I Love It 2",
+     "title_with_featured": "I Love It 2",
+     "url": "https://genius.com/Flyingkitty-i-love-it-2-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/1147008",
+      "header_image_url": "https://images.genius.com/b522488516e08952da045e5ba3fb654c.900x900x1.jpg",
+      "id": 1147008,
+      "image_url": "https://images.genius.com/b522488516e08952da045e5ba3fb654c.900x900x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "FlyingKitty",
+      "url": "https://genius.com/artists/Flyingkitty"
+     }
+    },
+    {
+     "annotation_count": 5,
+     "api_path": "/songs/4157754",
+     "full_title": "\u200bmedic bag (i need it) by\u00a0MarioInATopHat",
+     "header_image_thumbnail_url": "https://images.genius.com/4444f7f73c978970118253245aca4b39.300x300x1.jpg",
+     "header_image_url": "https://images.genius.com/4444f7f73c978970118253245aca4b39.500x500x1.jpg",
+     "id": 4157754,
+     "lyrics_owner_id": 4013289,
+     "lyrics_state": "complete",
+     "path": "/Marioinatophat-medic-bag-i-need-it-lyrics",
+     "pyongs_count": null,
+     "song_art_image_thumbnail_url": "https://images.genius.com/4444f7f73c978970118253245aca4b39.300x300x1.jpg",
+     "song_art_image_url": "https://images.genius.com/4444f7f73c978970118253245aca4b39.500x500x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 5,
+      "hot": false
+     },
+     "title": "\u200bmedic bag (i need it)",
+     "title_with_featured": "\u200bmedic bag (i need it)",
+     "url": "https://genius.com/Marioinatophat-medic-bag-i-need-it-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/1667036",
+      "header_image_url": "https://images.genius.com/6a8804026e56e4b29278023dbe3f2d75.1000x210x1.jpg",
+      "id": 1667036,
+      "image_url": "https://images.genius.com/27df92df5ae4df83b0974555368d874a.500x500x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "MarioInATopHat",
+      "url": "https://genius.com/artists/Marioinatophat"
+     }
+    },
+    {
+     "annotation_count": 0,
+     "api_path": "/songs/4163897",
+     "full_title": "I Love It (Remix) by\u00a0Hi-Rez\u00a0& Jonny Koch",
+     "header_image_thumbnail_url": "https://images.genius.com/c584c743e023bd6fea6de2d36436069c.300x300x1.jpg",
+     "header_image_url": "https://images.genius.com/c584c743e023bd6fea6de2d36436069c.1000x1000x1.jpg",
+     "id": 4163897,
+     "lyrics_owner_id": 4418683,
+     "lyrics_state": "complete",
+     "path": "/Hi-rez-and-jonny-koch-i-love-it-remix-lyrics",
+     "pyongs_count": null,
+     "song_art_image_thumbnail_url": "https://images.genius.com/c584c743e023bd6fea6de2d36436069c.300x300x1.jpg",
+     "song_art_image_url": "https://images.genius.com/c584c743e023bd6fea6de2d36436069c.1000x1000x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 0,
+      "hot": false
+     },
+     "title": "I Love It (Remix)",
+     "title_with_featured": "I Love It (Remix)",
+     "url": "https://genius.com/Hi-rez-and-jonny-koch-i-love-it-remix-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/1669667",
+      "header_image_url": "https://images.genius.com/8adc418ce8de70ea8ecc296f5c1cd20d.720x720x1.jpg",
+      "id": 1669667,
+      "image_url": "https://images.genius.com/8adc418ce8de70ea8ecc296f5c1cd20d.720x720x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Hi-Rez & Jonny Koch",
+      "url": "https://genius.com/artists/Hi-rez-and-jonny-koch"
+     }
+    },
+    {
+     "annotation_count": 1,
+     "api_path": "/songs/4171944",
+     "full_title": "Imma suck quick by\u00a0Pluffaduff",
+     "header_image_thumbnail_url": "https://images.genius.com/877a0d5ee19d09c81188103ce9cb825d.288x288x1.jpg",
+     "header_image_url": "https://images.genius.com/877a0d5ee19d09c81188103ce9cb825d.288x288x1.jpg",
+     "id": 4171944,
+     "lyrics_owner_id": 7327092,
+     "lyrics_state": "complete",
+     "path": "/Pluffaduff-imma-suck-quick-lyrics",
+     "pyongs_count": null,
+     "song_art_image_thumbnail_url": "https://images.genius.com/877a0d5ee19d09c81188103ce9cb825d.288x288x1.jpg",
+     "song_art_image_url": "https://images.genius.com/877a0d5ee19d09c81188103ce9cb825d.288x288x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 1,
+      "hot": false
+     },
+     "title": "Imma suck quick",
+     "title_with_featured": "Imma suck quick",
+     "url": "https://genius.com/Pluffaduff-imma-suck-quick-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/1673277",
+      "header_image_url": "https://images.genius.com/877a0d5ee19d09c81188103ce9cb825d.288x288x1.jpg",
+      "id": 1673277,
+      "image_url": "https://images.genius.com/877a0d5ee19d09c81188103ce9cb825d.288x288x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Pluffaduff",
+      "url": "https://genius.com/artists/Pluffaduff"
+     }
+    },
+    {
+     "annotation_count": 0,
+     "api_path": "/songs/4257164",
+     "full_title": "I Love Crisp by\u00a0Young\u00a0Associates",
+     "header_image_thumbnail_url": "https://images.genius.com/b4c4d21bcc476a2baa170af069b02c12.300x300x1.jpg",
+     "header_image_url": "https://images.genius.com/b4c4d21bcc476a2baa170af069b02c12.700x700x1.jpg",
+     "id": 4257164,
+     "lyrics_owner_id": 5892393,
+     "lyrics_state": "complete",
+     "path": "/Young-associates-i-love-crisp-lyrics",
+     "pyongs_count": null,
+     "song_art_image_thumbnail_url": "https://images.genius.com/b4c4d21bcc476a2baa170af069b02c12.300x300x1.jpg",
+     "song_art_image_url": "https://images.genius.com/b4c4d21bcc476a2baa170af069b02c12.700x700x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 0,
+      "hot": false
+     },
+     "title": "I Love Crisp",
+     "title_with_featured": "I Love Crisp",
+     "url": "https://genius.com/Young-associates-i-love-crisp-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/1622337",
+      "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+      "id": 1622337,
+      "image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Young Associates",
+      "url": "https://genius.com/artists/Young-associates"
+     }
+    },
+    {
+     "annotation_count": 1,
+     "api_path": "/songs/4351676",
+     "full_title": "Live Life by\u00a0Ace\u00a0Hood",
+     "header_image_thumbnail_url": "https://images.genius.com/a294e8229bd9f017396b1cc1734f59b0.300x300x1.jpg",
+     "header_image_url": "https://images.genius.com/a294e8229bd9f017396b1cc1734f59b0.1000x1000x1.jpg",
+     "id": 4351676,
+     "lyrics_owner_id": 1795619,
+     "lyrics_state": "complete",
+     "path": "/Ace-hood-live-life-lyrics",
+     "pyongs_count": null,
+     "song_art_image_thumbnail_url": "https://images.genius.com/a294e8229bd9f017396b1cc1734f59b0.300x300x1.jpg",
+     "song_art_image_url": "https://images.genius.com/a294e8229bd9f017396b1cc1734f59b0.1000x1000x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 1,
+      "hot": false
+     },
+     "title": "Live Life",
+     "title_with_featured": "Live Life",
+     "url": "https://genius.com/Ace-hood-live-life-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/460",
+      "header_image_url": "https://images.genius.com/2b8521f75a42651c7f8673b2f3f696bc.720x720x1.jpg",
+      "id": 460,
+      "image_url": "https://images.genius.com/2b8521f75a42651c7f8673b2f3f696bc.720x720x1.jpg",
+      "is_meme_verified": true,
+      "is_verified": true,
+      "name": "Ace Hood",
+      "url": "https://genius.com/artists/Ace-hood",
+      "iq": 1206
+     }
+    },
+    {
+     "annotation_count": 0,
+     "api_path": "/songs/4608536",
+     "full_title": "I Love It by\u00a0OG\u00a0THUG (Ft.\u00a0FBC)",
+     "header_image_thumbnail_url": "https://images.genius.com/3cb742de44637d922fbb50dcb032ff58.300x300x1.jpg",
+     "header_image_url": "https://images.genius.com/3cb742de44637d922fbb50dcb032ff58.688x688x1.jpg",
+     "id": 4608536,
+     "lyrics_owner_id": 6854887,
+     "lyrics_state": "complete",
+     "path": "/Og-thug-i-love-it-lyrics",
+     "pyongs_count": null,
+     "song_art_image_thumbnail_url": "https://images.genius.com/3cb742de44637d922fbb50dcb032ff58.300x300x1.jpg",
+     "song_art_image_url": "https://images.genius.com/3cb742de44637d922fbb50dcb032ff58.688x688x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 0,
+      "hot": false
+     },
+     "title": "I Love It",
+     "title_with_featured": "I Love It (Ft.\u00a0FBC)",
+     "url": "https://genius.com/Og-thug-i-love-it-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/1017813",
+      "header_image_url": "https://images.genius.com/6e89d10f1f9326b052c09a827e382c57.666x666x1.jpg",
+      "id": 1017813,
+      "image_url": "https://images.genius.com/6e89d10f1f9326b052c09a827e382c57.666x666x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": true,
+      "name": "OG THUG",
+      "url": "https://genius.com/artists/Og-thug",
+      "iq": 236
+     }
+    },
+    {
+     "annotation_count": 0,
+     "api_path": "/songs/4612339",
+     "full_title": "Lies by\u00a0Ace.LD",
+     "header_image_thumbnail_url": "https://assets.genius.com/images/default_cover_image.png?1606943206",
+     "header_image_url": "https://assets.genius.com/images/default_cover_image.png?1606943206",
+     "id": 4612339,
+     "lyrics_owner_id": 8654459,
+     "lyrics_state": "complete",
+     "path": "/Aceld-lies-lyrics",
+     "pyongs_count": null,
+     "song_art_image_thumbnail_url": "https://assets.genius.com/images/default_cover_image.png?1606943206",
+     "song_art_image_url": "https://assets.genius.com/images/default_cover_image.png?1606943206",
+     "stats": {
+      "unreviewed_annotations": 0,
+      "hot": false
+     },
+     "title": "Lies",
+     "title_with_featured": "Lies",
+     "url": "https://genius.com/Aceld-lies-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/1847572",
+      "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+      "id": 1847572,
+      "image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Ace.LD",
+      "url": "https://genius.com/artists/Aceld"
+     }
+    },
+    {
+     "annotation_count": 11,
+     "api_path": "/songs/4735863",
+     "full_title": "Minecraft Pro (I Love It Minecraft Parody) by\u00a0MC\u00a0Pickaxe (Ft.\u00a0RealRedRobot)",
+     "header_image_thumbnail_url": "https://images.genius.com/24f758a691d02ed1d00a594f8fa93d2f.300x300x1.jpg",
+     "header_image_url": "https://images.genius.com/24f758a691d02ed1d00a594f8fa93d2f.1000x1000x1.jpg",
+     "id": 4735863,
+     "lyrics_owner_id": 9015849,
+     "lyrics_state": "complete",
+     "path": "/Mc-pickaxe-minecraft-pro-i-love-it-minecraft-parody-lyrics",
+     "pyongs_count": null,
+     "song_art_image_thumbnail_url": "https://images.genius.com/24f758a691d02ed1d00a594f8fa93d2f.300x300x1.jpg",
+     "song_art_image_url": "https://images.genius.com/24f758a691d02ed1d00a594f8fa93d2f.1000x1000x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 11,
+      "hot": false
+     },
+     "title": "Minecraft Pro (I Love It Minecraft Parody)",
+     "title_with_featured": "Minecraft Pro (I Love It Minecraft Parody) (Ft.\u00a0RealRedRobot)",
+     "url": "https://genius.com/Mc-pickaxe-minecraft-pro-i-love-it-minecraft-parody-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/1899403",
+      "header_image_url": "https://images.genius.com/1371877687be89bbb2bbd5fdb18a5c76.793x207x1.jpg",
+      "id": 1899403,
+      "image_url": "https://images.genius.com/24f758a691d02ed1d00a594f8fa93d2f.1000x1000x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "MC Pickaxe",
+      "url": "https://genius.com/artists/Mc-pickaxe"
+     }
+    },
+    {
+     "annotation_count": 0,
+     "api_path": "/songs/4762668",
+     "full_title": "You Healed Me With A Bow by\u00a0Uncle\u00a0Dane",
+     "header_image_thumbnail_url": "https://images.genius.com/38e09ec67d1799e925e481498a9a5134.300x300x1.jpg",
+     "header_image_url": "https://images.genius.com/38e09ec67d1799e925e481498a9a5134.500x500x1.jpg",
+     "id": 4762668,
+     "lyrics_owner_id": 8712773,
+     "lyrics_state": "complete",
+     "path": "/Uncle-dane-you-healed-me-with-a-bow-lyrics",
+     "pyongs_count": null,
+     "song_art_image_thumbnail_url": "https://images.genius.com/38e09ec67d1799e925e481498a9a5134.300x300x1.jpg",
+     "song_art_image_url": "https://images.genius.com/38e09ec67d1799e925e481498a9a5134.500x500x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 0,
+      "hot": false
+     },
+     "title": "You Healed Me With A Bow",
+     "title_with_featured": "You Healed Me With A Bow",
+     "url": "https://genius.com/Uncle-dane-you-healed-me-with-a-bow-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/666045",
+      "header_image_url": "https://images.genius.com/022975232562ce4c289aefb9540d9892.420x240x120.gif",
+      "id": 666045,
+      "image_url": "https://images.genius.com/fed078258485256d355be3323bb0c6f8.900x900x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Uncle Dane",
+      "url": "https://genius.com/artists/Uncle-dane"
+     }
+    },
+    {
+     "annotation_count": 0,
+     "api_path": "/songs/4930729",
+     "full_title": "I Love It (Dubdogz Bootleg) by\u00a0Dubdogz",
+     "header_image_thumbnail_url": "https://images.genius.com/c8f2bf99ed964a2c10f3af7173053471.300x300x1.jpg",
+     "header_image_url": "https://images.genius.com/c8f2bf99ed964a2c10f3af7173053471.500x500x1.jpg",
+     "id": 4930729,
+     "lyrics_owner_id": 4305889,
+     "lyrics_state": "complete",
+     "path": "/Dubdogz-i-love-it-dubdogz-bootleg-lyrics",
+     "pyongs_count": null,
+     "song_art_image_thumbnail_url": "https://images.genius.com/c8f2bf99ed964a2c10f3af7173053471.300x300x1.jpg",
+     "song_art_image_url": "https://images.genius.com/c8f2bf99ed964a2c10f3af7173053471.500x500x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 0,
+      "hot": false
+     },
+     "title": "I Love It (Dubdogz Bootleg)",
+     "title_with_featured": "I Love It (Dubdogz Bootleg)",
+     "url": "https://genius.com/Dubdogz-i-love-it-dubdogz-bootleg-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/1284878",
+      "header_image_url": "https://images.genius.com/e116367caefbdc30e693951551c87e5a.585x585x1.png",
+      "id": 1284878,
+      "image_url": "https://images.genius.com/e116367caefbdc30e693951551c87e5a.585x585x1.png",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Dubdogz",
+      "url": "https://genius.com/artists/Dubdogz"
+     }
+    },
+    {
+     "annotation_count": 0,
+     "api_path": "/songs/5429522",
+     "full_title": "I Love It by\u00a0ETS\u00a0(NOR)",
+     "header_image_thumbnail_url": "https://assets.genius.com/images/default_cover_image.png?1606943206",
+     "header_image_url": "https://assets.genius.com/images/default_cover_image.png?1606943206",
+     "id": 5429522,
+     "lyrics_owner_id": 6243507,
+     "lyrics_state": "complete",
+     "path": "/Ets-nor-i-love-it-lyrics",
+     "pyongs_count": null,
+     "song_art_image_thumbnail_url": "https://assets.genius.com/images/default_cover_image.png?1606943206",
+     "song_art_image_url": "https://assets.genius.com/images/default_cover_image.png?1606943206",
+     "stats": {
+      "unreviewed_annotations": 0,
+      "hot": false
+     },
+     "title": "I Love It",
+     "title_with_featured": "I Love It",
+     "url": "https://genius.com/Ets-nor-i-love-it-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/2180365",
+      "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+      "id": 2180365,
+      "image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "ETS (NOR)",
+      "url": "https://genius.com/artists/Ets-nor"
+     }
+    },
+    {
+     "annotation_count": 1,
+     "api_path": "/songs/5530568",
+     "full_title": "You Got It Going On by\u00a0Bright\u00a0Campa",
+     "header_image_thumbnail_url": "https://images.genius.com/6f9ce6b48d3ee99cc7ee60d8f75f9fd0.300x300x1.jpg",
+     "header_image_url": "https://images.genius.com/6f9ce6b48d3ee99cc7ee60d8f75f9fd0.902x902x1.jpg",
+     "id": 5530568,
+     "lyrics_owner_id": 5628993,
+     "lyrics_state": "complete",
+     "path": "/Bright-campa-you-got-it-going-on-lyrics",
+     "pyongs_count": null,
+     "song_art_image_thumbnail_url": "https://images.genius.com/6f9ce6b48d3ee99cc7ee60d8f75f9fd0.300x300x1.jpg",
+     "song_art_image_url": "https://images.genius.com/6f9ce6b48d3ee99cc7ee60d8f75f9fd0.902x902x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 0,
+      "hot": false
+     },
+     "title": "You Got It Going On",
+     "title_with_featured": "You Got It Going On",
+     "url": "https://genius.com/Bright-campa-you-got-it-going-on-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/1285747",
+      "header_image_url": "https://images.genius.com/ba210606291ac4235c460feecde2dbf3.1000x333x1.png",
+      "id": 1285747,
+      "image_url": "https://images.genius.com/6f9ce6b48d3ee99cc7ee60d8f75f9fd0.902x902x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": true,
+      "name": "Bright Campa",
+      "url": "https://genius.com/artists/Bright-campa",
+      "iq": 40000
+     }
+    },
+    {
+     "annotation_count": 1,
+     "api_path": "/songs/5560717",
+     "full_title": "Co Za Dzban by\u00a0Sobota\u00a0X Dj Ace",
+     "header_image_thumbnail_url": "https://images.genius.com/44c2348e6ca2511fbee70524c264190e.300x300x1.jpg",
+     "header_image_url": "https://images.genius.com/44c2348e6ca2511fbee70524c264190e.641x641x1.jpg",
+     "id": 5560717,
+     "lyrics_owner_id": 8383831,
+     "lyrics_state": "unreleased",
+     "path": "/Sobota-x-dj-ace-co-za-dzban-lyrics",
+     "pyongs_count": null,
+     "song_art_image_thumbnail_url": "https://images.genius.com/44c2348e6ca2511fbee70524c264190e.300x300x1.jpg",
+     "song_art_image_url": "https://images.genius.com/44c2348e6ca2511fbee70524c264190e.641x641x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 1,
+      "hot": false
+     },
+     "title": "Co Za Dzban",
+     "title_with_featured": "Co Za Dzban",
+     "url": "https://genius.com/Sobota-x-dj-ace-co-za-dzban-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/2233886",
+      "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+      "id": 2233886,
+      "image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Sobota X Dj Ace",
+      "url": "https://genius.com/artists/Sobota-x-dj-ace"
+     }
+    },
+    {
+     "annotation_count": 0,
+     "api_path": "/songs/5569563",
+     "full_title": "U Love Kids by\u00a0D\u00c9COLORATION (Ft.\u00a0Dee-J\u00a0Pee-J & Somsai)",
+     "header_image_thumbnail_url": "https://images.genius.com/11feeb735a946988e5079dcd1b569e51.300x300x1.jpg",
+     "header_image_url": "https://images.genius.com/11feeb735a946988e5079dcd1b569e51.1000x1000x1.jpg",
+     "id": 5569563,
+     "lyrics_owner_id": 10876604,
+     "lyrics_state": "complete",
+     "path": "/Decoloration-u-love-kids-lyrics",
+     "pyongs_count": null,
+     "song_art_image_thumbnail_url": "https://images.genius.com/11feeb735a946988e5079dcd1b569e51.300x300x1.jpg",
+     "song_art_image_url": "https://images.genius.com/11feeb735a946988e5079dcd1b569e51.1000x1000x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 0,
+      "hot": false
+     },
+     "title": "U Love Kids",
+     "title_with_featured": "U Love Kids (Ft.\u00a0Dee-J\u00a0Pee-J & Somsai)",
+     "url": "https://genius.com/Decoloration-u-love-kids-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/2236000",
+      "header_image_url": "https://images.genius.com/8964faf05e3c8435d5b7a3ae2dfd888d.500x500x1.jpg",
+      "id": 2236000,
+      "image_url": "https://images.genius.com/8964faf05e3c8435d5b7a3ae2dfd888d.500x500x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "D\u00c9COLORATION",
+      "url": "https://genius.com/artists/Decoloration"
+     }
+    },
+    {
+     "annotation_count": 7,
+     "api_path": "/songs/5663928",
+     "full_title": "Sick Fuck (Remix) by\u00a0AST\u00a0(Rapper)",
+     "header_image_thumbnail_url": "https://assets.genius.com/images/default_cover_image.png?1606943206",
+     "header_image_url": "https://assets.genius.com/images/default_cover_image.png?1606943206",
+     "id": 5663928,
+     "lyrics_owner_id": 11108254,
+     "lyrics_state": "complete",
+     "path": "/Ast-rapper-sick-fuck-remix-lyrics",
+     "pyongs_count": 1,
+     "song_art_image_thumbnail_url": "https://assets.genius.com/images/default_cover_image.png?1606943206",
+     "song_art_image_url": "https://assets.genius.com/images/default_cover_image.png?1606943206",
+     "stats": {
+      "unreviewed_annotations": 7,
+      "hot": false
+     },
+     "title": "Sick Fuck (Remix)",
+     "title_with_featured": "Sick Fuck (Remix)",
+     "url": "https://genius.com/Ast-rapper-sick-fuck-remix-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/2385203",
+      "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+      "id": 2385203,
+      "image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "AST (Rapper)",
+      "url": "https://genius.com/artists/Ast-rapper"
+     }
+    },
+    {
+     "annotation_count": 1,
+     "api_path": "/songs/5700407",
+     "full_title": "Rather Be (MashUp) by\u00a0Clean\u00a0Bandit",
+     "header_image_thumbnail_url": "https://images.genius.com/a2258b3b9ddee01f11a532b915870199.300x300x1.png",
+     "header_image_url": "https://images.genius.com/a2258b3b9ddee01f11a532b915870199.500x500x1.png",
+     "id": 5700407,
+     "lyrics_owner_id": 6867845,
+     "lyrics_state": "complete",
+     "path": "/Clean-bandit-rather-be-mashup-lyrics",
+     "pyongs_count": null,
+     "song_art_image_thumbnail_url": "https://images.genius.com/a2258b3b9ddee01f11a532b915870199.300x300x1.png",
+     "song_art_image_url": "https://images.genius.com/a2258b3b9ddee01f11a532b915870199.500x500x1.png",
+     "stats": {
+      "unreviewed_annotations": 1,
+      "hot": false
+     },
+     "title": "Rather Be (MashUp)",
+     "title_with_featured": "Rather Be (MashUp)",
+     "url": "https://genius.com/Clean-bandit-rather-be-mashup-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/106693",
+      "header_image_url": "https://images.genius.com/9244024eb576d7dbe377d17af741df57.1000x391x1.jpg",
+      "id": 106693,
+      "image_url": "https://images.genius.com/891e98703ac1c886958a73c60296e410.1000x1000x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Clean Bandit",
+      "url": "https://genius.com/artists/Clean-bandit"
+     }
+    }
+   ]
+  },
+  {
+   "relationship_type": "live_version_of",
+   "type": "live_version_of",
+   "songs": []
+  },
+  {
+   "relationship_type": "performed_live_as",
+   "type": "performed_live_as",
+   "songs": []
+  }
+ ],
+ "verified_annotations_by": [],
+ "verified_contributors": [],
+ "verified_lyrics_by": [],
+ "writer_artists": [
+  {
+   "api_path": "/artists/34471",
+   "header_image_url": "https://images.genius.com/f8b51d8622877a2bea61851a9e341d03.265x300x1.jpg",
+   "id": 34471,
+   "image_url": "https://images.genius.com/f8b51d8622877a2bea61851a9e341d03.265x300x1.jpg",
+   "is_meme_verified": false,
+   "is_verified": false,
+   "name": "Terry Lewis",
+   "url": "https://genius.com/artists/Terry-lewis"
+  },
+  {
+   "api_path": "/artists/34470",
+   "header_image_url": "https://images.genius.com/ddccc96dfb49df67e5563f44b746f661.794x1000x1.jpg",
+   "id": 34470,
+   "image_url": "https://images.genius.com/ddccc96dfb49df67e5563f44b746f661.794x1000x1.jpg",
+   "is_meme_verified": false,
+   "is_verified": false,
+   "name": "Jimmy Jam",
+   "url": "https://genius.com/artists/Jimmy-jam"
+  },
+  {
+   "api_path": "/artists/27594",
+   "header_image_url": "https://images.genius.com/62cd67929251cbfb2418e229d0057358.683x683x1.jpg",
+   "id": 27594,
+   "image_url": "https://images.genius.com/62cd67929251cbfb2418e229d0057358.683x683x1.jpg",
+   "is_meme_verified": false,
+   "is_verified": false,
+   "name": "Clark Kent",
+   "url": "https://genius.com/artists/Clark-kent"
+  },
+  {
+   "api_path": "/artists/552001",
+   "header_image_url": "https://images.genius.com/ea903798493807f1f9aab3d8af3057a1.1000x667x1.jpg",
+   "id": 552001,
+   "image_url": "https://images.genius.com/4cd33d13c84b272fb2c75e600c4b0ac6.720x720x1.jpg",
+   "is_meme_verified": false,
+   "is_verified": false,
+   "name": "CBMIX",
+   "url": "https://genius.com/artists/Cbmix"
+  },
+  {
+   "api_path": "/artists/654932",
+   "header_image_url": "https://images.genius.com/27e07bb393f050b5a010cb413c47bb34.1000x165x1.jpg",
+   "id": 654932,
+   "image_url": "https://images.genius.com/21c55a8b60672ff8c60bc0b231613950.640x640x1.jpg",
+   "is_meme_verified": false,
+   "is_verified": false,
+   "name": "Lil Pump",
+   "url": "https://genius.com/artists/Lil-pump"
+  },
+  {
+   "api_path": "/artists/35355",
+   "header_image_url": "https://images.genius.com/1785f1c2b24ff32d42bc44897726cb43.350x467x1.jpg",
+   "id": 35355,
+   "image_url": "https://images.genius.com/e64bc291df1fbfa3e69aa1c360c0c905.571x571x1.jpg",
+   "is_meme_verified": false,
+   "is_verified": false,
+   "name": "Ronny J",
+   "url": "https://genius.com/artists/Ronny-j"
+  },
+  {
+   "api_path": "/artists/72",
+   "header_image_url": "https://images.genius.com/f06d0a5bd6ca3bd7e21471fb1026f887.1000x563x1.png",
+   "id": 72,
+   "image_url": "https://images.genius.com/fa9bb3a420324d4310ec4104a70c4c30.634x634x1.jpg",
+   "is_meme_verified": false,
+   "is_verified": false,
+   "name": "Kanye West",
+   "url": "https://genius.com/artists/Kanye-west"
+  },
+  {
+   "api_path": "/artists/646901",
+   "header_image_url": "https://images.genius.com/f1b81da47cdbc486ed74981220954631.675x675x1.jpg",
+   "id": 646901,
+   "image_url": "https://images.genius.com/ba1075f89b0162974900fdaed949327c.640x640x1.jpg",
+   "is_meme_verified": false,
+   "is_verified": true,
+   "name": "Smokepurpp",
+   "url": "https://genius.com/artists/Smokepurpp",
+   "iq": 1552
+  },
+  {
+   "api_path": "/artists/1572771",
+   "header_image_url": "https://images.genius.com/5e34481d48cb4e61a026a78ec4a98ae8.690x690x1.jpg",
+   "id": 1572771,
+   "image_url": "https://images.genius.com/5e34481d48cb4e61a026a78ec4a98ae8.690x690x1.jpg",
+   "is_meme_verified": false,
+   "is_verified": false,
+   "name": "Adele Givens",
+   "url": "https://genius.com/artists/Adele-givens"
+  }
+ ],
+ "lyrics": "'Cause you know in the old days\nThey couldn't say the shit they wanted to say\nThey had to fake orgasms and shit\nWe can tell niggas today:\n\"Hey, I wanna cum, mothafucka!\"\n\nYou're such a fuckin' ho, I love it (I love it)\nYou're such a fuckin' ho, I love it (I love it)\n\nYou're such a fuckin' ho, I love it (Love it, love it)\n(I'ma fuck a bitch, tell her cousin)\nYour boyfriend is a dork, McLovin (Dork)\n(McLovin; ooh, ooh, ooh)\nI just pulled up in a Ghost (Ghost)\nFucked that bitch up out in London (Up out in)\nThen I fucked up on her cousin\nOr her sister, I don't know nothin' (Uh-uh, woo)\nAnd my niggas gettin' ignorant\nLike a lighter, bitch, we ignant (Ignant, yeah)\nAll this water on my neck\nLook like I fell when I went fishin' (Fell!)\nSo much diamonds on my bust down\nOoh, fuck, what's the time? (Where we at?)\nMe and Smokepurpp sippin' drank (Purpp!)\nOoh, fuck, she take lines (Lines)\n\nYou're such a fuckin' ho, I love it (I love it, scoop!)\nYou're such a fuckin' ho, I love it (I love it)\n\nYou're such a fuckin' ho\nWhen the first time they ask you if you want sparklin' or still?\nWhy you tryna act like you was drinkin' sparklin' water 'fore you came out here?\nYou're such a fuckin' h\u2014\n\nI'm a sick fuck, I like a quick fuck (Whoop!)\nI'm a sick fuck, I like a quick fuck (Whoop!)\nI'm a sick fuck, I like a quick fuck (Whoop!)\nI'm a sick fuck, I like a quick fuck (Whoop!)\nI'm a sick fuck, I like a quick fuck\nI like my dick sucked, I'll buy you a sick truck\nI'll buy you some new tits, I'll get you that nip-tuck\nHow you start a family? The condom slipped up\nI'm a sick fuck, I'm inappropriate\nI like hearin' stories, I like that ho shit\nI wanna hear mo' shit, I like the ho shit\nSend me some mo' shit, you triflin' ho bitch (Bitch, bitch, bitch)\n\nYou're such a fuckin' ho, I love it (I love it)\nYou're such a fuckin' ho, I love it (I love it)\n\n'Cause you know in the old days\nThey couldn't say the shit they wanted to say\nThey had to fake orgasms and shit\nWe can tell niggas today:\n\"Hey, I wanna cum, mothafucka!\""
+}

@@ -1,0 +1,2828 @@
+{
+ "_type": "song",
+ "annotation_count": 23,
+ "api_path": "/songs/2266961",
+ "full_title": "Back to Back by\u00a0Drake",
+ "header_image_thumbnail_url": "https://images.genius.com/0e3dba170124f70a8ed995e7cf3d42eb.300x300x1.png",
+ "header_image_url": "https://images.genius.com/0e3dba170124f70a8ed995e7cf3d42eb.1000x1000x1.png",
+ "id": 2266961,
+ "instrumental": false,
+ "lyrics_owner_id": 1101903,
+ "lyrics_state": "complete",
+ "lyrics_updated_at": 1586222421,
+ "path": "/Drake-back-to-back-lyrics",
+ "pyongs_count": 1283,
+ "song_art_image_thumbnail_url": "https://images.genius.com/0e3dba170124f70a8ed995e7cf3d42eb.300x300x1.png",
+ "song_art_image_url": "https://images.genius.com/0e3dba170124f70a8ed995e7cf3d42eb.1000x1000x1.png",
+ "stats": {
+  "accepted_annotations": 22,
+  "contributors": 429,
+  "iq_earners": 427,
+  "transcribers": 6,
+  "unreviewed_annotations": 0,
+  "verified_annotations": 0,
+  "hot": false,
+  "pageviews": 4864167
+ },
+ "title": "Back to Back",
+ "title_with_featured": "Back to Back",
+ "updated_by_human_at": 1604392939,
+ "url": "https://genius.com/Drake-back-to-back-lyrics",
+ "primary_artist": {
+  "api_path": "/artists/130",
+  "header_image_url": "https://images.genius.com/172e7e370be5e3c0f2a139e85add5cd3.480x246x9.gif",
+  "id": 130,
+  "image_url": "https://images.genius.com/c4e68239fca279091c055fe681cb4376.770x770x1.jpg",
+  "is_meme_verified": false,
+  "is_verified": false,
+  "name": "Drake",
+  "url": "https://genius.com/artists/Drake"
+ },
+ "apple_music_id": "1025131617",
+ "apple_music_player_url": "https://genius.com/songs/2266961/apple_music_player",
+ "description": {
+  "plain": "\u201cBack to Back\u201d is the second of Drake\u2019s responses to Meek Mill following his allegations of ghostwriting in July 2015, via a now-deleted tweet:\n\n\n\nThe title refers to the second diss track in a week (it came just four days after Drake dissed Meek Mill on \u201cCharged Up\u201d), as well as The Toronto Blue Jays winning back to back championships.\n\nTrue to his word, Drake performed the song live at OVO Fest accompanied by fan-made memes that dissed Meek Mill, a move taken straight from the Jay Z playbook. This is widely considered as the point where Drake won the beef.\n\nThe song cover shows Joe Carter, of Drake\u2019s hometown team the Toronto Blue Jays, after he hit the winning home run from the 1993 World Series against Meek\u2019s hometown team, the Philadelphia Phillies. The Blue Jays won the year before in 1992, earning \u201cback to back\u201d titles. Carter went to twitter to personally thank Drake for using his picture as cover art.\n\nThe release date of this track was no mistake, as the Phillies and Blue Jays faced off that same night (July 29th, 2015) on Sportsnet. Poetically, the Blue Jays came out on top, 8-2.\n\n\n\nAfter Meek\u2019s response track \u201cWanna Know\u201d was released, Drake prepared a third diss track entitled \u201c3Peat\u201d, and played it at his OVOFest headlining show. However, the diss was never released in full.\n\n\u201cBack To Back\u201d was nominated in the \u201cBest Rap Performance\u201d category at the 2016 Grammy Awards, the first diss track to do so.\n\nIn an interview on October 28, 2016, Meek Mill finally revealed what he thought about the track, stating:\n\nI ain\u2019t think it was no shit that people was gonna be like, \u2018you got killed.\u2019 I thought it was hot. Like when we shoot at niggas, you gotta shoot a nigga through the heart. When you wake up in the mirror, you looking in the mirror, you hearing what the nigga told you, some shit about yourself that you can\u2019t even deal with. That\u2019s how we battle where we come from."
+ },
+ "embed_content": "<div id='rg_embed_link_2266961' class='rg_embed_link' data-song-id='2266961'>Read <a href='https://genius.com/Drake-back-to-back-lyrics'>\u201cBack to Back\u201d by Drake</a> on Genius</div> <script crossorigin src='//genius.com/songs/2266961/embed.js'></script>",
+ "featured_video": false,
+ "lyrics_placeholder_reason": null,
+ "recording_location": null,
+ "release_date": "2015-07-29",
+ "release_date_for_display": "July 29, 2015",
+ "current_user_metadata": {
+  "permissions": [
+   "see_pageviews",
+   "view_apple_music_player",
+   "create_comment",
+   "view_song_story_gallery"
+  ],
+  "excluded_permissions": [
+   "follow",
+   "award_transcription_iq",
+   "remove_transcription_iq",
+   "pyong",
+   "edit_lyrics",
+   "view_annotation_engagement_data",
+   "publish",
+   "unpublish",
+   "edit_spotify_details",
+   "hide",
+   "unhide",
+   "toggle_featured_video",
+   "add_pinned_annotation_to",
+   "add_community_annotation_to",
+   "destroy",
+   "mark_as_not_spam",
+   "edit_spotify_annotations_for",
+   "verify_lyrics",
+   "unverify_lyrics",
+   "edit_anything",
+   "edit_any_media",
+   "edit",
+   "rename",
+   "edit_tags",
+   "watch_fact_track",
+   "reindex",
+   "view_lyrics_synchronization",
+   "enable_media",
+   "disable_media",
+   "edit_lyrics_or_annotation_brackets",
+   "see_editorial_indicators",
+   "view_attribution_visualization",
+   "edit_annotation_brackets",
+   "preview_lyrics_for_export",
+   "hide_apple_player",
+   "unhide_apple_player",
+   "trigger_apple_match",
+   "mark_lyrics_evaluation_as_approved",
+   "mark_lyrics_evaluation_as_staff_approved",
+   "mark_lyrics_evaluation_as_unapproved",
+   "mark_lyrics_evaluation_as_un_staff_approved",
+   "view_transcriber_media_player",
+   "override_apple_match",
+   "edit_youtube_url",
+   "edit_soundcloud_url",
+   "edit_spotify_uuid",
+   "edit_vevo_url",
+   "moderate_annotations",
+   "create_annotation",
+   "see_short_id",
+   "manage_chart_item",
+   "create_tag",
+   "propose_lyrics_edit",
+   "moderate_lyrics_edit_proposals",
+   "preview_react_song_page"
+  ],
+  "interactions": {
+   "pyong": false,
+   "following": false
+  },
+  "relationships": {},
+  "iq_by_action": {}
+ },
+ "album": null,
+ "custom_performances": [
+  {
+   "label": "Performance Rights",
+   "artists": [
+    {
+     "api_path": "/artists/2227029",
+     "header_image_url": "https://images.genius.com/115970b35453a5e39681034f2ee1b2e4.730x163x1.png",
+     "id": 2227029,
+     "image_url": "https://images.genius.com/099ea2777ac975ccb7819a67580847eb.1000x1000x1.png",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "SOCAN",
+     "url": "https://genius.com/artists/Socan"
+    }
+   ]
+  },
+  {
+   "label": "Publisher",
+   "artists": [
+    {
+     "api_path": "/artists/992360",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+     "id": 992360,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "BMG Gold Songs",
+     "url": "https://genius.com/artists/Bmg-gold-songs"
+    },
+    {
+     "api_path": "/artists/2226017",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+     "id": 2226017,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "NAV Music",
+     "url": "https://genius.com/artists/Nav-music"
+    },
+    {
+     "api_path": "/artists/1011919",
+     "header_image_url": "https://images.genius.com/26596e664ee4244a3a112d1a0eefabe3.220x102x1.png",
+     "id": 1011919,
+     "image_url": "https://images.genius.com/f39d8c1ab1923335932d0b5356758f39.382x382x1.png",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "BMG",
+     "url": "https://genius.com/artists/Bmg"
+    },
+    {
+     "api_path": "/artists/2253306",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+     "id": 2253306,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Mavor and Moses Publishing",
+     "url": "https://genius.com/artists/Mavor-and-moses-publishing"
+    },
+    {
+     "api_path": "/artists/2240574",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+     "id": 2240574,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Alice Island Publishing",
+     "url": "https://genius.com/artists/Alice-island-publishing"
+    },
+    {
+     "api_path": "/artists/88331",
+     "header_image_url": "https://images.genius.com/b46212847df33dcc782ffff51fc737b4.1000x207x1.png",
+     "id": 88331,
+     "image_url": "https://images.genius.com/2a8cce70d4827d126ecbbc648a8ad62f.1000x1000x1.png",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Sony Music Entertainment",
+     "url": "https://genius.com/artists/Sony-music-entertainment"
+    },
+    {
+     "api_path": "/artists/1209162",
+     "header_image_url": "https://images.genius.com/159ffe1bdbffeaf422f56a9a648f8b21.1000x485x1.png",
+     "id": 1209162,
+     "image_url": "https://images.genius.com/fd149dde35fbbd337e610fa4b159fd33.224x224x1.png",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "EMI Music Publishing Group",
+     "url": "https://genius.com/artists/Emi-music-publishing-group"
+    },
+    {
+     "api_path": "/artists/1179023",
+     "header_image_url": "https://images.genius.com/92e4ea9ba616ee53bae21dc2e037a1e2.1000x1000x1.jpg",
+     "id": 1179023,
+     "image_url": "https://images.genius.com/f19c358ac9db989328ffc9a3de85bbd4.1000x1000x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Kobalt Music",
+     "url": "https://genius.com/artists/Kobalt-music"
+    },
+    {
+     "api_path": "/artists/2235997",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+     "id": 2235997,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Roncesvalles Music Publishing",
+     "url": "https://genius.com/artists/Roncesvalles-music-publishing"
+    },
+    {
+     "api_path": "/artists/2242012",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+     "id": 2242012,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Is Love and Above",
+     "url": "https://genius.com/artists/Is-love-and-above"
+    },
+    {
+     "api_path": "/artists/647230",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+     "id": 647230,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "EMI April Music",
+     "url": "https://genius.com/artists/Emi-april-music"
+    }
+   ]
+  },
+  {
+   "label": "Label",
+   "artists": [
+    {
+     "api_path": "/artists/1104563",
+     "header_image_url": "https://images.genius.com/6ee5d6766689e04358c1d0f8ea0ed8f0.600x600x1.png",
+     "id": 1104563,
+     "image_url": "https://images.genius.com/7b3fb2c00317cb2eb2453f9f4e7473d1.600x600x1.png",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Universal Music Group",
+     "url": "https://genius.com/artists/Universal-music-group"
+    },
+    {
+     "api_path": "/artists/31842",
+     "header_image_url": "https://images.genius.com/668127843432d16b26d7a7815fceab84.1000x1000x1.png",
+     "id": 31842,
+     "image_url": "https://images.genius.com/668127843432d16b26d7a7815fceab84.1000x1000x1.png",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Cash Money Records",
+     "url": "https://genius.com/artists/Cash-money-records"
+    },
+    {
+     "api_path": "/artists/197",
+     "header_image_url": "https://images.genius.com/87d1f55850ff46ff273909cb33bd6021.980x1000x1.jpg",
+     "id": 197,
+     "image_url": "https://images.genius.com/30308d55000064d804511897ace0482d.373x373x1.png",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Young Money",
+     "url": "https://genius.com/artists/Young-money"
+    },
+    {
+     "api_path": "/artists/1011844",
+     "header_image_url": "https://images.genius.com/d3d4fad20d9150bbcbdcf791b0532dd2.1000x1000x1.jpg",
+     "id": 1011844,
+     "image_url": "https://images.genius.com/d8ea37a285aa8bdcb0eaebb31f116529.1000x1000x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Republic Records",
+     "url": "https://genius.com/artists/Republic-records"
+    }
+   ]
+  }
+ ],
+ "description_annotation": {
+  "_type": "referent",
+  "annotator_id": 204792,
+  "annotator_login": "connorfootballOVO",
+  "api_path": "/referents/7465752",
+  "classification": "accepted",
+  "fragment": "Back to Back",
+  "id": 7465752,
+  "is_description": true,
+  "path": "/7465752/Drake-back-to-back/Back-to-back",
+  "range": {
+   "content": "Back to Back"
+  },
+  "song_id": 2266961,
+  "url": "https://genius.com/7465752/Drake-back-to-back/Back-to-back",
+  "verified_annotator_ids": [],
+  "annotatable": {
+   "api_path": "/songs/2266961",
+   "client_timestamps": {
+    "updated_by_human_at": 1604392939,
+    "lyrics_updated_at": 1586222421
+   },
+   "context": "Drake",
+   "id": 2266961,
+   "image_url": "https://images.genius.com/0e3dba170124f70a8ed995e7cf3d42eb.1000x1000x1.png",
+   "link_title": "Back to Back by\u00a0Drake",
+   "title": "Back to Back",
+   "type": "Song",
+   "url": "https://genius.com/Drake-back-to-back-lyrics"
+  },
+  "annotations": [
+   {
+    "api_path": "/annotations/7465752",
+    "body": {
+     "plain": "\u201cBack to Back\u201d is the second of Drake\u2019s responses to Meek Mill following his allegations of ghostwriting in July 2015, via a now-deleted tweet:\n\n\n\nThe title refers to the second diss track in a week (it came just four days after Drake dissed Meek Mill on \u201cCharged Up\u201d), as well as The Toronto Blue Jays winning back to back championships.\n\nTrue to his word, Drake performed the song live at OVO Fest accompanied by fan-made memes that dissed Meek Mill, a move taken straight from the Jay Z playbook. This is widely considered as the point where Drake won the beef.\n\nThe song cover shows Joe Carter, of Drake\u2019s hometown team the Toronto Blue Jays, after he hit the winning home run from the 1993 World Series against Meek\u2019s hometown team, the Philadelphia Phillies. The Blue Jays won the year before in 1992, earning \u201cback to back\u201d titles. Carter went to twitter to personally thank Drake for using his picture as cover art.\n\nThe release date of this track was no mistake, as the Phillies and Blue Jays faced off that same night (July 29th, 2015) on Sportsnet. Poetically, the Blue Jays came out on top, 8-2.\n\n\n\nAfter Meek\u2019s response track \u201cWanna Know\u201d was released, Drake prepared a third diss track entitled \u201c3Peat\u201d, and played it at his OVOFest headlining show. However, the diss was never released in full.\n\n\u201cBack To Back\u201d was nominated in the \u201cBest Rap Performance\u201d category at the 2016 Grammy Awards, the first diss track to do so.\n\nIn an interview on October 28, 2016, Meek Mill finally revealed what he thought about the track, stating:\n\nI ain\u2019t think it was no shit that people was gonna be like, \u2018you got killed.\u2019 I thought it was hot. Like when we shoot at niggas, you gotta shoot a nigga through the heart. When you wake up in the mirror, you looking in the mirror, you hearing what the nigga told you, some shit about yourself that you can\u2019t even deal with. That\u2019s how we battle where we come from."
+    },
+    "comment_count": 1,
+    "community": true,
+    "custom_preview": null,
+    "has_voters": true,
+    "id": 7465752,
+    "pinned": false,
+    "share_url": "https://genius.com/7465752",
+    "source": null,
+    "state": "accepted",
+    "url": "https://genius.com/7465752/Drake-back-to-back/Back-to-back",
+    "verified": false,
+    "votes_total": 350,
+    "current_user_metadata": {
+     "permissions": [
+      "create_comment"
+     ],
+     "excluded_permissions": [
+      "vote",
+      "edit",
+      "cosign",
+      "uncosign",
+      "destroy",
+      "accept",
+      "reject",
+      "see_unreviewed",
+      "clear_votes",
+      "propose_edit_to",
+      "pin_to_profile",
+      "unpin_from_profile",
+      "update_source",
+      "edit_custom_preview"
+     ],
+     "interactions": {
+      "cosign": false,
+      "pyong": false,
+      "vote": null
+     },
+     "iq_by_action": {}
+    },
+    "authors": [
+     {
+      "attribution": 0.18558951965065504,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/127862",
+       "avatar": {
+        "tiny": {
+         "url": "https://images.genius.com/avatars/tiny/97fd2a04f49a3707f9efe1c76cd3b292",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://images.genius.com/avatars/thumb/97fd2a04f49a3707f9efe1c76cd3b292",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://images.genius.com/avatars/small/97fd2a04f49a3707f9efe1c76cd3b292",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://images.genius.com/avatars/medium/97fd2a04f49a3707f9efe1c76cd3b292",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://images.genius.com/006697c6143f33d06ebbd245ff9d268d.1000x1000x1.jpg",
+       "human_readable_role_for_display": "Staff",
+       "id": 127862,
+       "iq": 527363,
+       "login": "Michael",
+       "name": "Michael Heal",
+       "role_for_display": "staff",
+       "url": "https://genius.com/Michael",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     },
+     {
+      "attribution": 0.13755458515283844,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/22577",
+       "avatar": {
+        "tiny": {
+         "url": "https://images.genius.com/avatars/tiny/53c155040fbda028ac0db7db2b200850",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://images.genius.com/avatars/thumb/53c155040fbda028ac0db7db2b200850",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://images.genius.com/avatars/small/53c155040fbda028ac0db7db2b200850",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://images.genius.com/avatars/medium/53c155040fbda028ac0db7db2b200850",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/XDY1xYIlTZGl3h5fKZ4v_bg1.jpg",
+       "human_readable_role_for_display": "Editor",
+       "id": 22577,
+       "iq": 20947,
+       "login": "zj96",
+       "name": "zj96",
+       "role_for_display": "editor",
+       "url": "https://genius.com/zj96",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     },
+     {
+      "attribution": 0.09388646288209607,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/204792",
+       "avatar": {
+        "tiny": {
+         "url": "https://assets.genius.com/images/default_avatar_16.png?1606943206",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://assets.genius.com/images/default_avatar_32.png?1606943206",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://assets.genius.com/images/default_avatar_100.png?1606943206",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+       "human_readable_role_for_display": "Contributor",
+       "id": 204792,
+       "iq": 1237,
+       "login": "connorfootballOVO",
+       "name": "connorfootballOVO",
+       "role_for_display": "contributor",
+       "url": "https://genius.com/connorfootballOVO",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     },
+     {
+      "attribution": 0.07205240174672489,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/830988",
+       "avatar": {
+        "tiny": {
+         "url": "https://images.genius.com/avatars/tiny/3c01844aa54eb4fa4cd6bfd4087b8917",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://images.genius.com/avatars/thumb/3c01844aa54eb4fa4cd6bfd4087b8917",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://images.genius.com/avatars/small/3c01844aa54eb4fa4cd6bfd4087b8917",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://images.genius.com/avatars/medium/3c01844aa54eb4fa4cd6bfd4087b8917",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/i5yreenmfem",
+       "human_readable_role_for_display": "Editor",
+       "id": 830988,
+       "iq": 23476,
+       "login": "TheWubGod",
+       "name": "TheWubGod",
+       "role_for_display": "editor",
+       "url": "https://genius.com/TheWubGod",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     },
+     {
+      "attribution": 0.06768558951965066,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/889808",
+       "avatar": {
+        "tiny": {
+         "url": "https://images.rapgenius.com/avatars/tiny/81ee66c43fc698ad7b8b420b7b66cb6f",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://images.rapgenius.com/avatars/thumb/81ee66c43fc698ad7b8b420b7b66cb6f",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://images.rapgenius.com/avatars/small/81ee66c43fc698ad7b8b420b7b66cb6f",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://images.rapgenius.com/avatars/medium/81ee66c43fc698ad7b8b420b7b66cb6f",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://images.rapgenius.com/avatars/medium/81ee66c43fc698ad7b8b420b7b66cb6f",
+       "human_readable_role_for_display": "Editor",
+       "id": 889808,
+       "iq": 20246,
+       "login": "JustBlinQandItsGone",
+       "name": "Translucent",
+       "role_for_display": "editor",
+       "url": "https://genius.com/JustBlinQandItsGone",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     },
+     {
+      "attribution": 0.06550218340611354,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/235789",
+       "avatar": {
+        "tiny": {
+         "url": "https://images.rapgenius.com/avatars/tiny/800e04f2c1fab5c24783f714f68d2acf",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://images.rapgenius.com/avatars/thumb/800e04f2c1fab5c24783f714f68d2acf",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://images.rapgenius.com/avatars/small/800e04f2c1fab5c24783f714f68d2acf",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://images.rapgenius.com/avatars/medium/800e04f2c1fab5c24783f714f68d2acf",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://images.rapgenius.com/avatars/medium/800e04f2c1fab5c24783f714f68d2acf",
+       "human_readable_role_for_display": "Editor",
+       "id": 235789,
+       "iq": 32472,
+       "login": "ezra",
+       "name": "Ezra Glenn",
+       "role_for_display": "editor",
+       "url": "https://genius.com/ezra",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     },
+     {
+      "attribution": 0.05458515283842795,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/1521943",
+       "avatar": {
+        "tiny": {
+         "url": "https://images.rapgenius.com/avatars/tiny/a50a6107028ab4daf84bd55561c00791",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://images.rapgenius.com/avatars/thumb/a50a6107028ab4daf84bd55561c00791",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://images.rapgenius.com/avatars/small/a50a6107028ab4daf84bd55561c00791",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://images.rapgenius.com/avatars/medium/a50a6107028ab4daf84bd55561c00791",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://images.rapgenius.com/avatars/medium/a50a6107028ab4daf84bd55561c00791",
+       "human_readable_role_for_display": "Contributor",
+       "id": 1521943,
+       "iq": 734,
+       "login": "martinman983",
+       "name": "martinman983",
+       "role_for_display": "contributor",
+       "url": "https://genius.com/martinman983",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     },
+     {
+      "attribution": 0.05240174672489083,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/130579",
+       "avatar": {
+        "tiny": {
+         "url": "https://s3.amazonaws.com/rapgenius/avatars/tiny/iKRdNr5hQfCLX2yvGBd6.jpg",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://s3.amazonaws.com/rapgenius/avatars/thumb/iKRdNr5hQfCLX2yvGBd6.jpg",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://s3.amazonaws.com/rapgenius/avatars/small/iKRdNr5hQfCLX2yvGBd6.jpg",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://s3.amazonaws.com/rapgenius/avatars/medium/iKRdNr5hQfCLX2yvGBd6.jpg",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://s3.amazonaws.com/rapgenius/avatars/medium/iKRdNr5hQfCLX2yvGBd6.jpg",
+       "human_readable_role_for_display": "Editor",
+       "id": 130579,
+       "iq": 7813,
+       "login": "IAintNoJoke",
+       "name": "IAintNoJoke",
+       "role_for_display": "editor",
+       "url": "https://genius.com/IAintNoJoke",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     },
+     {
+      "attribution": 0.039301310043668124,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/1101903",
+       "avatar": {
+        "tiny": {
+         "url": "https://images.genius.com/avatars/tiny/c135ad3076a9bb4a63ee7c325c916851",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://images.genius.com/avatars/thumb/c135ad3076a9bb4a63ee7c325c916851",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://images.genius.com/avatars/small/c135ad3076a9bb4a63ee7c325c916851",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://images.genius.com/avatars/medium/c135ad3076a9bb4a63ee7c325c916851",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/OaFu82TyRqqE8awxJ2Py_tumblr_oovidjw2o91vd6x9do1_1280.jpg",
+       "human_readable_role_for_display": "Editor",
+       "id": 1101903,
+       "iq": 63298,
+       "login": "TruSwag",
+       "name": "\ud83c\udf34TruSwag\ud83c\udf34",
+       "role_for_display": "editor",
+       "url": "https://genius.com/TruSwag",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     },
+     {
+      "attribution": 0.03711790393013101,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/2013850",
+       "avatar": {
+        "tiny": {
+         "url": "https://images.rapgenius.com/avatars/tiny/2c829cec9b630d2a48e140b2920d303f",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://images.rapgenius.com/avatars/thumb/2c829cec9b630d2a48e140b2920d303f",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://images.rapgenius.com/avatars/small/2c829cec9b630d2a48e140b2920d303f",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://images.rapgenius.com/avatars/medium/2c829cec9b630d2a48e140b2920d303f",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://images.rapgenius.com/avatars/medium/2c829cec9b630d2a48e140b2920d303f",
+       "human_readable_role_for_display": "Contributor",
+       "id": 2013850,
+       "iq": 530,
+       "login": "LordFabian",
+       "name": "LordFabian",
+       "role_for_display": "contributor",
+       "url": "https://genius.com/LordFabian",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     },
+     {
+      "attribution": 0.034934497816593885,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/987853",
+       "avatar": {
+        "tiny": {
+         "url": "https://images.genius.com/avatars/tiny/480e3e4f85919387606d90a18406dee8",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://images.genius.com/avatars/thumb/480e3e4f85919387606d90a18406dee8",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://images.genius.com/avatars/small/480e3e4f85919387606d90a18406dee8",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://images.genius.com/avatars/medium/480e3e4f85919387606d90a18406dee8",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://images.genius.com/avatars/medium/480e3e4f85919387606d90a18406dee8",
+       "human_readable_role_for_display": "Contributor",
+       "id": 987853,
+       "iq": 2944,
+       "login": "AndrewShady",
+       "name": "AndrewShady",
+       "role_for_display": "contributor",
+       "url": "https://genius.com/AndrewShady",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     },
+     {
+      "attribution": 0.034934497816593885,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/12128",
+       "avatar": {
+        "tiny": {
+         "url": "https://images.rapgenius.com/avatars/tiny/b0afb1ccd43ff1285d5ec9cd111713a4",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://images.rapgenius.com/avatars/thumb/b0afb1ccd43ff1285d5ec9cd111713a4",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://images.rapgenius.com/avatars/small/b0afb1ccd43ff1285d5ec9cd111713a4",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://images.rapgenius.com/avatars/medium/b0afb1ccd43ff1285d5ec9cd111713a4",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://images.rapgenius.com/avatars/medium/b0afb1ccd43ff1285d5ec9cd111713a4",
+       "human_readable_role_for_display": "Editor",
+       "id": 12128,
+       "iq": 186599,
+       "login": "dalmo",
+       "name": "Dalmo Mendon\u00e7a",
+       "role_for_display": "editor",
+       "url": "https://genius.com/dalmo",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     },
+     {
+      "attribution": 0.02183406113537118,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/992329",
+       "avatar": {
+        "tiny": {
+         "url": "https://images.genius.com/avatars/tiny/d115a602dbc8cd5a2eafd36a411133ad",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://images.genius.com/avatars/thumb/d115a602dbc8cd5a2eafd36a411133ad",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://images.genius.com/avatars/small/d115a602dbc8cd5a2eafd36a411133ad",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://images.genius.com/avatars/medium/d115a602dbc8cd5a2eafd36a411133ad",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://images.genius.com/avatars/medium/d115a602dbc8cd5a2eafd36a411133ad",
+       "human_readable_role_for_display": "Contributor",
+       "id": 992329,
+       "iq": 957,
+       "login": "ShawnOVO",
+       "name": "ShawnOVO",
+       "role_for_display": "contributor",
+       "url": "https://genius.com/ShawnOVO",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     },
+     {
+      "attribution": 0.02183406113537118,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/5125",
+       "avatar": {
+        "tiny": {
+         "url": "https://images.genius.com/33873f416bdf5ebd846b4f639bef18a7.1000x1000x1.png",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://images.genius.com/33873f416bdf5ebd846b4f639bef18a7.1000x1000x1.png",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://images.genius.com/33873f416bdf5ebd846b4f639bef18a7.1000x1000x1.png",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://images.genius.com/33873f416bdf5ebd846b4f639bef18a7.1000x1000x1.png",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://images.genius.com/e3d1177d9c6df7a3b22fb08aa625e7b1.1000x1000x1.png",
+       "human_readable_role_for_display": "Verified Artist",
+       "id": 5125,
+       "iq": 26994,
+       "login": "mrmastersucks",
+       "name": "\u200bmr. master",
+       "role_for_display": "verified_artist",
+       "url": "https://genius.com/mrmastersucks",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     },
+     {
+      "attribution": 0.017467248908296942,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/146660",
+       "avatar": {
+        "tiny": {
+         "url": "https://s3.amazonaws.com/rapgenius/avatars/tiny/b6XKWEpRxeJyEteQpLcw.jpg",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://s3.amazonaws.com/rapgenius/avatars/thumb/b6XKWEpRxeJyEteQpLcw.jpg",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://s3.amazonaws.com/rapgenius/avatars/small/b6XKWEpRxeJyEteQpLcw.jpg",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://s3.amazonaws.com/rapgenius/avatars/medium/b6XKWEpRxeJyEteQpLcw.jpg",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://s3.amazonaws.com/rapgenius/avatars/medium/b6XKWEpRxeJyEteQpLcw.jpg",
+       "human_readable_role_for_display": "Contributor",
+       "id": 146660,
+       "iq": 378,
+       "login": "taymonaay",
+       "name": "taymonaay",
+       "role_for_display": "contributor",
+       "url": "https://genius.com/taymonaay",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     },
+     {
+      "attribution": 0.015283842794759826,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/1490370",
+       "avatar": {
+        "tiny": {
+         "url": "https://assets.genius.com/images/default_avatar_16.png?1606943206",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://assets.genius.com/images/default_avatar_32.png?1606943206",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://assets.genius.com/images/default_avatar_100.png?1606943206",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+       "human_readable_role_for_display": "Contributor",
+       "id": 1490370,
+       "iq": 471,
+       "login": "CyrusOS",
+       "name": "CyrusOS",
+       "role_for_display": "contributor",
+       "url": "https://genius.com/CyrusOS",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     },
+     {
+      "attribution": 0.013100436681222707,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/12978",
+       "avatar": {
+        "tiny": {
+         "url": "https://images.rapgenius.com/avatars/tiny/4da848db1d2ba3fb84c084511a4601b7",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://images.rapgenius.com/avatars/thumb/4da848db1d2ba3fb84c084511a4601b7",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://images.rapgenius.com/avatars/small/4da848db1d2ba3fb84c084511a4601b7",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://images.rapgenius.com/avatars/medium/4da848db1d2ba3fb84c084511a4601b7",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://images.rapgenius.com/avatars/medium/4da848db1d2ba3fb84c084511a4601b7",
+       "human_readable_role_for_display": "Contributor",
+       "id": 12978,
+       "iq": 2965,
+       "login": "oduff",
+       "name": "oduff",
+       "role_for_display": "contributor",
+       "url": "https://genius.com/oduff",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     },
+     {
+      "attribution": 0.01091703056768559,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/2017102",
+       "avatar": {
+        "tiny": {
+         "url": "https://assets.genius.com/images/default_avatar_16.png?1606943206",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://assets.genius.com/images/default_avatar_32.png?1606943206",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://assets.genius.com/images/default_avatar_100.png?1606943206",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+       "human_readable_role_for_display": null,
+       "id": 2017102,
+       "iq": 14,
+       "login": "ShaneRoc",
+       "name": "ShaneRoc",
+       "role_for_display": null,
+       "url": "https://genius.com/ShaneRoc",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     },
+     {
+      "attribution": 0.006550218340611353,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/8534",
+       "avatar": {
+        "tiny": {
+         "url": "https://images.genius.com/avatars/tiny/d662e609f7d8c03fae7781bed7834f58",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://images.genius.com/avatars/thumb/d662e609f7d8c03fae7781bed7834f58",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://images.genius.com/avatars/small/d662e609f7d8c03fae7781bed7834f58",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://images.genius.com/avatars/medium/d662e609f7d8c03fae7781bed7834f58",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://images.genius.com/82c5966f5fefe7dc9d58df6e709eba45.570x144x1.jpg",
+       "human_readable_role_for_display": "Contributor",
+       "id": 8534,
+       "iq": 351394,
+       "login": "Ezzo",
+       "name": "Romi Ezzo",
+       "role_for_display": "contributor",
+       "url": "https://genius.com/Ezzo",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     },
+     {
+      "attribution": 0.004366812227074236,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/140605",
+       "avatar": {
+        "tiny": {
+         "url": "https://images.genius.com/avatars/tiny/d0eca2a1247d282f31bd85c32af7d561",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://images.genius.com/avatars/thumb/d0eca2a1247d282f31bd85c32af7d561",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://images.genius.com/avatars/small/d0eca2a1247d282f31bd85c32af7d561",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://images.genius.com/avatars/medium/d0eca2a1247d282f31bd85c32af7d561",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://images.genius.com/avatars/medium/d0eca2a1247d282f31bd85c32af7d561",
+       "human_readable_role_for_display": "Moderator",
+       "id": 140605,
+       "iq": 326649,
+       "login": "MrXercules",
+       "name": "MrXercules",
+       "role_for_display": "moderator",
+       "url": "https://genius.com/MrXercules",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     },
+     {
+      "attribution": 0.004366812227074236,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/186407",
+       "avatar": {
+        "tiny": {
+         "url": "https://images.rapgenius.com/avatars/tiny/955bc965870841f027eceb7b50f53164",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://images.rapgenius.com/avatars/thumb/955bc965870841f027eceb7b50f53164",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://images.rapgenius.com/avatars/small/955bc965870841f027eceb7b50f53164",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://images.rapgenius.com/avatars/medium/955bc965870841f027eceb7b50f53164",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://images.rapgenius.com/avatars/medium/955bc965870841f027eceb7b50f53164",
+       "human_readable_role_for_display": "Editor",
+       "id": 186407,
+       "iq": 25162,
+       "login": "TRUly_Chancelor",
+       "name": "TRUly_Chancelor",
+       "role_for_display": "editor",
+       "url": "https://genius.com/TRUly_Chancelor",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     },
+     {
+      "attribution": 0.004366812227074236,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/143119",
+       "avatar": {
+        "tiny": {
+         "url": "https://images.genius.com/avatars/tiny/435bf4128688f7daf8886838ca43fdb7",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://images.genius.com/avatars/thumb/435bf4128688f7daf8886838ca43fdb7",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://images.genius.com/avatars/small/435bf4128688f7daf8886838ca43fdb7",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://images.genius.com/avatars/medium/435bf4128688f7daf8886838ca43fdb7",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://images.genius.com/avatars/medium/435bf4128688f7daf8886838ca43fdb7",
+       "human_readable_role_for_display": "Staff",
+       "id": 143119,
+       "iq": 185413,
+       "login": "TheScrivener",
+       "name": "Elizabeth Milch",
+       "role_for_display": "staff",
+       "url": "https://genius.com/TheScrivener",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     },
+     {
+      "attribution": 0.002183406113537118,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/59324",
+       "avatar": {
+        "tiny": {
+         "url": "https://images.genius.com/avatars/tiny/ffe3a7fca8f5cfab52f43d5982576654",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://images.genius.com/avatars/thumb/ffe3a7fca8f5cfab52f43d5982576654",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://images.genius.com/avatars/small/ffe3a7fca8f5cfab52f43d5982576654",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://images.genius.com/avatars/medium/ffe3a7fca8f5cfab52f43d5982576654",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://images.genius.com/25668c4361913c59c30b2d04bf5371e1.1000x666x1.jpg",
+       "human_readable_role_for_display": "Moderator",
+       "id": 59324,
+       "iq": 188241,
+       "login": "kray",
+       "name": "KleberBriz",
+       "role_for_display": "moderator",
+       "url": "https://genius.com/kray",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     },
+     {
+      "attribution": 0.002183406113537118,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/1710294",
+       "avatar": {
+        "tiny": {
+         "url": "https://images.genius.com/avatars/tiny/34770935d89496157e42990ae26e5acc",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://images.genius.com/avatars/thumb/34770935d89496157e42990ae26e5acc",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://images.genius.com/avatars/small/34770935d89496157e42990ae26e5acc",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://images.genius.com/avatars/medium/34770935d89496157e42990ae26e5acc",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://images.genius.com/be0bb4c0a07bffe8d89465e0b74712f6.1000x831x1.png",
+       "human_readable_role_for_display": "Moderator",
+       "id": 1710294,
+       "iq": 180628,
+       "login": "SpeckHelper",
+       "name": "Austin Rotter",
+       "role_for_display": "moderator",
+       "url": "https://genius.com/SpeckHelper",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     }
+    ],
+    "cosigned_by": [],
+    "rejection_comment": null,
+    "verified_by": null
+   }
+  ]
+ },
+ "featured_artists": [],
+ "lyrics_marked_complete_by": null,
+ "media": [
+  {
+   "native_uri": "spotify:track:4rujbg8RNFitwtkv1qEq4K",
+   "provider": "spotify",
+   "type": "audio",
+   "url": "https://open.spotify.com/track/4rujbg8RNFitwtkv1qEq4K"
+  },
+  {
+   "attribution": "octobersveryown",
+   "provider": "soundcloud",
+   "type": "audio",
+   "url": "https://soundcloud.com/octobersveryown/drake-back-to-back-freestyle"
+  },
+  {
+   "provider": "youtube",
+   "start": 0,
+   "type": "video",
+   "url": "http://www.youtube.com/watch?v=XHYG2crLab4"
+  }
+ ],
+ "producer_artists": [
+  {
+   "api_path": "/artists/130",
+   "header_image_url": "https://images.genius.com/172e7e370be5e3c0f2a139e85add5cd3.480x246x9.gif",
+   "id": 130,
+   "image_url": "https://images.genius.com/c4e68239fca279091c055fe681cb4376.770x770x1.jpg",
+   "is_meme_verified": false,
+   "is_verified": false,
+   "name": "Drake",
+   "url": "https://genius.com/artists/Drake"
+  },
+  {
+   "api_path": "/artists/27612",
+   "header_image_url": "https://images.genius.com/c999dd154986a45b8981323a2ea53f98.620x380x1.jpg",
+   "id": 27612,
+   "image_url": "https://images.genius.com/c999dd154986a45b8981323a2ea53f98.620x380x1.jpg",
+   "is_meme_verified": false,
+   "is_verified": true,
+   "name": "40",
+   "url": "https://genius.com/artists/40",
+   "iq": 517
+  },
+  {
+   "api_path": "/artists/617327",
+   "header_image_url": "https://images.genius.com/da19a7b76442c914559044ab15a2d4dd.1000x666x1.jpg",
+   "id": 617327,
+   "image_url": "https://images.genius.com/30b7e90a53e80818894366997c1dcdce.900x900x1.png",
+   "is_meme_verified": false,
+   "is_verified": true,
+   "name": "NAV",
+   "url": "https://genius.com/artists/Nav",
+   "iq": 1662
+  },
+  {
+   "api_path": "/artists/328350",
+   "header_image_url": "https://images.genius.com/89f30a4c475c6a63fe0c0660bb0faaa8.1000x999x1.jpg",
+   "id": 328350,
+   "image_url": "https://images.genius.com/a084566de68f85413cff3fc04bd75d49.1000x1000x1.jpg",
+   "is_meme_verified": false,
+   "is_verified": false,
+   "name": "Daxz",
+   "url": "https://genius.com/artists/Daxz"
+  }
+ ],
+ "song_relationships": [
+  {
+   "relationship_type": "samples",
+   "type": "samples",
+   "songs": [
+    {
+     "annotation_count": 12,
+     "api_path": "/songs/36782",
+     "full_title": "Shut 'Em Down by\u00a0Public\u00a0Enemy",
+     "header_image_thumbnail_url": "https://images.genius.com/5141d3c28273cfa7a33bade786ea577d.300x300x1.jpg",
+     "header_image_url": "https://images.genius.com/5141d3c28273cfa7a33bade786ea577d.1000x1000x1.jpg",
+     "id": 36782,
+     "lyrics_owner_id": 1472105,
+     "lyrics_state": "complete",
+     "path": "/Public-enemy-shut-em-down-lyrics",
+     "pyongs_count": 9,
+     "song_art_image_thumbnail_url": "https://images.genius.com/5141d3c28273cfa7a33bade786ea577d.300x300x1.jpg",
+     "song_art_image_url": "https://images.genius.com/5141d3c28273cfa7a33bade786ea577d.1000x1000x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 2,
+      "hot": false,
+      "pageviews": 50967
+     },
+     "title": "Shut \u2019Em Down",
+     "title_with_featured": "Shut 'Em Down",
+     "url": "https://genius.com/Public-enemy-shut-em-down-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/203",
+      "header_image_url": "https://images.genius.com/2fc3c0101225462f95f494685c92e377.1000x525x1.jpg",
+      "id": 203,
+      "image_url": "https://images.genius.com/04e955b7303db3639fb9b82dc57b81b2.709x709x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Public Enemy",
+      "url": "https://genius.com/artists/Public-enemy"
+     }
+    }
+   ]
+  },
+  {
+   "relationship_type": "sampled_in",
+   "type": "sampled_in",
+   "songs": [
+    {
+     "annotation_count": 6,
+     "api_path": "/songs/2340926",
+     "full_title": "Back to Bars by\u00a0C.\u00a0Tangana",
+     "header_image_thumbnail_url": "https://images.genius.com/607751976f9f5f72a2dc3f92f910d28b.300x300x1.jpg",
+     "header_image_url": "https://images.genius.com/607751976f9f5f72a2dc3f92f910d28b.1000x1000x1.jpg",
+     "id": 2340926,
+     "lyrics_owner_id": 1655157,
+     "lyrics_state": "complete",
+     "path": "/C-tangana-back-to-bars-lyrics",
+     "pyongs_count": null,
+     "song_art_image_thumbnail_url": "https://images.genius.com/b5a2f047d0c50bb5c75cc8d50174fa04.300x300x1.jpg",
+     "song_art_image_url": "https://images.genius.com/b5a2f047d0c50bb5c75cc8d50174fa04.1000x1000x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 0,
+      "hot": false,
+      "pageviews": 6915
+     },
+     "title": "Back to Bars",
+     "title_with_featured": "Back to Bars",
+     "url": "https://genius.com/C-tangana-back-to-bars-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/56991",
+      "header_image_url": "https://images.genius.com/445008c8c30fbb3833ea70925ea6035e.1000x751x1.jpg",
+      "id": 56991,
+      "image_url": "https://images.genius.com/53eca08fcf1def6f060928f5baa3a4fc.1000x1000x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": true,
+      "name": "C. Tangana",
+      "url": "https://genius.com/artists/C-tangana",
+      "iq": 115
+     }
+    },
+    {
+     "annotation_count": 0,
+     "api_path": "/songs/2822724",
+     "full_title": "Drake's Beef by\u00a0Saturday\u00a0Night Live (Ft.\u00a0Aidy\u00a0Bryant, Drake, Leslie\u00a0Jones, Lorne\u00a0Michaels, Pete\u00a0Davidson & Vanessa\u00a0Bayer)",
+     "header_image_thumbnail_url": "https://images.genius.com/e4e3dabc451716e35fe9caf3803933fd.300x214x1.jpg",
+     "header_image_url": "https://images.genius.com/e4e3dabc451716e35fe9caf3803933fd.1000x714x1.jpg",
+     "id": 2822724,
+     "lyrics_owner_id": 1091826,
+     "lyrics_state": "complete",
+     "path": "/Saturday-night-live-drakes-beef-annotated",
+     "pyongs_count": 1,
+     "song_art_image_thumbnail_url": "https://images.genius.com/4fa608d94fdb0bf882cf29cd2f34bbfc.300x169x1.jpg",
+     "song_art_image_url": "https://images.genius.com/4fa608d94fdb0bf882cf29cd2f34bbfc.1000x563x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 0,
+      "hot": false
+     },
+     "title": "Drake\u2019s Beef",
+     "title_with_featured": "Drake's Beef (Ft.\u00a0Aidy\u00a0Bryant, Drake, Leslie\u00a0Jones, Lorne\u00a0Michaels, Pete\u00a0Davidson & Vanessa\u00a0Bayer)",
+     "url": "https://genius.com/Saturday-night-live-drakes-beef-annotated",
+     "primary_artist": {
+      "api_path": "/artists/179296",
+      "header_image_url": "https://images.genius.com/612090dce21ba9320b52d9f5b7de7aa8.600x300x1.jpg",
+      "id": 179296,
+      "image_url": "https://images.genius.com/22f70c94b1e52b258153e246af77ed52.900x900x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Saturday Night Live",
+      "url": "https://genius.com/artists/Saturday-night-live"
+     }
+    },
+    {
+     "annotation_count": 2,
+     "api_path": "/songs/2878287",
+     "full_title": "Rap - \u05e8\u05d0\u05e4 by\u00a0Lukach\u00a0- \u05dc\u05d5\u05e7\u05e5\u05f3 (Ft.\u00a0Cohen\u00a0- \u05db\u05d4\u05df & Michael\u00a0Swissa - \u05de\u05d9\u05db\u05d0\u05dc \u05e1\u05d5\u05d5\u05d9\u05e1\u05d4)",
+     "header_image_thumbnail_url": "https://images.genius.com/a90b07f915b6803beca271200011722e.300x300x1.jpg",
+     "header_image_url": "https://images.genius.com/a90b07f915b6803beca271200011722e.1000x1000x1.jpg",
+     "id": 2878287,
+     "lyrics_owner_id": 3400065,
+     "lyrics_state": "complete",
+     "path": "/Lukach-rap-lyrics",
+     "pyongs_count": null,
+     "song_art_image_thumbnail_url": "https://images.genius.com/a90b07f915b6803beca271200011722e.300x300x1.jpg",
+     "song_art_image_url": "https://images.genius.com/a90b07f915b6803beca271200011722e.1000x1000x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 0,
+      "hot": false,
+      "pageviews": 8500
+     },
+     "title": "Rap - \u05e8\u05d0\u05e4",
+     "title_with_featured": "Rap - \u05e8\u05d0\u05e4 (Ft.\u00a0Cohen\u00a0- \u05db\u05d4\u05df & Michael\u00a0Swissa - \u05de\u05d9\u05db\u05d0\u05dc \u05e1\u05d5\u05d5\u05d9\u05e1\u05d4)",
+     "url": "https://genius.com/Lukach-rap-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/1010643",
+      "header_image_url": "https://images.genius.com/2537d3315f59ec76deda8ca7fd075ac1.680x382x1.jpg",
+      "id": 1010643,
+      "image_url": "https://images.genius.com/970ca99eb78a1333fda63073d643b18c.1000x1000x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": true,
+      "name": "Lukach - \u05dc\u05d5\u05e7\u05e5\u05f3",
+      "url": "https://genius.com/artists/Lukach",
+      "iq": 463
+     }
+    },
+    {
+     "annotation_count": 24,
+     "api_path": "/songs/3194218",
+     "full_title": "KSI's Little Brother by\u00a0Miniminter",
+     "header_image_thumbnail_url": "https://images.genius.com/0ddb44d50f279e4afe94b308226adc8a.300x169x1.jpg",
+     "header_image_url": "https://images.genius.com/0ddb44d50f279e4afe94b308226adc8a.1000x563x1.jpg",
+     "id": 3194218,
+     "lyrics_owner_id": 4915996,
+     "lyrics_state": "complete",
+     "path": "/Miniminter-ksis-little-brother-lyrics",
+     "pyongs_count": 16,
+     "song_art_image_thumbnail_url": "https://images.genius.com/bb46ab65bdc7a6b8b20f3b605d344e47.300x300x1.jpg",
+     "song_art_image_url": "https://images.genius.com/bb46ab65bdc7a6b8b20f3b605d344e47.640x640x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 2,
+      "concurrents": 2,
+      "hot": false,
+      "pageviews": 210812
+     },
+     "title": "KSI\u2019s Little Brother",
+     "title_with_featured": "KSI's Little Brother",
+     "url": "https://genius.com/Miniminter-ksis-little-brother-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/1154260",
+      "header_image_url": "https://images.genius.com/c28df4d7c622715c4a79ce122252030c.640x176x1.jpg",
+      "id": 1154260,
+      "image_url": "https://images.genius.com/ed470f9d3dfa87e50e74932b31a79a16.643x643x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Miniminter",
+      "url": "https://genius.com/artists/Miniminter"
+     }
+    },
+    {
+     "annotation_count": 16,
+     "api_path": "/songs/3396334",
+     "full_title": "Back To Back by\u00a0Vidrata (Ft.\u00a0NIKOLOF)",
+     "header_image_thumbnail_url": "https://images.genius.com/a394768a5301fe644b348b04114d6211.300x300x1.png",
+     "header_image_url": "https://images.genius.com/a394768a5301fe644b348b04114d6211.1000x1000x1.png",
+     "id": 3396334,
+     "lyrics_owner_id": 5681251,
+     "lyrics_state": "complete",
+     "path": "/Vidrata-back-to-back-lyrics",
+     "pyongs_count": null,
+     "song_art_image_thumbnail_url": "https://images.genius.com/a394768a5301fe644b348b04114d6211.300x300x1.png",
+     "song_art_image_url": "https://images.genius.com/a394768a5301fe644b348b04114d6211.1000x1000x1.png",
+     "stats": {
+      "unreviewed_annotations": 4,
+      "hot": false
+     },
+     "title": "Back To Back",
+     "title_with_featured": "Back To Back (Ft.\u00a0NIKOLOF)",
+     "url": "https://genius.com/Vidrata-back-to-back-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/1298521",
+      "header_image_url": "https://images.genius.com/a4bf5a518331202ac9868b13009a1ef7.1000x563x1.png",
+      "id": 1298521,
+      "image_url": "https://images.genius.com/ef0ff18b731f5525eb81c024301a7c8f.1000x1000x1.png",
+      "is_meme_verified": false,
+      "is_verified": true,
+      "name": "Vidrata",
+      "url": "https://genius.com/artists/Vidrata",
+      "iq": 702
+     }
+    },
+    {
+     "annotation_count": 5,
+     "api_path": "/songs/4827457",
+     "full_title": "Talkin' Sh!t by\u00a0Black\u00a0FM",
+     "header_image_thumbnail_url": "https://images.genius.com/acf0d2cf3bb2e17a43ccec6c7bc0c0fc.300x300x1.jpg",
+     "header_image_url": "https://images.genius.com/acf0d2cf3bb2e17a43ccec6c7bc0c0fc.1000x1000x1.jpg",
+     "id": 4827457,
+     "lyrics_owner_id": 9249771,
+     "lyrics_state": "complete",
+     "path": "/Black-fm-talkin-sh-t-lyrics",
+     "pyongs_count": null,
+     "song_art_image_thumbnail_url": "https://images.genius.com/acf0d2cf3bb2e17a43ccec6c7bc0c0fc.300x300x1.jpg",
+     "song_art_image_url": "https://images.genius.com/acf0d2cf3bb2e17a43ccec6c7bc0c0fc.1000x1000x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 5,
+      "hot": false
+     },
+     "title": "Talkin\u2019 Sh!t",
+     "title_with_featured": "Talkin' Sh!t",
+     "url": "https://genius.com/Black-fm-talkin-sh-t-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/1934276",
+      "header_image_url": "https://images.genius.com/dd2ffa33a6b4c1d3c02b0782074702e8.1000x1000x1.jpg",
+      "id": 1934276,
+      "image_url": "https://images.genius.com/acf0d2cf3bb2e17a43ccec6c7bc0c0fc.1000x1000x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Black FM",
+      "url": "https://genius.com/artists/Black-fm"
+     }
+    }
+   ]
+  },
+  {
+   "relationship_type": "interpolates",
+   "type": "interpolates",
+   "songs": []
+  },
+  {
+   "relationship_type": "interpolated_by",
+   "type": "interpolated_by",
+   "songs": [
+    {
+     "annotation_count": 4,
+     "api_path": "/songs/2322233",
+     "full_title": "Internet by\u00a0Soulja\u00a0Boy",
+     "header_image_thumbnail_url": "https://images.genius.com/728ed35a6e5ef6c7a5f608c4b99bb4df.300x300x1.jpg",
+     "header_image_url": "https://images.genius.com/728ed35a6e5ef6c7a5f608c4b99bb4df.1000x1000x1.jpg",
+     "id": 2322233,
+     "lyrics_owner_id": 2047758,
+     "lyrics_state": "complete",
+     "path": "/Soulja-boy-internet-lyrics",
+     "pyongs_count": null,
+     "song_art_image_thumbnail_url": "https://images.genius.com/728ed35a6e5ef6c7a5f608c4b99bb4df.300x300x1.jpg",
+     "song_art_image_url": "https://images.genius.com/728ed35a6e5ef6c7a5f608c4b99bb4df.1000x1000x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 4,
+      "hot": false
+     },
+     "title": "Internet",
+     "title_with_featured": "Internet",
+     "url": "https://genius.com/Soulja-boy-internet-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/1194",
+      "header_image_url": "https://images.genius.com/6c3698f1773e6c8d26f727098a204999.1000x300x1.jpg",
+      "id": 1194,
+      "image_url": "https://images.genius.com/2dc7b70654e7d65861789ce1909922cc.1000x1000x1.jpg",
+      "is_meme_verified": true,
+      "is_verified": true,
+      "name": "Soulja Boy",
+      "url": "https://genius.com/artists/Soulja-boy",
+      "iq": 1077
+     }
+    },
+    {
+     "annotation_count": 39,
+     "api_path": "/songs/2811410",
+     "full_title": "Wake by\u00a0Joe\u00a0Budden",
+     "header_image_thumbnail_url": "https://images.genius.com/db8d2efc27daee56faef6a9a26462d12.300x300x1.jpg",
+     "header_image_url": "https://images.genius.com/db8d2efc27daee56faef6a9a26462d12.750x750x1.jpg",
+     "id": 2811410,
+     "lyrics_owner_id": 104344,
+     "lyrics_state": "complete",
+     "path": "/Joe-budden-wake-lyrics",
+     "pyongs_count": 43,
+     "song_art_image_thumbnail_url": "https://images.genius.com/db8d2efc27daee56faef6a9a26462d12.300x300x1.jpg",
+     "song_art_image_url": "https://images.genius.com/db8d2efc27daee56faef6a9a26462d12.750x750x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 0,
+      "hot": false,
+      "pageviews": 117308
+     },
+     "title": "Wake",
+     "title_with_featured": "Wake",
+     "url": "https://genius.com/Joe-budden-wake-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/179",
+      "header_image_url": "https://images.genius.com/ac6c8ba8d6aa88b06e5886a2840ed9f0.1000x428x1.jpg",
+      "id": 179,
+      "image_url": "https://images.genius.com/43f9c82f7269ffb7397a0cc13844ec8d.513x513x1.jpg",
+      "is_meme_verified": true,
+      "is_verified": true,
+      "name": "Joe Budden",
+      "url": "https://genius.com/artists/Joe-budden",
+      "iq": 10704
+     }
+    },
+    {
+     "annotation_count": 7,
+     "api_path": "/songs/2824678",
+     "full_title": "Jesse and Andy Milonakis Diss Track by\u00a0RiceGum",
+     "header_image_thumbnail_url": "https://images.genius.com/4f7d11312fc368fe8d5daca2b01c7d7b.300x300x1.jpg",
+     "header_image_url": "https://images.genius.com/4f7d11312fc368fe8d5daca2b01c7d7b.777x777x1.jpg",
+     "id": 2824678,
+     "lyrics_owner_id": 3265907,
+     "lyrics_state": "complete",
+     "path": "/Ricegum-jesse-and-andy-milonakis-diss-track-lyrics",
+     "pyongs_count": 2,
+     "song_art_image_thumbnail_url": "https://images.genius.com/4f7d11312fc368fe8d5daca2b01c7d7b.300x300x1.jpg",
+     "song_art_image_url": "https://images.genius.com/4f7d11312fc368fe8d5daca2b01c7d7b.777x777x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 6,
+      "hot": false,
+      "pageviews": 34468
+     },
+     "title": "Jesse and Andy Milonakis Diss Track",
+     "title_with_featured": "Jesse and Andy Milonakis Diss Track",
+     "url": "https://genius.com/Ricegum-jesse-and-andy-milonakis-diss-track-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/658406",
+      "header_image_url": "https://images.genius.com/20565655eb7327a6ac20513b556e4170.1000x333x1.jpg",
+      "id": 658406,
+      "image_url": "https://images.genius.com/4f7d11312fc368fe8d5daca2b01c7d7b.777x777x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "RiceGum",
+      "url": "https://genius.com/artists/Ricegum"
+     }
+    },
+    {
+     "annotation_count": 24,
+     "api_path": "/songs/3008859",
+     "full_title": "Another One by\u00a0Remy\u00a0Ma",
+     "header_image_thumbnail_url": "https://images.genius.com/c5d9ea1de84402f2538fd57c020c58c7.300x300x1.jpg",
+     "header_image_url": "https://images.genius.com/c5d9ea1de84402f2538fd57c020c58c7.700x700x1.jpg",
+     "id": 3008859,
+     "lyrics_owner_id": 3059268,
+     "lyrics_state": "complete",
+     "path": "/Remy-ma-another-one-lyrics",
+     "pyongs_count": 7,
+     "song_art_image_thumbnail_url": "https://images.genius.com/9e59977b4256a6748b936060e6d17b37.300x300x1.jpg",
+     "song_art_image_url": "https://images.genius.com/9e59977b4256a6748b936060e6d17b37.355x355x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 1,
+      "hot": false,
+      "pageviews": 87729
+     },
+     "title": "Another One",
+     "title_with_featured": "Another One",
+     "url": "https://genius.com/Remy-ma-another-one-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/2274",
+      "header_image_url": "https://images.genius.com/aa3c0f4bd28538cc9fb5e05c63f10ffd.480x600x1.jpg",
+      "id": 2274,
+      "image_url": "https://images.genius.com/830781a0ee8f2dba542e5ac5165044af.480x480x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": true,
+      "name": "Remy Ma",
+      "url": "https://genius.com/artists/Remy-ma",
+      "iq": 525
+     }
+    },
+    {
+     "annotation_count": 3,
+     "api_path": "/songs/3878413",
+     "full_title": "No Cappin by\u00a0Dax",
+     "header_image_thumbnail_url": "https://images.genius.com/564713c895cd129aa3441c2238276125.300x300x1.png",
+     "header_image_url": "https://images.genius.com/564713c895cd129aa3441c2238276125.512x512x1.png",
+     "id": 3878413,
+     "lyrics_owner_id": 5177186,
+     "lyrics_state": "complete",
+     "path": "/Dax-no-cappin-lyrics",
+     "pyongs_count": null,
+     "song_art_image_thumbnail_url": "https://images.genius.com/0512504536a73472a1bec70367a9adff.300x300x1.jpg",
+     "song_art_image_url": "https://images.genius.com/0512504536a73472a1bec70367a9adff.1000x1000x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 2,
+      "hot": false,
+      "pageviews": 17030
+     },
+     "title": "No Cappin",
+     "title_with_featured": "No Cappin",
+     "url": "https://genius.com/Dax-no-cappin-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/16711",
+      "header_image_url": "https://images.genius.com/44e95e196b60371bc405f61d2ef225ee.620x350x1.jpg",
+      "id": 16711,
+      "image_url": "https://images.genius.com/ebaef6dee442778e7fe3a61e15a62464.555x555x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": true,
+      "name": "Dax",
+      "url": "https://genius.com/artists/Dax",
+      "iq": 2406
+     }
+    },
+    {
+     "annotation_count": 0,
+     "api_path": "/songs/4977093",
+     "full_title": "RiskyBizness by\u00a0Reddo",
+     "header_image_thumbnail_url": "https://images.genius.com/53aaa8cfd7f552f654b494463eb85012.300x300x1.jpg",
+     "header_image_url": "https://images.genius.com/53aaa8cfd7f552f654b494463eb85012.500x500x1.jpg",
+     "id": 4977093,
+     "lyrics_owner_id": 548516,
+     "lyrics_state": "complete",
+     "path": "/Reddo-riskybizness-lyrics",
+     "pyongs_count": null,
+     "song_art_image_thumbnail_url": "https://images.genius.com/53aaa8cfd7f552f654b494463eb85012.300x300x1.jpg",
+     "song_art_image_url": "https://images.genius.com/53aaa8cfd7f552f654b494463eb85012.500x500x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 0,
+      "hot": false
+     },
+     "title": "RiskyBizness",
+     "title_with_featured": "RiskyBizness",
+     "url": "https://genius.com/Reddo-riskybizness-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/1570852",
+      "header_image_url": "https://images.genius.com/9d10516fe0483bf2ec0ca7bfa9831d27.1000x1000x1.jpg",
+      "id": 1570852,
+      "image_url": "https://images.genius.com/9d10516fe0483bf2ec0ca7bfa9831d27.1000x1000x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Reddo",
+      "url": "https://genius.com/artists/Reddo"
+     }
+    },
+    {
+     "annotation_count": 22,
+     "api_path": "/songs/5087398",
+     "full_title": "The Invitation by\u00a0Nick\u00a0Cannon (Ft.\u00a0Charlie\u00a0Clips, Hitman\u00a0Holla, Prince\u00a0Eazy & Suge\u00a0Knight)",
+     "header_image_thumbnail_url": "https://images.genius.com/a4d041eb259122f7aa5a3dbc1c36ff86.300x300x1.jpg",
+     "header_image_url": "https://images.genius.com/a4d041eb259122f7aa5a3dbc1c36ff86.1000x1000x1.jpg",
+     "id": 5087398,
+     "lyrics_owner_id": 5748418,
+     "lyrics_state": "complete",
+     "path": "/Nick-cannon-the-invitation-lyrics",
+     "pyongs_count": 5,
+     "song_art_image_thumbnail_url": "https://images.genius.com/a4d041eb259122f7aa5a3dbc1c36ff86.300x300x1.jpg",
+     "song_art_image_url": "https://images.genius.com/a4d041eb259122f7aa5a3dbc1c36ff86.1000x1000x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 11,
+      "hot": false,
+      "pageviews": 207418
+     },
+     "title": "The Invitation",
+     "title_with_featured": "The Invitation (Ft.\u00a0Charlie\u00a0Clips, Hitman\u00a0Holla, Prince\u00a0Eazy & Suge\u00a0Knight)",
+     "url": "https://genius.com/Nick-cannon-the-invitation-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/536",
+      "header_image_url": "https://images.genius.com/b525b0bd793ffede67405de36bc4dd5d.439x439x1.jpg",
+      "id": 536,
+      "image_url": "https://images.genius.com/b525b0bd793ffede67405de36bc4dd5d.439x439x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": true,
+      "name": "Nick Cannon",
+      "url": "https://genius.com/artists/Nick-cannon",
+      "iq": 1534
+     }
+    }
+   ]
+  },
+  {
+   "relationship_type": "cover_of",
+   "type": "cover_of",
+   "songs": []
+  },
+  {
+   "relationship_type": "covered_by",
+   "type": "covered_by",
+   "songs": []
+  },
+  {
+   "relationship_type": "remix_of",
+   "type": "remix_of",
+   "songs": []
+  },
+  {
+   "relationship_type": "remixed_by",
+   "type": "remixed_by",
+   "songs": [
+    {
+     "annotation_count": 12,
+     "api_path": "/songs/2268293",
+     "full_title": "Back to Back Freestyle by\u00a0Money\u00a0Boy",
+     "header_image_thumbnail_url": "https://images.rapgenius.com/28b4424c4fb3d16a674af1850a28c853.300x225x1.jpg",
+     "header_image_url": "https://images.rapgenius.com/28b4424c4fb3d16a674af1850a28c853.480x360x1.jpg",
+     "id": 2268293,
+     "lyrics_owner_id": 811816,
+     "lyrics_state": "complete",
+     "path": "/Money-boy-back-to-back-freestyle-lyrics",
+     "pyongs_count": 2,
+     "song_art_image_thumbnail_url": "https://images.rapgenius.com/28b4424c4fb3d16a674af1850a28c853.300x225x1.jpg",
+     "song_art_image_url": "https://images.rapgenius.com/28b4424c4fb3d16a674af1850a28c853.480x360x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 0,
+      "hot": false
+     },
+     "title": "Back to Back Freestyle",
+     "title_with_featured": "Back to Back Freestyle",
+     "url": "https://genius.com/Money-boy-back-to-back-freestyle-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/13383",
+      "header_image_url": "https://images.genius.com/518af65aa7428ef8e51a2455e2407c76.800x533x1.jpg",
+      "id": 13383,
+      "image_url": "https://images.genius.com/608fffc47b1f8a36b38821cad6f72cc2.533x533x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": true,
+      "name": "Money Boy",
+      "url": "https://genius.com/artists/Money-boy",
+      "iq": 1447
+     }
+    },
+    {
+     "annotation_count": 20,
+     "api_path": "/songs/2308879",
+     "full_title": "Wack 2 Wack by\u00a0Sauce\u00a0Walka",
+     "header_image_thumbnail_url": "https://images.rapgenius.com/bd3df1a6c9bbdca1626bc0b99afe7928.300x300x1.jpg",
+     "header_image_url": "https://images.rapgenius.com/bd3df1a6c9bbdca1626bc0b99afe7928.600x600x1.jpg",
+     "id": 2308879,
+     "lyrics_owner_id": 321054,
+     "lyrics_state": "complete",
+     "path": "/Sauce-walka-wack-2-wack-lyrics",
+     "pyongs_count": 6,
+     "song_art_image_thumbnail_url": "https://images.rapgenius.com/bd3df1a6c9bbdca1626bc0b99afe7928.300x300x1.jpg",
+     "song_art_image_url": "https://images.rapgenius.com/bd3df1a6c9bbdca1626bc0b99afe7928.600x600x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 14,
+      "hot": false,
+      "pageviews": 25502
+     },
+     "title": "Wack 2 Wack",
+     "title_with_featured": "Wack 2 Wack",
+     "url": "https://genius.com/Sauce-walka-wack-2-wack-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/228743",
+      "header_image_url": "https://images.genius.com/1c1e075951b84dfed79c0025a87d273e.1000x1000x1.jpg",
+      "id": 228743,
+      "image_url": "https://images.genius.com/0bcdc66bb3bd321e70551fa51c559281.574x574x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Sauce Walka",
+      "url": "https://genius.com/artists/Sauce-walka"
+     }
+    },
+    {
+     "annotation_count": 26,
+     "api_path": "/songs/2327731",
+     "full_title": "Back to Back (Barack Obama) by\u00a0Alphacat",
+     "header_image_thumbnail_url": "https://images.genius.com/55ddaa668217781df6b7b515b45f4181.300x169x1.jpg",
+     "header_image_url": "https://images.genius.com/55ddaa668217781df6b7b515b45f4181.1000x563x1.jpg",
+     "id": 2327731,
+     "lyrics_owner_id": 1881128,
+     "lyrics_state": "complete",
+     "path": "/Alphacat-back-to-back-barack-obama-lyrics",
+     "pyongs_count": 6,
+     "song_art_image_thumbnail_url": "https://images.genius.com/55ddaa668217781df6b7b515b45f4181.300x169x1.jpg",
+     "song_art_image_url": "https://images.genius.com/55ddaa668217781df6b7b515b45f4181.1000x563x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 10,
+      "hot": false,
+      "pageviews": 27659
+     },
+     "title": "Back to Back (Barack Obama)",
+     "title_with_featured": "Back to Back (Barack Obama)",
+     "url": "https://genius.com/Alphacat-back-to-back-barack-obama-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/15416",
+      "header_image_url": "https://images.genius.com/96c74161fb42078ac3b70b37a2518392.679x679x1.png",
+      "id": 15416,
+      "image_url": "https://images.genius.com/96c74161fb42078ac3b70b37a2518392.679x679x1.png",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Alphacat",
+      "url": "https://genius.com/artists/Alphacat"
+     }
+    },
+    {
+     "annotation_count": 27,
+     "api_path": "/songs/2342778",
+     "full_title": "Back 2 Back by\u00a0Lil\u00a0Wayne",
+     "header_image_thumbnail_url": "https://images.genius.com/ed7fb7fe9af1d913b520bf5336619560.300x300x1.jpg",
+     "header_image_url": "https://images.genius.com/ed7fb7fe9af1d913b520bf5336619560.800x800x1.jpg",
+     "id": 2342778,
+     "lyrics_owner_id": 672397,
+     "lyrics_state": "complete",
+     "path": "/Lil-wayne-back-2-back-lyrics",
+     "pyongs_count": 22,
+     "song_art_image_thumbnail_url": "https://images.genius.com/ed7fb7fe9af1d913b520bf5336619560.300x300x1.jpg",
+     "song_art_image_url": "https://images.genius.com/ed7fb7fe9af1d913b520bf5336619560.800x800x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 0,
+      "hot": false,
+      "pageviews": 73855
+     },
+     "title": "Back 2 Back",
+     "title_with_featured": "Back 2 Back",
+     "url": "https://genius.com/Lil-wayne-back-2-back-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/4",
+      "header_image_url": "https://images.genius.com/0cc2fdca3461d34878a59e3791b35e7b.500x278x13.gif",
+      "id": 4,
+      "image_url": "https://images.genius.com/b42bde67bc461dd55a00b577f33673bb.745x745x1.jpg",
+      "is_meme_verified": true,
+      "is_verified": true,
+      "name": "Lil Wayne",
+      "url": "https://genius.com/artists/Lil-wayne",
+      "iq": 4184
+     }
+    },
+    {
+     "annotation_count": 33,
+     "api_path": "/songs/2413478",
+     "full_title": "Flat To Fact by\u00a0Ellect (Ft.\u00a0Neil\u00a0deGrasse Tyson)",
+     "header_image_thumbnail_url": "https://images.rapgenius.com/64195345e4bb68e4af53844b5eb7b4d4.300x300x1.jpg",
+     "header_image_url": "https://images.rapgenius.com/64195345e4bb68e4af53844b5eb7b4d4.500x500x1.jpg",
+     "id": 2413478,
+     "lyrics_owner_id": 25313,
+     "lyrics_state": "complete",
+     "path": "/Ellect-flat-to-fact-lyrics",
+     "pyongs_count": 19,
+     "song_art_image_thumbnail_url": "https://images.rapgenius.com/64195345e4bb68e4af53844b5eb7b4d4.300x300x1.jpg",
+     "song_art_image_url": "https://images.rapgenius.com/64195345e4bb68e4af53844b5eb7b4d4.500x500x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 4,
+      "hot": false,
+      "pageviews": 18935
+     },
+     "title": "Flat To Fact",
+     "title_with_featured": "Flat To Fact (Ft.\u00a0Neil\u00a0deGrasse Tyson)",
+     "url": "https://genius.com/Ellect-flat-to-fact-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/16143",
+      "header_image_url": "https://images.genius.com/60ab0a16eb034f56021d7a847af04501.1000x1000x1.jpg",
+      "id": 16143,
+      "image_url": "https://images.genius.com/60ab0a16eb034f56021d7a847af04501.1000x1000x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": true,
+      "name": "Ellect",
+      "url": "https://genius.com/artists/Ellect",
+      "iq": 3154
+     }
+    },
+    {
+     "annotation_count": 0,
+     "api_path": "/songs/2624319",
+     "full_title": "Back to Back by\u00a0Nuevo",
+     "header_image_thumbnail_url": "https://images.genius.com/73d68584af4daf932631d478bfe9e2be.300x300x1.jpg",
+     "header_image_url": "https://images.genius.com/73d68584af4daf932631d478bfe9e2be.504x504x1.jpg",
+     "id": 2624319,
+     "lyrics_owner_id": 2393031,
+     "lyrics_state": "complete",
+     "path": "/Nuevo-back-to-back-lyrics",
+     "pyongs_count": null,
+     "song_art_image_thumbnail_url": "https://images.genius.com/73d68584af4daf932631d478bfe9e2be.300x300x1.jpg",
+     "song_art_image_url": "https://images.genius.com/73d68584af4daf932631d478bfe9e2be.504x504x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 0,
+      "hot": false
+     },
+     "title": "Back to Back",
+     "title_with_featured": "Back to Back",
+     "url": "https://genius.com/Nuevo-back-to-back-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/669933",
+      "header_image_url": "https://images.genius.com/1458056882c7af71c342c2dd95a96682.1000x1000x1.png",
+      "id": 669933,
+      "image_url": "https://images.genius.com/1458056882c7af71c342c2dd95a96682.1000x1000x1.png",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Nuevo",
+      "url": "https://genius.com/artists/Nuevo"
+     }
+    },
+    {
+     "annotation_count": 1,
+     "api_path": "/songs/3098631",
+     "full_title": "Back To Back Freestyle by\u00a0Aha\u00a0Gazelle",
+     "header_image_thumbnail_url": "https://images.genius.com/ad242321fd94c2407407c41833e41eef.300x300x1.jpg",
+     "header_image_url": "https://images.genius.com/ad242321fd94c2407407c41833e41eef.1000x1000x1.jpg",
+     "id": 3098631,
+     "lyrics_owner_id": 3480560,
+     "lyrics_state": "complete",
+     "path": "/Aha-gazelle-back-to-back-freestyle-lyrics",
+     "pyongs_count": null,
+     "song_art_image_thumbnail_url": "https://images.genius.com/ad242321fd94c2407407c41833e41eef.300x300x1.jpg",
+     "song_art_image_url": "https://images.genius.com/ad242321fd94c2407407c41833e41eef.1000x1000x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 1,
+      "hot": false
+     },
+     "title": "Back To Back Freestyle",
+     "title_with_featured": "Back To Back Freestyle",
+     "url": "https://genius.com/Aha-gazelle-back-to-back-freestyle-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/136202",
+      "header_image_url": "https://images.genius.com/c0b7cff0d287c164851ea1b44b548007.1000x333x1.jpg",
+      "id": 136202,
+      "image_url": "https://images.genius.com/ad242321fd94c2407407c41833e41eef.1000x1000x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": true,
+      "name": "Aha Gazelle",
+      "url": "https://genius.com/artists/Aha-gazelle",
+      "iq": 3578
+     }
+    },
+    {
+     "annotation_count": 2,
+     "api_path": "/songs/3123701",
+     "full_title": "Back to Back (Remix) by\u00a0K.A.A.N.",
+     "header_image_thumbnail_url": "https://images.genius.com/d5f2518d05e1e268519d4855ae3d5889.300x300x1.png",
+     "header_image_url": "https://images.genius.com/d5f2518d05e1e268519d4855ae3d5889.429x429x1.png",
+     "id": 3123701,
+     "lyrics_owner_id": 2389043,
+     "lyrics_state": "complete",
+     "path": "/Kaan-back-to-back-remix-lyrics",
+     "pyongs_count": 1,
+     "song_art_image_thumbnail_url": "https://images.genius.com/d5f2518d05e1e268519d4855ae3d5889.300x300x1.png",
+     "song_art_image_url": "https://images.genius.com/d5f2518d05e1e268519d4855ae3d5889.429x429x1.png",
+     "stats": {
+      "unreviewed_annotations": 2,
+      "hot": false
+     },
+     "title": "Back to Back (Remix)",
+     "title_with_featured": "Back to Back (Remix)",
+     "url": "https://genius.com/Kaan-back-to-back-remix-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/52318",
+      "header_image_url": "https://images.genius.com/8b4a4f1751d376da89befe3d76018c53.960x640x1.jpg",
+      "id": 52318,
+      "image_url": "https://images.genius.com/f1044b69e4a7358f999ef8a9f7c4c6ef.300x300x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "K.A.A.N.",
+      "url": "https://genius.com/artists/Kaan"
+     }
+    },
+    {
+     "annotation_count": 0,
+     "api_path": "/songs/3973729",
+     "full_title": "Intro (The Proof) by\u00a0REASON",
+     "header_image_thumbnail_url": "https://images.genius.com/1239356a6ef48207a1c2267432bc2ee7.300x300x1.jpg",
+     "header_image_url": "https://images.genius.com/1239356a6ef48207a1c2267432bc2ee7.750x750x1.jpg",
+     "id": 3973729,
+     "lyrics_owner_id": 5408923,
+     "lyrics_state": "complete",
+     "path": "/Reason-intro-the-proof-lyrics",
+     "pyongs_count": null,
+     "song_art_image_thumbnail_url": "https://images.genius.com/1239356a6ef48207a1c2267432bc2ee7.300x300x1.jpg",
+     "song_art_image_url": "https://images.genius.com/1239356a6ef48207a1c2267432bc2ee7.750x750x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 0,
+      "hot": false
+     },
+     "title": "Intro (The Proof)",
+     "title_with_featured": "Intro (The Proof)",
+     "url": "https://genius.com/Reason-intro-the-proof-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/1548940",
+      "header_image_url": "https://images.genius.com/bc9f60f1d6357c98b2a5d815e5e9a8b7.800x532x1.jpg",
+      "id": 1548940,
+      "image_url": "https://images.genius.com/e3433e90bdf3cffbfd83367942602f77.414x414x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": true,
+      "name": "REASON",
+      "url": "https://genius.com/artists/Reason",
+      "iq": 822
+     }
+    },
+    {
+     "annotation_count": 5,
+     "api_path": "/songs/4136743",
+     "full_title": "Meek Mill Freestyles on Flex (2018) | Freestyle #118 by\u00a0Meek\u00a0Mill",
+     "header_image_thumbnail_url": "https://images.genius.com/cb7a4efdb75f2f992667f26af1708991.300x169x1.jpg",
+     "header_image_url": "https://images.genius.com/cb7a4efdb75f2f992667f26af1708991.1000x563x1.jpg",
+     "id": 4136743,
+     "lyrics_owner_id": 595596,
+     "lyrics_state": "complete",
+     "path": "/Meek-mill-meek-mill-freestyles-on-flex-2018-freestyle-118-lyrics",
+     "pyongs_count": null,
+     "song_art_image_thumbnail_url": "https://images.genius.com/cb7a4efdb75f2f992667f26af1708991.300x169x1.jpg",
+     "song_art_image_url": "https://images.genius.com/cb7a4efdb75f2f992667f26af1708991.1000x563x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 4,
+      "hot": false,
+      "pageviews": 45654
+     },
+     "title": "Meek Mill Freestyles on Flex (2018) | Freestyle #118",
+     "title_with_featured": "Meek Mill Freestyles on Flex (2018) | Freestyle #118",
+     "url": "https://genius.com/Meek-mill-meek-mill-freestyles-on-flex-2018-freestyle-118-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/1319",
+      "header_image_url": "https://images.genius.com/970b10079e25b736971f7810c98ab751.1000x210x1.png",
+      "id": 1319,
+      "image_url": "https://images.genius.com/244fc5c6945dfee6376303a3bef287c4.320x320x1.jpg",
+      "is_meme_verified": true,
+      "is_verified": true,
+      "name": "Meek Mill",
+      "url": "https://genius.com/artists/Meek-mill",
+      "iq": 4486
+     }
+    },
+    {
+     "annotation_count": 0,
+     "api_path": "/songs/4201169",
+     "full_title": "All Hot No Mild by\u00a0Young\u00a0Abdulleh",
+     "header_image_thumbnail_url": "https://images.genius.com/339655d9a03b5d4b30cfe867018852b0.300x196x1.jpg",
+     "header_image_url": "https://images.genius.com/339655d9a03b5d4b30cfe867018852b0.1000x653x1.jpg",
+     "id": 4201169,
+     "lyrics_owner_id": 2574984,
+     "lyrics_state": "complete",
+     "path": "/Young-abdulleh-all-hot-no-mild-lyrics",
+     "pyongs_count": null,
+     "song_art_image_thumbnail_url": "https://images.genius.com/339655d9a03b5d4b30cfe867018852b0.300x196x1.jpg",
+     "song_art_image_url": "https://images.genius.com/339655d9a03b5d4b30cfe867018852b0.1000x653x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 0,
+      "hot": false
+     },
+     "title": "All Hot No Mild",
+     "title_with_featured": "All Hot No Mild",
+     "url": "https://genius.com/Young-abdulleh-all-hot-no-mild-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/617413",
+      "header_image_url": "https://images.genius.com/d4d06af8d9459a81d5fb9646a37c6fdc.1000x1000x1.png",
+      "id": 617413,
+      "image_url": "https://images.genius.com/4c06b325c1063cc6eb6d3b2bb486f059.1000x1000x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Young Abdulleh",
+      "url": "https://genius.com/artists/Young-abdulleh",
+      "iq": 2813
+     }
+    },
+    {
+     "annotation_count": 1,
+     "api_path": "/songs/4648207",
+     "full_title": "BYE BYE by\u00a0Dame\u00a0D.O.L.L.A.",
+     "header_image_thumbnail_url": "https://images.genius.com/654339d6551fd14d0650c8861eebdd58.300x300x1.jpg",
+     "header_image_url": "https://images.genius.com/654339d6551fd14d0650c8861eebdd58.500x500x1.jpg",
+     "id": 4648207,
+     "lyrics_owner_id": 2733501,
+     "lyrics_state": "complete",
+     "path": "/Dame-dolla-bye-bye-lyrics",
+     "pyongs_count": null,
+     "song_art_image_thumbnail_url": "https://images.genius.com/654339d6551fd14d0650c8861eebdd58.300x300x1.jpg",
+     "song_art_image_url": "https://images.genius.com/654339d6551fd14d0650c8861eebdd58.500x500x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 1,
+      "hot": false
+     },
+     "title": "BYE BYE",
+     "title_with_featured": "BYE BYE",
+     "url": "https://genius.com/Dame-dolla-bye-bye-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/110701",
+      "header_image_url": "https://images.genius.com/e57a217d4d0b84c3b73b4e75da18e1cd.1000x660x1.jpg",
+      "id": 110701,
+      "image_url": "https://images.genius.com/e1dd005a61508438cd34b6338248deea.713x713x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": true,
+      "name": "Dame D.O.L.L.A.",
+      "url": "https://genius.com/artists/Dame-dolla",
+      "iq": 1319
+     }
+    },
+    {
+     "annotation_count": 0,
+     "api_path": "/songs/4940219",
+     "full_title": "Oh Nah (Tribute by Fans) by\u00a0Stoned\u00a0Devil",
+     "header_image_thumbnail_url": "https://images.genius.com/6716d7ba0bab6d0afae4008a629a3a2d.85x85x1.jpg",
+     "header_image_url": "https://images.genius.com/6716d7ba0bab6d0afae4008a629a3a2d.85x85x1.jpg",
+     "id": 4940219,
+     "lyrics_owner_id": 5628993,
+     "lyrics_state": "complete",
+     "path": "/Stoned-devil-oh-nah-tribute-by-fans-lyrics",
+     "pyongs_count": null,
+     "song_art_image_thumbnail_url": "https://images.genius.com/6716d7ba0bab6d0afae4008a629a3a2d.85x85x1.jpg",
+     "song_art_image_url": "https://images.genius.com/6716d7ba0bab6d0afae4008a629a3a2d.85x85x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 0,
+      "hot": false
+     },
+     "title": "Oh Nah (Tribute by Fans)",
+     "title_with_featured": "Oh Nah (Tribute by Fans)",
+     "url": "https://genius.com/Stoned-devil-oh-nah-tribute-by-fans-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/631125",
+      "header_image_url": "https://images.genius.com/d89ad4e36b4715bb62d40df00f649183.1000x1000x1.png",
+      "id": 631125,
+      "image_url": "https://images.genius.com/17461e6e0cb0199c399d5b08b7c5a041.1000x1000x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Stoned Devil",
+      "url": "https://genius.com/artists/Stoned-devil"
+     }
+    },
+    {
+     "annotation_count": 4,
+     "api_path": "/songs/5248628",
+     "full_title": "ROUND 2 FREESTYLE by\u00a0Il\u00a0Tre 3",
+     "header_image_thumbnail_url": "https://images.genius.com/62cec2a62cc036fd8764aef1d0108b60.300x300x1.png",
+     "header_image_url": "https://images.genius.com/62cec2a62cc036fd8764aef1d0108b60.956x956x1.png",
+     "id": 5248628,
+     "lyrics_owner_id": 8169689,
+     "lyrics_state": "complete",
+     "path": "/Il-tre-3-round-2-freestyle-lyrics",
+     "pyongs_count": null,
+     "song_art_image_thumbnail_url": "https://images.genius.com/62cec2a62cc036fd8764aef1d0108b60.300x300x1.png",
+     "song_art_image_url": "https://images.genius.com/62cec2a62cc036fd8764aef1d0108b60.956x956x1.png",
+     "stats": {
+      "unreviewed_annotations": 4,
+      "hot": false
+     },
+     "title": "ROUND 2 FREESTYLE",
+     "title_with_featured": "ROUND 2 FREESTYLE",
+     "url": "https://genius.com/Il-tre-3-round-2-freestyle-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/1380890",
+      "header_image_url": "https://images.genius.com/fe363fe0ff176b6918b3f98d6fb7a3bd.541x541x1.jpg",
+      "id": 1380890,
+      "image_url": "https://images.genius.com/e3b62e54a4b8ff35d71a305ac783ff60.541x541x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Il Tre 3",
+      "url": "https://genius.com/artists/Il-tre-3"
+     }
+    },
+    {
+     "annotation_count": 0,
+     "api_path": "/songs/5604949",
+     "full_title": "Thabitchcunt by\u00a0BigAntDog\u00a0(Raps)",
+     "header_image_thumbnail_url": "https://images.genius.com/e39ee8d935e15030ed25d1ab3dc98bb2.300x300x1.png",
+     "header_image_url": "https://images.genius.com/e39ee8d935e15030ed25d1ab3dc98bb2.422x422x1.png",
+     "id": 5604949,
+     "lyrics_owner_id": 10940186,
+     "lyrics_state": "complete",
+     "path": "/Bigantdog-raps-thabitchcunt-lyrics",
+     "pyongs_count": null,
+     "song_art_image_thumbnail_url": "https://images.genius.com/e39ee8d935e15030ed25d1ab3dc98bb2.300x300x1.png",
+     "song_art_image_url": "https://images.genius.com/e39ee8d935e15030ed25d1ab3dc98bb2.422x422x1.png",
+     "stats": {
+      "unreviewed_annotations": 0,
+      "hot": false
+     },
+     "title": "Thabitchcunt",
+     "title_with_featured": "Thabitchcunt",
+     "url": "https://genius.com/Bigantdog-raps-thabitchcunt-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/2098010",
+      "header_image_url": "https://images.genius.com/1fa121cadda27ff2f237f88735696405.1000x1000x1.jpg",
+      "id": 2098010,
+      "image_url": "https://images.genius.com/e39ee8d935e15030ed25d1ab3dc98bb2.422x422x1.png",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "BigAntDog (Raps)",
+      "url": "https://genius.com/artists/Bigantdog-raps"
+     }
+    },
+    {
+     "annotation_count": 3,
+     "api_path": "/songs/5615438",
+     "full_title": "Back To Back (Rueben Diss) by\u00a0BigAntDog\u00a0(Raps)",
+     "header_image_thumbnail_url": "https://images.genius.com/f35764fdbbeecb21027e5ddf4d775aed.300x300x1.png",
+     "header_image_url": "https://images.genius.com/f35764fdbbeecb21027e5ddf4d775aed.1000x1000x1.png",
+     "id": 5615438,
+     "lyrics_owner_id": 10940186,
+     "lyrics_state": "complete",
+     "path": "/Bigantdog-raps-back-to-back-rueben-diss-lyrics",
+     "pyongs_count": null,
+     "song_art_image_thumbnail_url": "https://images.genius.com/f35764fdbbeecb21027e5ddf4d775aed.300x300x1.png",
+     "song_art_image_url": "https://images.genius.com/f35764fdbbeecb21027e5ddf4d775aed.1000x1000x1.png",
+     "stats": {
+      "unreviewed_annotations": 3,
+      "hot": false
+     },
+     "title": "Back To Back (Rueben Diss)",
+     "title_with_featured": "Back To Back (Rueben Diss)",
+     "url": "https://genius.com/Bigantdog-raps-back-to-back-rueben-diss-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/2098010",
+      "header_image_url": "https://images.genius.com/1fa121cadda27ff2f237f88735696405.1000x1000x1.jpg",
+      "id": 2098010,
+      "image_url": "https://images.genius.com/e39ee8d935e15030ed25d1ab3dc98bb2.422x422x1.png",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "BigAntDog (Raps)",
+      "url": "https://genius.com/artists/Bigantdog-raps"
+     }
+    }
+   ]
+  },
+  {
+   "relationship_type": "live_version_of",
+   "type": "live_version_of",
+   "songs": []
+  },
+  {
+   "relationship_type": "performed_live_as",
+   "type": "performed_live_as",
+   "songs": []
+  }
+ ],
+ "verified_annotations_by": [],
+ "verified_contributors": [
+  {
+   "contributions": [
+    "answers"
+   ],
+   "artist": {
+    "api_path": "/artists/328350",
+    "header_image_url": "https://images.genius.com/89f30a4c475c6a63fe0c0660bb0faaa8.1000x999x1.jpg",
+    "id": 328350,
+    "image_url": "https://images.genius.com/a084566de68f85413cff3fc04bd75d49.1000x1000x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Daxz",
+    "url": "https://genius.com/artists/Daxz"
+   },
+   "user": null
+  }
+ ],
+ "verified_lyrics_by": [],
+ "writer_artists": [
+  {
+   "api_path": "/artists/328350",
+   "header_image_url": "https://images.genius.com/89f30a4c475c6a63fe0c0660bb0faaa8.1000x999x1.jpg",
+   "id": 328350,
+   "image_url": "https://images.genius.com/a084566de68f85413cff3fc04bd75d49.1000x1000x1.jpg",
+   "is_meme_verified": false,
+   "is_verified": false,
+   "name": "Daxz",
+   "url": "https://genius.com/artists/Daxz"
+  },
+  {
+   "api_path": "/artists/617327",
+   "header_image_url": "https://images.genius.com/da19a7b76442c914559044ab15a2d4dd.1000x666x1.jpg",
+   "id": 617327,
+   "image_url": "https://images.genius.com/30b7e90a53e80818894366997c1dcdce.900x900x1.png",
+   "is_meme_verified": false,
+   "is_verified": true,
+   "name": "NAV",
+   "url": "https://genius.com/artists/Nav",
+   "iq": 1662
+  },
+  {
+   "api_path": "/artists/27612",
+   "header_image_url": "https://images.genius.com/c999dd154986a45b8981323a2ea53f98.620x380x1.jpg",
+   "id": 27612,
+   "image_url": "https://images.genius.com/c999dd154986a45b8981323a2ea53f98.620x380x1.jpg",
+   "is_meme_verified": false,
+   "is_verified": true,
+   "name": "40",
+   "url": "https://genius.com/artists/40",
+   "iq": 517
+  },
+  {
+   "api_path": "/artists/130",
+   "header_image_url": "https://images.genius.com/172e7e370be5e3c0f2a139e85add5cd3.480x246x9.gif",
+   "id": 130,
+   "image_url": "https://images.genius.com/c4e68239fca279091c055fe681cb4376.770x770x1.jpg",
+   "is_meme_verified": false,
+   "is_verified": false,
+   "name": "Drake",
+   "url": "https://genius.com/artists/Drake"
+  }
+ ],
+ "lyrics": "Oh man\nOh man, oh man\nNot again\n\nYeah, I learned the game from William Wesley, you can never check me\nBack to back for the niggas that didn't get the message\nBack to back, like I'm on the cover of Lethal Weapon\nBack to back, like I'm Jordan '96, '97\nWhoa\u2014very important and very pretentious\nWhen I look back, I might be mad that I gave this attention\nYeah, but it's weighin' heavy on my conscience\nYeah, and fuck, you left The Boy no options\nI wanna see my niggas go insane\nYou gon' make me step out of my fuckin' frame\nYou gon' make me buy bottles for Charlamagne\nYou gon' make me go out of my fuckin' way\nI waited four days, nigga, where y'all at?\nI drove here in the Wraith playin' AR-AB\nI'm not sure what it was that really made y'all mad\nBut I guess this is what I gotta do to make y'all rap\nI mean whoa, can't fool the city, man, they know what's up\nSecond floor at Tootsies, gettin' shoulder rubs\nThis for y'all that think that I don't write enough\nThey just mad 'cause I got the Midas touch\nYou love her, then you gotta give the world to her\nIs that a world tour or your girl's tour?\nI know that you gotta be a thug for her\nThis ain't what she meant when she told you to open up more\nYeah, trigger fingers turn to Twitter fingers\nYeah, you gettin' bodied by a singin' nigga\nI'm not the type of nigga that'll type to niggas\nAnd shout-out to all my boss bitches wifin' niggas\nMake sure you hit him with the prenup\nThen tell that man to ease up\nI did another one, I did another one\nYou still ain't did shit about the other one\n\nI got the drink in me going back to back\nYeah, going back to back\nI got the drink in me going back to back\nYeah, I'm going back to back\n\nI don't wanna hear about this ever again\nNot even when she tell him that they better as friends\nNot even when you saying, \"Drizzy, tell 'em again!\"\nI been puttin' on a show, it was a sell-out event\nOh, you need better seatin'\nI didn't wanna do it, gave me every reason\nThe point I'm tryin' to make is I don't ever need 'em\nSeen what you'd do for fame, what would you do for freedom?\nPlease, check 'em for a wire or a earpiece\nPlease, please do not let these niggas near me\nPlease, think before you come for the great one\nPlease, who's a real nigga and who ain't one?\nPlease, somebody stop me\nI'm talkin' boasy and gwanin wassy\nI got the fest in five days and it's my shit\nSoon as a nigga hit the stage, they gon'\n\nThey gon' ask if I can play this shit back to back\nYeah, they want it back to back\nThey gon' ask if I can play this shit back to back\nI took a break from Views, now it's back to that, nigga (Six)"
+}

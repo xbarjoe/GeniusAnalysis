@@ -1,0 +1,1958 @@
+{
+ "_type": "song",
+ "annotation_count": 43,
+ "api_path": "/songs/235732",
+ "full_title": "The Monster by\u00a0Eminem (Ft.\u00a0Rihanna)",
+ "header_image_thumbnail_url": "https://images.genius.com/3a0a2275762e6e4844dd8013dc5515a4.300x188x1.png",
+ "header_image_url": "https://images.genius.com/3a0a2275762e6e4844dd8013dc5515a4.1000x625x1.png",
+ "id": 235732,
+ "instrumental": false,
+ "lyrics_owner_id": 22533,
+ "lyrics_state": "complete",
+ "lyrics_updated_at": 1606169097,
+ "path": "/Eminem-the-monster-lyrics",
+ "pyongs_count": 850,
+ "song_art_image_thumbnail_url": "https://images.genius.com/f8e3befb0dfae2eaa6833b4374f1b372.300x300x1.png",
+ "song_art_image_url": "https://images.genius.com/f8e3befb0dfae2eaa6833b4374f1b372.1000x1000x1.png",
+ "stats": {
+  "accepted_annotations": 39,
+  "contributors": 517,
+  "iq_earners": 517,
+  "transcribers": 12,
+  "unreviewed_annotations": 0,
+  "verified_annotations": 3,
+  "concurrents": 4,
+  "hot": false,
+  "pageviews": 4557760
+ },
+ "title": "The Monster",
+ "title_with_featured": "The Monster (Ft.\u00a0Rihanna)",
+ "updated_by_human_at": 1606169098,
+ "url": "https://genius.com/Eminem-the-monster-lyrics",
+ "primary_artist": {
+  "api_path": "/artists/45",
+  "header_image_url": "https://images.genius.com/a9f98b20f8aa7a32650a1dfa5f3de088.1000x445x1.jpg",
+  "id": 45,
+  "image_url": "https://images.genius.com/f300798551b97fe030876123afb8c33a.805x805x1.jpg",
+  "is_meme_verified": true,
+  "is_verified": true,
+  "name": "Eminem",
+  "url": "https://genius.com/artists/Eminem",
+  "iq": 214192
+ },
+ "apple_music_id": "731756778",
+ "apple_music_player_url": "https://genius.com/songs/235732/apple_music_player",
+ "description": {
+  "plain": "\u201cThe Monster\u201d is Eminem\u2019s fourth single from The Marshall Mathers LP 2. Incidentally, it also marks the fourth time Eminem and Rihanna have collaborated.\n\nThis dark and emotional track has Eminem considering his Shady alter-ego a monster. The monster could also be the fame which has taken so much from him, or perhaps the true monster is his mind and the demons that plague it.\n\nThis hook was co-written by Bebe Rexha and Jon Bellion, and went on to win the award for Best Rap/Sung Collaboration at the 2015 Grammys."
+ },
+ "embed_content": "<div id='rg_embed_link_235732' class='rg_embed_link' data-song-id='235732'>Read <a href='https://genius.com/Eminem-the-monster-lyrics'>\u201cThe Monster\u201d by Eminem</a> on Genius</div> <script crossorigin src='//genius.com/songs/235732/embed.js'></script>",
+ "featured_video": true,
+ "lyrics_placeholder_reason": null,
+ "recording_location": "Effigy Studios, Ferndale, Michigan",
+ "release_date": "2013-10-29",
+ "release_date_for_display": "October 29, 2013",
+ "current_user_metadata": {
+  "permissions": [
+   "see_pageviews",
+   "view_apple_music_player",
+   "create_comment",
+   "view_song_story_gallery"
+  ],
+  "excluded_permissions": [
+   "follow",
+   "award_transcription_iq",
+   "remove_transcription_iq",
+   "pyong",
+   "edit_lyrics",
+   "view_annotation_engagement_data",
+   "publish",
+   "unpublish",
+   "edit_spotify_details",
+   "hide",
+   "unhide",
+   "toggle_featured_video",
+   "add_pinned_annotation_to",
+   "add_community_annotation_to",
+   "destroy",
+   "mark_as_not_spam",
+   "edit_spotify_annotations_for",
+   "verify_lyrics",
+   "unverify_lyrics",
+   "edit_anything",
+   "edit_any_media",
+   "edit",
+   "rename",
+   "edit_tags",
+   "watch_fact_track",
+   "reindex",
+   "view_lyrics_synchronization",
+   "enable_media",
+   "disable_media",
+   "edit_lyrics_or_annotation_brackets",
+   "see_editorial_indicators",
+   "view_attribution_visualization",
+   "edit_annotation_brackets",
+   "preview_lyrics_for_export",
+   "hide_apple_player",
+   "unhide_apple_player",
+   "trigger_apple_match",
+   "mark_lyrics_evaluation_as_approved",
+   "mark_lyrics_evaluation_as_staff_approved",
+   "mark_lyrics_evaluation_as_unapproved",
+   "mark_lyrics_evaluation_as_un_staff_approved",
+   "view_transcriber_media_player",
+   "override_apple_match",
+   "edit_youtube_url",
+   "edit_soundcloud_url",
+   "edit_spotify_uuid",
+   "edit_vevo_url",
+   "moderate_annotations",
+   "create_annotation",
+   "see_short_id",
+   "manage_chart_item",
+   "create_tag",
+   "propose_lyrics_edit",
+   "moderate_lyrics_edit_proposals",
+   "preview_react_song_page"
+  ],
+  "interactions": {
+   "pyong": false,
+   "following": false
+  },
+  "relationships": {},
+  "iq_by_action": {}
+ },
+ "album": {
+  "api_path": "/albums/672689",
+  "cover_art_url": "https://images.genius.com/fcfde4db70465e78967a1b7a87790b3e.450x450x1.jpg",
+  "full_title": "The Marshall Mathers LP2 (Deluxe) by Eminem",
+  "id": 672689,
+  "name": "The Marshall Mathers LP2 (Deluxe)",
+  "url": "https://genius.com/albums/Eminem/The-marshall-mathers-lp2-deluxe",
+  "artist": {
+   "api_path": "/artists/45",
+   "header_image_url": "https://images.genius.com/a9f98b20f8aa7a32650a1dfa5f3de088.1000x445x1.jpg",
+   "id": 45,
+   "image_url": "https://images.genius.com/f300798551b97fe030876123afb8c33a.805x805x1.jpg",
+   "is_meme_verified": true,
+   "is_verified": true,
+   "name": "Eminem",
+   "url": "https://genius.com/artists/Eminem",
+   "iq": 214192
+  }
+ },
+ "custom_performances": [
+  {
+   "label": "Mixed At",
+   "artists": [
+    {
+     "api_path": "/artists/1415540",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+     "id": 1415540,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Record One",
+     "url": "https://genius.com/artists/Record-one"
+    }
+   ]
+  },
+  {
+   "label": "Recorded At",
+   "artists": [
+    {
+     "api_path": "/artists/1415540",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+     "id": 1415540,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Record One",
+     "url": "https://genius.com/artists/Record-one"
+    },
+    {
+     "api_path": "/artists/1411467",
+     "header_image_url": "https://images.genius.com/449a540669b7ae19e81e270ccb1b7248.410x277x1.jpg",
+     "id": 1411467,
+     "image_url": "https://images.genius.com/449a540669b7ae19e81e270ccb1b7248.410x277x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Effigy Studios",
+     "url": "https://genius.com/artists/Effigy-studios"
+    }
+   ]
+  },
+  {
+   "label": "Publisher",
+   "artists": [
+    {
+     "api_path": "/artists/1851656",
+     "header_image_url": "https://images.genius.com/1da08a1236136a407eec712c5476160f.1000x333x1.png",
+     "id": 1851656,
+     "image_url": "https://images.genius.com/ddf9d0e8921df83f63ce407fbfaa2898.400x400x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Beautiful Mind Records",
+     "url": "https://genius.com/artists/Beautiful-mind-records"
+    },
+    {
+     "api_path": "/artists/1267571",
+     "header_image_url": "https://images.genius.com/1dc15c61f51aacc64e84720d242d6ba5.1000x749x1.jpg",
+     "id": 1267571,
+     "image_url": "https://images.genius.com/fa1a42ac932c05534387e443b9004d3d.960x960x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Arthouse Entertainment",
+     "url": "https://genius.com/artists/Arthouse-entertainment"
+    },
+    {
+     "api_path": "/artists/1209162",
+     "header_image_url": "https://images.genius.com/159ffe1bdbffeaf422f56a9a648f8b21.1000x485x1.png",
+     "id": 1209162,
+     "image_url": "https://images.genius.com/fd149dde35fbbd337e610fa4b159fd33.224x224x1.png",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "EMI Music Publishing Group",
+     "url": "https://genius.com/artists/Emi-music-publishing-group"
+    },
+    {
+     "api_path": "/artists/1011919",
+     "header_image_url": "https://images.genius.com/26596e664ee4244a3a112d1a0eefabe3.220x102x1.png",
+     "id": 1011919,
+     "image_url": "https://images.genius.com/f39d8c1ab1923335932d0b5356758f39.382x382x1.png",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "BMG",
+     "url": "https://genius.com/artists/Bmg"
+    },
+    {
+     "api_path": "/artists/1104563",
+     "header_image_url": "https://images.genius.com/6ee5d6766689e04358c1d0f8ea0ed8f0.600x600x1.png",
+     "id": 1104563,
+     "image_url": "https://images.genius.com/7b3fb2c00317cb2eb2453f9f4e7473d1.600x600x1.png",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Universal Music Group",
+     "url": "https://genius.com/artists/Universal-music-group"
+    },
+    {
+     "api_path": "/artists/650212",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+     "id": 650212,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Shroom Shady Music",
+     "url": "https://genius.com/artists/Shroom-shady-music"
+    },
+    {
+     "api_path": "/artists/1201793",
+     "header_image_url": "https://images.genius.com/fe7c88db44005710511cd3abbc6945c8.1000x559x1.jpg",
+     "id": 1201793,
+     "image_url": "https://images.genius.com/c93241826fcd9d350eaa1cebf3dcd7d6.1000x1000x1.png",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Reach Music Publishing",
+     "url": "https://genius.com/artists/Reach-music-publishing"
+    },
+    {
+     "api_path": "/artists/1608690",
+     "header_image_url": "https://images.genius.com/4be35f2200f1e1cb52edbf7ded327086.400x400x1.png",
+     "id": 1608690,
+     "image_url": "https://images.genius.com/4be35f2200f1e1cb52edbf7ded327086.400x400x1.png",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Primary Wave",
+     "url": "https://genius.com/artists/Primary-wave"
+    },
+    {
+     "api_path": "/artists/1156077",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+     "id": 1156077,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Kiss Me If You Can Music",
+     "url": "https://genius.com/artists/Kiss-me-if-you-can-music"
+    },
+    {
+     "api_path": "/artists/2270407",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+     "id": 2270407,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Freq Show Music",
+     "url": "https://genius.com/artists/Freq-show-music"
+    },
+    {
+     "api_path": "/artists/569149",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+     "id": 569149,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "EMI Blackwood Music",
+     "url": "https://genius.com/artists/Emi-blackwood-music"
+    },
+    {
+     "api_path": "/artists/1039843",
+     "header_image_url": "https://images.genius.com/95537b6b72e2ee923324f2635cc9e823.1000x563x1.png",
+     "id": 1039843,
+     "image_url": "https://images.genius.com/95537b6b72e2ee923324f2635cc9e823.1000x563x1.png",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "BMG Platinum Songs",
+     "url": "https://genius.com/artists/Bmg-platinum-songs"
+    },
+    {
+     "api_path": "/artists/2200470",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+     "id": 2200470,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Cashonlee Trax",
+     "url": "https://genius.com/artists/Cashonlee-trax"
+    },
+    {
+     "api_path": "/artists/1039958",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+     "id": 1039958,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "BMG Bumblebee",
+     "url": "https://genius.com/artists/Bmg-bumblebee"
+    },
+    {
+     "api_path": "/artists/1821242",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+     "id": 1821242,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Art In The Fodder Music",
+     "url": "https://genius.com/artists/Art-in-the-fodder-music"
+    },
+    {
+     "api_path": "/artists/648726",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+     "id": 648726,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Annarhi Music",
+     "url": "https://genius.com/artists/Annarhi-music"
+    }
+   ]
+  },
+  {
+   "label": "Performance Rights",
+   "artists": [
+    {
+     "api_path": "/artists/551598",
+     "header_image_url": "https://images.genius.com/067d9bccf2ab6e5eded129861b73d9dc.851x315x1.jpg",
+     "id": 551598,
+     "image_url": "https://images.genius.com/5f24e8e67904faef419d736f2ade3f78.1000x1000x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "ASCAP",
+     "url": "https://genius.com/artists/Ascap"
+    },
+    {
+     "api_path": "/artists/1138091",
+     "header_image_url": "https://images.genius.com/5b84dbf7ba86e59c297143f076a56c9a.1000x1000x1.jpg",
+     "id": 1138091,
+     "image_url": "https://images.genius.com/051b0a6beabf8a9eb8768e9f874a542f.1000x1000x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "BMI",
+     "url": "https://genius.com/artists/Bmi"
+    }
+   ]
+  },
+  {
+   "label": "Mixing Engineer",
+   "artists": [
+    {
+     "api_path": "/artists/643336",
+     "header_image_url": "https://images.genius.com/f1281ae20d2ee4eb2ea97c1e9745e4d7.240x240x1.jpg",
+     "id": 643336,
+     "image_url": "https://images.genius.com/f1281ae20d2ee4eb2ea97c1e9745e4d7.240x240x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Mauricio Iragorri",
+     "url": "https://genius.com/artists/Mauricio-iragorri"
+    },
+    {
+     "api_path": "/artists/123",
+     "header_image_url": "https://images.genius.com/d7ba77150e7d10d29dca244a8cdc42f2.640x480x1.jpg",
+     "id": 123,
+     "image_url": "https://images.genius.com/bf3badae49c33b583126057638078bd8.576x576x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Dr.\u00a0Dre",
+     "url": "https://genius.com/artists/Dr-dre"
+    }
+   ]
+  },
+  {
+   "label": "Additional Instrumentation",
+   "artists": [
+    {
+     "api_path": "/artists/933144",
+     "header_image_url": "https://images.genius.com/fafdf7d84033c22f4b976e8d0e7a3045.384x384x1.jpg",
+     "id": 933144,
+     "image_url": "https://images.genius.com/fafdf7d84033c22f4b976e8d0e7a3045.384x384x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Maki Athanasiou",
+     "url": "https://genius.com/artists/Maki-athanasiou"
+    }
+   ]
+  },
+  {
+   "label": "Additional Keyboard",
+   "artists": [
+    {
+     "api_path": "/artists/33782",
+     "header_image_url": "https://images.genius.com/b11dcb349ce12ee3fb1e6ac903756351.1000x698x1.jpg",
+     "id": 33782,
+     "image_url": "https://images.genius.com/93b6573df63cc5675a8273d131b00b1f.1000x1000x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Luis Resto",
+     "url": "https://genius.com/artists/Luis-resto"
+    }
+   ]
+  },
+  {
+   "label": "Mastering Engineer",
+   "artists": [
+    {
+     "api_path": "/artists/637914",
+     "header_image_url": "https://images.genius.com/9ed2a5315fe0d92d7047de8f72fc66ff.508x800x1.jpg",
+     "id": 637914,
+     "image_url": "https://images.genius.com/83484709e5b3cacf10774eb0639fcc7d.508x508x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Brian Gardner",
+     "url": "https://genius.com/artists/Brian-gardner"
+    }
+   ]
+  },
+  {
+   "label": "Recording Engineer",
+   "artists": [
+    {
+     "api_path": "/artists/644202",
+     "header_image_url": "https://images.genius.com/101f253fca546d742a5a4e5299d1b06b.300x300x1.jpg",
+     "id": 644202,
+     "image_url": "https://images.genius.com/101f253fca546d742a5a4e5299d1b06b.300x300x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Mike Strange",
+     "url": "https://genius.com/artists/Mike-strange"
+    },
+    {
+     "api_path": "/artists/323826",
+     "header_image_url": "https://images.genius.com/b3d5bdb92b9f171a1c899d687d17a105.477x477x1.jpg",
+     "id": 323826,
+     "image_url": "https://images.genius.com/b3d5bdb92b9f171a1c899d687d17a105.477x477x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Joe Strange",
+     "url": "https://genius.com/artists/Joe-strange"
+    },
+    {
+     "api_path": "/artists/650872",
+     "header_image_url": "https://images.genius.com/4b73bb61b94ba9c0b6eb4218457e300a.400x400x1.jpg",
+     "id": 650872,
+     "image_url": "https://images.genius.com/4b73bb61b94ba9c0b6eb4218457e300a.400x400x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Tony Campana",
+     "url": "https://genius.com/artists/Tony-campana"
+    }
+   ]
+  },
+  {
+   "label": "Co-Producer",
+   "artists": [
+    {
+     "api_path": "/artists/197614",
+     "header_image_url": "https://images.genius.com/ae9ed5e2afebc4fd955f47db3d3e873d.1000x293x1.png",
+     "id": 197614,
+     "image_url": "https://images.genius.com/41a968fa628bb1d8f99b0c59c1d98949.1000x1000x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Aalias",
+     "url": "https://genius.com/artists/Aalias"
+    }
+   ]
+  },
+  {
+   "label": "Background Vocals",
+   "artists": [
+    {
+     "api_path": "/artists/104044",
+     "header_image_url": "https://images.genius.com/ee2ce0a2412e9982c2a50630f54bc3ce.600x200x1.jpg",
+     "id": 104044,
+     "image_url": "https://images.genius.com/4d947fb6869a83c5432c04c0423ae705.399x399x1.jpg",
+     "is_meme_verified": true,
+     "is_verified": true,
+     "name": "Bebe Rexha",
+     "url": "https://genius.com/artists/Bebe-rexha",
+     "iq": 6494
+    },
+    {
+     "api_path": "/artists/26593",
+     "header_image_url": "https://images.genius.com/41ba369235c5bfc0125c4a896885da45.1000x375x1.jpg",
+     "id": 26593,
+     "image_url": "https://images.genius.com/b57482f28ddcd4abb740c4ccb9bd08da.640x640x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Jon Bellion",
+     "url": "https://genius.com/artists/Jon-bellion"
+    }
+   ]
+  },
+  {
+   "label": "Assistant Mixing Engineer",
+   "artists": [
+    {
+     "api_path": "/artists/933143",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+     "id": 933143,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "RJ Colston",
+     "url": "https://genius.com/artists/Rj-colston"
+    }
+   ]
+  },
+  {
+   "label": "Video Director",
+   "artists": [
+    {
+     "api_path": "/artists/996450",
+     "header_image_url": "https://images.genius.com/9cb9635cc3be041d25a1cdb38736bf07.500x500x1.jpg",
+     "id": 996450,
+     "image_url": "https://images.genius.com/9cb9635cc3be041d25a1cdb38736bf07.500x500x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Rich Lee",
+     "url": "https://genius.com/artists/Rich-lee"
+    }
+   ]
+  },
+  {
+   "label": "Mastered at",
+   "artists": [
+    {
+     "api_path": "/artists/1411469",
+     "header_image_url": "https://images.genius.com/3b7ebc0fda29a016e0dfb0fc34a0026a.300x143x1.jpg",
+     "id": 1411469,
+     "image_url": "https://images.genius.com/2cdc1acdfc0bf916b34883c32c1ce5eb.150x150x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Bernie Grundman Mastering",
+     "url": "https://genius.com/artists/Bernie-grundman-mastering"
+    }
+   ]
+  }
+ ],
+ "description_annotation": {
+  "_type": "referent",
+  "annotator_id": 11524,
+  "annotator_login": "tomi",
+  "api_path": "/referents/3599364",
+  "classification": "accepted",
+  "fragment": "The Monster",
+  "id": 3599364,
+  "is_description": true,
+  "path": "/3599364/Eminem-the-monster/The-monster",
+  "range": {
+   "content": "The Monster"
+  },
+  "song_id": 235732,
+  "url": "https://genius.com/3599364/Eminem-the-monster/The-monster",
+  "verified_annotator_ids": [],
+  "annotatable": {
+   "api_path": "/songs/235732",
+   "client_timestamps": {
+    "updated_by_human_at": 1606169098,
+    "lyrics_updated_at": 1606169097
+   },
+   "context": "Eminem",
+   "id": 235732,
+   "image_url": "https://images.genius.com/f8e3befb0dfae2eaa6833b4374f1b372.1000x1000x1.png",
+   "link_title": "The Monster by\u00a0Eminem (Ft.\u00a0Rihanna)",
+   "title": "The Monster",
+   "type": "Song",
+   "url": "https://genius.com/Eminem-the-monster-lyrics"
+  },
+  "annotations": [
+   {
+    "api_path": "/annotations/3599364",
+    "body": {
+     "plain": "\u201cThe Monster\u201d is Eminem\u2019s fourth single from The Marshall Mathers LP 2. Incidentally, it also marks the fourth time Eminem and Rihanna have collaborated.\n\nThis dark and emotional track has Eminem considering his Shady alter-ego a monster. The monster could also be the fame which has taken so much from him, or perhaps the true monster is his mind and the demons that plague it.\n\nThis hook was co-written by Bebe Rexha and Jon Bellion, and went on to win the award for Best Rap/Sung Collaboration at the 2015 Grammys."
+    },
+    "comment_count": 7,
+    "community": true,
+    "custom_preview": null,
+    "has_voters": true,
+    "id": 3599364,
+    "pinned": false,
+    "share_url": "https://genius.com/3599364",
+    "source": null,
+    "state": "accepted",
+    "url": "https://genius.com/3599364/Eminem-the-monster/The-monster",
+    "verified": false,
+    "votes_total": 245,
+    "current_user_metadata": {
+     "permissions": [
+      "create_comment"
+     ],
+     "excluded_permissions": [
+      "vote",
+      "edit",
+      "cosign",
+      "uncosign",
+      "destroy",
+      "accept",
+      "reject",
+      "see_unreviewed",
+      "clear_votes",
+      "propose_edit_to",
+      "pin_to_profile",
+      "unpin_from_profile",
+      "update_source",
+      "edit_custom_preview"
+     ],
+     "interactions": {
+      "cosign": false,
+      "pyong": false,
+      "vote": null
+     },
+     "iq_by_action": {}
+    },
+    "authors": [
+     {
+      "attribution": 0.47252747252747257,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/458792",
+       "avatar": {
+        "tiny": {
+         "url": "https://images.genius.com/avatars/tiny/e2bd00d48b48b2489eb3f2a969dd1ed3",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://images.genius.com/avatars/thumb/e2bd00d48b48b2489eb3f2a969dd1ed3",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://images.genius.com/avatars/small/e2bd00d48b48b2489eb3f2a969dd1ed3",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://images.genius.com/avatars/medium/e2bd00d48b48b2489eb3f2a969dd1ed3",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://images.genius.com/e8a303ab79861711fb6aa79f1e231f90.960x617x1.jpg",
+       "human_readable_role_for_display": "Moderator",
+       "id": 458792,
+       "iq": 335865,
+       "login": "Skhills",
+       "name": "Skhills #BlackLivesMatter",
+       "role_for_display": "moderator",
+       "url": "https://genius.com/Skhills",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     },
+     {
+      "attribution": 0.2087912087912088,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/229792",
+       "avatar": {
+        "tiny": {
+         "url": "https://images.genius.com/avatars/tiny/a5423545209895321975d59f61b86a73",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://images.genius.com/avatars/thumb/a5423545209895321975d59f61b86a73",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://images.genius.com/avatars/small/a5423545209895321975d59f61b86a73",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://images.genius.com/avatars/medium/a5423545209895321975d59f61b86a73",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://images.genius.com/avatars/medium/a5423545209895321975d59f61b86a73",
+       "human_readable_role_for_display": "Contributor",
+       "id": 229792,
+       "iq": 2735,
+       "login": "itsshaybitch",
+       "name": "itsshaybitch",
+       "role_for_display": "contributor",
+       "url": "https://genius.com/itsshaybitch",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     },
+     {
+      "attribution": 0.09890109890109891,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/220926",
+       "avatar": {
+        "tiny": {
+         "url": "https://assets.genius.com/images/default_avatar_16.png?1606943206",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://assets.genius.com/images/default_avatar_32.png?1606943206",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://assets.genius.com/images/default_avatar_100.png?1606943206",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+       "human_readable_role_for_display": "Contributor",
+       "id": 220926,
+       "iq": 775,
+       "login": "gone_4qgu_666f",
+       "name": "gone_4qgu_666f",
+       "role_for_display": "contributor",
+       "url": "https://genius.com/gone_4qgu_666f",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     },
+     {
+      "attribution": 0.07692307692307693,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/8534",
+       "avatar": {
+        "tiny": {
+         "url": "https://images.genius.com/avatars/tiny/d662e609f7d8c03fae7781bed7834f58",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://images.genius.com/avatars/thumb/d662e609f7d8c03fae7781bed7834f58",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://images.genius.com/avatars/small/d662e609f7d8c03fae7781bed7834f58",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://images.genius.com/avatars/medium/d662e609f7d8c03fae7781bed7834f58",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://images.genius.com/82c5966f5fefe7dc9d58df6e709eba45.570x144x1.jpg",
+       "human_readable_role_for_display": "Contributor",
+       "id": 8534,
+       "iq": 351394,
+       "login": "Ezzo",
+       "name": "Romi Ezzo",
+       "role_for_display": "contributor",
+       "url": "https://genius.com/Ezzo",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     },
+     {
+      "attribution": 0.054945054945054944,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/167293",
+       "avatar": {
+        "tiny": {
+         "url": "https://images.rapgenius.com/avatars/tiny/2283eb2c9552c1a9c53c52195163f59a",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://images.rapgenius.com/avatars/thumb/2283eb2c9552c1a9c53c52195163f59a",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://images.rapgenius.com/avatars/small/2283eb2c9552c1a9c53c52195163f59a",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://images.rapgenius.com/avatars/medium/2283eb2c9552c1a9c53c52195163f59a",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://images.rapgenius.com/avatars/medium/2283eb2c9552c1a9c53c52195163f59a",
+       "human_readable_role_for_display": "Contributor",
+       "id": 167293,
+       "iq": 1446,
+       "login": "Spyruf",
+       "name": "Spyruf",
+       "role_for_display": "contributor",
+       "url": "https://genius.com/Spyruf",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     },
+     {
+      "attribution": 0.02197802197802198,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/88274",
+       "avatar": {
+        "tiny": {
+         "url": "https://s3.amazonaws.com/rapgenius/avatars/tiny/4t4VxGDaTfGZ8cZNnmAZ.jpg",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://s3.amazonaws.com/rapgenius/avatars/thumb/4t4VxGDaTfGZ8cZNnmAZ.jpg",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://s3.amazonaws.com/rapgenius/avatars/small/4t4VxGDaTfGZ8cZNnmAZ.jpg",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://s3.amazonaws.com/rapgenius/avatars/medium/4t4VxGDaTfGZ8cZNnmAZ.jpg",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://s3.amazonaws.com/rapgenius/avatars/medium/4t4VxGDaTfGZ8cZNnmAZ.jpg",
+       "human_readable_role_for_display": "Contributor",
+       "id": 88274,
+       "iq": 7383,
+       "login": "Arash",
+       "name": "Arash",
+       "role_for_display": "contributor",
+       "url": "https://genius.com/Arash",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     },
+     {
+      "attribution": 0.02197802197802198,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/11524",
+       "avatar": {
+        "tiny": {
+         "url": "https://images.rapgenius.com/avatars/tiny/e7b84a26140d5becfc5614929303367f",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://images.rapgenius.com/avatars/thumb/e7b84a26140d5becfc5614929303367f",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://images.rapgenius.com/avatars/small/e7b84a26140d5becfc5614929303367f",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://images.rapgenius.com/avatars/medium/e7b84a26140d5becfc5614929303367f",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://images.rapgenius.com/avatars/medium/e7b84a26140d5becfc5614929303367f",
+       "human_readable_role_for_display": "Editor",
+       "id": 11524,
+       "iq": 277792,
+       "login": "tomi",
+       "name": "Tomi Fischer",
+       "role_for_display": "editor",
+       "url": "https://genius.com/tomi",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     },
+     {
+      "attribution": 0.01098901098901099,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/16",
+       "avatar": {
+        "tiny": {
+         "url": "https://s3.amazonaws.com/rapgenius/avatars/tiny/Sf2Ln6jT56GIeteSc7gq.jpg",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://s3.amazonaws.com/rapgenius/avatars/thumb/Sf2Ln6jT56GIeteSc7gq.jpg",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://s3.amazonaws.com/rapgenius/avatars/small/Sf2Ln6jT56GIeteSc7gq.jpg",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://s3.amazonaws.com/rapgenius/avatars/medium/Sf2Ln6jT56GIeteSc7gq.jpg",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://s3.amazonaws.com/rapgenius/avatars/medium/Sf2Ln6jT56GIeteSc7gq.jpg",
+       "human_readable_role_for_display": "Editor",
+       "id": 16,
+       "iq": 528160,
+       "login": "SameOldShawn",
+       "name": "SameOldShawn",
+       "role_for_display": "editor",
+       "url": "https://genius.com/SameOldShawn",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     },
+     {
+      "attribution": 0.01098901098901099,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/1791735",
+       "avatar": {
+        "tiny": {
+         "url": "https://images.genius.com/avatars/tiny/7d993857a09577d00a39d20c7de98aa6",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://images.genius.com/avatars/thumb/7d993857a09577d00a39d20c7de98aa6",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://images.genius.com/avatars/small/7d993857a09577d00a39d20c7de98aa6",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://images.genius.com/avatars/medium/7d993857a09577d00a39d20c7de98aa6",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://images.genius.com/avatars/medium/7d993857a09577d00a39d20c7de98aa6",
+       "human_readable_role_for_display": "Contributor",
+       "id": 1791735,
+       "iq": 23672,
+       "login": "Michael201918171615141312111098",
+       "name": "Saint Michael",
+       "role_for_display": "contributor",
+       "url": "https://genius.com/Michael201918171615141312111098",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     },
+     {
+      "attribution": 0.01098901098901099,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/3017322",
+       "avatar": {
+        "tiny": {
+         "url": "https://images.genius.com/avatars/tiny/e0e50b7d0336f3add05249a37508a760",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://images.genius.com/avatars/thumb/e0e50b7d0336f3add05249a37508a760",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://images.genius.com/avatars/small/e0e50b7d0336f3add05249a37508a760",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://images.genius.com/avatars/medium/e0e50b7d0336f3add05249a37508a760",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://images.genius.com/52bc2b4ad75e93532d384202e29e2144.531x322x1.png",
+       "human_readable_role_for_display": "Contributor",
+       "id": 3017322,
+       "iq": 75245,
+       "login": "theBloodyDrummer",
+       "name": "\u200btheBloodyDrummer",
+       "role_for_display": "contributor",
+       "url": "https://genius.com/theBloodyDrummer",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     },
+     {
+      "attribution": 0.01098901098901099,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/216479",
+       "avatar": {
+        "tiny": {
+         "url": "https://s3.amazonaws.com/rapgenius/avatars/tiny/5enqhfHSqq2K29sKPw6a.jpg",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://s3.amazonaws.com/rapgenius/avatars/thumb/5enqhfHSqq2K29sKPw6a.jpg",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://s3.amazonaws.com/rapgenius/avatars/small/5enqhfHSqq2K29sKPw6a.jpg",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://s3.amazonaws.com/rapgenius/avatars/medium/5enqhfHSqq2K29sKPw6a.jpg",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://s3.amazonaws.com/rapgenius/avatars/medium/5enqhfHSqq2K29sKPw6a.jpg",
+       "human_readable_role_for_display": "Contributor",
+       "id": 216479,
+       "iq": 46510,
+       "login": "didactic",
+       "name": "didactic",
+       "role_for_display": "contributor",
+       "url": "https://genius.com/didactic",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     }
+    ],
+    "cosigned_by": [],
+    "rejection_comment": null,
+    "verified_by": null
+   }
+  ]
+ },
+ "featured_artists": [
+  {
+   "api_path": "/artists/89",
+   "header_image_url": "https://images.genius.com/8353714f907477857490bd7411edb550.600x468x1.jpg",
+   "id": 89,
+   "image_url": "https://images.genius.com/a23400b7447be0fb91c3c4c839c6efe7.442x442x1.jpg",
+   "is_meme_verified": true,
+   "is_verified": true,
+   "name": "Rihanna",
+   "url": "https://genius.com/artists/Rihanna",
+   "iq": 2097
+  }
+ ],
+ "lyrics_marked_complete_by": null,
+ "media": [
+  {
+   "provider": "youtube",
+   "start": 62,
+   "type": "video",
+   "url": "http://www.youtube.com/watch?v=EHkozMIXZ8w"
+  },
+  {
+   "native_uri": "spotify:track:5U8hKxSaDXB8cVeLFQjvwx",
+   "provider": "spotify",
+   "type": "audio",
+   "url": "https://open.spotify.com/track/5U8hKxSaDXB8cVeLFQjvwx"
+  },
+  {
+   "attribution": "eminemofficial",
+   "provider": "soundcloud",
+   "type": "audio",
+   "url": "https://soundcloud.com/eminemofficial/the-monster-1"
+  }
+ ],
+ "producer_artists": [
+  {
+   "api_path": "/artists/31269",
+   "header_image_url": "https://images.genius.com/b856332068d42abc711eddf6fdd286da.400x400x1.jpg",
+   "id": 31269,
+   "image_url": "https://images.genius.com/b856332068d42abc711eddf6fdd286da.400x400x1.jpg",
+   "is_meme_verified": false,
+   "is_verified": false,
+   "name": "Frequency",
+   "url": "https://genius.com/artists/Frequency"
+  }
+ ],
+ "song_relationships": [
+  {
+   "relationship_type": "samples",
+   "type": "samples",
+   "songs": []
+  },
+  {
+   "relationship_type": "sampled_in",
+   "type": "sampled_in",
+   "songs": [
+    {
+     "annotation_count": 55,
+     "api_path": "/songs/586177",
+     "full_title": "ShadyXV by\u00a0Eminem",
+     "header_image_thumbnail_url": "https://images.genius.com/acc348ccdf6bd18c7aee7ae7c6c3d865.300x300x1.png",
+     "header_image_url": "https://images.genius.com/acc348ccdf6bd18c7aee7ae7c6c3d865.1000x1000x1.png",
+     "id": 586177,
+     "lyrics_owner_id": 22533,
+     "lyrics_state": "complete",
+     "path": "/Eminem-shadyxv-lyrics",
+     "pyongs_count": 271,
+     "song_art_image_thumbnail_url": "https://images.genius.com/acc348ccdf6bd18c7aee7ae7c6c3d865.300x300x1.png",
+     "song_art_image_url": "https://images.genius.com/acc348ccdf6bd18c7aee7ae7c6c3d865.1000x1000x1.png",
+     "stats": {
+      "unreviewed_annotations": 1,
+      "hot": false,
+      "pageviews": 418833
+     },
+     "title": "ShadyXV",
+     "title_with_featured": "ShadyXV",
+     "url": "https://genius.com/Eminem-shadyxv-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/45",
+      "header_image_url": "https://images.genius.com/a9f98b20f8aa7a32650a1dfa5f3de088.1000x445x1.jpg",
+      "id": 45,
+      "image_url": "https://images.genius.com/f300798551b97fe030876123afb8c33a.805x805x1.jpg",
+      "is_meme_verified": true,
+      "is_verified": true,
+      "name": "Eminem",
+      "url": "https://genius.com/artists/Eminem",
+      "iq": 214192
+     }
+    },
+    {
+     "annotation_count": 1,
+     "api_path": "/songs/3350062",
+     "full_title": "United State of Pop 2013 (Living the Fantasy) by\u00a0DJ\u00a0Earworm",
+     "header_image_thumbnail_url": "https://images.genius.com/85542c6493873c1e360a8002bce6c279.300x300x1.png",
+     "header_image_url": "https://images.genius.com/85542c6493873c1e360a8002bce6c279.1000x1000x1.png",
+     "id": 3350062,
+     "lyrics_owner_id": 2201951,
+     "lyrics_state": "complete",
+     "path": "/Dj-earworm-united-state-of-pop-2013-living-the-fantasy-lyrics",
+     "pyongs_count": 1,
+     "song_art_image_thumbnail_url": "https://images.genius.com/85542c6493873c1e360a8002bce6c279.300x300x1.png",
+     "song_art_image_url": "https://images.genius.com/85542c6493873c1e360a8002bce6c279.1000x1000x1.png",
+     "stats": {
+      "unreviewed_annotations": 1,
+      "hot": false
+     },
+     "title": "United State of Pop 2013 (Living the Fantasy)",
+     "title_with_featured": "United State of Pop 2013 (Living the Fantasy)",
+     "url": "https://genius.com/Dj-earworm-united-state-of-pop-2013-living-the-fantasy-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/190620",
+      "header_image_url": "https://images.genius.com/e46eb8327e3ea450b0ba0e15bcd0af6a.642x642x1.jpg",
+      "id": 190620,
+      "image_url": "https://images.genius.com/e46eb8327e3ea450b0ba0e15bcd0af6a.642x642x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "DJ Earworm",
+      "url": "https://genius.com/artists/Dj-earworm"
+     }
+    },
+    {
+     "annotation_count": 1,
+     "api_path": "/songs/3373068",
+     "full_title": "Save Me by\u00a0Sam\u00a0Sun (Ft.\u00a0Shawlzee & Shawybee)",
+     "header_image_thumbnail_url": "https://images.genius.com/f43be2dced14349a551d5fd2405fdd9b.300x199x1.jpg",
+     "header_image_url": "https://images.genius.com/f43be2dced14349a551d5fd2405fdd9b.600x398x1.jpg",
+     "id": 3373068,
+     "lyrics_owner_id": 5630829,
+     "lyrics_state": "complete",
+     "path": "/Sam-sun-save-me-lyrics",
+     "pyongs_count": null,
+     "song_art_image_thumbnail_url": "https://images.genius.com/f43be2dced14349a551d5fd2405fdd9b.300x199x1.jpg",
+     "song_art_image_url": "https://images.genius.com/f43be2dced14349a551d5fd2405fdd9b.600x398x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 0,
+      "hot": false
+     },
+     "title": "Save Me",
+     "title_with_featured": "Save Me (Ft.\u00a0Shawlzee & Shawybee)",
+     "url": "https://genius.com/Sam-sun-save-me-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/1285940",
+      "header_image_url": "https://images.genius.com/6291e98754e2b03982f7ecfde97e39b8.500x750x1.jpg",
+      "id": 1285940,
+      "image_url": "https://images.genius.com/8a7cdcb5d21754af5e62b084edc276df.720x720x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": true,
+      "name": "Sam Sun",
+      "url": "https://genius.com/artists/Sam-sun",
+      "iq": 520
+     }
+    },
+    {
+     "annotation_count": 0,
+     "api_path": "/songs/5876085",
+     "full_title": "Feeling by\u00a0Pluffaduff",
+     "header_image_thumbnail_url": "https://images.genius.com/b5fa16f2811c7778c3344b4cc53c4251.300x300x1.jpg",
+     "header_image_url": "https://images.genius.com/b5fa16f2811c7778c3344b4cc53c4251.1000x1000x1.jpg",
+     "id": 5876085,
+     "lyrics_owner_id": 9591314,
+     "lyrics_state": "complete",
+     "path": "/Pluffaduff-feeling-lyrics",
+     "pyongs_count": null,
+     "song_art_image_thumbnail_url": "https://images.genius.com/b5fa16f2811c7778c3344b4cc53c4251.300x300x1.jpg",
+     "song_art_image_url": "https://images.genius.com/b5fa16f2811c7778c3344b4cc53c4251.1000x1000x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 0,
+      "hot": false
+     },
+     "title": "Feeling",
+     "title_with_featured": "Feeling",
+     "url": "https://genius.com/Pluffaduff-feeling-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/1673277",
+      "header_image_url": "https://images.genius.com/877a0d5ee19d09c81188103ce9cb825d.288x288x1.jpg",
+      "id": 1673277,
+      "image_url": "https://images.genius.com/877a0d5ee19d09c81188103ce9cb825d.288x288x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Pluffaduff",
+      "url": "https://genius.com/artists/Pluffaduff"
+     }
+    }
+   ]
+  },
+  {
+   "relationship_type": "interpolates",
+   "type": "interpolates",
+   "songs": [
+    {
+     "annotation_count": 6,
+     "api_path": "/songs/602",
+     "full_title": "Microphone Freestyle by\u00a0Eminem",
+     "header_image_thumbnail_url": "https://images.genius.com/f300798551b97fe030876123afb8c33a.300x300x1.jpg",
+     "header_image_url": "https://images.genius.com/f300798551b97fe030876123afb8c33a.805x805x1.jpg",
+     "id": 602,
+     "lyrics_owner_id": 183,
+     "lyrics_state": "complete",
+     "path": "/Eminem-microphone-freestyle-lyrics",
+     "pyongs_count": 12,
+     "song_art_image_thumbnail_url": "https://images.genius.com/f300798551b97fe030876123afb8c33a.300x300x1.jpg",
+     "song_art_image_url": "https://images.genius.com/f300798551b97fe030876123afb8c33a.805x805x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 0,
+      "hot": false,
+      "pageviews": 51954
+     },
+     "title": "Microphone Freestyle",
+     "title_with_featured": "Microphone Freestyle",
+     "url": "https://genius.com/Eminem-microphone-freestyle-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/45",
+      "header_image_url": "https://images.genius.com/a9f98b20f8aa7a32650a1dfa5f3de088.1000x445x1.jpg",
+      "id": 45,
+      "image_url": "https://images.genius.com/f300798551b97fe030876123afb8c33a.805x805x1.jpg",
+      "is_meme_verified": true,
+      "is_verified": true,
+      "name": "Eminem",
+      "url": "https://genius.com/artists/Eminem",
+      "iq": 214192
+     }
+    },
+    {
+     "annotation_count": 2,
+     "api_path": "/songs/339642",
+     "full_title": "Monster Under My Bed by\u00a0Bebe\u00a0Rexha",
+     "header_image_thumbnail_url": "https://images.genius.com/cf3b3d945403b32637102a88eb44bec1.300x300x1.png",
+     "header_image_url": "https://images.genius.com/cf3b3d945403b32637102a88eb44bec1.671x671x1.png",
+     "id": 339642,
+     "lyrics_owner_id": 192708,
+     "lyrics_state": "complete",
+     "path": "/Bebe-rexha-monster-under-my-bed-lyrics",
+     "pyongs_count": 9,
+     "song_art_image_thumbnail_url": "https://images.genius.com/cf3b3d945403b32637102a88eb44bec1.300x300x1.png",
+     "song_art_image_url": "https://images.genius.com/cf3b3d945403b32637102a88eb44bec1.671x671x1.png",
+     "stats": {
+      "unreviewed_annotations": 0,
+      "hot": false,
+      "pageviews": 19650
+     },
+     "title": "Monster Under My Bed",
+     "title_with_featured": "Monster Under My Bed",
+     "url": "https://genius.com/Bebe-rexha-monster-under-my-bed-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/104044",
+      "header_image_url": "https://images.genius.com/ee2ce0a2412e9982c2a50630f54bc3ce.600x200x1.jpg",
+      "id": 104044,
+      "image_url": "https://images.genius.com/4d947fb6869a83c5432c04c0423ae705.399x399x1.jpg",
+      "is_meme_verified": true,
+      "is_verified": true,
+      "name": "Bebe Rexha",
+      "url": "https://genius.com/artists/Bebe-rexha",
+      "iq": 6494
+     }
+    }
+   ]
+  },
+  {
+   "relationship_type": "interpolated_by",
+   "type": "interpolated_by",
+   "songs": [
+    {
+     "annotation_count": 1,
+     "api_path": "/songs/1980425",
+     "full_title": "Excuses by\u00a0Instalok (Ft.\u00a0Lunity)",
+     "header_image_thumbnail_url": "https://images.genius.com/f62467e61411e4746b0828b1abf8bf8f.180x180x1.jpg",
+     "header_image_url": "https://images.genius.com/f62467e61411e4746b0828b1abf8bf8f.180x180x1.jpg",
+     "id": 1980425,
+     "lyrics_owner_id": 1549345,
+     "lyrics_state": "complete",
+     "path": "/Instalok-excuses-lyrics",
+     "pyongs_count": null,
+     "song_art_image_thumbnail_url": "https://images.genius.com/f62467e61411e4746b0828b1abf8bf8f.180x180x1.jpg",
+     "song_art_image_url": "https://images.genius.com/f62467e61411e4746b0828b1abf8bf8f.180x180x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 0,
+      "hot": false
+     },
+     "title": "Excuses",
+     "title_with_featured": "Excuses (Ft.\u00a0Lunity)",
+     "url": "https://genius.com/Instalok-excuses-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/453315",
+      "header_image_url": "https://images.genius.com/9cfe8244dea64cd3714c8e9d258c7ae2.900x900x1.jpg",
+      "id": 453315,
+      "image_url": "https://images.genius.com/9cfe8244dea64cd3714c8e9d258c7ae2.900x900x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Instalok",
+      "url": "https://genius.com/artists/Instalok"
+     }
+    },
+    {
+     "annotation_count": 10,
+     "api_path": "/songs/3794469",
+     "full_title": "IndiGO by\u00a0JUSTHIS,\u00a0Kid Milli, NO:EL, & Young B",
+     "header_image_thumbnail_url": "https://images.genius.com/950be73637b7509a8f3d73fd44088963.300x300x1.jpg",
+     "header_image_url": "https://images.genius.com/950be73637b7509a8f3d73fd44088963.1000x1000x1.jpg",
+     "id": 3794469,
+     "lyrics_owner_id": 5381630,
+     "lyrics_state": "complete",
+     "path": "/Justhis-kid-milli-no-el-and-young-b-indigo-lyrics",
+     "pyongs_count": 6,
+     "song_art_image_thumbnail_url": "https://images.genius.com/950be73637b7509a8f3d73fd44088963.300x300x1.jpg",
+     "song_art_image_url": "https://images.genius.com/950be73637b7509a8f3d73fd44088963.1000x1000x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 0,
+      "hot": false,
+      "pageviews": 73427
+     },
+     "title": "IndiGO",
+     "title_with_featured": "IndiGO",
+     "url": "https://genius.com/Justhis-kid-milli-no-el-and-young-b-indigo-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/2053947",
+      "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+      "id": 2053947,
+      "image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "JUSTHIS, Kid Milli, NO:EL, & Young B",
+      "url": "https://genius.com/artists/Justhis-kid-milli-no-el-and-young-b"
+     }
+    },
+    {
+     "annotation_count": 1,
+     "api_path": "/songs/3864645",
+     "full_title": "Evolution of Rihanna by\u00a0Pentatonix",
+     "header_image_thumbnail_url": "https://images.genius.com/811a2c3752beba16f6d23c3f8717cd7e.300x300x1.jpg",
+     "header_image_url": "https://images.genius.com/811a2c3752beba16f6d23c3f8717cd7e.640x640x1.jpg",
+     "id": 3864645,
+     "lyrics_owner_id": 5901134,
+     "lyrics_state": "complete",
+     "path": "/Pentatonix-evolution-of-rihanna-lyrics",
+     "pyongs_count": 1,
+     "song_art_image_thumbnail_url": "https://images.genius.com/811a2c3752beba16f6d23c3f8717cd7e.300x300x1.jpg",
+     "song_art_image_url": "https://images.genius.com/811a2c3752beba16f6d23c3f8717cd7e.640x640x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 1,
+      "hot": false,
+      "pageviews": 7825
+     },
+     "title": "Evolution of Rihanna",
+     "title_with_featured": "Evolution of Rihanna",
+     "url": "https://genius.com/Pentatonix-evolution-of-rihanna-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/62578",
+      "header_image_url": "https://images.genius.com/33296879885196d70d8200abaee21c7d.1000x437x1.jpg",
+      "id": 62578,
+      "image_url": "https://images.genius.com/811a2c3752beba16f6d23c3f8717cd7e.640x640x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": true,
+      "name": "Pentatonix",
+      "url": "https://genius.com/artists/Pentatonix",
+      "iq": 638
+     }
+    },
+    {
+     "annotation_count": 0,
+     "api_path": "/songs/4293482",
+     "full_title": "The Cool Guy by\u00a0Gary\u00a0The Cool Guy",
+     "header_image_thumbnail_url": "https://images.genius.com/fdf7e73b0d7c2e92536029ec9fd691a7.300x300x1.jpg",
+     "header_image_url": "https://images.genius.com/fdf7e73b0d7c2e92536029ec9fd691a7.499x499x1.jpg",
+     "id": 4293482,
+     "lyrics_owner_id": 6718452,
+     "lyrics_state": "complete",
+     "path": "/Gary-the-cool-guy-the-cool-guy-lyrics",
+     "pyongs_count": null,
+     "song_art_image_thumbnail_url": "https://images.genius.com/fdf7e73b0d7c2e92536029ec9fd691a7.300x300x1.jpg",
+     "song_art_image_url": "https://images.genius.com/fdf7e73b0d7c2e92536029ec9fd691a7.499x499x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 0,
+      "hot": false
+     },
+     "title": "The Cool Guy",
+     "title_with_featured": "The Cool Guy",
+     "url": "https://genius.com/Gary-the-cool-guy-the-cool-guy-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/1721526",
+      "header_image_url": "https://images.genius.com/ade1a0332365d703ff4319ca78bb2663.300x300x1.png",
+      "id": 1721526,
+      "image_url": "https://images.genius.com/ade1a0332365d703ff4319ca78bb2663.300x300x1.png",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Gary The Cool Guy",
+      "url": "https://genius.com/artists/Gary-the-cool-guy"
+     }
+    }
+   ]
+  },
+  {
+   "relationship_type": "cover_of",
+   "type": "cover_of",
+   "songs": []
+  },
+  {
+   "relationship_type": "covered_by",
+   "type": "covered_by",
+   "songs": [
+    {
+     "annotation_count": 2,
+     "api_path": "/songs/494506",
+     "full_title": "The Monster (Parody) by\u00a0Bart\u00a0Baker",
+     "header_image_thumbnail_url": "https://images.genius.com/f52122a9b83142d95d89087c3a506efe.300x300x1.jpg",
+     "header_image_url": "https://images.genius.com/f52122a9b83142d95d89087c3a506efe.630x630x1.jpg",
+     "id": 494506,
+     "lyrics_owner_id": 941557,
+     "lyrics_state": "complete",
+     "path": "/Bart-baker-the-monster-parody-lyrics",
+     "pyongs_count": 4,
+     "song_art_image_thumbnail_url": "https://images.genius.com/f52122a9b83142d95d89087c3a506efe.300x300x1.jpg",
+     "song_art_image_url": "https://images.genius.com/f52122a9b83142d95d89087c3a506efe.630x630x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 0,
+      "hot": false
+     },
+     "title": "The Monster (Parody)",
+     "title_with_featured": "The Monster (Parody)",
+     "url": "https://genius.com/Bart-baker-the-monster-parody-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/20551",
+      "header_image_url": "https://images.genius.com/f5500ee87c9330c39b9a83793c29a830.1000x563x1.jpg",
+      "id": 20551,
+      "image_url": "https://images.genius.com/f81ced4f2267ef1e1494583e8d19ab13.750x750x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Bart Baker",
+      "url": "https://genius.com/artists/Bart-baker"
+     }
+    },
+    {
+     "annotation_count": 0,
+     "api_path": "/songs/4441136",
+     "full_title": "Monster by\u00a0Roomie (Ft.\u00a0Jonas\u00a0Frisk, Martin\u00a0Olsson & Randler)",
+     "header_image_thumbnail_url": "https://i.genius.com/1156352f9c560aa04a60118378f0c1d4d7035851?url=https%3A%2F%2Fimages.app.goo.gl%2Fh9a9DUQXujQeE2ev7",
+     "header_image_url": "https://i.genius.com/1156352f9c560aa04a60118378f0c1d4d7035851?url=https%3A%2F%2Fimages.app.goo.gl%2Fh9a9DUQXujQeE2ev7",
+     "id": 4441136,
+     "lyrics_owner_id": 8070354,
+     "lyrics_state": "complete",
+     "path": "/Roomie-monster-lyrics",
+     "pyongs_count": null,
+     "song_art_image_thumbnail_url": "https://i.genius.com/1156352f9c560aa04a60118378f0c1d4d7035851?url=https%3A%2F%2Fimages.app.goo.gl%2Fh9a9DUQXujQeE2ev7",
+     "song_art_image_url": "https://i.genius.com/1156352f9c560aa04a60118378f0c1d4d7035851?url=https%3A%2F%2Fimages.app.goo.gl%2Fh9a9DUQXujQeE2ev7",
+     "stats": {
+      "unreviewed_annotations": 0,
+      "hot": false
+     },
+     "title": "Monster",
+     "title_with_featured": "Monster (Ft.\u00a0Jonas\u00a0Frisk, Martin\u00a0Olsson & Randler)",
+     "url": "https://genius.com/Roomie-monster-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/155468",
+      "header_image_url": "https://images.genius.com/61a8c9874f357b3eb46f682fce0781d8.1000x333x1.jpg",
+      "id": 155468,
+      "image_url": "https://images.genius.com/019f57c94e1d0ded7955fd62578eee7e.1000x1000x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": true,
+      "name": "Roomie",
+      "url": "https://genius.com/artists/Roomie",
+      "iq": 209
+     }
+    }
+   ]
+  },
+  {
+   "relationship_type": "remix_of",
+   "type": "remix_of",
+   "songs": []
+  },
+  {
+   "relationship_type": "remixed_by",
+   "type": "remixed_by",
+   "songs": [
+    {
+     "annotation_count": 0,
+     "api_path": "/songs/4014945",
+     "full_title": "Make it Up As I Go by\u00a0Blaze\u00a0Audio",
+     "header_image_thumbnail_url": "https://images.genius.com/e432aaefaeed1bfb44303340561cfe72.300x300x1.jpg",
+     "header_image_url": "https://images.genius.com/e432aaefaeed1bfb44303340561cfe72.1000x1000x1.jpg",
+     "id": 4014945,
+     "lyrics_owner_id": 1458288,
+     "lyrics_state": "complete",
+     "path": "/Blaze-audio-make-it-up-as-i-go-lyrics",
+     "pyongs_count": null,
+     "song_art_image_thumbnail_url": "https://images.genius.com/e432aaefaeed1bfb44303340561cfe72.300x300x1.jpg",
+     "song_art_image_url": "https://images.genius.com/e432aaefaeed1bfb44303340561cfe72.1000x1000x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 0,
+      "hot": false
+     },
+     "title": "Make it Up As I Go",
+     "title_with_featured": "Make it Up As I Go",
+     "url": "https://genius.com/Blaze-audio-make-it-up-as-i-go-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/1109293",
+      "header_image_url": "https://images.genius.com/3cf0d4edb792f896d5ea1bfe56fe689f.1000x1000x1.jpg",
+      "id": 1109293,
+      "image_url": "https://images.genius.com/6b39bdb0dfcc6334156339246e46b72f.1000x1000x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Blaze Audio",
+      "url": "https://genius.com/artists/Blaze-audio"
+     }
+    }
+   ]
+  },
+  {
+   "relationship_type": "live_version_of",
+   "type": "live_version_of",
+   "songs": []
+  },
+  {
+   "relationship_type": "performed_live_as",
+   "type": "performed_live_as",
+   "songs": []
+  }
+ ],
+ "verified_annotations_by": [
+  {
+   "api_path": "/users/1628085",
+   "avatar": {
+    "tiny": {
+     "url": "https://images.genius.com/avatars/tiny/ea27079a0ac8266d17c5006936c32f42",
+     "bounding_box": {
+      "width": 16,
+      "height": 16
+     }
+    },
+    "thumb": {
+     "url": "https://images.genius.com/avatars/thumb/ea27079a0ac8266d17c5006936c32f42",
+     "bounding_box": {
+      "width": 32,
+      "height": 32
+     }
+    },
+    "small": {
+     "url": "https://images.genius.com/avatars/small/ea27079a0ac8266d17c5006936c32f42",
+     "bounding_box": {
+      "width": 100,
+      "height": 100
+     }
+    },
+    "medium": {
+     "url": "https://images.genius.com/avatars/medium/ea27079a0ac8266d17c5006936c32f42",
+     "bounding_box": {
+      "width": 300,
+      "height": 400
+     }
+    }
+   },
+   "header_image_url": "https://images.genius.com/a9f98b20f8aa7a32650a1dfa5f3de088.1000x445x1.jpg",
+   "human_readable_role_for_display": "Verified Artist",
+   "id": 1628085,
+   "iq": 214192,
+   "login": "eminem",
+   "name": "Eminem",
+   "role_for_display": "verified_artist",
+   "url": "https://genius.com/eminem",
+   "current_user_metadata": {
+    "permissions": [],
+    "excluded_permissions": [
+     "follow"
+    ],
+    "interactions": {
+     "following": false
+    }
+   }
+  }
+ ],
+ "verified_contributors": [
+  {
+   "contributions": [
+    "annotations"
+   ],
+   "artist": {
+    "api_path": "/artists/45",
+    "header_image_url": "https://images.genius.com/a9f98b20f8aa7a32650a1dfa5f3de088.1000x445x1.jpg",
+    "id": 45,
+    "image_url": "https://images.genius.com/f300798551b97fe030876123afb8c33a.805x805x1.jpg",
+    "is_meme_verified": true,
+    "is_verified": true,
+    "name": "Eminem",
+    "url": "https://genius.com/artists/Eminem",
+    "iq": 214192
+   },
+   "user": {
+    "api_path": "/users/1628085",
+    "avatar": {
+     "tiny": {
+      "url": "https://images.genius.com/avatars/tiny/ea27079a0ac8266d17c5006936c32f42",
+      "bounding_box": {
+       "width": 16,
+       "height": 16
+      }
+     },
+     "thumb": {
+      "url": "https://images.genius.com/avatars/thumb/ea27079a0ac8266d17c5006936c32f42",
+      "bounding_box": {
+       "width": 32,
+       "height": 32
+      }
+     },
+     "small": {
+      "url": "https://images.genius.com/avatars/small/ea27079a0ac8266d17c5006936c32f42",
+      "bounding_box": {
+       "width": 100,
+       "height": 100
+      }
+     },
+     "medium": {
+      "url": "https://images.genius.com/avatars/medium/ea27079a0ac8266d17c5006936c32f42",
+      "bounding_box": {
+       "width": 300,
+       "height": 400
+      }
+     }
+    },
+    "header_image_url": "https://images.genius.com/a9f98b20f8aa7a32650a1dfa5f3de088.1000x445x1.jpg",
+    "human_readable_role_for_display": "Verified Artist",
+    "id": 1628085,
+    "iq": 214192,
+    "login": "eminem",
+    "name": "Eminem",
+    "role_for_display": "verified_artist",
+    "url": "https://genius.com/eminem",
+    "current_user_metadata": {
+     "permissions": [],
+     "excluded_permissions": [
+      "follow"
+     ],
+     "interactions": {
+      "following": false
+     }
+    }
+   }
+  }
+ ],
+ "verified_lyrics_by": [],
+ "writer_artists": [
+  {
+   "api_path": "/artists/89",
+   "header_image_url": "https://images.genius.com/8353714f907477857490bd7411edb550.600x468x1.jpg",
+   "id": 89,
+   "image_url": "https://images.genius.com/a23400b7447be0fb91c3c4c839c6efe7.442x442x1.jpg",
+   "is_meme_verified": true,
+   "is_verified": true,
+   "name": "Rihanna",
+   "url": "https://genius.com/artists/Rihanna",
+   "iq": 2097
+  },
+  {
+   "api_path": "/artists/933144",
+   "header_image_url": "https://images.genius.com/fafdf7d84033c22f4b976e8d0e7a3045.384x384x1.jpg",
+   "id": 933144,
+   "image_url": "https://images.genius.com/fafdf7d84033c22f4b976e8d0e7a3045.384x384x1.jpg",
+   "is_meme_verified": false,
+   "is_verified": false,
+   "name": "Maki Athanasiou",
+   "url": "https://genius.com/artists/Maki-athanasiou"
+  },
+  {
+   "api_path": "/artists/31269",
+   "header_image_url": "https://images.genius.com/b856332068d42abc711eddf6fdd286da.400x400x1.jpg",
+   "id": 31269,
+   "image_url": "https://images.genius.com/b856332068d42abc711eddf6fdd286da.400x400x1.jpg",
+   "is_meme_verified": false,
+   "is_verified": false,
+   "name": "Frequency",
+   "url": "https://genius.com/artists/Frequency"
+  },
+  {
+   "api_path": "/artists/197614",
+   "header_image_url": "https://images.genius.com/ae9ed5e2afebc4fd955f47db3d3e873d.1000x293x1.png",
+   "id": 197614,
+   "image_url": "https://images.genius.com/41a968fa628bb1d8f99b0c59c1d98949.1000x1000x1.jpg",
+   "is_meme_verified": false,
+   "is_verified": false,
+   "name": "Aalias",
+   "url": "https://genius.com/artists/Aalias"
+  },
+  {
+   "api_path": "/artists/26593",
+   "header_image_url": "https://images.genius.com/41ba369235c5bfc0125c4a896885da45.1000x375x1.jpg",
+   "id": 26593,
+   "image_url": "https://images.genius.com/b57482f28ddcd4abb740c4ccb9bd08da.640x640x1.jpg",
+   "is_meme_verified": false,
+   "is_verified": false,
+   "name": "Jon Bellion",
+   "url": "https://genius.com/artists/Jon-bellion"
+  },
+  {
+   "api_path": "/artists/104044",
+   "header_image_url": "https://images.genius.com/ee2ce0a2412e9982c2a50630f54bc3ce.600x200x1.jpg",
+   "id": 104044,
+   "image_url": "https://images.genius.com/4d947fb6869a83c5432c04c0423ae705.399x399x1.jpg",
+   "is_meme_verified": true,
+   "is_verified": true,
+   "name": "Bebe Rexha",
+   "url": "https://genius.com/artists/Bebe-rexha",
+   "iq": 6494
+  },
+  {
+   "api_path": "/artists/45",
+   "header_image_url": "https://images.genius.com/a9f98b20f8aa7a32650a1dfa5f3de088.1000x445x1.jpg",
+   "id": 45,
+   "image_url": "https://images.genius.com/f300798551b97fe030876123afb8c33a.805x805x1.jpg",
+   "is_meme_verified": true,
+   "is_verified": true,
+   "name": "Eminem",
+   "url": "https://genius.com/artists/Eminem",
+   "iq": 214192
+  }
+ ],
+ "lyrics": "I'm friends with the monster that's under my bed\nGet along with the voices inside of my head\nYou're tryin' to save me, stop holdin' your breath\nAnd you think I'm crazy, yeah, you think I'm crazy\n\nI wanted the fame but not the cover of Newsweek\nOh well, guess beggars can't be choosey\nWanted to receive attention for my music\nWanted to be left alone in public, excuse me\nFor wantin' my cake, and eat it too, and wantin' it both ways\nFame made me a balloon 'cause my ego inflated\nWhen I blew, see, but it was confusing\n'Cause all I wanted to do's be the Bruce Lee of loose leaf\nAbused ink, used it as a tool when I blew steam\nWhoo! Hit the lottery, ooh-wee\nBut with what I gave up to get it was bittersweet\nIt was like winnin' a used mink\nIronic 'cause I think I'm gettin' so huge I need a shrink\nI'm beginnin' to lose sleep: one sheep, two sheep\nGoin' coo-coo and kooky as Kool Keith\nBut I'm actually weirder than you think, 'cause I'm\u2014\n\nI'm friends with the monster that's under my bed\nGet along with the voices inside of my head\nYou're tryin' to save me, stop holdin' your breath\nAnd you think I'm crazy, yeah, you think I'm crazy\nWell, that's nothin' (Ooh-ooh-ooh-ooh)\n(Ooh-ooh-ooh-ooh, ooh-ooh-ooh-ooh)\nWell, that's nothin' (Ooh-ooh-ooh-ooh)\n(Ooh-ooh-ooh-ooh, ooh-ooh-ooh-ooh, ooh-ooh-ooh-ooh)\n\nNow, I ain't much of a poet\nBut I know somebody once told me to seize the moment\nAnd don't squander it 'cause you never know when it all\nCould be over tomorrow, so I keep conjurin'\nSometimes I wonder where these thoughts spawn from\nYeah, ponderin'll do you wonders\nNo wonder you're losin' your mind, the way it wanders\nYodel-odel-ay-hee-hoo! I think it went wanderin' off down yonder\nAnd stumbled onto Jeff VanVonderen\n'Cause I need an interventionist\nTo intervene between me and this monster\nAnd save me from myself and all this conflict\n'Cause the very thing that I love's killin' me and I can't conquer it\nMy OCD's conkin' me in the head, keep knockin'\nNobody's home, I'm sleepwalkin'\nI'm just relayin' what the voice in my head's sayin'\nDon't shoot the messenger, I'm just friends with the\u2014\n\nI'm friends with the monster that's under my bed\nGet along with the voices inside of my head\nYou're tryin' to save me, stop holdin' your breath\nAnd you think I'm crazy, yeah, you think I'm crazy\nWell, that's nothin' (Ooh-ooh-ooh-ooh)\n(Ooh-ooh-ooh-ooh, ooh-ooh-ooh-ooh)\nWell, that's nothin' (Ooh-ooh-ooh-ooh)\n(Ooh-ooh-ooh-ooh, ooh-ooh-ooh-ooh, ooh-ooh-ooh-ooh)\n\nCall me crazy, but I have this vision, one day that\nI'll walk amongst you a regular civilian\nBut until then, drums get killed and\nI'm comin' straight at MC's, blood gets spilled and\nI'll take you back to the days that I'd get on a Dre track\nGive every kid who got played that pumped-up feelin'\nAnd shit to say back to the kids who played him\nI ain't here to save the fuckin' children\nBut if one kid out of a hundred million\nWho are goin' through a struggle, feels it and relates, that's great!\nIt's payback, Russell Wilson fallin' way back\nIn the draft, turn nothin' into somethin', still can make that\nStraw into gold, chump, I will spin\u2014Rumpelstiltskin in a haystack\nMaybe I need a straightjacket\nFace facts: I am nuts for real, but I'm okay with that!\nIt's nothin', I'm still friends with the\u2014\n\nI'm friends with the monster that's under my bed\nGet along with the voices inside of my head\nYou're tryin' to save me, stop holdin' your breath\nAnd you think I'm crazy, yeah, you think I'm crazy\n\nI'm friends with the monster that's under my bed\n(Get along with) Get along with the voices inside of my head\n(You're tryin' to) You're tryin' to save me, stop holdin' your breath\n(And you think) And you think I'm crazy, yeah, you think I'm crazy\nWell, that's nothin'\n\n(Ooh-ooh-ooh-ooh)\n(Ooh-ooh-ooh-ooh, ooh-ooh-ooh-ooh)\nWell, that's nothin' (Ooh-ooh-ooh-ooh)\n(Ooh-ooh-ooh-ooh, ooh-ooh-ooh-ooh, ooh-ooh-ooh-ooh)"
+}

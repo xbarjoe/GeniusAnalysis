@@ -1,0 +1,4614 @@
+{
+ "_type": "song",
+ "annotation_count": 17,
+ "api_path": "/songs/3003630",
+ "full_title": "XO TOUR Llif3 by\u00a0Lil\u00a0Uzi Vert",
+ "header_image_thumbnail_url": "https://images.genius.com/3031ec1ba7d31a0aaa4c86acc9865c17.300x135x1.png",
+ "header_image_url": "https://images.genius.com/3031ec1ba7d31a0aaa4c86acc9865c17.849x382x1.png",
+ "id": 3003630,
+ "instrumental": false,
+ "lyrics_owner_id": 1665086,
+ "lyrics_state": "complete",
+ "lyrics_updated_at": 1603919206,
+ "path": "/Lil-uzi-vert-xo-tour-llif3-lyrics",
+ "pyongs_count": 672,
+ "song_art_image_thumbnail_url": "https://images.genius.com/fb92d6ae51794dfd11016f43a3678399.300x300x1.png",
+ "song_art_image_url": "https://images.genius.com/fb92d6ae51794dfd11016f43a3678399.1000x1000x1.png",
+ "stats": {
+  "accepted_annotations": 16,
+  "contributors": 484,
+  "iq_earners": 484,
+  "transcribers": 11,
+  "unreviewed_annotations": 0,
+  "verified_annotations": 0,
+  "concurrents": 4,
+  "hot": false,
+  "pageviews": 7452118
+ },
+ "title": "XO TOUR Llif3",
+ "title_with_featured": "XO TOUR Llif3",
+ "updated_by_human_at": 1606626032,
+ "url": "https://genius.com/Lil-uzi-vert-xo-tour-llif3-lyrics",
+ "primary_artist": {
+  "api_path": "/artists/217208",
+  "header_image_url": "https://images.genius.com/46a8b723a36b4d8cfca6c9ecd9816c47.1000x429x1.jpg",
+  "id": 217208,
+  "image_url": "https://images.genius.com/05f2ee7ef53d1a68352ec67cda793d0c.469x469x1.jpg",
+  "is_meme_verified": false,
+  "is_verified": true,
+  "name": "Lil Uzi Vert",
+  "url": "https://genius.com/artists/Lil-uzi-vert",
+  "iq": 5017
+ },
+ "apple_music_id": "1274153124",
+ "apple_music_player_url": "https://genius.com/songs/3003630/apple_music_player",
+ "description": {
+  "plain": "\u201cXO Tour Llif3\u201d is a chronicle of Uzi\u2019s relationship issues with ex-girlfriend, Brittany Byrd, and substance abuse. It\u2019s delivered over bassy and upbeat production but addresses topics like suicide and betrayal.  Ultimately, it\u2019s a narrative mixed with strong emotional dialogue, outlining a big fight between him and his girlfriend.\n\nLUV premiered the track in London while opening for The Weeknd\u2019s Starboy: Legend of the Fall 2017 world tour, following the song\u2019s leak. The title pays homage to The Weeknd\u2019s label XO, in light of the performance.\n\nhttps://www.instagram.com/p/BRVujQLAHO5/?taken-by=liluzivert\n\nEternal Atake\u2019s \u201cP2\u201d is continuation of XO Tour Llif3. Uzi raps about moving on from heartbreak and continuing his career, problem-free. P2 is the outro to Eternal Atake, excluding two bonus tracks."
+ },
+ "embed_content": "<div id='rg_embed_link_3003630' class='rg_embed_link' data-song-id='3003630'>Read <a href='https://genius.com/Lil-uzi-vert-xo-tour-llif3-lyrics'>\u201cXO TOUR Llif3\u201d by Lil\u00a0Uzi Vert</a> on Genius</div> <script crossorigin src='//genius.com/songs/3003630/embed.js'></script>",
+ "fact_track": {
+  "provider": "spotify",
+  "external_url": "https://open.spotify.com/track/2eMwDehkIC1j68U6FA3Eiq",
+  "button_text": "Behind the Lyrics in Spotify",
+  "help_link_text": "What's a Fact Track?",
+  "help_link_url": "https://genius.com/a/genius-and-spotify-together"
+ },
+ "featured_video": false,
+ "lyrics_placeholder_reason": null,
+ "recording_location": null,
+ "release_date": "2017-02-26",
+ "release_date_for_display": "February 26, 2017",
+ "song_story_embed_url": "https://genius.com/song-stories/Lil-uzi-vert-xo-tour-llif3",
+ "current_user_metadata": {
+  "permissions": [
+   "see_pageviews",
+   "watch_fact_track",
+   "view_apple_music_player",
+   "create_comment",
+   "view_song_story_gallery"
+  ],
+  "excluded_permissions": [
+   "follow",
+   "award_transcription_iq",
+   "remove_transcription_iq",
+   "pyong",
+   "edit_lyrics",
+   "view_annotation_engagement_data",
+   "publish",
+   "unpublish",
+   "edit_spotify_details",
+   "hide",
+   "unhide",
+   "toggle_featured_video",
+   "add_pinned_annotation_to",
+   "add_community_annotation_to",
+   "destroy",
+   "mark_as_not_spam",
+   "edit_spotify_annotations_for",
+   "verify_lyrics",
+   "unverify_lyrics",
+   "edit_anything",
+   "edit_any_media",
+   "edit",
+   "rename",
+   "edit_tags",
+   "reindex",
+   "view_lyrics_synchronization",
+   "enable_media",
+   "disable_media",
+   "edit_lyrics_or_annotation_brackets",
+   "see_editorial_indicators",
+   "view_attribution_visualization",
+   "edit_annotation_brackets",
+   "preview_lyrics_for_export",
+   "hide_apple_player",
+   "unhide_apple_player",
+   "trigger_apple_match",
+   "mark_lyrics_evaluation_as_approved",
+   "mark_lyrics_evaluation_as_staff_approved",
+   "mark_lyrics_evaluation_as_unapproved",
+   "mark_lyrics_evaluation_as_un_staff_approved",
+   "view_transcriber_media_player",
+   "override_apple_match",
+   "edit_youtube_url",
+   "edit_soundcloud_url",
+   "edit_spotify_uuid",
+   "edit_vevo_url",
+   "moderate_annotations",
+   "create_annotation",
+   "see_short_id",
+   "manage_chart_item",
+   "create_tag",
+   "propose_lyrics_edit",
+   "moderate_lyrics_edit_proposals",
+   "preview_react_song_page"
+  ],
+  "interactions": {
+   "pyong": false,
+   "following": false
+  },
+  "relationships": {},
+  "iq_by_action": {}
+ },
+ "album": {
+  "api_path": "/albums/347955",
+  "cover_art_url": "https://images.genius.com/50af11dfe454a4aa20544f19b2dd0791.1000x1000x1.png",
+  "full_title": "Luv Is Rage 2 by Lil Uzi Vert",
+  "id": 347955,
+  "name": "Luv Is Rage 2",
+  "url": "https://genius.com/albums/Lil-uzi-vert/Luv-is-rage-2",
+  "artist": {
+   "api_path": "/artists/217208",
+   "header_image_url": "https://images.genius.com/46a8b723a36b4d8cfca6c9ecd9816c47.1000x429x1.jpg",
+   "id": 217208,
+   "image_url": "https://images.genius.com/05f2ee7ef53d1a68352ec67cda793d0c.469x469x1.jpg",
+   "is_meme_verified": false,
+   "is_verified": true,
+   "name": "Lil Uzi Vert",
+   "url": "https://genius.com/artists/Lil-uzi-vert",
+   "iq": 5017
+  }
+ },
+ "custom_performances": [
+  {
+   "label": "Performance Rights",
+   "artists": [
+    {
+     "api_path": "/artists/551598",
+     "header_image_url": "https://images.genius.com/067d9bccf2ab6e5eded129861b73d9dc.851x315x1.jpg",
+     "id": 551598,
+     "image_url": "https://images.genius.com/5f24e8e67904faef419d736f2ade3f78.1000x1000x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "ASCAP",
+     "url": "https://genius.com/artists/Ascap"
+    },
+    {
+     "api_path": "/artists/1138091",
+     "header_image_url": "https://images.genius.com/5b84dbf7ba86e59c297143f076a56c9a.1000x1000x1.jpg",
+     "id": 1138091,
+     "image_url": "https://images.genius.com/051b0a6beabf8a9eb8768e9f874a542f.1000x1000x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "BMI",
+     "url": "https://genius.com/artists/Bmi"
+    }
+   ]
+  },
+  {
+   "label": "Publisher",
+   "artists": [
+    {
+     "api_path": "/artists/1100826",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+     "id": 1100826,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "New World Music",
+     "url": "https://genius.com/artists/New-world-music"
+    },
+    {
+     "api_path": "/artists/1112276",
+     "header_image_url": "https://images.genius.com/159917d9c26b9cfe66c0b04493a1f05a.900x900x1.png",
+     "id": 1112276,
+     "image_url": "https://images.genius.com/340e19086e9ebeae265e6e4947b0ffcb.900x900x1.png",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Warner Music Group",
+     "url": "https://genius.com/artists/Warner-music-group"
+    },
+    {
+     "api_path": "/artists/1011919",
+     "header_image_url": "https://images.genius.com/26596e664ee4244a3a112d1a0eefabe3.220x102x1.png",
+     "id": 1011919,
+     "image_url": "https://images.genius.com/f39d8c1ab1923335932d0b5356758f39.382x382x1.png",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "BMG",
+     "url": "https://genius.com/artists/Bmg"
+    },
+    {
+     "api_path": "/artists/992219",
+     "header_image_url": "https://images.genius.com/a43ed819378fccdad8a80cad050f2029.768x433x1.jpg",
+     "id": 992219,
+     "image_url": "https://images.genius.com/8af7bba6ca0c481513ffe4b4ab87e347.314x314x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Warner-Tamerlane Publishing Corp.",
+     "url": "https://genius.com/artists/Warner-tamerlane-publishing-corp"
+    },
+    {
+     "api_path": "/artists/2234563",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+     "id": 2234563,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "TM88 Music",
+     "url": "https://genius.com/artists/Tm88-music"
+    },
+    {
+     "api_path": "/artists/2234562",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+     "id": 2234562,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Paycheck Publishing Group",
+     "url": "https://genius.com/artists/Paycheck-publishing-group"
+    },
+    {
+     "api_path": "/artists/1039843",
+     "header_image_url": "https://images.genius.com/95537b6b72e2ee923324f2635cc9e823.1000x563x1.png",
+     "id": 1039843,
+     "image_url": "https://images.genius.com/95537b6b72e2ee923324f2635cc9e823.1000x563x1.png",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "BMG Platinum Songs",
+     "url": "https://genius.com/artists/Bmg-platinum-songs"
+    },
+    {
+     "api_path": "/artists/1152704",
+     "header_image_url": "https://images.genius.com/6b9a922068a379c1836441d79f071e92.672x672x1.jpg",
+     "id": 1152704,
+     "image_url": "https://images.genius.com/6b9a922068a379c1836441d79f071e92.672x672x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Warner/Chappell",
+     "url": "https://genius.com/artists/Warner-chappell"
+    },
+    {
+     "api_path": "/artists/2234805",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+     "id": 2234805,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "ASCAPUzi",
+     "url": "https://genius.com/artists/Ascapuzi"
+    }
+   ]
+  },
+  {
+   "label": "Copyright \u00a9",
+   "artists": [
+    {
+     "api_path": "/artists/1112276",
+     "header_image_url": "https://images.genius.com/159917d9c26b9cfe66c0b04493a1f05a.900x900x1.png",
+     "id": 1112276,
+     "image_url": "https://images.genius.com/340e19086e9ebeae265e6e4947b0ffcb.900x900x1.png",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Warner Music Group",
+     "url": "https://genius.com/artists/Warner-music-group"
+    },
+    {
+     "api_path": "/artists/68978",
+     "header_image_url": "https://images.genius.com/365d2342d8e838709b3b0932e088a510.1000x667x1.jpg",
+     "id": 68978,
+     "image_url": "https://images.genius.com/204458cc33bf320629866a47bab1e342.1000x1000x1.png",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Atlantic Records",
+     "url": "https://genius.com/artists/Atlantic-records"
+    }
+   ]
+  },
+  {
+   "label": "Phonographic Copyright \u2117",
+   "artists": [
+    {
+     "api_path": "/artists/1112276",
+     "header_image_url": "https://images.genius.com/159917d9c26b9cfe66c0b04493a1f05a.900x900x1.png",
+     "id": 1112276,
+     "image_url": "https://images.genius.com/340e19086e9ebeae265e6e4947b0ffcb.900x900x1.png",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Warner Music Group",
+     "url": "https://genius.com/artists/Warner-music-group"
+    },
+    {
+     "api_path": "/artists/68978",
+     "header_image_url": "https://images.genius.com/365d2342d8e838709b3b0932e088a510.1000x667x1.jpg",
+     "id": 68978,
+     "image_url": "https://images.genius.com/204458cc33bf320629866a47bab1e342.1000x1000x1.png",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Atlantic Records",
+     "url": "https://genius.com/artists/Atlantic-records"
+    }
+   ]
+  },
+  {
+   "label": "Video Director",
+   "artists": [
+    {
+     "api_path": "/artists/255638",
+     "header_image_url": "https://images.genius.com/435b5d721220bc464ca58cb192307583.580x450x1.jpg",
+     "id": 255638,
+     "image_url": "https://images.genius.com/7ed3b88ba839c0372a6055f2c1b4c040.403x403x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Virgil Abloh",
+     "url": "https://genius.com/artists/Virgil-abloh"
+    }
+   ]
+  },
+  {
+   "label": "Video Production Company",
+   "artists": [
+    {
+     "api_path": "/artists/1394911",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+     "id": 1394911,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Off-White Films",
+     "url": "https://genius.com/artists/Off-white-films"
+    }
+   ]
+  },
+  {
+   "label": "Assistant Mixing Engineer",
+   "artists": [
+    {
+     "api_path": "/artists/1054858",
+     "header_image_url": "https://images.genius.com/df57efd0caa5db7bb58f456ce77ab0e4.562x1000x1.jpg",
+     "id": 1054858,
+     "image_url": "https://images.genius.com/161f8aa4fb5339e5af937d1457ac5984.750x750x1.png",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Michael Piroli",
+     "url": "https://genius.com/artists/Michael-piroli"
+    }
+   ]
+  },
+  {
+   "label": "Video Producer",
+   "artists": [
+    {
+     "api_path": "/artists/1217728",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+     "id": 1217728,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Emmanuelle Cuny-Diop",
+     "url": "https://genius.com/artists/Emmanuelle-cuny-diop"
+    },
+    {
+     "api_path": "/artists/1329186",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+     "id": 1329186,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Lucas Prevost",
+     "url": "https://genius.com/artists/Lucas-prevost"
+    },
+    {
+     "api_path": "/artists/1217730",
+     "header_image_url": "https://images.genius.com/4b946355a0226df8aea570d0c5f44e3b.320x320x1.jpg",
+     "id": 1217730,
+     "image_url": "https://images.genius.com/4b946355a0226df8aea570d0c5f44e3b.320x320x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "NO TEXT Azienda",
+     "url": "https://genius.com/artists/No-text-azienda"
+    }
+   ]
+  },
+  {
+   "label": "Mastering Engineer",
+   "artists": [
+    {
+     "api_path": "/artists/587689",
+     "header_image_url": "https://images.genius.com/f726c51caac58bfc0d6ffba924431cd8.1000x1000x1.jpg",
+     "id": 587689,
+     "image_url": "https://images.genius.com/f726c51caac58bfc0d6ffba924431cd8.1000x1000x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Colin Leonard",
+     "url": "https://genius.com/artists/Colin-leonard"
+    }
+   ]
+  },
+  {
+   "label": "Mixing Engineer",
+   "artists": [
+    {
+     "api_path": "/artists/27658",
+     "header_image_url": "https://images.genius.com/4f89d8ea8c778e84e0b60da638d19f0c.188x188x1.jpg",
+     "id": 27658,
+     "image_url": "https://images.genius.com/4f89d8ea8c778e84e0b60da638d19f0c.188x188x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Leslie Brathwaite",
+     "url": "https://genius.com/artists/Leslie-brathwaite"
+    }
+   ]
+  },
+  {
+   "label": "Recording Engineer",
+   "artists": [
+    {
+     "api_path": "/artists/1053823",
+     "header_image_url": "https://images.genius.com/702e52e42d0b75f4b1a70449aefec6f6.400x400x1.jpg",
+     "id": 1053823,
+     "image_url": "https://images.genius.com/702e52e42d0b75f4b1a70449aefec6f6.400x400x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Kesha Lee",
+     "url": "https://genius.com/artists/Kesha-lee"
+    }
+   ]
+  }
+ ],
+ "description_annotation": {
+  "_type": "referent",
+  "annotator_id": 814217,
+  "annotator_login": "ringsbeats",
+  "api_path": "/referents/11417038",
+  "classification": "accepted",
+  "fragment": "XO TOUR Llif3",
+  "id": 11417038,
+  "is_description": true,
+  "path": "/11417038/Lil-uzi-vert-xo-tour-llif3/Xo-tour-llif3",
+  "range": {
+   "content": "XO TOUR Llif3"
+  },
+  "song_id": 3003630,
+  "url": "https://genius.com/11417038/Lil-uzi-vert-xo-tour-llif3/Xo-tour-llif3",
+  "verified_annotator_ids": [],
+  "annotatable": {
+   "api_path": "/songs/3003630",
+   "client_timestamps": {
+    "updated_by_human_at": 1606626032,
+    "lyrics_updated_at": 1603919206
+   },
+   "context": "Lil Uzi Vert",
+   "id": 3003630,
+   "image_url": "https://images.genius.com/fb92d6ae51794dfd11016f43a3678399.1000x1000x1.png",
+   "link_title": "XO TOUR Llif3 by\u00a0Lil\u00a0Uzi Vert",
+   "title": "XO TOUR Llif3",
+   "type": "Song",
+   "url": "https://genius.com/Lil-uzi-vert-xo-tour-llif3-lyrics"
+  },
+  "annotations": [
+   {
+    "api_path": "/annotations/11417038",
+    "body": {
+     "plain": "\u201cXO Tour Llif3\u201d is a chronicle of Uzi\u2019s relationship issues with ex-girlfriend, Brittany Byrd, and substance abuse. It\u2019s delivered over bassy and upbeat production but addresses topics like suicide and betrayal.  Ultimately, it\u2019s a narrative mixed with strong emotional dialogue, outlining a big fight between him and his girlfriend.\n\nLUV premiered the track in London while opening for The Weeknd\u2019s Starboy: Legend of the Fall 2017 world tour, following the song\u2019s leak. The title pays homage to The Weeknd\u2019s label XO, in light of the performance.\n\nhttps://www.instagram.com/p/BRVujQLAHO5/?taken-by=liluzivert\n\nEternal Atake\u2019s \u201cP2\u201d is continuation of XO Tour Llif3. Uzi raps about moving on from heartbreak and continuing his career, problem-free. P2 is the outro to Eternal Atake, excluding two bonus tracks."
+    },
+    "comment_count": 0,
+    "community": true,
+    "custom_preview": null,
+    "has_voters": true,
+    "id": 11417038,
+    "pinned": false,
+    "share_url": "https://genius.com/11417038",
+    "source": null,
+    "state": "accepted",
+    "url": "https://genius.com/11417038/Lil-uzi-vert-xo-tour-llif3/Xo-tour-llif3",
+    "verified": false,
+    "votes_total": 1010,
+    "current_user_metadata": {
+     "permissions": [
+      "create_comment"
+     ],
+     "excluded_permissions": [
+      "vote",
+      "edit",
+      "cosign",
+      "uncosign",
+      "destroy",
+      "accept",
+      "reject",
+      "see_unreviewed",
+      "clear_votes",
+      "propose_edit_to",
+      "pin_to_profile",
+      "unpin_from_profile",
+      "update_source",
+      "edit_custom_preview"
+     ],
+     "interactions": {
+      "cosign": false,
+      "pyong": false,
+      "vote": null
+     },
+     "iq_by_action": {}
+    },
+    "authors": [
+     {
+      "attribution": 0.3108108108108108,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/1334958",
+       "avatar": {
+        "tiny": {
+         "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/5ujmumqpazg",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/5ujmumqpazg",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/5ujmumqpazg",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/5ujmumqpazg",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/1ur4g7ji9c1",
+       "human_readable_role_for_display": "Editor",
+       "id": 1334958,
+       "iq": 17704,
+       "login": "yvngyvng",
+       "name": "yvngyvng",
+       "role_for_display": "editor",
+       "url": "https://genius.com/yvngyvng",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     },
+     {
+      "attribution": 0.28378378378378377,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/756535",
+       "avatar": {
+        "tiny": {
+         "url": "https://images.genius.com/avatars/tiny/82a9d0fa16b9bc0263a854492d56b40c",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://images.genius.com/avatars/thumb/82a9d0fa16b9bc0263a854492d56b40c",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://images.genius.com/avatars/small/82a9d0fa16b9bc0263a854492d56b40c",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://images.genius.com/avatars/medium/82a9d0fa16b9bc0263a854492d56b40c",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://images.genius.com/31bf862faf49fee02461e759e412ed1f.1000x666x1.jpg",
+       "human_readable_role_for_display": "Moderator",
+       "id": 756535,
+       "iq": 157075,
+       "login": "BrianErwin",
+       "name": "Brian Erwin",
+       "role_for_display": "moderator",
+       "url": "https://genius.com/BrianErwin",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     },
+     {
+      "attribution": 0.13513513513513514,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/9039243",
+       "avatar": {
+        "tiny": {
+         "url": "https://images.genius.com/avatars/tiny/51b8a7430ba4f8012bba8111b9232e66",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://images.genius.com/avatars/thumb/51b8a7430ba4f8012bba8111b9232e66",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://images.genius.com/avatars/small/51b8a7430ba4f8012bba8111b9232e66",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://images.genius.com/avatars/medium/51b8a7430ba4f8012bba8111b9232e66",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://images.genius.com/56c3623d864e4fc30cf49ce167efcdd9.980x551x1.jpg",
+       "human_readable_role_for_display": "Contributor",
+       "id": 9039243,
+       "iq": 1622,
+       "login": "producedbylouis",
+       "name": "ProducedByLouis",
+       "role_for_display": "contributor",
+       "url": "https://genius.com/producedbylouis",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     },
+     {
+      "attribution": 0.0945945945945946,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/814217",
+       "avatar": {
+        "tiny": {
+         "url": "https://images.genius.com/avatars/tiny/bafa75ad16d3e14ba9f0565de7c7a4d8",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://images.genius.com/avatars/thumb/bafa75ad16d3e14ba9f0565de7c7a4d8",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://images.genius.com/avatars/small/bafa75ad16d3e14ba9f0565de7c7a4d8",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://images.genius.com/avatars/medium/bafa75ad16d3e14ba9f0565de7c7a4d8",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/eKzhq87lSoOPuoPB240W_f5fa7bd03edb75c37c7690e15cf51b1f.500x500x1.jpg",
+       "human_readable_role_for_display": "Contributor",
+       "id": 814217,
+       "iq": 643,
+       "login": "ringsbeats",
+       "name": "ringsbeats",
+       "role_for_display": "contributor",
+       "url": "https://genius.com/ringsbeats",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     },
+     {
+      "attribution": 0.08108108108108109,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/1091826",
+       "avatar": {
+        "tiny": {
+         "url": "https://images.genius.com/avatars/tiny/8117ee4587623c87e710bee0383671be",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://images.genius.com/avatars/thumb/8117ee4587623c87e710bee0383671be",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://images.genius.com/avatars/small/8117ee4587623c87e710bee0383671be",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://images.genius.com/avatars/medium/8117ee4587623c87e710bee0383671be",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://images.genius.com/0498ef540839b2fa22d8f9b2d3f7f5e4.480x196x38.gif",
+       "human_readable_role_for_display": "Contributor",
+       "id": 1091826,
+       "iq": 263710,
+       "login": "Astroworld",
+       "name": "\ud83d\ude80\ud83d\udc51ASTROWORLD",
+       "role_for_display": "contributor",
+       "url": "https://genius.com/Astroworld",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     },
+     {
+      "attribution": 0.05405405405405405,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/4336132",
+       "avatar": {
+        "tiny": {
+         "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/8TzSqnfTQVe3vqVRJjb8_ezgif.com-crop.gif",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/8TzSqnfTQVe3vqVRJjb8_ezgif.com-crop.gif",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/8TzSqnfTQVe3vqVRJjb8_ezgif.com-crop.gif",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/8TzSqnfTQVe3vqVRJjb8_ezgif.com-crop.gif",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/s2r12m8i04",
+       "human_readable_role_for_display": "Editor",
+       "id": 4336132,
+       "iq": 42526,
+       "login": "Cocktree",
+       "name": "Cocktree",
+       "role_for_display": "editor",
+       "url": "https://genius.com/Cocktree",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     },
+     {
+      "attribution": 0.013513513513513513,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/235130",
+       "avatar": {
+        "tiny": {
+         "url": "https://images.rapgenius.com/avatars/tiny/5f83a99f9d3ccc7e18fc17d1684b0fc1",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://images.rapgenius.com/avatars/thumb/5f83a99f9d3ccc7e18fc17d1684b0fc1",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://images.rapgenius.com/avatars/small/5f83a99f9d3ccc7e18fc17d1684b0fc1",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://images.rapgenius.com/avatars/medium/5f83a99f9d3ccc7e18fc17d1684b0fc1",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://images.rapgenius.com/avatars/medium/5f83a99f9d3ccc7e18fc17d1684b0fc1",
+       "human_readable_role_for_display": null,
+       "id": 235130,
+       "iq": 269,
+       "login": "Amon17",
+       "name": "Amon17",
+       "role_for_display": null,
+       "url": "https://genius.com/Amon17",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     },
+     {
+      "attribution": 0.006756756756756756,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/217008",
+       "avatar": {
+        "tiny": {
+         "url": "https://images.genius.com/avatars/tiny/0e4bcd4511de2da2b6101afef868371e",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://images.genius.com/avatars/thumb/0e4bcd4511de2da2b6101afef868371e",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://images.genius.com/avatars/small/0e4bcd4511de2da2b6101afef868371e",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://images.genius.com/avatars/medium/0e4bcd4511de2da2b6101afef868371e",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/kyU2i9lTNCBCiG3fEszB_chihuahua.jpg",
+       "human_readable_role_for_display": "Editor",
+       "id": 217008,
+       "iq": 26323,
+       "login": "SPARRK",
+       "name": "SPARRK",
+       "role_for_display": "editor",
+       "url": "https://genius.com/SPARRK",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     },
+     {
+      "attribution": 0.006756756756756756,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/3272791",
+       "avatar": {
+        "tiny": {
+         "url": "https://images.genius.com/avatars/tiny/7e14c2a51bbaa5c9e1107f02102fb8d5",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://images.genius.com/avatars/thumb/7e14c2a51bbaa5c9e1107f02102fb8d5",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://images.genius.com/avatars/small/7e14c2a51bbaa5c9e1107f02102fb8d5",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://images.genius.com/avatars/medium/7e14c2a51bbaa5c9e1107f02102fb8d5",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/5sFLucU4Td6RnIlt08iY_giphy.gif",
+       "human_readable_role_for_display": "Editor",
+       "id": 3272791,
+       "iq": 143447,
+       "login": "Madkol",
+       "name": "Madkol",
+       "role_for_display": "editor",
+       "url": "https://genius.com/Madkol",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     },
+     {
+      "attribution": 0.006756756756756756,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/235789",
+       "avatar": {
+        "tiny": {
+         "url": "https://images.rapgenius.com/avatars/tiny/800e04f2c1fab5c24783f714f68d2acf",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://images.rapgenius.com/avatars/thumb/800e04f2c1fab5c24783f714f68d2acf",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://images.rapgenius.com/avatars/small/800e04f2c1fab5c24783f714f68d2acf",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://images.rapgenius.com/avatars/medium/800e04f2c1fab5c24783f714f68d2acf",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://images.rapgenius.com/avatars/medium/800e04f2c1fab5c24783f714f68d2acf",
+       "human_readable_role_for_display": "Editor",
+       "id": 235789,
+       "iq": 32472,
+       "login": "ezra",
+       "name": "Ezra Glenn",
+       "role_for_display": "editor",
+       "url": "https://genius.com/ezra",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     },
+     {
+      "attribution": 0.006756756756756756,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/1599419",
+       "avatar": {
+        "tiny": {
+         "url": "https://images.genius.com/avatars/tiny/9679a2689a224d925d17e3f60ccf26b5",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://images.genius.com/avatars/thumb/9679a2689a224d925d17e3f60ccf26b5",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://images.genius.com/avatars/small/9679a2689a224d925d17e3f60ccf26b5",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://images.genius.com/avatars/medium/9679a2689a224d925d17e3f60ccf26b5",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://images.genius.com/473c6e5fc57e588fccc4b8789a718ca7.892x500x1.jpg",
+       "human_readable_role_for_display": "Editor",
+       "id": 1599419,
+       "iq": 550639,
+       "login": "ibmac26",
+       "name": "\u200bibmac26 | #BlackLivesMatter",
+       "role_for_display": "editor",
+       "url": "https://genius.com/ibmac26",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     }
+    ],
+    "cosigned_by": [],
+    "rejection_comment": null,
+    "verified_by": null
+   }
+  ]
+ },
+ "featured_artists": [],
+ "lyrics_marked_complete_by": null,
+ "media": [
+  {
+   "native_uri": "spotify:track:2eMwDehkIC1j68U6FA3Eiq",
+   "provider": "spotify",
+   "type": "audio",
+   "url": "https://open.spotify.com/track/2eMwDehkIC1j68U6FA3Eiq"
+  },
+  {
+   "attribution": "liluzivert",
+   "provider": "soundcloud",
+   "type": "audio",
+   "url": "https://soundcloud.com/liluzivert/15-xo-tour-llif3"
+  },
+  {
+   "provider": "youtube",
+   "start": 32,
+   "type": "video",
+   "url": "http://www.youtube.com/watch?v=WrsFXgQk5UI"
+  }
+ ],
+ "producer_artists": [
+  {
+   "api_path": "/artists/27486",
+   "header_image_url": "https://images.genius.com/52f879e6a834dd8c17927b55e6edd37b.400x400x1.jpg",
+   "id": 27486,
+   "image_url": "https://images.genius.com/5c52b5f1eb9a2fb624f1040814d33e5e.487x487x1.png",
+   "is_meme_verified": false,
+   "is_verified": false,
+   "name": "TM88",
+   "url": "https://genius.com/artists/Tm88"
+  },
+  {
+   "api_path": "/artists/1111168",
+   "header_image_url": "https://images.genius.com/ab9898d0a0bec6e8c1b6b97373a75ffb.562x562x1.jpg",
+   "id": 1111168,
+   "image_url": "https://images.genius.com/575f05f42509fc0c77ffc225c8dd8775.517x517x1.jpg",
+   "is_meme_verified": false,
+   "is_verified": false,
+   "name": "JW Lucas",
+   "url": "https://genius.com/artists/Jw-lucas"
+  }
+ ],
+ "song_relationships": [
+  {
+   "relationship_type": "samples",
+   "type": "samples",
+   "songs": [
+    {
+     "annotation_count": 1,
+     "api_path": "/songs/477945",
+     "full_title": "Frayed Wires by\u00a0Trey\u00a0Coachman",
+     "header_image_thumbnail_url": "https://images.genius.com/23a5f3c054eb3a48af16e7569462dfc9.300x300x1.png",
+     "header_image_url": "https://images.genius.com/23a5f3c054eb3a48af16e7569462dfc9.1000x1000x1.png",
+     "id": 477945,
+     "lyrics_owner_id": 251696,
+     "lyrics_state": "complete",
+     "path": "/Trey-coachman-frayed-wires-lyrics",
+     "pyongs_count": null,
+     "song_art_image_thumbnail_url": "https://images.genius.com/23a5f3c054eb3a48af16e7569462dfc9.300x300x1.png",
+     "song_art_image_url": "https://images.genius.com/23a5f3c054eb3a48af16e7569462dfc9.1000x1000x1.png",
+     "stats": {
+      "unreviewed_annotations": 0,
+      "hot": false
+     },
+     "title": "Frayed Wires",
+     "title_with_featured": "Frayed Wires",
+     "url": "https://genius.com/Trey-coachman-frayed-wires-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/60142",
+      "header_image_url": "https://images.genius.com/b6cfee518b2076b5c749d3832420aecc.601x601x1.jpg",
+      "id": 60142,
+      "image_url": "https://images.genius.com/b6cfee518b2076b5c749d3832420aecc.601x601x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Trey Coachman",
+      "url": "https://genius.com/artists/Trey-coachman"
+     }
+    }
+   ]
+  },
+  {
+   "relationship_type": "sampled_in",
+   "type": "sampled_in",
+   "songs": [
+    {
+     "annotation_count": 3,
+     "api_path": "/songs/3041327",
+     "full_title": "Glock in My Benz by\u00a0Smokepurpp",
+     "header_image_thumbnail_url": "https://images.genius.com/3df266515988d1e25e515dc52cc9d0d9.300x300x1.jpg",
+     "header_image_url": "https://images.genius.com/3df266515988d1e25e515dc52cc9d0d9.500x500x1.jpg",
+     "id": 3041327,
+     "lyrics_owner_id": 308666,
+     "lyrics_state": "complete",
+     "path": "/Smokepurpp-glock-in-my-benz-lyrics",
+     "pyongs_count": 21,
+     "song_art_image_thumbnail_url": "https://images.genius.com/68370287d268384f3787b69b0b451947.300x300x1.png",
+     "song_art_image_url": "https://images.genius.com/68370287d268384f3787b69b0b451947.1000x1000x1.png",
+     "stats": {
+      "unreviewed_annotations": 0,
+      "hot": false,
+      "pageviews": 168408
+     },
+     "title": "Glock in My Benz",
+     "title_with_featured": "Glock in My Benz",
+     "url": "https://genius.com/Smokepurpp-glock-in-my-benz-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/646901",
+      "header_image_url": "https://images.genius.com/f1b81da47cdbc486ed74981220954631.675x675x1.jpg",
+      "id": 646901,
+      "image_url": "https://images.genius.com/ba1075f89b0162974900fdaed949327c.640x640x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": true,
+      "name": "Smokepurpp",
+      "url": "https://genius.com/artists/Smokepurpp",
+      "iq": 1552
+     }
+    },
+    {
+     "annotation_count": 0,
+     "api_path": "/songs/3058028",
+     "full_title": "XOXO P3N15 LIF3 by\u00a0Lil\u00a0penys",
+     "header_image_thumbnail_url": "https://images.genius.com/d19a115d4bd2ba0764f907d18a514fd6.300x200x1.jpg",
+     "header_image_url": "https://images.genius.com/d19a115d4bd2ba0764f907d18a514fd6.1000x667x1.jpg",
+     "id": 3058028,
+     "lyrics_owner_id": 4495981,
+     "lyrics_state": "complete",
+     "path": "/Lil-penys-xoxo-p3n15-lif3-lyrics",
+     "pyongs_count": 2,
+     "song_art_image_thumbnail_url": "https://images.genius.com/d19a115d4bd2ba0764f907d18a514fd6.300x200x1.jpg",
+     "song_art_image_url": "https://images.genius.com/d19a115d4bd2ba0764f907d18a514fd6.1000x667x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 0,
+      "hot": false
+     },
+     "title": "XOXO P3N15 LIF3",
+     "title_with_featured": "XOXO P3N15 LIF3",
+     "url": "https://genius.com/Lil-penys-xoxo-p3n15-lif3-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/1120249",
+      "header_image_url": "https://images.genius.com/0163c9e3b2eba68b9beb9807801d9da8.338x341x1.png",
+      "id": 1120249,
+      "image_url": "https://images.genius.com/2b9e9d79f1ec09c906a214fea6666be7.328x328x1.png",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Lil penys",
+      "url": "https://genius.com/artists/Lil-penys"
+     }
+    },
+    {
+     "annotation_count": 1,
+     "api_path": "/songs/3090234",
+     "full_title": "Push Me To The Edge by\u00a0King\u00a0Libra",
+     "header_image_thumbnail_url": "https://images.genius.com/b64c1a2e1ac80d9a22fc4bc6ed0e4992.300x300x1.jpg",
+     "header_image_url": "https://images.genius.com/b64c1a2e1ac80d9a22fc4bc6ed0e4992.1000x1000x1.jpg",
+     "id": 3090234,
+     "lyrics_owner_id": 139843,
+     "lyrics_state": "complete",
+     "path": "/King-libra-push-me-to-the-edge-lyrics",
+     "pyongs_count": 1,
+     "song_art_image_thumbnail_url": "https://images.genius.com/b64c1a2e1ac80d9a22fc4bc6ed0e4992.300x300x1.jpg",
+     "song_art_image_url": "https://images.genius.com/b64c1a2e1ac80d9a22fc4bc6ed0e4992.1000x1000x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 0,
+      "hot": false
+     },
+     "title": "Push Me To The Edge",
+     "title_with_featured": "Push Me To The Edge",
+     "url": "https://genius.com/King-libra-push-me-to-the-edge-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/150814",
+      "header_image_url": "https://images.genius.com/d7a61190a836bdcfc62bf97af4f4c74b.1000x563x1.png",
+      "id": 150814,
+      "image_url": "https://images.genius.com/37e4ff192196dcb5a88146ef13815a24.1000x1000x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "King Libra",
+      "url": "https://genius.com/artists/King-libra",
+      "iq": 9487
+     }
+    },
+    {
+     "annotation_count": 10,
+     "api_path": "/songs/3143715",
+     "full_title": "Decline by\u00a0Young\u00a0Realm",
+     "header_image_thumbnail_url": "https://images.genius.com/f8cc4a91347dccfe6e6e0890f6640fe8.300x300x1.jpg",
+     "header_image_url": "https://images.genius.com/f8cc4a91347dccfe6e6e0890f6640fe8.1000x1000x1.jpg",
+     "id": 3143715,
+     "lyrics_owner_id": 4864903,
+     "lyrics_state": "complete",
+     "path": "/Young-realm-decline-lyrics",
+     "pyongs_count": null,
+     "song_art_image_thumbnail_url": "https://images.genius.com/f8cc4a91347dccfe6e6e0890f6640fe8.300x300x1.jpg",
+     "song_art_image_url": "https://images.genius.com/f8cc4a91347dccfe6e6e0890f6640fe8.1000x1000x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 0,
+      "hot": false
+     },
+     "title": "Decline",
+     "title_with_featured": "Decline",
+     "url": "https://genius.com/Young-realm-decline-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/1168914",
+      "header_image_url": "https://images.genius.com/04fe87023ec894a56b50435aaf409f1c.984x984x1.jpg",
+      "id": 1168914,
+      "image_url": "https://images.genius.com/f8cc4a91347dccfe6e6e0890f6640fe8.1000x1000x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Young Realm",
+      "url": "https://genius.com/artists/Young-realm",
+      "iq": 285
+     }
+    },
+    {
+     "annotation_count": 1,
+     "api_path": "/songs/3219431",
+     "full_title": "199X by\u00a0Nik\u00a0Tendo & Decky",
+     "header_image_thumbnail_url": "https://images.genius.com/278a53cc659739165e5873e08d32eaf4.300x300x1.jpg",
+     "header_image_url": "https://images.genius.com/278a53cc659739165e5873e08d32eaf4.1000x1000x1.jpg",
+     "id": 3219431,
+     "lyrics_owner_id": 4458539,
+     "lyrics_state": "complete",
+     "path": "/Nik-tendo-and-decky-199x-lyrics",
+     "pyongs_count": null,
+     "song_art_image_thumbnail_url": "https://images.genius.com/278a53cc659739165e5873e08d32eaf4.300x300x1.jpg",
+     "song_art_image_url": "https://images.genius.com/278a53cc659739165e5873e08d32eaf4.1000x1000x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 1,
+      "hot": false
+     },
+     "title": "199X",
+     "title_with_featured": "199X",
+     "url": "https://genius.com/Nik-tendo-and-decky-199x-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/1488121",
+      "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+      "id": 1488121,
+      "image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Nik Tendo & Decky",
+      "url": "https://genius.com/artists/Nik-tendo-and-decky"
+     }
+    },
+    {
+     "annotation_count": 12,
+     "api_path": "/songs/3235012",
+     "full_title": "Kids Don't Play Anymore by\u00a0Lord\u00a0Twinkletoes",
+     "header_image_thumbnail_url": "https://images.genius.com/6e9ccdc66c5ea8482e14efd358ddd12e.300x169x1.jpg",
+     "header_image_url": "https://images.genius.com/6e9ccdc66c5ea8482e14efd358ddd12e.1000x563x1.jpg",
+     "id": 3235012,
+     "lyrics_owner_id": 3252573,
+     "lyrics_state": "complete",
+     "path": "/Lord-twinkletoes-kids-dont-play-anymore-lyrics",
+     "pyongs_count": null,
+     "song_art_image_thumbnail_url": "https://images.genius.com/429e0e386848bc55e452f2a30b0b2328.300x194x1.jpg",
+     "song_art_image_url": "https://images.genius.com/429e0e386848bc55e452f2a30b0b2328.620x400x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 0,
+      "hot": false
+     },
+     "title": "Kids Don\u2019t Play Anymore",
+     "title_with_featured": "Kids Don't Play Anymore",
+     "url": "https://genius.com/Lord-twinkletoes-kids-dont-play-anymore-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/1213730",
+      "header_image_url": "https://images.genius.com/f15e5145adc6739735a8a85d57e62890.1000x750x1.jpg",
+      "id": 1213730,
+      "image_url": "https://images.genius.com/61ea547487cbf1a977149755a3b374f4.485x485x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Lord Twinkletoes",
+      "url": "https://genius.com/artists/Lord-twinkletoes",
+      "iq": 5200
+     }
+    },
+    {
+     "annotation_count": 0,
+     "api_path": "/songs/3245529",
+     "full_title": "XO Tour Life Remix by\u00a0Phranchize",
+     "header_image_thumbnail_url": "https://images.genius.com/10208a3ff6cea890c01b54c7cafee7b1.300x300x1.jpg",
+     "header_image_url": "https://images.genius.com/10208a3ff6cea890c01b54c7cafee7b1.800x800x1.jpg",
+     "id": 3245529,
+     "lyrics_owner_id": 2535294,
+     "lyrics_state": "complete",
+     "path": "/Phranchize-xo-tour-life-remix-lyrics",
+     "pyongs_count": null,
+     "song_art_image_thumbnail_url": "https://images.genius.com/10208a3ff6cea890c01b54c7cafee7b1.300x300x1.jpg",
+     "song_art_image_url": "https://images.genius.com/10208a3ff6cea890c01b54c7cafee7b1.800x800x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 0,
+      "hot": false
+     },
+     "title": "XO Tour Life Remix",
+     "title_with_featured": "XO Tour Life Remix",
+     "url": "https://genius.com/Phranchize-xo-tour-life-remix-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/628493",
+      "header_image_url": "https://images.genius.com/7ca8817ee838ea9460d2e3bd0fe56066.600x599x1.jpg",
+      "id": 628493,
+      "image_url": "https://images.genius.com/4d91c5057e2e52a15ed03b3a13b3d9c4.1000x1000x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Phranchize",
+      "url": "https://genius.com/artists/Phranchize"
+     }
+    },
+    {
+     "annotation_count": 3,
+     "api_path": "/songs/3303903",
+     "full_title": "XY CELL Llif3 by\u00a0Julien\u00a0Turner",
+     "header_image_thumbnail_url": "https://images.genius.com/40eaffd76ce1b80faaba71183ac5d53f.300x225x1.jpg",
+     "header_image_url": "https://images.genius.com/40eaffd76ce1b80faaba71183ac5d53f.480x360x1.jpg",
+     "id": 3303903,
+     "lyrics_owner_id": 3289021,
+     "lyrics_state": "complete",
+     "path": "/Julien-turner-xy-cell-llif3-lyrics",
+     "pyongs_count": 5,
+     "song_art_image_thumbnail_url": "https://images.genius.com/40eaffd76ce1b80faaba71183ac5d53f.300x225x1.jpg",
+     "song_art_image_url": "https://images.genius.com/40eaffd76ce1b80faaba71183ac5d53f.480x360x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 1,
+      "hot": false,
+      "pageviews": 12428
+     },
+     "title": "XY CELL Llif3",
+     "title_with_featured": "XY CELL Llif3",
+     "url": "https://genius.com/Julien-turner-xy-cell-llif3-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/1253249",
+      "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+      "id": 1253249,
+      "image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Julien Turner",
+      "url": "https://genius.com/artists/Julien-turner"
+     }
+    },
+    {
+     "annotation_count": 0,
+     "api_path": "/songs/3338366",
+     "full_title": "A Million by\u00a0P.MO",
+     "header_image_thumbnail_url": "https://images.genius.com/a4f81e5cdbb95f182fe9ac3c72bd5cf3.300x300x1.jpg",
+     "header_image_url": "https://images.genius.com/a4f81e5cdbb95f182fe9ac3c72bd5cf3.1000x1000x1.jpg",
+     "id": 3338366,
+     "lyrics_owner_id": 1524554,
+     "lyrics_state": "complete",
+     "path": "/Pmo-a-million-lyrics",
+     "pyongs_count": 1,
+     "song_art_image_thumbnail_url": "https://images.genius.com/a4f81e5cdbb95f182fe9ac3c72bd5cf3.300x300x1.jpg",
+     "song_art_image_url": "https://images.genius.com/a4f81e5cdbb95f182fe9ac3c72bd5cf3.1000x1000x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 0,
+      "hot": false
+     },
+     "title": "A Million",
+     "title_with_featured": "A Million",
+     "url": "https://genius.com/Pmo-a-million-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/20105",
+      "header_image_url": "https://images.genius.com/2ca695b386725fc3bc7202a362fbbfc4.960x320x1.jpg",
+      "id": 20105,
+      "image_url": "https://images.genius.com/9ce578d8502c79b44fd6857594649965.400x400x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": true,
+      "name": "P.MO",
+      "url": "https://genius.com/artists/Pmo",
+      "iq": 118
+     }
+    },
+    {
+     "annotation_count": 1,
+     "api_path": "/songs/3367204",
+     "full_title": "United State of Pop 2017 (How We Do It) by\u00a0DJ\u00a0Earworm",
+     "header_image_thumbnail_url": "https://images.genius.com/c304aad4fd27590255fc7dfe7db362c9.300x300x1.jpg",
+     "header_image_url": "https://images.genius.com/c304aad4fd27590255fc7dfe7db362c9.500x500x1.jpg",
+     "id": 3367204,
+     "lyrics_owner_id": 1458288,
+     "lyrics_state": "complete",
+     "path": "/Dj-earworm-united-state-of-pop-2017-how-we-do-it-lyrics",
+     "pyongs_count": 1,
+     "song_art_image_thumbnail_url": "https://images.genius.com/c304aad4fd27590255fc7dfe7db362c9.300x300x1.jpg",
+     "song_art_image_url": "https://images.genius.com/c304aad4fd27590255fc7dfe7db362c9.500x500x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 1,
+      "hot": false
+     },
+     "title": "United State of Pop 2017 (How We Do It)",
+     "title_with_featured": "United State of Pop 2017 (How We Do It)",
+     "url": "https://genius.com/Dj-earworm-united-state-of-pop-2017-how-we-do-it-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/190620",
+      "header_image_url": "https://images.genius.com/e46eb8327e3ea450b0ba0e15bcd0af6a.642x642x1.jpg",
+      "id": 190620,
+      "image_url": "https://images.genius.com/e46eb8327e3ea450b0ba0e15bcd0af6a.642x642x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "DJ Earworm",
+      "url": "https://genius.com/artists/Dj-earworm"
+     }
+    },
+    {
+     "annotation_count": 4,
+     "api_path": "/songs/3433975",
+     "full_title": "Alle Freunde fett by\u00a0Gringo",
+     "header_image_thumbnail_url": "https://images.genius.com/838df4d4ba051725c33c502f5a8948fa.300x300x1.jpg",
+     "header_image_url": "https://images.genius.com/838df4d4ba051725c33c502f5a8948fa.1000x1000x1.jpg",
+     "id": 3433975,
+     "lyrics_owner_id": 4042383,
+     "lyrics_state": "complete",
+     "path": "/Gringo-alle-freunde-fett-lyrics",
+     "pyongs_count": 2,
+     "song_art_image_thumbnail_url": "https://images.genius.com/838df4d4ba051725c33c502f5a8948fa.300x300x1.jpg",
+     "song_art_image_url": "https://images.genius.com/838df4d4ba051725c33c502f5a8948fa.1000x1000x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 1,
+      "hot": false,
+      "pageviews": 28493
+     },
+     "title": "Alle Freunde fett",
+     "title_with_featured": "Alle Freunde fett",
+     "url": "https://genius.com/Gringo-alle-freunde-fett-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/1207247",
+      "header_image_url": "https://images.genius.com/bd52e686122202c46ac70f5c80f799f5.400x397x1.jpg",
+      "id": 1207247,
+      "image_url": "https://images.genius.com/8b4e633d45b63836da69a29bca77ece7.397x397x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Gringo",
+      "url": "https://genius.com/artists/Gringo"
+     }
+    },
+    {
+     "annotation_count": 0,
+     "api_path": "/songs/3541499",
+     "full_title": "Don't Care by\u00a0DD\u00a0Caine",
+     "header_image_thumbnail_url": "https://images.genius.com/fb7285afe371049aeb164f5018219f65.300x300x1.jpg",
+     "header_image_url": "https://images.genius.com/fb7285afe371049aeb164f5018219f65.712x712x1.jpg",
+     "id": 3541499,
+     "lyrics_owner_id": 133377,
+     "lyrics_state": "complete",
+     "path": "/Dd-caine-dont-care-lyrics",
+     "pyongs_count": null,
+     "song_art_image_thumbnail_url": "https://images.genius.com/fb7285afe371049aeb164f5018219f65.300x300x1.jpg",
+     "song_art_image_url": "https://images.genius.com/fb7285afe371049aeb164f5018219f65.712x712x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 0,
+      "hot": false
+     },
+     "title": "Don\u2019t Care",
+     "title_with_featured": "Don't Care",
+     "url": "https://genius.com/Dd-caine-dont-care-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/337641",
+      "header_image_url": "https://images.genius.com/6d7ed605b913eec49640bd68a68c6271.1000x1000x1.jpg",
+      "id": 337641,
+      "image_url": "https://images.genius.com/11a7fe63178d760d4c1bca569ccaf590.1000x1000x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "DD Caine",
+      "url": "https://genius.com/artists/Dd-caine"
+     }
+    },
+    {
+     "annotation_count": 0,
+     "api_path": "/songs/3559278",
+     "full_title": "Va Tutto Bene by\u00a0GreenWolf",
+     "header_image_thumbnail_url": "https://images.genius.com/ef9d31a84a357cc2d1fe15161b015121.300x169x1.jpg",
+     "header_image_url": "https://images.genius.com/ef9d31a84a357cc2d1fe15161b015121.1000x563x1.jpg",
+     "id": 3559278,
+     "lyrics_owner_id": 5442918,
+     "lyrics_state": "complete",
+     "path": "/Greenwolf-va-tutto-bene-lyrics",
+     "pyongs_count": null,
+     "song_art_image_thumbnail_url": "https://images.genius.com/ef9d31a84a357cc2d1fe15161b015121.300x169x1.jpg",
+     "song_art_image_url": "https://images.genius.com/ef9d31a84a357cc2d1fe15161b015121.1000x563x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 0,
+      "hot": false
+     },
+     "title": "Va Tutto Bene",
+     "title_with_featured": "Va Tutto Bene",
+     "url": "https://genius.com/Greenwolf-va-tutto-bene-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/1257822",
+      "header_image_url": "https://images.genius.com/2dcfb5ec4401a2fc2a67cb10367236ea.1000x563x1.jpg",
+      "id": 1257822,
+      "image_url": "https://images.genius.com/2a6fd6722961e9cc10118b30af14a8db.1000x1000x1.png",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "GreenWolf",
+      "url": "https://genius.com/artists/Greenwolf"
+     }
+    },
+    {
+     "annotation_count": 0,
+     "api_path": "/songs/3608033",
+     "full_title": "#RAGE! by\u00a0KID\u00a0FRESH",
+     "header_image_thumbnail_url": "https://i.genius.com/82aa1c24dc1b79ce2cfe1c457c08919db44f170c?url=http%3A%2F%2Fpic.twitter.com%2FKV7842cXB3",
+     "header_image_url": "https://i.genius.com/82aa1c24dc1b79ce2cfe1c457c08919db44f170c?url=http%3A%2F%2Fpic.twitter.com%2FKV7842cXB3",
+     "id": 3608033,
+     "lyrics_owner_id": 6154564,
+     "lyrics_state": "complete",
+     "path": "/Kid-fresh-rage-lyrics",
+     "pyongs_count": 1,
+     "song_art_image_thumbnail_url": "https://i.genius.com/82aa1c24dc1b79ce2cfe1c457c08919db44f170c?url=http%3A%2F%2Fpic.twitter.com%2FKV7842cXB3",
+     "song_art_image_url": "https://i.genius.com/82aa1c24dc1b79ce2cfe1c457c08919db44f170c?url=http%3A%2F%2Fpic.twitter.com%2FKV7842cXB3",
+     "stats": {
+      "unreviewed_annotations": 0,
+      "hot": false
+     },
+     "title": "#RAGE!",
+     "title_with_featured": "#RAGE!",
+     "url": "https://genius.com/Kid-fresh-rage-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/15680",
+      "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+      "id": 15680,
+      "image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "KID FRESH",
+      "url": "https://genius.com/artists/Kid-fresh"
+     }
+    },
+    {
+     "annotation_count": 1,
+     "api_path": "/songs/3671396",
+     "full_title": "XO DEATH GRIPS TOUR Llif3 by\u00a0Lil\u00a0MC Ride",
+     "header_image_thumbnail_url": "https://images.genius.com/2d0d5bd60ecbc742b813498b47773a1d.300x300x1.jpg",
+     "header_image_url": "https://images.genius.com/2d0d5bd60ecbc742b813498b47773a1d.400x400x1.jpg",
+     "id": 3671396,
+     "lyrics_owner_id": 6180188,
+     "lyrics_state": "complete",
+     "path": "/Lil-mc-ride-xo-death-grips-tour-llif3-lyrics",
+     "pyongs_count": 1,
+     "song_art_image_thumbnail_url": "https://images.genius.com/2d0d5bd60ecbc742b813498b47773a1d.300x300x1.jpg",
+     "song_art_image_url": "https://images.genius.com/2d0d5bd60ecbc742b813498b47773a1d.400x400x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 1,
+      "hot": false
+     },
+     "title": "XO DEATH GRIPS TOUR Llif3",
+     "title_with_featured": "XO DEATH GRIPS TOUR Llif3",
+     "url": "https://genius.com/Lil-mc-ride-xo-death-grips-tour-llif3-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/1455502",
+      "header_image_url": "https://images.genius.com/285edf78a741cf713b6af7613b858d4b.1000x387x1.jpg",
+      "id": 1455502,
+      "image_url": "https://images.genius.com/52c2ccf29c5f3ec956cf9de0f62e714e.500x500x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Lil MC Ride",
+      "url": "https://genius.com/artists/Lil-mc-ride"
+     }
+    },
+    {
+     "annotation_count": 1,
+     "api_path": "/songs/3732685",
+     "full_title": "MEME MUSIC SLIDE by\u00a0DaymanOurSavior\u00a0& Maniac Pop",
+     "header_image_thumbnail_url": "https://images.genius.com/04056724d10172622d63d70d25f2faaf.300x300x1.jpg",
+     "header_image_url": "https://images.genius.com/04056724d10172622d63d70d25f2faaf.500x500x1.jpg",
+     "id": 3732685,
+     "lyrics_owner_id": 5497937,
+     "lyrics_state": "complete",
+     "path": "/Daymanoursavior-and-maniac-pop-meme-music-slide-annotated",
+     "pyongs_count": null,
+     "song_art_image_thumbnail_url": "https://images.genius.com/04056724d10172622d63d70d25f2faaf.300x300x1.jpg",
+     "song_art_image_url": "https://images.genius.com/04056724d10172622d63d70d25f2faaf.500x500x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 1,
+      "hot": false
+     },
+     "title": "MEME MUSIC SLIDE",
+     "title_with_featured": "MEME MUSIC SLIDE",
+     "url": "https://genius.com/Daymanoursavior-and-maniac-pop-meme-music-slide-annotated",
+     "primary_artist": {
+      "api_path": "/artists/1480126",
+      "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+      "id": 1480126,
+      "image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "DaymanOurSavior & Maniac Pop",
+      "url": "https://genius.com/artists/Daymanoursavior-and-maniac-pop"
+     }
+    },
+    {
+     "annotation_count": 1,
+     "api_path": "/songs/3798541",
+     "full_title": "Resonance by\u00a0Acrylo",
+     "header_image_thumbnail_url": "https://images.genius.com/6633f4bd74026bc0e6d2a719d4e4a5eb.196x110x1.webp",
+     "header_image_url": "https://images.genius.com/6633f4bd74026bc0e6d2a719d4e4a5eb.196x110x1.webp",
+     "id": 3798541,
+     "lyrics_owner_id": 1117615,
+     "lyrics_state": "complete",
+     "path": "/Acrylo-resonance-lyrics",
+     "pyongs_count": 1,
+     "song_art_image_thumbnail_url": "https://images.genius.com/db72bc5f1c8d0b2cc63153930cfbda3c.300x300x1.jpg",
+     "song_art_image_url": "https://images.genius.com/db72bc5f1c8d0b2cc63153930cfbda3c.500x500x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 0,
+      "hot": false
+     },
+     "title": "Resonance",
+     "title_with_featured": "Resonance",
+     "url": "https://genius.com/Acrylo-resonance-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/1505008",
+      "header_image_url": "https://images.genius.com/23fcb0032f15834d9ef7bf4b7423939e.1000x333x1.jpg",
+      "id": 1505008,
+      "image_url": "https://images.genius.com/90452ade68f3ecd7b9937285ca3286be.288x288x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Acrylo",
+      "url": "https://genius.com/artists/Acrylo"
+     }
+    },
+    {
+     "annotation_count": 27,
+     "api_path": "/songs/3833056",
+     "full_title": "Sandbag vs Bonnie the Bunny - Epic Rap Battle of Cancer S1 Finale by\u00a0Epic\u00a0Rap Battles of Cancer",
+     "header_image_thumbnail_url": "https://images.genius.com/f887cb1b71dd182639706028ab457303.300x300x1.jpg",
+     "header_image_url": "https://images.genius.com/f887cb1b71dd182639706028ab457303.500x500x1.jpg",
+     "id": 3833056,
+     "lyrics_owner_id": 6246551,
+     "lyrics_state": "complete",
+     "path": "/Epic-rap-battles-of-cancer-sandbag-vs-bonnie-the-bunny-epic-rap-battle-of-cancer-s1-finale-lyrics",
+     "pyongs_count": 1,
+     "song_art_image_thumbnail_url": "https://images.genius.com/f887cb1b71dd182639706028ab457303.300x300x1.jpg",
+     "song_art_image_url": "https://images.genius.com/f887cb1b71dd182639706028ab457303.500x500x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 27,
+      "hot": false
+     },
+     "title": "Sandbag vs Bonnie the Bunny - Epic Rap Battle of Cancer S1 Finale",
+     "title_with_featured": "Sandbag vs Bonnie the Bunny - Epic Rap Battle of Cancer S1 Finale",
+     "url": "https://genius.com/Epic-rap-battles-of-cancer-sandbag-vs-bonnie-the-bunny-epic-rap-battle-of-cancer-s1-finale-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/1524340",
+      "header_image_url": "https://images.genius.com/a61c0344628913368a9fd5fa327322ca.1000x500x1.png",
+      "id": 1524340,
+      "image_url": "https://images.genius.com/8c655b5e39ac7261ac88aa6cca06b016.479x479x1.png",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Epic Rap Battles of Cancer",
+      "url": "https://genius.com/artists/Epic-rap-battles-of-cancer"
+     }
+    },
+    {
+     "annotation_count": 0,
+     "api_path": "/songs/3834997",
+     "full_title": "Curse by\u00a0Heaven's\u00a0Tea",
+     "header_image_thumbnail_url": "https://images.genius.com/d10951481f7a6d2912a5c50d2f8c4859.300x300x1.jpg",
+     "header_image_url": "https://images.genius.com/d10951481f7a6d2912a5c50d2f8c4859.800x800x1.jpg",
+     "id": 3834997,
+     "lyrics_owner_id": 6269926,
+     "lyrics_state": "complete",
+     "path": "/Heavens-tea-curse-lyrics",
+     "pyongs_count": null,
+     "song_art_image_thumbnail_url": "https://images.genius.com/d10951481f7a6d2912a5c50d2f8c4859.300x300x1.jpg",
+     "song_art_image_url": "https://images.genius.com/d10951481f7a6d2912a5c50d2f8c4859.800x800x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 0,
+      "hot": false
+     },
+     "title": "Curse",
+     "title_with_featured": "Curse",
+     "url": "https://genius.com/Heavens-tea-curse-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/1451811",
+      "header_image_url": "https://images.genius.com/277d715b01c1c999cca50913f0b5bc57.1000x563x1.png",
+      "id": 1451811,
+      "image_url": "https://images.genius.com/9907381ca3c99e8fffe4b9268052232e.225x225x1.png",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Heaven\u2019s Tea",
+      "url": "https://genius.com/artists/Heavens-tea",
+      "iq": 4098
+     }
+    },
+    {
+     "annotation_count": 3,
+     "api_path": "/songs/3963517",
+     "full_title": "My lyricists (MUMBLE RAP DISS) by\u00a0Ian\u00a0Hinson",
+     "header_image_thumbnail_url": "https://assets.genius.com/images/default_cover_image.png?1606943206",
+     "header_image_url": "https://assets.genius.com/images/default_cover_image.png?1606943206",
+     "id": 3963517,
+     "lyrics_owner_id": 7005655,
+     "lyrics_state": "complete",
+     "path": "/Ian-hinson-my-lyricists-mumble-rap-diss-lyrics",
+     "pyongs_count": 1,
+     "song_art_image_thumbnail_url": "https://assets.genius.com/images/default_cover_image.png?1606943206",
+     "song_art_image_url": "https://assets.genius.com/images/default_cover_image.png?1606943206",
+     "stats": {
+      "unreviewed_annotations": 3,
+      "hot": false
+     },
+     "title": "My lyricists (MUMBLE RAP DISS)",
+     "title_with_featured": "My lyricists (MUMBLE RAP DISS)",
+     "url": "https://genius.com/Ian-hinson-my-lyricists-mumble-rap-diss-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/1567531",
+      "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+      "id": 1567531,
+      "image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Ian Hinson",
+      "url": "https://genius.com/artists/Ian-hinson"
+     }
+    },
+    {
+     "annotation_count": 22,
+     "api_path": "/songs/3979779",
+     "full_title": "Master Chief by\u00a0V\u00d8\u00a0(artist) (Ft.\u00a0\u200bsvrite)",
+     "header_image_thumbnail_url": "https://images.genius.com/2ddd4a7fa2aecd0b949cc08a091f1641.300x300x1.jpg",
+     "header_image_url": "https://images.genius.com/2ddd4a7fa2aecd0b949cc08a091f1641.500x500x1.jpg",
+     "id": 3979779,
+     "lyrics_owner_id": 4642003,
+     "lyrics_state": "complete",
+     "path": "/V-artist-master-chief-lyrics",
+     "pyongs_count": 2,
+     "song_art_image_thumbnail_url": "https://images.genius.com/2ddd4a7fa2aecd0b949cc08a091f1641.300x300x1.jpg",
+     "song_art_image_url": "https://images.genius.com/2ddd4a7fa2aecd0b949cc08a091f1641.500x500x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 0,
+      "hot": false
+     },
+     "title": "Master Chief",
+     "title_with_featured": "Master Chief (Ft.\u00a0\u200bsvrite)",
+     "url": "https://genius.com/V-artist-master-chief-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/1915999",
+      "header_image_url": "https://images.genius.com/12c3cd12f3aae3cc5f7d3a462e8ec047.1000x1000x1.png",
+      "id": 1915999,
+      "image_url": "https://images.genius.com/b535e976eacd390ba2d2ba99250885f5.1000x1000x1.png",
+      "is_meme_verified": false,
+      "is_verified": true,
+      "name": "V\u00d8 (artist)",
+      "url": "https://genius.com/artists/V-artist",
+      "iq": 512
+     }
+    },
+    {
+     "annotation_count": 1,
+     "api_path": "/songs/4026666",
+     "full_title": "Look around by\u00a0YUNG\u00a0JEXF",
+     "header_image_thumbnail_url": "https://images.genius.com/22baa0c882b611c82cd16124000200f1.300x300x1.jpg",
+     "header_image_url": "https://images.genius.com/22baa0c882b611c82cd16124000200f1.798x798x1.jpg",
+     "id": 4026666,
+     "lyrics_owner_id": 4897350,
+     "lyrics_state": "complete",
+     "path": "/Yung-jexf-look-around-lyrics",
+     "pyongs_count": 1,
+     "song_art_image_thumbnail_url": "https://images.genius.com/22baa0c882b611c82cd16124000200f1.300x300x1.jpg",
+     "song_art_image_url": "https://images.genius.com/22baa0c882b611c82cd16124000200f1.798x798x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 1,
+      "hot": false
+     },
+     "title": "Look around",
+     "title_with_featured": "Look around",
+     "url": "https://genius.com/Yung-jexf-look-around-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/1174169",
+      "header_image_url": "https://images.genius.com/e1801b13f1a786e5289196fb40345269.830x800x1.jpg",
+      "id": 1174169,
+      "image_url": "https://images.genius.com/22baa0c882b611c82cd16124000200f1.798x798x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": true,
+      "name": "YUNG JEXF",
+      "url": "https://genius.com/artists/Yung-jexf",
+      "iq": 1250
+     }
+    },
+    {
+     "annotation_count": 7,
+     "api_path": "/songs/4081010",
+     "full_title": "Der Pump by\u00a0Outerspass",
+     "header_image_thumbnail_url": "https://images.genius.com/18e5283db6694648cb9d2380240dbdc4.300x300x1.png",
+     "header_image_url": "https://images.genius.com/18e5283db6694648cb9d2380240dbdc4.600x600x1.png",
+     "id": 4081010,
+     "lyrics_owner_id": 3518447,
+     "lyrics_state": "complete",
+     "path": "/Outerspass-der-pump-lyrics",
+     "pyongs_count": null,
+     "song_art_image_thumbnail_url": "https://images.genius.com/18e5283db6694648cb9d2380240dbdc4.300x300x1.png",
+     "song_art_image_url": "https://images.genius.com/18e5283db6694648cb9d2380240dbdc4.600x600x1.png",
+     "stats": {
+      "unreviewed_annotations": 7,
+      "hot": false
+     },
+     "title": "Der Pump",
+     "title_with_featured": "Der Pump",
+     "url": "https://genius.com/Outerspass-der-pump-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/1577295",
+      "header_image_url": "https://images.genius.com/697efcf4b187d09a757258e8389f8e5f.640x640x1.jpg",
+      "id": 1577295,
+      "image_url": "https://images.genius.com/697efcf4b187d09a757258e8389f8e5f.640x640x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Outerspass",
+      "url": "https://genius.com/artists/Outerspass"
+     }
+    },
+    {
+     "annotation_count": 0,
+     "api_path": "/songs/4086706",
+     "full_title": "Xo Tour Llif3 by\u00a0Lethal\u00a0Injektion",
+     "header_image_thumbnail_url": "https://images.genius.com/5268832783ae34ff166d8e4c91300413.300x300x1.jpg",
+     "header_image_url": "https://images.genius.com/5268832783ae34ff166d8e4c91300413.499x499x1.jpg",
+     "id": 4086706,
+     "lyrics_owner_id": 6689583,
+     "lyrics_state": "complete",
+     "path": "/Lethal-injektion-xo-tour-llif3-lyrics",
+     "pyongs_count": null,
+     "song_art_image_thumbnail_url": "https://images.genius.com/5268832783ae34ff166d8e4c91300413.300x300x1.jpg",
+     "song_art_image_url": "https://images.genius.com/5268832783ae34ff166d8e4c91300413.499x499x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 0,
+      "hot": false
+     },
+     "title": "Xo Tour Llif3",
+     "title_with_featured": "Xo Tour Llif3",
+     "url": "https://genius.com/Lethal-injektion-xo-tour-llif3-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/1635907",
+      "header_image_url": "https://images.genius.com/5ce859cdd87cfd0fc8edc3616d7c5341.881x340x1.jpg",
+      "id": 1635907,
+      "image_url": "https://images.genius.com/149b7ef123951d4b0ab5044d5286dc0d.477x477x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Lethal Injektion",
+      "url": "https://genius.com/artists/Lethal-injektion"
+     }
+    },
+    {
+     "annotation_count": 0,
+     "api_path": "/songs/4186081",
+     "full_title": "All my friends are dead by\u00a0Wunderworld",
+     "header_image_thumbnail_url": "https://images.genius.com/55b1c1dba608253195dc0b130e4a1623.300x300x1.jpg",
+     "header_image_url": "https://images.genius.com/55b1c1dba608253195dc0b130e4a1623.499x499x1.jpg",
+     "id": 4186081,
+     "lyrics_owner_id": 3331529,
+     "lyrics_state": "complete",
+     "path": "/Wunderworld-all-my-friends-are-dead-lyrics",
+     "pyongs_count": null,
+     "song_art_image_thumbnail_url": "https://images.genius.com/55b1c1dba608253195dc0b130e4a1623.300x300x1.jpg",
+     "song_art_image_url": "https://images.genius.com/55b1c1dba608253195dc0b130e4a1623.499x499x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 0,
+      "hot": false
+     },
+     "title": "All my friends are dead",
+     "title_with_featured": "All my friends are dead",
+     "url": "https://genius.com/Wunderworld-all-my-friends-are-dead-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/1578843",
+      "header_image_url": "https://images.genius.com/baab0fc4cb497e36994676c1cf552263.1000x209x1.jpg",
+      "id": 1578843,
+      "image_url": "https://images.genius.com/077c2243c6c1c779d44a240cc039ea82.900x900x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Wunderworld",
+      "url": "https://genius.com/artists/Wunderworld"
+     }
+    },
+    {
+     "annotation_count": 1,
+     "api_path": "/songs/4244099",
+     "full_title": "Eazy by\u00a0NICCE",
+     "header_image_thumbnail_url": "https://images.genius.com/84c718db071282ecf15e0ac30597f0d8.300x300x1.jpg",
+     "header_image_url": "https://images.genius.com/84c718db071282ecf15e0ac30597f0d8.443x443x1.jpg",
+     "id": 4244099,
+     "lyrics_owner_id": 7006562,
+     "lyrics_state": "complete",
+     "path": "/Nicce-eazy-lyrics",
+     "pyongs_count": null,
+     "song_art_image_thumbnail_url": "https://images.genius.com/84c718db071282ecf15e0ac30597f0d8.300x300x1.jpg",
+     "song_art_image_url": "https://images.genius.com/84c718db071282ecf15e0ac30597f0d8.443x443x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 1,
+      "hot": false
+     },
+     "title": "Eazy",
+     "title_with_featured": "Eazy",
+     "url": "https://genius.com/Nicce-eazy-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/1703253",
+      "header_image_url": "https://images.genius.com/84c718db071282ecf15e0ac30597f0d8.443x443x1.jpg",
+      "id": 1703253,
+      "image_url": "https://images.genius.com/84c718db071282ecf15e0ac30597f0d8.443x443x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "NICCE",
+      "url": "https://genius.com/artists/Nicce"
+     }
+    },
+    {
+     "annotation_count": 0,
+     "api_path": "/songs/4439439",
+     "full_title": "X0 MIN3 CRAFT by\u00a0Kyloluke12",
+     "header_image_thumbnail_url": "https://images.genius.com/20045e75e322fc427f11b685d514cc8e.300x300x1.png",
+     "header_image_url": "https://images.genius.com/20045e75e322fc427f11b685d514cc8e.800x800x1.png",
+     "id": 4439439,
+     "lyrics_owner_id": 6428591,
+     "lyrics_state": "complete",
+     "path": "/Kyloluke12-x0-min3-craft-annotated",
+     "pyongs_count": null,
+     "song_art_image_thumbnail_url": "https://images.genius.com/20045e75e322fc427f11b685d514cc8e.300x300x1.png",
+     "song_art_image_url": "https://images.genius.com/20045e75e322fc427f11b685d514cc8e.800x800x1.png",
+     "stats": {
+      "unreviewed_annotations": 0,
+      "hot": false
+     },
+     "title": "X0 MIN3 CRAFT",
+     "title_with_featured": "X0 MIN3 CRAFT",
+     "url": "https://genius.com/Kyloluke12-x0-min3-craft-annotated",
+     "primary_artist": {
+      "api_path": "/artists/1594740",
+      "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+      "id": 1594740,
+      "image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Kyloluke12",
+      "url": "https://genius.com/artists/Kyloluke12"
+     }
+    },
+    {
+     "annotation_count": 2,
+     "api_path": "/songs/4536968",
+     "full_title": "Nie chc\u0119 widzie\u0107 ci\u0119 by\u00a0BE\u00a0VIS",
+     "header_image_thumbnail_url": "https://images.genius.com/cc6bcdf02ad3d298f8c21f7a998d2d06.300x300x1.jpg",
+     "header_image_url": "https://images.genius.com/cc6bcdf02ad3d298f8c21f7a998d2d06.692x692x1.jpg",
+     "id": 4536968,
+     "lyrics_owner_id": 8469827,
+     "lyrics_state": "complete",
+     "path": "/Be-vis-nie-chce-widziec-cie-lyrics",
+     "pyongs_count": null,
+     "song_art_image_thumbnail_url": "https://images.genius.com/cc6bcdf02ad3d298f8c21f7a998d2d06.300x300x1.jpg",
+     "song_art_image_url": "https://images.genius.com/cc6bcdf02ad3d298f8c21f7a998d2d06.692x692x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 0,
+      "hot": false
+     },
+     "title": "Nie chc\u0119 widzie\u0107 ci\u0119",
+     "title_with_featured": "Nie chc\u0119 widzie\u0107 ci\u0119",
+     "url": "https://genius.com/Be-vis-nie-chce-widziec-cie-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/378025",
+      "header_image_url": "https://images.genius.com/cc6bcdf02ad3d298f8c21f7a998d2d06.692x692x1.jpg",
+      "id": 378025,
+      "image_url": "https://images.genius.com/cc6bcdf02ad3d298f8c21f7a998d2d06.692x692x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "BE VIS",
+      "url": "https://genius.com/artists/Be-vis",
+      "iq": 1565
+     }
+    },
+    {
+     "annotation_count": 0,
+     "api_path": "/songs/4598177",
+     "full_title": "Nahlas /pikojakovoda by\u00a0Steve\u00a0Sniff",
+     "header_image_thumbnail_url": "https://images.genius.com/e2cf0347c8331cbf39647b84fb37315a.300x169x1.jpg",
+     "header_image_url": "https://images.genius.com/e2cf0347c8331cbf39647b84fb37315a.1000x563x1.jpg",
+     "id": 4598177,
+     "lyrics_owner_id": 6619931,
+     "lyrics_state": "complete",
+     "path": "/Steve-sniff-nahlas-pikojakovoda-lyrics",
+     "pyongs_count": null,
+     "song_art_image_thumbnail_url": "https://images.genius.com/e3db8e245baf443d196936d5be7d2f87.300x300x1.jpg",
+     "song_art_image_url": "https://images.genius.com/e3db8e245baf443d196936d5be7d2f87.500x500x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 0,
+      "hot": false
+     },
+     "title": "Nahlas /pikojakovoda",
+     "title_with_featured": "Nahlas /pikojakovoda",
+     "url": "https://genius.com/Steve-sniff-nahlas-pikojakovoda-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/1338375",
+      "header_image_url": "https://images.genius.com/4418fe8422cf27281196c6a091673276.960x960x1.jpg",
+      "id": 1338375,
+      "image_url": "https://images.genius.com/4418fe8422cf27281196c6a091673276.960x960x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Steve Sniff",
+      "url": "https://genius.com/artists/Steve-sniff"
+     }
+    },
+    {
+     "annotation_count": 1,
+     "api_path": "/songs/4651533",
+     "full_title": "90210 Resonance by\u00a0Acrylo",
+     "header_image_thumbnail_url": "https://images.genius.com/ab240cd5710f37edefdbaacdfa60134f.300x169x1.jpg",
+     "header_image_url": "https://images.genius.com/ab240cd5710f37edefdbaacdfa60134f.1000x563x1.jpg",
+     "id": 4651533,
+     "lyrics_owner_id": 1117615,
+     "lyrics_state": "complete",
+     "path": "/Acrylo-90210-resonance-lyrics",
+     "pyongs_count": null,
+     "song_art_image_thumbnail_url": "https://images.genius.com/6a1bc4f376e9ecdb57f64e43b667557d.300x300x1.jpg",
+     "song_art_image_url": "https://images.genius.com/6a1bc4f376e9ecdb57f64e43b667557d.500x500x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 1,
+      "hot": false
+     },
+     "title": "90210 Resonance",
+     "title_with_featured": "90210 Resonance",
+     "url": "https://genius.com/Acrylo-90210-resonance-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/1505008",
+      "header_image_url": "https://images.genius.com/23fcb0032f15834d9ef7bf4b7423939e.1000x333x1.jpg",
+      "id": 1505008,
+      "image_url": "https://images.genius.com/90452ade68f3ecd7b9937285ca3286be.288x288x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Acrylo",
+      "url": "https://genius.com/artists/Acrylo"
+     }
+    },
+    {
+     "annotation_count": 15,
+     "api_path": "/songs/4675451",
+     "full_title": "Schodki (Bonus Track) by\u00a0Mata",
+     "header_image_thumbnail_url": "https://images.genius.com/b71b33715861febcedb474104709fd4e.300x168x1.jpg",
+     "header_image_url": "https://images.genius.com/b71b33715861febcedb474104709fd4e.336x188x1.jpg",
+     "id": 4675451,
+     "lyrics_owner_id": 5845999,
+     "lyrics_state": "complete",
+     "path": "/Mata-schodki-bonus-track-lyrics",
+     "pyongs_count": 3,
+     "song_art_image_thumbnail_url": "https://images.genius.com/dd28398f8ddd6ee7df35ac3f95aab091.300x300x1.jpg",
+     "song_art_image_url": "https://images.genius.com/dd28398f8ddd6ee7df35ac3f95aab091.600x600x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 0,
+      "hot": false,
+      "pageviews": 79857
+     },
+     "title": "Schodki (Bonus Track)",
+     "title_with_featured": "Schodki (Bonus Track)",
+     "url": "https://genius.com/Mata-schodki-bonus-track-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/51868",
+      "header_image_url": "https://images.genius.com/2554d5d9de6fa97909fd301cbdebc957.820x1000x1.jpg",
+      "id": 51868,
+      "image_url": "https://images.genius.com/f605ed8e4faff6a6260f438c7c116e77.1000x1000x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": true,
+      "name": "Mata",
+      "url": "https://genius.com/artists/Mata",
+      "iq": 146
+     }
+    },
+    {
+     "annotation_count": 0,
+     "api_path": "/songs/4842737",
+     "full_title": "NEW MEME TIME MEGAMIX V: EVERYONE'S FINAL SOUNDCLOWN MASHUP by\u00a0Maniac\u00a0Pop",
+     "header_image_thumbnail_url": "https://assets.genius.com/images/default_cover_image.png?1606943206",
+     "header_image_url": "https://assets.genius.com/images/default_cover_image.png?1606943206",
+     "id": 4842737,
+     "lyrics_owner_id": 8942631,
+     "lyrics_state": "complete",
+     "path": "/Maniac-pop-new-meme-time-megamix-v-everyones-final-soundclown-mashup-lyrics",
+     "pyongs_count": null,
+     "song_art_image_thumbnail_url": "https://assets.genius.com/images/default_cover_image.png?1606943206",
+     "song_art_image_url": "https://assets.genius.com/images/default_cover_image.png?1606943206",
+     "stats": {
+      "unreviewed_annotations": 0,
+      "hot": false
+     },
+     "title": "NEW MEME TIME MEGAMIX V: EVERYONE\u2019S FINAL SOUNDCLOWN MASHUP",
+     "title_with_featured": "NEW MEME TIME MEGAMIX V: EVERYONE'S FINAL SOUNDCLOWN MASHUP",
+     "url": "https://genius.com/Maniac-pop-new-meme-time-megamix-v-everyones-final-soundclown-mashup-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/1940188",
+      "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+      "id": 1940188,
+      "image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Maniac Pop",
+      "url": "https://genius.com/artists/Maniac-pop"
+     }
+    },
+    {
+     "annotation_count": 14,
+     "api_path": "/songs/4867983",
+     "full_title": "My ex by\u00a0Pasco\u00a0pdq (Ft.\u00a0N\u00a0Beezy)",
+     "header_image_thumbnail_url": "https://assets.genius.com/images/default_cover_image.png?1606943206",
+     "header_image_url": "https://assets.genius.com/images/default_cover_image.png?1606943206",
+     "id": 4867983,
+     "lyrics_owner_id": 8620068,
+     "lyrics_state": "complete",
+     "path": "/Pasco-pdq-my-ex-lyrics",
+     "pyongs_count": 4,
+     "song_art_image_thumbnail_url": "https://assets.genius.com/images/default_cover_image.png?1606943206",
+     "song_art_image_url": "https://assets.genius.com/images/default_cover_image.png?1606943206",
+     "stats": {
+      "unreviewed_annotations": 14,
+      "hot": false
+     },
+     "title": "My ex",
+     "title_with_featured": "My ex (Ft.\u00a0N\u00a0Beezy)",
+     "url": "https://genius.com/Pasco-pdq-my-ex-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/1949480",
+      "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+      "id": 1949480,
+      "image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Pasco pdq",
+      "url": "https://genius.com/artists/Pasco-pdq"
+     }
+    },
+    {
+     "annotation_count": 0,
+     "api_path": "/songs/4972523",
+     "full_title": "5K Special by\u00a0Vincent\u00a0Mashups",
+     "header_image_thumbnail_url": "https://images.genius.com/b5c6d19072efb5bf08cf280cb10276cc.224x224x1.jpg",
+     "header_image_url": "https://images.genius.com/b5c6d19072efb5bf08cf280cb10276cc.224x224x1.jpg",
+     "id": 4972523,
+     "lyrics_owner_id": 8942631,
+     "lyrics_state": "complete",
+     "path": "/Vincent-mashups-5k-special-lyrics",
+     "pyongs_count": 1,
+     "song_art_image_thumbnail_url": "https://images.genius.com/b5c6d19072efb5bf08cf280cb10276cc.224x224x1.jpg",
+     "song_art_image_url": "https://images.genius.com/b5c6d19072efb5bf08cf280cb10276cc.224x224x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 0,
+      "hot": false
+     },
+     "title": "5K Special",
+     "title_with_featured": "5K Special",
+     "url": "https://genius.com/Vincent-mashups-5k-special-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/1950550",
+      "header_image_url": "https://images.genius.com/b5c6d19072efb5bf08cf280cb10276cc.224x224x1.jpg",
+      "id": 1950550,
+      "image_url": "https://images.genius.com/b5c6d19072efb5bf08cf280cb10276cc.224x224x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Vincent Mashups",
+      "url": "https://genius.com/artists/Vincent-mashups"
+     }
+    },
+    {
+     "annotation_count": 1,
+     "api_path": "/songs/4989566",
+     "full_title": "Lil uzi is a weeb by\u00a0Acrylo",
+     "header_image_thumbnail_url": "https://images.genius.com/971b8637c53c1f6a7ba0b9756f14a484.300x300x1.jpg",
+     "header_image_url": "https://images.genius.com/971b8637c53c1f6a7ba0b9756f14a484.900x900x1.jpg",
+     "id": 4989566,
+     "lyrics_owner_id": 9297516,
+     "lyrics_state": "complete",
+     "path": "/Acrylo-lil-uzi-is-a-weeb-lyrics",
+     "pyongs_count": null,
+     "song_art_image_thumbnail_url": "https://images.genius.com/971b8637c53c1f6a7ba0b9756f14a484.300x300x1.jpg",
+     "song_art_image_url": "https://images.genius.com/971b8637c53c1f6a7ba0b9756f14a484.900x900x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 1,
+      "hot": false
+     },
+     "title": "Lil uzi is a weeb",
+     "title_with_featured": "Lil uzi is a weeb",
+     "url": "https://genius.com/Acrylo-lil-uzi-is-a-weeb-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/1505008",
+      "header_image_url": "https://images.genius.com/23fcb0032f15834d9ef7bf4b7423939e.1000x333x1.jpg",
+      "id": 1505008,
+      "image_url": "https://images.genius.com/90452ade68f3ecd7b9937285ca3286be.288x288x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Acrylo",
+      "url": "https://genius.com/artists/Acrylo"
+     }
+    },
+    {
+     "annotation_count": 1,
+     "api_path": "/songs/4996926",
+     "full_title": "Lil Uzi Vaporwave by\u00a0Acrylo",
+     "header_image_thumbnail_url": "https://images.genius.com/971b8637c53c1f6a7ba0b9756f14a484.300x300x1.jpg",
+     "header_image_url": "https://images.genius.com/971b8637c53c1f6a7ba0b9756f14a484.900x900x1.jpg",
+     "id": 4996926,
+     "lyrics_owner_id": 9297516,
+     "lyrics_state": "complete",
+     "path": "/Acrylo-lil-uzi-vaporwave-lyrics",
+     "pyongs_count": null,
+     "song_art_image_thumbnail_url": "https://images.genius.com/971b8637c53c1f6a7ba0b9756f14a484.300x300x1.jpg",
+     "song_art_image_url": "https://images.genius.com/971b8637c53c1f6a7ba0b9756f14a484.900x900x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 1,
+      "hot": false
+     },
+     "title": "Lil Uzi Vaporwave",
+     "title_with_featured": "Lil Uzi Vaporwave",
+     "url": "https://genius.com/Acrylo-lil-uzi-vaporwave-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/1505008",
+      "header_image_url": "https://images.genius.com/23fcb0032f15834d9ef7bf4b7423939e.1000x333x1.jpg",
+      "id": 1505008,
+      "image_url": "https://images.genius.com/90452ade68f3ecd7b9937285ca3286be.288x288x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Acrylo",
+      "url": "https://genius.com/artists/Acrylo"
+     }
+    },
+    {
+     "annotation_count": 1,
+     "api_path": "/songs/4997338",
+     "full_title": "Another Childish Gambino Mashup by\u00a0Acrylo",
+     "header_image_thumbnail_url": "https://images.genius.com/971b8637c53c1f6a7ba0b9756f14a484.300x300x1.jpg",
+     "header_image_url": "https://images.genius.com/971b8637c53c1f6a7ba0b9756f14a484.900x900x1.jpg",
+     "id": 4997338,
+     "lyrics_owner_id": 9297516,
+     "lyrics_state": "complete",
+     "path": "/Acrylo-another-childish-gambino-mashup-lyrics",
+     "pyongs_count": null,
+     "song_art_image_thumbnail_url": "https://images.genius.com/971b8637c53c1f6a7ba0b9756f14a484.300x300x1.jpg",
+     "song_art_image_url": "https://images.genius.com/971b8637c53c1f6a7ba0b9756f14a484.900x900x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 1,
+      "hot": false
+     },
+     "title": "Another Childish Gambino Mashup",
+     "title_with_featured": "Another Childish Gambino Mashup",
+     "url": "https://genius.com/Acrylo-another-childish-gambino-mashup-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/1505008",
+      "header_image_url": "https://images.genius.com/23fcb0032f15834d9ef7bf4b7423939e.1000x333x1.jpg",
+      "id": 1505008,
+      "image_url": "https://images.genius.com/90452ade68f3ecd7b9937285ca3286be.288x288x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Acrylo",
+      "url": "https://genius.com/artists/Acrylo"
+     }
+    },
+    {
+     "annotation_count": 1,
+     "api_path": "/songs/5107136",
+     "full_title": "Summer 17 by\u00a0YVB",
+     "header_image_thumbnail_url": "https://images.genius.com/232808af9b4dcc58ca8b5c7dc1c39f63.300x169x1.jpg",
+     "header_image_url": "https://images.genius.com/232808af9b4dcc58ca8b5c7dc1c39f63.1000x563x1.jpg",
+     "id": 5107136,
+     "lyrics_owner_id": 7521493,
+     "lyrics_state": "complete",
+     "path": "/Yvb-summer-17-lyrics",
+     "pyongs_count": null,
+     "song_art_image_thumbnail_url": "https://images.genius.com/232808af9b4dcc58ca8b5c7dc1c39f63.300x169x1.jpg",
+     "song_art_image_url": "https://images.genius.com/232808af9b4dcc58ca8b5c7dc1c39f63.1000x563x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 1,
+      "hot": false
+     },
+     "title": "Summer 17",
+     "title_with_featured": "Summer 17",
+     "url": "https://genius.com/Yvb-summer-17-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/1661773",
+      "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+      "id": 1661773,
+      "image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "YVB",
+      "url": "https://genius.com/artists/Yvb"
+     }
+    },
+    {
+     "annotation_count": 14,
+     "api_path": "/songs/5241631",
+     "full_title": "P2 by\u00a0Lil\u00a0Uzi Vert",
+     "header_image_thumbnail_url": "https://images.genius.com/6733830d948ee1f53e8f4d220180756e.300x300x1.jpg",
+     "header_image_url": "https://images.genius.com/6733830d948ee1f53e8f4d220180756e.1000x1000x1.jpg",
+     "id": 5241631,
+     "lyrics_owner_id": 6612308,
+     "lyrics_state": "complete",
+     "path": "/Lil-uzi-vert-p2-lyrics",
+     "pyongs_count": 123,
+     "song_art_image_thumbnail_url": "https://images.genius.com/6733830d948ee1f53e8f4d220180756e.300x300x1.jpg",
+     "song_art_image_url": "https://images.genius.com/6733830d948ee1f53e8f4d220180756e.1000x1000x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 1,
+      "hot": false,
+      "pageviews": 869734
+     },
+     "title": "P2",
+     "title_with_featured": "P2",
+     "url": "https://genius.com/Lil-uzi-vert-p2-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/217208",
+      "header_image_url": "https://images.genius.com/46a8b723a36b4d8cfca6c9ecd9816c47.1000x429x1.jpg",
+      "id": 217208,
+      "image_url": "https://images.genius.com/05f2ee7ef53d1a68352ec67cda793d0c.469x469x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": true,
+      "name": "Lil Uzi Vert",
+      "url": "https://genius.com/artists/Lil-uzi-vert",
+      "iq": 5017
+     }
+    },
+    {
+     "annotation_count": 0,
+     "api_path": "/songs/5738134",
+     "full_title": "So litatuua life (Xo Tour Life Rmx) by\u00a0Ebeb\u00e9\u00a0Jamal",
+     "header_image_thumbnail_url": "https://images.genius.com/cef106c6c7d1cd373632c4e3d0d6fdbf.300x300x1.jpg",
+     "header_image_url": "https://images.genius.com/cef106c6c7d1cd373632c4e3d0d6fdbf.1000x1000x1.jpg",
+     "id": 5738134,
+     "lyrics_owner_id": 1509016,
+     "lyrics_state": "complete",
+     "path": "/Ebebe-jamal-so-litatuua-life-xo-tour-life-rmx-lyrics",
+     "pyongs_count": null,
+     "song_art_image_thumbnail_url": "https://images.genius.com/cef106c6c7d1cd373632c4e3d0d6fdbf.300x300x1.jpg",
+     "song_art_image_url": "https://images.genius.com/cef106c6c7d1cd373632c4e3d0d6fdbf.1000x1000x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 0,
+      "hot": false
+     },
+     "title": "So litatuua life (Xo Tour Life Rmx)",
+     "title_with_featured": "So litatuua life (Xo Tour Life Rmx)",
+     "url": "https://genius.com/Ebebe-jamal-so-litatuua-life-xo-tour-life-rmx-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/2293136",
+      "header_image_url": "https://images.genius.com/3dcc565060cff9ea4a9a577f189ed978.1000x522x1.jpg",
+      "id": 2293136,
+      "image_url": "https://images.genius.com/a6007eeabc53f9db492907f86f92d57b.640x640x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Ebeb\u00e9 Jamal",
+      "url": "https://genius.com/artists/Ebebe-jamal"
+     }
+    },
+    {
+     "annotation_count": 0,
+     "api_path": "/songs/5876081",
+     "full_title": "Sad Boy Hours by\u00a0Pluffaduff",
+     "header_image_thumbnail_url": "https://images.genius.com/b5fa16f2811c7778c3344b4cc53c4251.300x300x1.jpg",
+     "header_image_url": "https://images.genius.com/b5fa16f2811c7778c3344b4cc53c4251.1000x1000x1.jpg",
+     "id": 5876081,
+     "lyrics_owner_id": 9591314,
+     "lyrics_state": "complete",
+     "path": "/Pluffaduff-sad-boy-hours-lyrics",
+     "pyongs_count": null,
+     "song_art_image_thumbnail_url": "https://images.genius.com/b5fa16f2811c7778c3344b4cc53c4251.300x300x1.jpg",
+     "song_art_image_url": "https://images.genius.com/b5fa16f2811c7778c3344b4cc53c4251.1000x1000x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 0,
+      "hot": false
+     },
+     "title": "Sad Boy Hours",
+     "title_with_featured": "Sad Boy Hours",
+     "url": "https://genius.com/Pluffaduff-sad-boy-hours-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/1673277",
+      "header_image_url": "https://images.genius.com/877a0d5ee19d09c81188103ce9cb825d.288x288x1.jpg",
+      "id": 1673277,
+      "image_url": "https://images.genius.com/877a0d5ee19d09c81188103ce9cb825d.288x288x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Pluffaduff",
+      "url": "https://genius.com/artists/Pluffaduff"
+     }
+    }
+   ]
+  },
+  {
+   "relationship_type": "interpolates",
+   "type": "interpolates",
+   "songs": []
+  },
+  {
+   "relationship_type": "interpolated_by",
+   "type": "interpolated_by",
+   "songs": [
+    {
+     "annotation_count": 1,
+     "api_path": "/songs/3357668",
+     "full_title": "All Set Up by\u00a0Jagged\u00a0Edge",
+     "header_image_thumbnail_url": "https://images.genius.com/c828daf079dbef8ebb4797904b48d2f1.300x300x1.jpg",
+     "header_image_url": "https://images.genius.com/c828daf079dbef8ebb4797904b48d2f1.1000x1000x1.jpg",
+     "id": 3357668,
+     "lyrics_owner_id": 1117821,
+     "lyrics_state": "complete",
+     "path": "/Jagged-edge-all-set-up-lyrics",
+     "pyongs_count": null,
+     "song_art_image_thumbnail_url": "https://images.genius.com/c828daf079dbef8ebb4797904b48d2f1.300x300x1.jpg",
+     "song_art_image_url": "https://images.genius.com/c828daf079dbef8ebb4797904b48d2f1.1000x1000x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 0,
+      "hot": false
+     },
+     "title": "All Set Up",
+     "title_with_featured": "All Set Up",
+     "url": "https://genius.com/Jagged-edge-all-set-up-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/869",
+      "header_image_url": "https://images.genius.com/1868230c79e085d0b8b6d17f08ca8550.1000x523x1.jpg",
+      "id": 869,
+      "image_url": "https://images.genius.com/ea652fe1a12b5f7c5bffb58058d8e0fd.978x978x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Jagged Edge",
+      "url": "https://genius.com/artists/Jagged-edge"
+     }
+    },
+    {
+     "annotation_count": 41,
+     "api_path": "/songs/3393125",
+     "full_title": "XO Tour Life by\u00a0Lil\u00a0Wayne (Ft.\u00a0Baby\u00a0E & Baby\u00a0E)",
+     "header_image_thumbnail_url": "https://images.genius.com/380dd8ad2dd34e87e19877a3ba6ee494.300x300x1.jpg",
+     "header_image_url": "https://images.genius.com/380dd8ad2dd34e87e19877a3ba6ee494.598x598x1.jpg",
+     "id": 3393125,
+     "lyrics_owner_id": 3375166,
+     "lyrics_state": "complete",
+     "path": "/Lil-wayne-xo-tour-life-lyrics",
+     "pyongs_count": 15,
+     "song_art_image_thumbnail_url": "https://images.genius.com/380dd8ad2dd34e87e19877a3ba6ee494.300x300x1.jpg",
+     "song_art_image_url": "https://images.genius.com/380dd8ad2dd34e87e19877a3ba6ee494.598x598x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 10,
+      "hot": false,
+      "pageviews": 189013
+     },
+     "title": "XO Tour Life",
+     "title_with_featured": "XO Tour Life (Ft.\u00a0Baby\u00a0E & Baby\u00a0E)",
+     "url": "https://genius.com/Lil-wayne-xo-tour-life-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/4",
+      "header_image_url": "https://images.genius.com/0cc2fdca3461d34878a59e3791b35e7b.500x278x13.gif",
+      "id": 4,
+      "image_url": "https://images.genius.com/b42bde67bc461dd55a00b577f33673bb.745x745x1.jpg",
+      "is_meme_verified": true,
+      "is_verified": true,
+      "name": "Lil Wayne",
+      "url": "https://genius.com/artists/Lil-wayne",
+      "iq": 4184
+     }
+    },
+    {
+     "annotation_count": 0,
+     "api_path": "/songs/3434758",
+     "full_title": "Kim Hoonki Vert (Skit) by\u00a0SUPERBEE",
+     "header_image_thumbnail_url": "https://images.genius.com/84ffea82a5325e7a8812ec7b153e2de5.300x300x1.jpg",
+     "header_image_url": "https://images.genius.com/84ffea82a5325e7a8812ec7b153e2de5.1000x1000x1.jpg",
+     "id": 3434758,
+     "lyrics_owner_id": 4420277,
+     "lyrics_state": "complete",
+     "path": "/Superbee-kim-hoonki-vert-skit-lyrics",
+     "pyongs_count": null,
+     "song_art_image_thumbnail_url": "https://images.genius.com/84ffea82a5325e7a8812ec7b153e2de5.300x300x1.jpg",
+     "song_art_image_url": "https://images.genius.com/84ffea82a5325e7a8812ec7b153e2de5.1000x1000x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 0,
+      "hot": false
+     },
+     "title": "Kim Hoonki Vert (Skit)",
+     "title_with_featured": "Kim Hoonki Vert (Skit)",
+     "url": "https://genius.com/Superbee-kim-hoonki-vert-skit-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/1016739",
+      "header_image_url": "https://images.genius.com/1f9d0d743a83d3f720c78be84798e7b9.1000x1000x1.png",
+      "id": 1016739,
+      "image_url": "https://images.genius.com/420b2b829be0f154575dd1d97b56a2a4.524x524x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "SUPERBEE",
+      "url": "https://genius.com/artists/Superbee"
+     }
+    },
+    {
+     "annotation_count": 0,
+     "api_path": "/songs/3664091",
+     "full_title": "\u200blove yourself by\u00a0Skaiwater (Ft.\u00a0CharlieLuvScarz)",
+     "header_image_thumbnail_url": "https://images.genius.com/2e0c55c3c912b0d8fb91c6451b24e9b0.300x300x1.png",
+     "header_image_url": "https://images.genius.com/2e0c55c3c912b0d8fb91c6451b24e9b0.1000x1000x1.png",
+     "id": 3664091,
+     "lyrics_owner_id": 1635362,
+     "lyrics_state": "complete",
+     "path": "/Skaiwater-love-yourself-lyrics",
+     "pyongs_count": null,
+     "song_art_image_thumbnail_url": "https://images.genius.com/2e0c55c3c912b0d8fb91c6451b24e9b0.300x300x1.png",
+     "song_art_image_url": "https://images.genius.com/2e0c55c3c912b0d8fb91c6451b24e9b0.1000x1000x1.png",
+     "stats": {
+      "unreviewed_annotations": 0,
+      "hot": false
+     },
+     "title": "\u200blove yourself",
+     "title_with_featured": "\u200blove yourself (Ft.\u00a0CharlieLuvScarz)",
+     "url": "https://genius.com/Skaiwater-love-yourself-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/1425324",
+      "header_image_url": "https://images.genius.com/7a59f3191b3bbcbe816a00326c15791e.1000x210x1.jpg",
+      "id": 1425324,
+      "image_url": "https://images.genius.com/bf88c3ab2d89b090852122b493df6e64.688x688x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Skaiwater",
+      "url": "https://genius.com/artists/Skaiwater"
+     }
+    },
+    {
+     "annotation_count": 3,
+     "api_path": "/songs/3765770",
+     "full_title": "Up From Here by\u00a0J.\u00a0Maltez & Tim Saunders (Ft.\u00a0Corinne\u00a0Kowitski, J.\u00a0Maltez & Tim\u00a0Saunders)",
+     "header_image_thumbnail_url": "https://images.genius.com/490da2ed6117bb1150642be17ae72978.300x300x1.jpg",
+     "header_image_url": "https://images.genius.com/490da2ed6117bb1150642be17ae72978.1000x1000x1.jpg",
+     "id": 3765770,
+     "lyrics_owner_id": 85118,
+     "lyrics_state": "complete",
+     "path": "/J-maltez-and-tim-saunders-up-from-here-lyrics",
+     "pyongs_count": null,
+     "song_art_image_thumbnail_url": "https://images.genius.com/490da2ed6117bb1150642be17ae72978.300x300x1.jpg",
+     "song_art_image_url": "https://images.genius.com/490da2ed6117bb1150642be17ae72978.1000x1000x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 3,
+      "hot": false
+     },
+     "title": "Up From Here",
+     "title_with_featured": "Up From Here (Ft.\u00a0Corinne\u00a0Kowitski, J.\u00a0Maltez & Tim\u00a0Saunders)",
+     "url": "https://genius.com/J-maltez-and-tim-saunders-up-from-here-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/1023446",
+      "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+      "id": 1023446,
+      "image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "J. Maltez & Tim Saunders",
+      "url": "https://genius.com/artists/J-maltez-and-tim-saunders"
+     }
+    },
+    {
+     "annotation_count": 8,
+     "api_path": "/songs/3901246",
+     "full_title": "Detention by\u00a0LD (Ft.\u00a0Tiggs\u00a0Da Author)",
+     "header_image_thumbnail_url": "https://images.genius.com/11ee279d09968fb81137fa3c5b0ab7de.300x307x1.jpg",
+     "header_image_url": "https://images.genius.com/11ee279d09968fb81137fa3c5b0ab7de.977x1000x1.jpg",
+     "id": 3901246,
+     "lyrics_owner_id": 1384823,
+     "lyrics_state": "complete",
+     "path": "/Ld-detention-lyrics",
+     "pyongs_count": null,
+     "song_art_image_thumbnail_url": "https://images.genius.com/11ee279d09968fb81137fa3c5b0ab7de.300x307x1.jpg",
+     "song_art_image_url": "https://images.genius.com/11ee279d09968fb81137fa3c5b0ab7de.977x1000x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 4,
+      "hot": false,
+      "pageviews": 10560
+     },
+     "title": "Detention",
+     "title_with_featured": "Detention (Ft.\u00a0Tiggs\u00a0Da Author)",
+     "url": "https://genius.com/Ld-detention-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/673537",
+      "header_image_url": "https://images.genius.com/f507707321317928e00abdbcfc3a4693.526x258x1.jpg",
+      "id": 673537,
+      "image_url": "https://images.genius.com/7037ad6f6b7ada44d2c84fdb6c5c0e33.720x720x1.png",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "LD",
+      "url": "https://genius.com/artists/Ld"
+     }
+    },
+    {
+     "annotation_count": 1,
+     "api_path": "/songs/4000475",
+     "full_title": "Lie by\u00a0Lil\u00a0Wanker",
+     "header_image_thumbnail_url": "https://images.genius.com/28055cbf7767ab0570032c608a800d2a.300x300x1.jpg",
+     "header_image_url": "https://images.genius.com/28055cbf7767ab0570032c608a800d2a.1000x1000x1.jpg",
+     "id": 4000475,
+     "lyrics_owner_id": 7074274,
+     "lyrics_state": "complete",
+     "path": "/Lil-wanker-lie-lyrics",
+     "pyongs_count": null,
+     "song_art_image_thumbnail_url": "https://images.genius.com/28055cbf7767ab0570032c608a800d2a.300x300x1.jpg",
+     "song_art_image_url": "https://images.genius.com/28055cbf7767ab0570032c608a800d2a.1000x1000x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 1,
+      "hot": false
+     },
+     "title": "Lie",
+     "title_with_featured": "Lie",
+     "url": "https://genius.com/Lil-wanker-lie-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/1592565",
+      "header_image_url": "https://images.genius.com/7bd3018d6558dcd80b4377e00e70d559.1000x1000x1.png",
+      "id": 1592565,
+      "image_url": "https://images.genius.com/b097344132d28e656224c7d81ef8c466.500x500x1.png",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Lil Wanker",
+      "url": "https://genius.com/artists/Lil-wanker"
+     }
+    },
+    {
+     "annotation_count": 0,
+     "api_path": "/songs/4312402",
+     "full_title": "Gangsta Music by\u00a0Yung\u00a0Bleu (Ft.\u00a0Juicy\u00a0J)",
+     "header_image_thumbnail_url": "https://images.genius.com/f2cf93e620e81ef8127dc86108980f14.300x300x1.jpg",
+     "header_image_url": "https://images.genius.com/f2cf93e620e81ef8127dc86108980f14.939x939x1.jpg",
+     "id": 4312402,
+     "lyrics_owner_id": 1273468,
+     "lyrics_state": "complete",
+     "path": "/Yung-bleu-gangsta-music-lyrics",
+     "pyongs_count": null,
+     "song_art_image_thumbnail_url": "https://images.genius.com/f2cf93e620e81ef8127dc86108980f14.300x300x1.jpg",
+     "song_art_image_url": "https://images.genius.com/f2cf93e620e81ef8127dc86108980f14.939x939x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 0,
+      "hot": false,
+      "pageviews": 9326
+     },
+     "title": "Gangsta Music",
+     "title_with_featured": "Gangsta Music (Ft.\u00a0Juicy\u00a0J)",
+     "url": "https://genius.com/Yung-bleu-gangsta-music-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/1152503",
+      "header_image_url": "https://images.genius.com/43cd85fe7d71aa636ba17cfc6a8d23ae.800x1000x1.jpg",
+      "id": 1152503,
+      "image_url": "https://images.genius.com/dc2c0a6472747804006b3caa7d06cfac.743x743x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": true,
+      "name": "Yung Bleu",
+      "url": "https://genius.com/artists/Yung-bleu",
+      "iq": 525
+     }
+    },
+    {
+     "annotation_count": 8,
+     "api_path": "/songs/4602302",
+     "full_title": "Sad Life (I'm Better Off Dead) by\u00a0KingSolrac (Ft.\u00a0Conner\u00a0Bean)",
+     "header_image_thumbnail_url": "https://images.genius.com/6e5e737e0d396e21ae106470e9b08f04.300x300x1.png",
+     "header_image_url": "https://images.genius.com/6e5e737e0d396e21ae106470e9b08f04.800x800x1.png",
+     "id": 4602302,
+     "lyrics_owner_id": 5164207,
+     "lyrics_state": "complete",
+     "path": "/Kingsolrac-sad-life-im-better-off-dead-lyrics",
+     "pyongs_count": null,
+     "song_art_image_thumbnail_url": "https://images.genius.com/6e5e737e0d396e21ae106470e9b08f04.300x300x1.png",
+     "song_art_image_url": "https://images.genius.com/6e5e737e0d396e21ae106470e9b08f04.800x800x1.png",
+     "stats": {
+      "unreviewed_annotations": 0,
+      "hot": false
+     },
+     "title": "Sad Life (I\u2019m Better Off Dead)",
+     "title_with_featured": "Sad Life (I'm Better Off Dead) (Ft.\u00a0Conner\u00a0Bean)",
+     "url": "https://genius.com/Kingsolrac-sad-life-im-better-off-dead-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/1211600",
+      "header_image_url": "https://images.genius.com/f341bf9fb6693c94ca172d1b4fd6be9e.1000x209x1.jpg",
+      "id": 1211600,
+      "image_url": "https://images.genius.com/9c9063806029c4eb52e914b74790db7a.480x360x32.gif",
+      "is_meme_verified": false,
+      "is_verified": true,
+      "name": "KingSolrac",
+      "url": "https://genius.com/artists/Kingsolrac",
+      "iq": 7951
+     }
+    },
+    {
+     "annotation_count": 14,
+     "api_path": "/songs/5241631",
+     "full_title": "P2 by\u00a0Lil\u00a0Uzi Vert",
+     "header_image_thumbnail_url": "https://images.genius.com/6733830d948ee1f53e8f4d220180756e.300x300x1.jpg",
+     "header_image_url": "https://images.genius.com/6733830d948ee1f53e8f4d220180756e.1000x1000x1.jpg",
+     "id": 5241631,
+     "lyrics_owner_id": 6612308,
+     "lyrics_state": "complete",
+     "path": "/Lil-uzi-vert-p2-lyrics",
+     "pyongs_count": 123,
+     "song_art_image_thumbnail_url": "https://images.genius.com/6733830d948ee1f53e8f4d220180756e.300x300x1.jpg",
+     "song_art_image_url": "https://images.genius.com/6733830d948ee1f53e8f4d220180756e.1000x1000x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 1,
+      "hot": false,
+      "pageviews": 869734
+     },
+     "title": "P2",
+     "title_with_featured": "P2",
+     "url": "https://genius.com/Lil-uzi-vert-p2-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/217208",
+      "header_image_url": "https://images.genius.com/46a8b723a36b4d8cfca6c9ecd9816c47.1000x429x1.jpg",
+      "id": 217208,
+      "image_url": "https://images.genius.com/05f2ee7ef53d1a68352ec67cda793d0c.469x469x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": true,
+      "name": "Lil Uzi Vert",
+      "url": "https://genius.com/artists/Lil-uzi-vert",
+      "iq": 5017
+     }
+    },
+    {
+     "annotation_count": 1,
+     "api_path": "/songs/5686277",
+     "full_title": "Don't Start Now by\u00a0Illy",
+     "header_image_thumbnail_url": "https://images.genius.com/4044316a1db617570ebf56cd8f87cc48.300x300x1.jpg",
+     "header_image_url": "https://images.genius.com/4044316a1db617570ebf56cd8f87cc48.960x960x1.jpg",
+     "id": 5686277,
+     "lyrics_owner_id": 3017322,
+     "lyrics_state": "complete",
+     "path": "/Illy-dont-start-now-lyrics",
+     "pyongs_count": null,
+     "song_art_image_thumbnail_url": "https://images.genius.com/4044316a1db617570ebf56cd8f87cc48.300x300x1.jpg",
+     "song_art_image_url": "https://images.genius.com/4044316a1db617570ebf56cd8f87cc48.960x960x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 0,
+      "hot": false
+     },
+     "title": "Don\u2019t Start Now",
+     "title_with_featured": "Don't Start Now",
+     "url": "https://genius.com/Illy-dont-start-now-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/6644",
+      "header_image_url": "https://images.genius.com/9597ae3e76ac2519dfd93274676de285.666x666x1.jpg",
+      "id": 6644,
+      "image_url": "https://images.genius.com/9597ae3e76ac2519dfd93274676de285.666x666x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": true,
+      "name": "Illy",
+      "url": "https://genius.com/artists/Illy",
+      "iq": 100
+     }
+    },
+    {
+     "annotation_count": 21,
+     "api_path": "/songs/5808879",
+     "full_title": "Tim Westwood Freestyle by\u00a0Smokepurpp",
+     "header_image_thumbnail_url": "https://images.genius.com/2aae7fd755927d8221f2dab8c0816ebe.300x168x1.webp",
+     "header_image_url": "https://images.genius.com/2aae7fd755927d8221f2dab8c0816ebe.720x404x1.webp",
+     "id": 5808879,
+     "lyrics_owner_id": 3551348,
+     "lyrics_state": "complete",
+     "path": "/Smokepurpp-tim-westwood-freestyle-lyrics",
+     "pyongs_count": null,
+     "song_art_image_thumbnail_url": "https://images.genius.com/2aae7fd755927d8221f2dab8c0816ebe.300x168x1.webp",
+     "song_art_image_url": "https://images.genius.com/2aae7fd755927d8221f2dab8c0816ebe.720x404x1.webp",
+     "stats": {
+      "unreviewed_annotations": 21,
+      "hot": false
+     },
+     "title": "Tim Westwood Freestyle",
+     "title_with_featured": "Tim Westwood Freestyle",
+     "url": "https://genius.com/Smokepurpp-tim-westwood-freestyle-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/646901",
+      "header_image_url": "https://images.genius.com/f1b81da47cdbc486ed74981220954631.675x675x1.jpg",
+      "id": 646901,
+      "image_url": "https://images.genius.com/ba1075f89b0162974900fdaed949327c.640x640x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": true,
+      "name": "Smokepurpp",
+      "url": "https://genius.com/artists/Smokepurpp",
+      "iq": 1552
+     }
+    },
+    {
+     "annotation_count": 3,
+     "api_path": "/songs/5949261",
+     "full_title": "Minnesota by\u00a0Chief\u00a0Keef",
+     "header_image_thumbnail_url": "https://images.genius.com/c4de2f0be4a88348847f24a83922b667.300x300x1.jpg",
+     "header_image_url": "https://images.genius.com/c4de2f0be4a88348847f24a83922b667.645x645x1.jpg",
+     "id": 5949261,
+     "lyrics_owner_id": 9863731,
+     "lyrics_state": "complete",
+     "path": "/Chief-keef-minnesota-lyrics",
+     "pyongs_count": 5,
+     "song_art_image_thumbnail_url": "https://images.genius.com/c4de2f0be4a88348847f24a83922b667.300x300x1.jpg",
+     "song_art_image_url": "https://images.genius.com/c4de2f0be4a88348847f24a83922b667.645x645x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 3,
+      "hot": false
+     },
+     "title": "Minnesota",
+     "title_with_featured": "Minnesota",
+     "url": "https://genius.com/Chief-keef-minnesota-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/16808",
+      "header_image_url": "https://images.genius.com/f981691609049338ce6b0fd295fc83dc.918x918x1.jpg",
+      "id": 16808,
+      "image_url": "https://images.genius.com/c4de2f0be4a88348847f24a83922b667.645x645x1.jpg",
+      "is_meme_verified": true,
+      "is_verified": true,
+      "name": "Chief Keef",
+      "url": "https://genius.com/artists/Chief-keef",
+      "iq": 1813
+     }
+    },
+    {
+     "annotation_count": 3,
+     "api_path": "/songs/6022809",
+     "full_title": "\u0412\u0441\u0435 \u043c\u043e\u0438 \u0434\u0440\u0443\u0437\u044c\u044f \u043c\u0435\u0440\u0442\u0432\u044b (All my friends are dead) by\u00a0Jubilee",
+     "header_image_thumbnail_url": "https://images.genius.com/4ecc5bbf3a77213cc43f6e16588daaae.300x300x1.jpg",
+     "header_image_url": "https://images.genius.com/4ecc5bbf3a77213cc43f6e16588daaae.1000x1000x1.jpg",
+     "id": 6022809,
+     "lyrics_owner_id": 4105156,
+     "lyrics_state": "complete",
+     "path": "/Jubilee-all-my-friends-are-dead-lyrics",
+     "pyongs_count": 1,
+     "song_art_image_thumbnail_url": "https://images.genius.com/4ecc5bbf3a77213cc43f6e16588daaae.300x300x1.jpg",
+     "song_art_image_url": "https://images.genius.com/4ecc5bbf3a77213cc43f6e16588daaae.1000x1000x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 3,
+      "hot": false
+     },
+     "title": "\u0412\u0441\u0435 \u043c\u043e\u0438 \u0434\u0440\u0443\u0437\u044c\u044f \u043c\u0435\u0440\u0442\u0432\u044b (All my friends are dead)",
+     "title_with_featured": "\u0412\u0441\u0435 \u043c\u043e\u0438 \u0434\u0440\u0443\u0437\u044c\u044f \u043c\u0435\u0440\u0442\u0432\u044b (All my friends are dead)",
+     "url": "https://genius.com/Jubilee-all-my-friends-are-dead-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/154977",
+      "header_image_url": "https://images.genius.com/951824661b1cc671e3a59ea0ba22c14f.1000x667x1.jpg",
+      "id": 154977,
+      "image_url": "https://images.genius.com/b8d8f79650fbf6dbe41bbb6b25c2ccdb.1000x1000x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Jubilee",
+      "url": "https://genius.com/artists/Jubilee"
+     }
+    }
+   ]
+  },
+  {
+   "relationship_type": "cover_of",
+   "type": "cover_of",
+   "songs": []
+  },
+  {
+   "relationship_type": "covered_by",
+   "type": "covered_by",
+   "songs": [
+    {
+     "annotation_count": 0,
+     "api_path": "/songs/3055425",
+     "full_title": "XO Tour Llif3 by\u00a0Sleep\u00a0Waker",
+     "header_image_thumbnail_url": "https://images.genius.com/758c36a8717559e2caa3ddf09d9c057a.300x225x1.jpg",
+     "header_image_url": "https://images.genius.com/758c36a8717559e2caa3ddf09d9c057a.480x360x1.jpg",
+     "id": 3055425,
+     "lyrics_owner_id": 321054,
+     "lyrics_state": "complete",
+     "path": "/Sleep-waker-xo-tour-llif3-lyrics",
+     "pyongs_count": null,
+     "song_art_image_thumbnail_url": "https://images.genius.com/758c36a8717559e2caa3ddf09d9c057a.300x225x1.jpg",
+     "song_art_image_url": "https://images.genius.com/758c36a8717559e2caa3ddf09d9c057a.480x360x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 0,
+      "hot": false
+     },
+     "title": "XO Tour Llif3",
+     "title_with_featured": "XO Tour Llif3",
+     "url": "https://genius.com/Sleep-waker-xo-tour-llif3-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/1062033",
+      "header_image_url": "https://images.genius.com/9691c46f8dee3b1d4bcc943f1ada2f08.960x960x1.jpg",
+      "id": 1062033,
+      "image_url": "https://images.genius.com/9691c46f8dee3b1d4bcc943f1ada2f08.960x960x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Sleep Waker",
+      "url": "https://genius.com/artists/Sleep-waker"
+     }
+    },
+    {
+     "annotation_count": 1,
+     "api_path": "/songs/3112230",
+     "full_title": "XO TOUR Llif3 by\u00a0Fame\u00a0on Fire",
+     "header_image_thumbnail_url": "https://images.genius.com/9c2da21201855645a4840cd9a31aa042.300x300x1.jpg",
+     "header_image_url": "https://images.genius.com/9c2da21201855645a4840cd9a31aa042.500x500x1.jpg",
+     "id": 3112230,
+     "lyrics_owner_id": 321054,
+     "lyrics_state": "complete",
+     "path": "/Fame-on-fire-xo-tour-llif3-lyrics",
+     "pyongs_count": null,
+     "song_art_image_thumbnail_url": "https://images.genius.com/9c2da21201855645a4840cd9a31aa042.300x300x1.jpg",
+     "song_art_image_url": "https://images.genius.com/9c2da21201855645a4840cd9a31aa042.500x500x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 0,
+      "hot": false,
+      "pageviews": 7385
+     },
+     "title": "XO TOUR Llif3",
+     "title_with_featured": "XO TOUR Llif3",
+     "url": "https://genius.com/Fame-on-fire-xo-tour-llif3-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/1064801",
+      "header_image_url": "https://images.genius.com/ce6dc87f81ccefb9be2825295e080d05.1000x563x1.jpg",
+      "id": 1064801,
+      "image_url": "https://images.genius.com/360cf40fcc3974140b22e4619871634b.1000x1000x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": true,
+      "name": "Fame on Fire",
+      "url": "https://genius.com/artists/Fame-on-fire",
+      "iq": 659
+     }
+    },
+    {
+     "annotation_count": 1,
+     "api_path": "/songs/3117038",
+     "full_title": "17' Rap Playlist (2017 Rap Medley Cover) by\u00a0William\u00a0Singe",
+     "header_image_thumbnail_url": "https://images.genius.com/2c13fd4fc17191c07b40f9bc0801e899.300x300x1.jpg",
+     "header_image_url": "https://images.genius.com/2c13fd4fc17191c07b40f9bc0801e899.907x907x1.jpg",
+     "id": 3117038,
+     "lyrics_owner_id": 3725198,
+     "lyrics_state": "complete",
+     "path": "/William-singe-17-rap-playlist-2017-rap-medley-cover-lyrics",
+     "pyongs_count": 2,
+     "song_art_image_thumbnail_url": "https://images.genius.com/2c13fd4fc17191c07b40f9bc0801e899.300x300x1.jpg",
+     "song_art_image_url": "https://images.genius.com/2c13fd4fc17191c07b40f9bc0801e899.907x907x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 0,
+      "hot": false,
+      "pageviews": 11688
+     },
+     "title": "17' Rap Playlist (2017 Rap Medley Cover)",
+     "title_with_featured": "17' Rap Playlist (2017 Rap Medley Cover)",
+     "url": "https://genius.com/William-singe-17-rap-playlist-2017-rap-medley-cover-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/658615",
+      "header_image_url": "https://images.genius.com/93efba0ff82a9c9d65b280a35111e09b.480x270x1.jpg",
+      "id": 658615,
+      "image_url": "https://images.genius.com/2c13fd4fc17191c07b40f9bc0801e899.907x907x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "William Singe",
+      "url": "https://genius.com/artists/William-singe"
+     }
+    },
+    {
+     "annotation_count": 6,
+     "api_path": "/songs/3142822",
+     "full_title": "XO TOUR Llif3 by\u00a0Scottie\u00a0Juug (Ft.\u00a0Scottie\u00a0Juug)",
+     "header_image_thumbnail_url": "https://images.genius.com/47309ca9ab13539f4c63f6d0b3456f59.300x300x1.jpg",
+     "header_image_url": "https://images.genius.com/47309ca9ab13539f4c63f6d0b3456f59.500x500x1.jpg",
+     "id": 3142822,
+     "lyrics_owner_id": 3720169,
+     "lyrics_state": "complete",
+     "path": "/Scottie-juug-xo-tour-llif3-lyrics",
+     "pyongs_count": null,
+     "song_art_image_thumbnail_url": "https://images.genius.com/411541dd0a5fbdc0a46f25351c8fc084.300x300x1.jpg",
+     "song_art_image_url": "https://images.genius.com/411541dd0a5fbdc0a46f25351c8fc084.500x500x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 0,
+      "hot": false
+     },
+     "title": "XO TOUR Llif3",
+     "title_with_featured": "XO TOUR Llif3 (Ft.\u00a0Scottie\u00a0Juug)",
+     "url": "https://genius.com/Scottie-juug-xo-tour-llif3-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/1001796",
+      "header_image_url": "https://images.genius.com/d1a4081babd050a0b9fac1e936e9c829.1000x1000x1.jpg",
+      "id": 1001796,
+      "image_url": "https://images.genius.com/8334c5e3a81a1fb8760a1ab2fc944bc5.1000x1000x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": true,
+      "name": "Scottie Juug",
+      "url": "https://genius.com/artists/Scottie-juug",
+      "iq": 1616
+     }
+    },
+    {
+     "annotation_count": 14,
+     "api_path": "/songs/3159543",
+     "full_title": "Drowning (Rendition) by\u00a0Jayden\u00a0Jesse",
+     "header_image_thumbnail_url": "https://images.genius.com/a6f10f943d2b5f027b49cb79c57e019c.300x300x1.jpg",
+     "header_image_url": "https://images.genius.com/a6f10f943d2b5f027b49cb79c57e019c.500x500x1.jpg",
+     "id": 3159543,
+     "lyrics_owner_id": 1809076,
+     "lyrics_state": "complete",
+     "path": "/Jayden-jesse-drowning-rendition-lyrics",
+     "pyongs_count": null,
+     "song_art_image_thumbnail_url": "https://images.genius.com/a6f10f943d2b5f027b49cb79c57e019c.300x300x1.jpg",
+     "song_art_image_url": "https://images.genius.com/a6f10f943d2b5f027b49cb79c57e019c.500x500x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 0,
+      "hot": false
+     },
+     "title": "Drowning (Rendition)",
+     "title_with_featured": "Drowning (Rendition)",
+     "url": "https://genius.com/Jayden-jesse-drowning-rendition-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/562950",
+      "header_image_url": "https://images.genius.com/eca2d3be545ca9dad430f318c952895a.1000x333x1.jpg",
+      "id": 562950,
+      "image_url": "https://images.genius.com/b27696d74ce00fbbd550301efc33b46d.1000x1000x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": true,
+      "name": "Jayden Jesse",
+      "url": "https://genius.com/artists/Jayden-jesse",
+      "iq": 3309
+     }
+    },
+    {
+     "annotation_count": 0,
+     "api_path": "/songs/3564022",
+     "full_title": "XO Tour Llif3 by\u00a0GeekHeavy",
+     "header_image_thumbnail_url": "https://images.genius.com/c42fbfd40750d0737c0381723c918fcf.300x300x1.png",
+     "header_image_url": "https://images.genius.com/c42fbfd40750d0737c0381723c918fcf.710x710x1.png",
+     "id": 3564022,
+     "lyrics_owner_id": 5618439,
+     "lyrics_state": "complete",
+     "path": "/Geekheavy-xo-tour-llif3-lyrics",
+     "pyongs_count": null,
+     "song_art_image_thumbnail_url": "https://images.genius.com/c42fbfd40750d0737c0381723c918fcf.300x300x1.png",
+     "song_art_image_url": "https://images.genius.com/c42fbfd40750d0737c0381723c918fcf.710x710x1.png",
+     "stats": {
+      "unreviewed_annotations": 0,
+      "hot": false
+     },
+     "title": "XO Tour Llif3",
+     "title_with_featured": "XO Tour Llif3",
+     "url": "https://genius.com/Geekheavy-xo-tour-llif3-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/1400837",
+      "header_image_url": "https://images.genius.com/0ffc395c79fabd9f207deb1ac95fc22f.400x400x1.jpg",
+      "id": 1400837,
+      "image_url": "https://images.genius.com/0ffc395c79fabd9f207deb1ac95fc22f.400x400x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "GeekHeavy",
+      "url": "https://genius.com/artists/Geekheavy"
+     }
+    },
+    {
+     "annotation_count": 0,
+     "api_path": "/songs/3635947",
+     "full_title": "Sad! by\u00a0Kid\u00a0Travis",
+     "header_image_thumbnail_url": "https://images.genius.com/7c62ea150e1589e4d06464a2e3191e65.300x300x1.jpg",
+     "header_image_url": "https://images.genius.com/7c62ea150e1589e4d06464a2e3191e65.500x500x1.jpg",
+     "id": 3635947,
+     "lyrics_owner_id": 6214712,
+     "lyrics_state": "complete",
+     "path": "/Kid-travis-sad-lyrics",
+     "pyongs_count": 3,
+     "song_art_image_thumbnail_url": "https://images.genius.com/7c62ea150e1589e4d06464a2e3191e65.300x300x1.jpg",
+     "song_art_image_url": "https://images.genius.com/7c62ea150e1589e4d06464a2e3191e65.500x500x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 0,
+      "hot": false
+     },
+     "title": "Sad!",
+     "title_with_featured": "Sad!",
+     "url": "https://genius.com/Kid-travis-sad-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/149123",
+      "header_image_url": "https://images.genius.com/2c2cb7ab91f759edc501fc044aa1ba93.1000x668x1.jpg",
+      "id": 149123,
+      "image_url": "https://images.genius.com/1494351524c9f8122cf170d772283e7a.912x912x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": true,
+      "name": "Kid Travis",
+      "url": "https://genius.com/artists/Kid-travis",
+      "iq": 1366
+     }
+    },
+    {
+     "annotation_count": 0,
+     "api_path": "/songs/3995247",
+     "full_title": "XO TOUR Llif3 (Lil Tra$h Cover) by\u00a0Jake\u00a0Hill",
+     "header_image_thumbnail_url": "https://images.genius.com/9ecd8df4819ecde54061688d96cee02b.300x169x1.jpg",
+     "header_image_url": "https://images.genius.com/9ecd8df4819ecde54061688d96cee02b.1000x563x1.jpg",
+     "id": 3995247,
+     "lyrics_owner_id": 4469304,
+     "lyrics_state": "complete",
+     "path": "/Jake-hill-xo-tour-llif3-lil-tra-h-cover-lyrics",
+     "pyongs_count": null,
+     "song_art_image_thumbnail_url": "https://images.genius.com/9ecd8df4819ecde54061688d96cee02b.300x169x1.jpg",
+     "song_art_image_url": "https://images.genius.com/9ecd8df4819ecde54061688d96cee02b.1000x563x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 0,
+      "hot": false
+     },
+     "title": "XO TOUR Llif3 (Lil Tra$h Cover)",
+     "title_with_featured": "XO TOUR Llif3 (Lil Tra$h Cover)",
+     "url": "https://genius.com/Jake-hill-xo-tour-llif3-lil-tra-h-cover-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/976196",
+      "header_image_url": "https://images.genius.com/ac9959798347ac21d7f79d5a3d60bbfd.1000x165x1.jpg",
+      "id": 976196,
+      "image_url": "https://images.genius.com/e23bb85105f1053b077fbd81de5d8139.640x639x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Jake Hill",
+      "url": "https://genius.com/artists/Jake-hill"
+     }
+    },
+    {
+     "annotation_count": 0,
+     "api_path": "/songs/4475516",
+     "full_title": "XO Tour Llif3 Parody by\u00a0Kyle\u00a0Exum",
+     "header_image_thumbnail_url": "https://images.genius.com/0bca31469ebc1f3ea534b02f95d0188e.300x300x1.jpg",
+     "header_image_url": "https://images.genius.com/0bca31469ebc1f3ea534b02f95d0188e.450x450x1.jpg",
+     "id": 4475516,
+     "lyrics_owner_id": 4426238,
+     "lyrics_state": "complete",
+     "path": "/Kyle-exum-xo-tour-llif3-parody-lyrics",
+     "pyongs_count": null,
+     "song_art_image_thumbnail_url": "https://images.genius.com/0bca31469ebc1f3ea534b02f95d0188e.300x300x1.jpg",
+     "song_art_image_url": "https://images.genius.com/0bca31469ebc1f3ea534b02f95d0188e.450x450x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 0,
+      "hot": false
+     },
+     "title": "XO Tour Llif3 Parody",
+     "title_with_featured": "XO Tour Llif3 Parody",
+     "url": "https://genius.com/Kyle-exum-xo-tour-llif3-parody-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/1047751",
+      "header_image_url": "https://images.genius.com/1711583f3aa8c8ab477a1df11647abf1.500x500x1.jpg",
+      "id": 1047751,
+      "image_url": "https://images.genius.com/1711583f3aa8c8ab477a1df11647abf1.500x500x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Kyle Exum",
+      "url": "https://genius.com/artists/Kyle-exum"
+     }
+    },
+    {
+     "annotation_count": 0,
+     "api_path": "/songs/4943354",
+     "full_title": "XO TOUR Llif3 by\u00a0The\u00a0Theorist",
+     "header_image_thumbnail_url": "https://images.genius.com/525e0be00becbe934e3ef0a4e38c4da3.300x300x1.jpg",
+     "header_image_url": "https://images.genius.com/525e0be00becbe934e3ef0a4e38c4da3.932x932x1.jpg",
+     "id": 4943354,
+     "lyrics_owner_id": 5091936,
+     "lyrics_state": "complete",
+     "path": "/The-theorist-xo-tour-llif3-lyrics",
+     "pyongs_count": null,
+     "song_art_image_thumbnail_url": "https://images.genius.com/525e0be00becbe934e3ef0a4e38c4da3.300x300x1.jpg",
+     "song_art_image_url": "https://images.genius.com/525e0be00becbe934e3ef0a4e38c4da3.932x932x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 0,
+      "hot": false
+     },
+     "title": "XO TOUR Llif3",
+     "title_with_featured": "XO TOUR Llif3",
+     "url": "https://genius.com/The-theorist-xo-tour-llif3-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/32468",
+      "header_image_url": "https://images.genius.com/b058dfc03bc21f7060b3cd06daf542ec.975x175x1.png",
+      "id": 32468,
+      "image_url": "https://images.genius.com/525e0be00becbe934e3ef0a4e38c4da3.932x932x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "The Theorist",
+      "url": "https://genius.com/artists/The-theorist"
+     }
+    },
+    {
+     "annotation_count": 1,
+     "api_path": "/songs/6006102",
+     "full_title": "\u200blil uzi vert by\u00a0Lieu",
+     "header_image_thumbnail_url": "https://images.genius.com/c2f72d789593933f6443617394d164c2.300x300x1.jpg",
+     "header_image_url": "https://images.genius.com/c2f72d789593933f6443617394d164c2.500x500x1.jpg",
+     "id": 6006102,
+     "lyrics_owner_id": 5059104,
+     "lyrics_state": "complete",
+     "path": "/Lieu-lil-uzi-vert-lyrics",
+     "pyongs_count": null,
+     "song_art_image_thumbnail_url": "https://images.genius.com/c2f72d789593933f6443617394d164c2.300x300x1.jpg",
+     "song_art_image_url": "https://images.genius.com/c2f72d789593933f6443617394d164c2.500x500x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 1,
+      "hot": false
+     },
+     "title": "\u200blil uzi vert",
+     "title_with_featured": "\u200blil uzi vert",
+     "url": "https://genius.com/Lieu-lil-uzi-vert-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/2224252",
+      "header_image_url": "https://images.genius.com/c3fb2cac704a5bba178f9a7f2c8a07c3.500x500x1.jpg",
+      "id": 2224252,
+      "image_url": "https://images.genius.com/7792f73b462361a965c5d40932028124.320x320x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Lieu",
+      "url": "https://genius.com/artists/Lieu"
+     }
+    }
+   ]
+  },
+  {
+   "relationship_type": "remix_of",
+   "type": "remix_of",
+   "songs": [
+    {
+     "annotation_count": 3,
+     "api_path": "/songs/6006193",
+     "full_title": "Stinkiest Feet Of All! by\u00a0Submarine\u00a0Man (Ft.\u00a0Lama\u00a0Doodle & Lil\u00a0Flexer)",
+     "header_image_thumbnail_url": "https://images.genius.com/deef9133963468b161bae1f8248f71fd.300x300x1.png",
+     "header_image_url": "https://images.genius.com/deef9133963468b161bae1f8248f71fd.910x910x1.png",
+     "id": 6006193,
+     "lyrics_owner_id": 11425519,
+     "lyrics_state": "complete",
+     "path": "/Submarine-man-stinkiest-feet-of-all-lyrics",
+     "pyongs_count": null,
+     "song_art_image_thumbnail_url": "https://images.genius.com/deef9133963468b161bae1f8248f71fd.300x300x1.png",
+     "song_art_image_url": "https://images.genius.com/deef9133963468b161bae1f8248f71fd.910x910x1.png",
+     "stats": {
+      "unreviewed_annotations": 3,
+      "hot": false
+     },
+     "title": "Stinkiest Feet Of All!",
+     "title_with_featured": "Stinkiest Feet Of All! (Ft.\u00a0Lama\u00a0Doodle & Lil\u00a0Flexer)",
+     "url": "https://genius.com/Submarine-man-stinkiest-feet-of-all-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/1484265",
+      "header_image_url": "https://images.genius.com/86d7aca6c637e8d132f07a3abbd252b8.1000x625x1.png",
+      "id": 1484265,
+      "image_url": "https://images.genius.com/a12f28fea1a86333204922587409d583.463x463x1.png",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Submarine Man",
+      "url": "https://genius.com/artists/Submarine-man"
+     }
+    }
+   ]
+  },
+  {
+   "relationship_type": "remixed_by",
+   "type": "remixed_by",
+   "songs": [
+    {
+     "annotation_count": 1,
+     "api_path": "/songs/3050030",
+     "full_title": "XO Tour Llif3 (African Version) by\u00a0Krypto9095",
+     "header_image_thumbnail_url": "https://images.genius.com/72b35eeee9c5a20ec3255f8e6a2c9ef7.196x110x1.jpg",
+     "header_image_url": "https://images.genius.com/72b35eeee9c5a20ec3255f8e6a2c9ef7.196x110x1.jpg",
+     "id": 3050030,
+     "lyrics_owner_id": 3460939,
+     "lyrics_state": "complete",
+     "path": "/Krypto9095-xo-tour-llif3-african-version-lyrics",
+     "pyongs_count": 1,
+     "song_art_image_thumbnail_url": "https://images.genius.com/72b35eeee9c5a20ec3255f8e6a2c9ef7.196x110x1.jpg",
+     "song_art_image_url": "https://images.genius.com/72b35eeee9c5a20ec3255f8e6a2c9ef7.196x110x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 1,
+      "hot": false
+     },
+     "title": "XO Tour Llif3 (African Version)",
+     "title_with_featured": "XO Tour Llif3 (African Version)",
+     "url": "https://genius.com/Krypto9095-xo-tour-llif3-african-version-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/987995",
+      "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+      "id": 987995,
+      "image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Krypto9095",
+      "url": "https://genius.com/artists/Krypto9095"
+     }
+    },
+    {
+     "annotation_count": 0,
+     "api_path": "/songs/3050746",
+     "full_title": "XO TOUR Llif3 (c.mix) by\u00a0\u200b\u200bkid\u00a0c.",
+     "header_image_thumbnail_url": "https://images.genius.com/ab6002b06594aaabf1c3f867b18434ac.300x300x1.jpg",
+     "header_image_url": "https://images.genius.com/ab6002b06594aaabf1c3f867b18434ac.500x500x1.jpg",
+     "id": 3050746,
+     "lyrics_owner_id": 2747527,
+     "lyrics_state": "complete",
+     "path": "/Kid-c-xo-tour-llif3-cmix-lyrics",
+     "pyongs_count": null,
+     "song_art_image_thumbnail_url": "https://images.genius.com/ab6002b06594aaabf1c3f867b18434ac.300x300x1.jpg",
+     "song_art_image_url": "https://images.genius.com/ab6002b06594aaabf1c3f867b18434ac.500x500x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 0,
+      "hot": false
+     },
+     "title": "XO TOUR Llif3 (c.mix)",
+     "title_with_featured": "XO TOUR Llif3 (c.mix)",
+     "url": "https://genius.com/Kid-c-xo-tour-llif3-cmix-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/1964065",
+      "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+      "id": 1964065,
+      "image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "\u200b\u200bkid c.",
+      "url": "https://genius.com/artists/Kid-c"
+     }
+    },
+    {
+     "annotation_count": 0,
+     "api_path": "/songs/3054866",
+     "full_title": "XO TOUR Llif3 (Minecraft Parody) by\u00a0Galaxy\u00a0Goats",
+     "header_image_thumbnail_url": "https://images.genius.com/2cd107e708e9c98c7ae943dc018a1cff.300x169x1.jpg",
+     "header_image_url": "https://images.genius.com/2cd107e708e9c98c7ae943dc018a1cff.1000x563x1.jpg",
+     "id": 3054866,
+     "lyrics_owner_id": 3914940,
+     "lyrics_state": "complete",
+     "path": "/Galaxy-goats-xo-tour-llif3-minecraft-parody-lyrics",
+     "pyongs_count": 2,
+     "song_art_image_thumbnail_url": "https://images.genius.com/2cd107e708e9c98c7ae943dc018a1cff.300x169x1.jpg",
+     "song_art_image_url": "https://images.genius.com/2cd107e708e9c98c7ae943dc018a1cff.1000x563x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 0,
+      "hot": false,
+      "pageviews": 15300
+     },
+     "title": "XO TOUR Llif3 (Minecraft Parody)",
+     "title_with_featured": "XO TOUR Llif3 (Minecraft Parody)",
+     "url": "https://genius.com/Galaxy-goats-xo-tour-llif3-minecraft-parody-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/1100877",
+      "header_image_url": "https://images.genius.com/ed76e95151d2c587847d5856e7df7fa8.500x500x1.jpg",
+      "id": 1100877,
+      "image_url": "https://images.genius.com/ed76e95151d2c587847d5856e7df7fa8.500x500x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Galaxy Goats",
+      "url": "https://genius.com/artists/Galaxy-goats"
+     }
+    },
+    {
+     "annotation_count": 1,
+     "api_path": "/songs/3055878",
+     "full_title": "XO Diamond Life by\u00a0Grabberzz (Ft.\u00a0Dan\u00a0Lee)",
+     "header_image_thumbnail_url": "https://images.genius.com/8e6ca35c5c2df0879a6f3a9022519b56.300x300x1.jpg",
+     "header_image_url": "https://images.genius.com/8e6ca35c5c2df0879a6f3a9022519b56.1000x1000x1.jpg",
+     "id": 3055878,
+     "lyrics_owner_id": 4213906,
+     "lyrics_state": "complete",
+     "path": "/Grabberzz-xo-diamond-life-lyrics",
+     "pyongs_count": null,
+     "song_art_image_thumbnail_url": "https://images.genius.com/8e6ca35c5c2df0879a6f3a9022519b56.300x300x1.jpg",
+     "song_art_image_url": "https://images.genius.com/8e6ca35c5c2df0879a6f3a9022519b56.1000x1000x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 0,
+      "hot": false
+     },
+     "title": "XO Diamond Life",
+     "title_with_featured": "XO Diamond Life (Ft.\u00a0Dan\u00a0Lee)",
+     "url": "https://genius.com/Grabberzz-xo-diamond-life-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/1110497",
+      "header_image_url": "https://images.genius.com/7b5354175ef43a3b8a65c3ff282f0734.500x500x1.jpg",
+      "id": 1110497,
+      "image_url": "https://images.genius.com/7b5354175ef43a3b8a65c3ff282f0734.500x500x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Grabberzz",
+      "url": "https://genius.com/artists/Grabberzz"
+     }
+    },
+    {
+     "annotation_count": 4,
+     "api_path": "/songs/3083642",
+     "full_title": "Break._.Up by\u00a0Stoned\u00a0Devil",
+     "header_image_thumbnail_url": "https://images.genius.com/cc7c504bf5fba3db1eb0d9c918726c4b.85x85x1.jpg",
+     "header_image_url": "https://images.genius.com/cc7c504bf5fba3db1eb0d9c918726c4b.85x85x1.jpg",
+     "id": 3083642,
+     "lyrics_owner_id": 2734498,
+     "lyrics_state": "complete",
+     "path": "/Stoned-devil-break-up-lyrics",
+     "pyongs_count": null,
+     "song_art_image_thumbnail_url": "https://images.genius.com/cc7c504bf5fba3db1eb0d9c918726c4b.85x85x1.jpg",
+     "song_art_image_url": "https://images.genius.com/cc7c504bf5fba3db1eb0d9c918726c4b.85x85x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 4,
+      "hot": false
+     },
+     "title": "Break._.Up",
+     "title_with_featured": "Break._.Up",
+     "url": "https://genius.com/Stoned-devil-break-up-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/631125",
+      "header_image_url": "https://images.genius.com/d89ad4e36b4715bb62d40df00f649183.1000x1000x1.png",
+      "id": 631125,
+      "image_url": "https://images.genius.com/17461e6e0cb0199c399d5b08b7c5a041.1000x1000x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Stoned Devil",
+      "url": "https://genius.com/artists/Stoned-devil"
+     }
+    },
+    {
+     "annotation_count": 1,
+     "api_path": "/songs/3090234",
+     "full_title": "Push Me To The Edge by\u00a0King\u00a0Libra",
+     "header_image_thumbnail_url": "https://images.genius.com/b64c1a2e1ac80d9a22fc4bc6ed0e4992.300x300x1.jpg",
+     "header_image_url": "https://images.genius.com/b64c1a2e1ac80d9a22fc4bc6ed0e4992.1000x1000x1.jpg",
+     "id": 3090234,
+     "lyrics_owner_id": 139843,
+     "lyrics_state": "complete",
+     "path": "/King-libra-push-me-to-the-edge-lyrics",
+     "pyongs_count": 1,
+     "song_art_image_thumbnail_url": "https://images.genius.com/b64c1a2e1ac80d9a22fc4bc6ed0e4992.300x300x1.jpg",
+     "song_art_image_url": "https://images.genius.com/b64c1a2e1ac80d9a22fc4bc6ed0e4992.1000x1000x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 0,
+      "hot": false
+     },
+     "title": "Push Me To The Edge",
+     "title_with_featured": "Push Me To The Edge",
+     "url": "https://genius.com/King-libra-push-me-to-the-edge-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/150814",
+      "header_image_url": "https://images.genius.com/d7a61190a836bdcfc62bf97af4f4c74b.1000x563x1.png",
+      "id": 150814,
+      "image_url": "https://images.genius.com/37e4ff192196dcb5a88146ef13815a24.1000x1000x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "King Libra",
+      "url": "https://genius.com/artists/King-libra",
+      "iq": 9487
+     }
+    },
+    {
+     "annotation_count": 0,
+     "api_path": "/songs/3097765",
+     "full_title": "XO TOUR LIFE. (REMIX) by\u00a0J-Rush\u00a0Music",
+     "header_image_thumbnail_url": "https://images.genius.com/dc0e735a6aaf752ecae38e2e311a9ffd.300x100x1.jpg",
+     "header_image_url": "https://images.genius.com/dc0e735a6aaf752ecae38e2e311a9ffd.1000x333x1.jpg",
+     "id": 3097765,
+     "lyrics_owner_id": 2442440,
+     "lyrics_state": "complete",
+     "path": "/J-rush-music-xo-tour-life-remix-lyrics",
+     "pyongs_count": null,
+     "song_art_image_thumbnail_url": "https://images.genius.com/dc0e735a6aaf752ecae38e2e311a9ffd.300x100x1.jpg",
+     "song_art_image_url": "https://images.genius.com/dc0e735a6aaf752ecae38e2e311a9ffd.1000x333x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 0,
+      "hot": false
+     },
+     "title": "XO TOUR LIFE. (REMIX)",
+     "title_with_featured": "XO TOUR LIFE. (REMIX)",
+     "url": "https://genius.com/J-rush-music-xo-tour-life-remix-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/1066258",
+      "header_image_url": "https://images.genius.com/83bf99c8996f77c9be362cf68bfe93cb.1000x368x1.png",
+      "id": 1066258,
+      "image_url": "https://images.genius.com/564f8c741c2f6cb94d2777d394d8aaf7.400x400x1.png",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "J-Rush Music",
+      "url": "https://genius.com/artists/J-rush-music"
+     }
+    },
+    {
+     "annotation_count": 29,
+     "api_path": "/songs/3107644",
+     "full_title": "Switch Her (XO Tour Llif3 Remix) by\u00a0Jame\u00a0x LowD",
+     "header_image_thumbnail_url": "https://assets.genius.com/images/default_cover_image.png?1606943206",
+     "header_image_url": "https://assets.genius.com/images/default_cover_image.png?1606943206",
+     "id": 3107644,
+     "lyrics_owner_id": 4685688,
+     "lyrics_state": "complete",
+     "path": "/Jame-x-lowd-switch-her-xo-tour-llif3-remix-lyrics",
+     "pyongs_count": null,
+     "song_art_image_thumbnail_url": "https://assets.genius.com/images/default_cover_image.png?1606943206",
+     "song_art_image_url": "https://assets.genius.com/images/default_cover_image.png?1606943206",
+     "stats": {
+      "unreviewed_annotations": 25,
+      "hot": false
+     },
+     "title": "Switch Her (XO Tour Llif3 Remix)",
+     "title_with_featured": "Switch Her (XO Tour Llif3 Remix)",
+     "url": "https://genius.com/Jame-x-lowd-switch-her-xo-tour-llif3-remix-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/1148402",
+      "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+      "id": 1148402,
+      "image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Jame x LowD",
+      "url": "https://genius.com/artists/Jame-x-lowd"
+     }
+    },
+    {
+     "annotation_count": 2,
+     "api_path": "/songs/3108621",
+     "full_title": "XO TOUR Llif3 (Remix) by\u00a0Devvon\u00a0Terrell",
+     "header_image_thumbnail_url": "https://images.genius.com/1642dfd23ddbca32f87ea8b571634c96.300x300x1.jpg",
+     "header_image_url": "https://images.genius.com/1642dfd23ddbca32f87ea8b571634c96.1000x1000x1.jpg",
+     "id": 3108621,
+     "lyrics_owner_id": 2979966,
+     "lyrics_state": "complete",
+     "path": "/Devvon-terrell-xo-tour-llif3-remix-lyrics",
+     "pyongs_count": 1,
+     "song_art_image_thumbnail_url": "https://images.genius.com/1642dfd23ddbca32f87ea8b571634c96.300x300x1.jpg",
+     "song_art_image_url": "https://images.genius.com/1642dfd23ddbca32f87ea8b571634c96.1000x1000x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 2,
+      "hot": false,
+      "pageviews": 6044
+     },
+     "title": "XO TOUR Llif3 (Remix)",
+     "title_with_featured": "XO TOUR Llif3 (Remix)",
+     "url": "https://genius.com/Devvon-terrell-xo-tour-llif3-remix-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/43582",
+      "header_image_url": "https://images.genius.com/dca40185de86cbac43b7637f827731b5.1000x667x1.jpg",
+      "id": 43582,
+      "image_url": "https://images.genius.com/383aef6b1feee98feb689ff8f1d95dfe.1000x1000x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": true,
+      "name": "Devvon Terrell",
+      "url": "https://genius.com/artists/Devvon-terrell",
+      "iq": 2731
+     }
+    },
+    {
+     "annotation_count": 1,
+     "api_path": "/songs/3110237",
+     "full_title": "No XO Llif3 by\u00a0Avereaux",
+     "header_image_thumbnail_url": "https://images.genius.com/2e1961a13046229737e0542529e8e9a9.300x300x1.jpg",
+     "header_image_url": "https://images.genius.com/2e1961a13046229737e0542529e8e9a9.1000x1000x1.jpg",
+     "id": 3110237,
+     "lyrics_owner_id": 3251444,
+     "lyrics_state": "complete",
+     "path": "/Avereaux-no-xo-llif3-lyrics",
+     "pyongs_count": null,
+     "song_art_image_thumbnail_url": "https://images.genius.com/2e1961a13046229737e0542529e8e9a9.300x300x1.jpg",
+     "song_art_image_url": "https://images.genius.com/2e1961a13046229737e0542529e8e9a9.1000x1000x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 0,
+      "hot": false
+     },
+     "title": "No XO Llif3",
+     "title_with_featured": "No XO Llif3",
+     "url": "https://genius.com/Avereaux-no-xo-llif3-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/668374",
+      "header_image_url": "https://images.genius.com/64e161e3b2aa67d0c8cbad426f64fd88.1000x1000x1.jpg",
+      "id": 668374,
+      "image_url": "https://images.genius.com/542fe14ecbeeec6c937cbb7cb863c87b.1000x1000x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": true,
+      "name": "Avereaux",
+      "url": "https://genius.com/artists/Avereaux",
+      "iq": 1987
+     }
+    },
+    {
+     "annotation_count": 1,
+     "api_path": "/songs/3112859",
+     "full_title": "XO (Freestyle) by\u00a0Fetty\u00a0Wap",
+     "header_image_thumbnail_url": "https://images.genius.com/b0686e6e7eec842de90328ac63f4da85.300x300x1.jpg",
+     "header_image_url": "https://images.genius.com/b0686e6e7eec842de90328ac63f4da85.400x400x1.jpg",
+     "id": 3112859,
+     "lyrics_owner_id": 4746398,
+     "lyrics_state": "complete",
+     "path": "/Fetty-wap-xo-freestyle-lyrics",
+     "pyongs_count": 4,
+     "song_art_image_thumbnail_url": "https://images.genius.com/b0686e6e7eec842de90328ac63f4da85.300x300x1.jpg",
+     "song_art_image_url": "https://images.genius.com/b0686e6e7eec842de90328ac63f4da85.400x400x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 1,
+      "hot": false,
+      "pageviews": 11848
+     },
+     "title": "XO (Freestyle)",
+     "title_with_featured": "XO (Freestyle)",
+     "url": "https://genius.com/Fetty-wap-xo-freestyle-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/216609",
+      "header_image_url": "https://images.genius.com/cfdf0e6082f7216c2483b34c15420f43.700x393x1.jpg",
+      "id": 216609,
+      "image_url": "https://images.genius.com/b0686e6e7eec842de90328ac63f4da85.400x400x1.jpg",
+      "is_meme_verified": true,
+      "is_verified": true,
+      "name": "Fetty Wap",
+      "url": "https://genius.com/artists/Fetty-wap",
+      "iq": 100
+     }
+    },
+    {
+     "annotation_count": 2,
+     "api_path": "/songs/3121536",
+     "full_title": "XO TOUR Llif3 (JABAShock Remix) by\u00a0JABAShock",
+     "header_image_thumbnail_url": "https://images.genius.com/d82659ab3770f8a683de29aed435e19d.300x300x1.jpg",
+     "header_image_url": "https://images.genius.com/d82659ab3770f8a683de29aed435e19d.500x500x1.jpg",
+     "id": 3121536,
+     "lyrics_owner_id": 4121723,
+     "lyrics_state": "complete",
+     "path": "/Jabashock-xo-tour-llif3-jabashock-remix-lyrics",
+     "pyongs_count": null,
+     "song_art_image_thumbnail_url": "https://images.genius.com/d82659ab3770f8a683de29aed435e19d.300x300x1.jpg",
+     "song_art_image_url": "https://images.genius.com/d82659ab3770f8a683de29aed435e19d.500x500x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 0,
+      "hot": false
+     },
+     "title": "XO TOUR Llif3 (JABAShock Remix)",
+     "title_with_featured": "XO TOUR Llif3 (JABAShock Remix)",
+     "url": "https://genius.com/Jabashock-xo-tour-llif3-jabashock-remix-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/1156415",
+      "header_image_url": "https://images.genius.com/b0f81debdfb7267eb9ba6ef92b2121a9.750x1000x1.jpg",
+      "id": 1156415,
+      "image_url": "https://images.genius.com/f1744973b7a8e483227eed2e580a1da5.1000x1000x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": true,
+      "name": "JABAShock",
+      "url": "https://genius.com/artists/Jabashock",
+      "iq": 3762
+     }
+    },
+    {
+     "annotation_count": 0,
+     "api_path": "/songs/3153014",
+     "full_title": "XO TOUR Llif3 (DJ Mustard Remix) by\u00a0Mustard",
+     "header_image_thumbnail_url": "https://images.genius.com/7166da4ddd398b0dd4de3d2f730606df.300x300x1.jpg",
+     "header_image_url": "https://images.genius.com/7166da4ddd398b0dd4de3d2f730606df.500x500x1.jpg",
+     "id": 3153014,
+     "lyrics_owner_id": 4335922,
+     "lyrics_state": "complete",
+     "path": "/Mustard-xo-tour-llif3-dj-mustard-remix-lyrics",
+     "pyongs_count": 1,
+     "song_art_image_thumbnail_url": "https://images.genius.com/7166da4ddd398b0dd4de3d2f730606df.300x300x1.jpg",
+     "song_art_image_url": "https://images.genius.com/7166da4ddd398b0dd4de3d2f730606df.500x500x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 0,
+      "hot": false
+     },
+     "title": "XO TOUR Llif3 (DJ Mustard Remix)",
+     "title_with_featured": "XO TOUR Llif3 (DJ Mustard Remix)",
+     "url": "https://genius.com/Mustard-xo-tour-llif3-dj-mustard-remix-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/29780",
+      "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/a5Gy2GnyR0ijw96H739w_dj-mustard-bw-2016-billboard-1548.jpg",
+      "id": 29780,
+      "image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/a5Gy2GnyR0ijw96H739w_dj-mustard-bw-2016-billboard-1548.jpg",
+      "is_meme_verified": false,
+      "is_verified": true,
+      "name": "Mustard",
+      "url": "https://genius.com/artists/Mustard",
+      "iq": 360
+     }
+    },
+    {
+     "annotation_count": 3,
+     "api_path": "/songs/3154284",
+     "full_title": "XO Tour Llif3 (Remix) by\u00a0\u200bjosh\u00a0pan (Ft.\u00a0MEDASIN)",
+     "header_image_thumbnail_url": "https://images.genius.com/ae6f745aa1753d7f7fbcbd5d76885edd.300x300x1.jpg",
+     "header_image_url": "https://images.genius.com/ae6f745aa1753d7f7fbcbd5d76885edd.1000x1000x1.jpg",
+     "id": 3154284,
+     "lyrics_owner_id": 4892295,
+     "lyrics_state": "complete",
+     "path": "/Josh-pan-xo-tour-llif3-remix-annotated",
+     "pyongs_count": null,
+     "song_art_image_thumbnail_url": "https://images.genius.com/ae6f745aa1753d7f7fbcbd5d76885edd.300x300x1.jpg",
+     "song_art_image_url": "https://images.genius.com/ae6f745aa1753d7f7fbcbd5d76885edd.1000x1000x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 3,
+      "hot": false
+     },
+     "title": "XO Tour Llif3 (Remix)",
+     "title_with_featured": "XO Tour Llif3 (Remix) (Ft.\u00a0MEDASIN)",
+     "url": "https://genius.com/Josh-pan-xo-tour-llif3-remix-annotated",
+     "primary_artist": {
+      "api_path": "/artists/410866",
+      "header_image_url": "https://images.genius.com/de6e63219c0103e8aa4d2846bd275812.1000x667x1.jpg",
+      "id": 410866,
+      "image_url": "https://images.genius.com/456753b602785f4592c428a6660ffa48.1000x1000x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "\u200bjosh pan",
+      "url": "https://genius.com/artists/Josh-pan"
+     }
+    },
+    {
+     "annotation_count": 3,
+     "api_path": "/songs/3176452",
+     "full_title": "All Your Friends Are Dead by\u00a0Casper\u00a0TNG",
+     "header_image_thumbnail_url": "https://images.genius.com/6d5148ef73423e2d86fe19313119f043.300x300x1.jpg",
+     "header_image_url": "https://images.genius.com/6d5148ef73423e2d86fe19313119f043.1000x1000x1.jpg",
+     "id": 3176452,
+     "lyrics_owner_id": 4979696,
+     "lyrics_state": "complete",
+     "path": "/Casper-tng-all-your-friends-are-dead-lyrics",
+     "pyongs_count": null,
+     "song_art_image_thumbnail_url": "https://images.genius.com/696b7a31e8fa535dd5b2c7fa1087589c.300x299x1.jpg",
+     "song_art_image_url": "https://images.genius.com/696b7a31e8fa535dd5b2c7fa1087589c.447x445x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 3,
+      "hot": false
+     },
+     "title": "All Your Friends Are Dead",
+     "title_with_featured": "All Your Friends Are Dead",
+     "url": "https://genius.com/Casper-tng-all-your-friends-are-dead-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/1151112",
+      "header_image_url": "https://images.genius.com/8ab7bc4181103250208ec51241b1dc50.480x270x106.gif",
+      "id": 1151112,
+      "image_url": "https://images.genius.com/14beeb6c610e85d79b9bf03992f4ffdf.1000x1000x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Casper TNG",
+      "url": "https://genius.com/artists/Casper-tng"
+     }
+    },
+    {
+     "annotation_count": 0,
+     "api_path": "/songs/3222665",
+     "full_title": "Bank Account/XO TOUR Llif3 (Megamix) by\u00a0Finny\u00a0Music",
+     "header_image_thumbnail_url": "https://images.genius.com/48e2fcdb97a4322249697f3c60ea06ae.300x300x1.jpg",
+     "header_image_url": "https://images.genius.com/48e2fcdb97a4322249697f3c60ea06ae.1000x1000x1.jpg",
+     "id": 3222665,
+     "lyrics_owner_id": 3633135,
+     "lyrics_state": "complete",
+     "path": "/Finny-music-bank-account-xo-tour-llif3-megamix-lyrics",
+     "pyongs_count": null,
+     "song_art_image_thumbnail_url": "https://images.genius.com/48e2fcdb97a4322249697f3c60ea06ae.300x300x1.jpg",
+     "song_art_image_url": "https://images.genius.com/48e2fcdb97a4322249697f3c60ea06ae.1000x1000x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 0,
+      "hot": false
+     },
+     "title": "Bank Account/XO TOUR Llif3 (Megamix)",
+     "title_with_featured": "Bank Account/XO TOUR Llif3 (Megamix)",
+     "url": "https://genius.com/Finny-music-bank-account-xo-tour-llif3-megamix-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/1217243",
+      "header_image_url": "https://images.genius.com/db5ac2642addfacef9347cd42a92c6ac.1000x1000x1.jpg",
+      "id": 1217243,
+      "image_url": "https://images.genius.com/5c9a93a85be50855286b414f66cb8d34.882x882x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Finny Music",
+      "url": "https://genius.com/artists/Finny-music"
+     }
+    },
+    {
+     "annotation_count": 1,
+     "api_path": "/songs/3228066",
+     "full_title": "XO TOUR Llif3 (Remix) by\u00a0Keefer",
+     "header_image_thumbnail_url": "https://images.genius.com/73b70a5073d44c831f7256fb23239bc1.300x300x1.jpg",
+     "header_image_url": "https://images.genius.com/73b70a5073d44c831f7256fb23239bc1.640x640x1.jpg",
+     "id": 3228066,
+     "lyrics_owner_id": 3214963,
+     "lyrics_state": "complete",
+     "path": "/Keefer-xo-tour-llif3-remix-lyrics",
+     "pyongs_count": 4,
+     "song_art_image_thumbnail_url": "https://images.genius.com/73b70a5073d44c831f7256fb23239bc1.300x300x1.jpg",
+     "song_art_image_url": "https://images.genius.com/73b70a5073d44c831f7256fb23239bc1.640x640x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 0,
+      "hot": false
+     },
+     "title": "XO TOUR Llif3 (Remix)",
+     "title_with_featured": "XO TOUR Llif3 (Remix)",
+     "url": "https://genius.com/Keefer-xo-tour-llif3-remix-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/1212967",
+      "header_image_url": "https://images.genius.com/0708e0412e0ad4858139a7a127efc3a4.500x500x1.jpg",
+      "id": 1212967,
+      "image_url": "https://images.genius.com/122d3e5a737b196db367d9c3d5d4c9c6.499x499x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Keefer",
+      "url": "https://genius.com/artists/Keefer"
+     }
+    },
+    {
+     "annotation_count": 26,
+     "api_path": "/songs/3273749",
+     "full_title": "Trapso Tour Llif3 by\u00a0Isaac\u00a0Rudder",
+     "header_image_thumbnail_url": "https://images.genius.com/0388cd7f58208e3e4e300503e2cea372.300x300x1.jpg",
+     "header_image_url": "https://images.genius.com/0388cd7f58208e3e4e300503e2cea372.640x640x1.jpg",
+     "id": 3273749,
+     "lyrics_owner_id": 113175,
+     "lyrics_state": "complete",
+     "path": "/Isaac-rudder-trapso-tour-llif3-lyrics",
+     "pyongs_count": null,
+     "song_art_image_thumbnail_url": "https://images.genius.com/0388cd7f58208e3e4e300503e2cea372.300x300x1.jpg",
+     "song_art_image_url": "https://images.genius.com/0388cd7f58208e3e4e300503e2cea372.640x640x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 0,
+      "hot": false
+     },
+     "title": "Trapso Tour Llif3",
+     "title_with_featured": "Trapso Tour Llif3",
+     "url": "https://genius.com/Isaac-rudder-trapso-tour-llif3-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/25029",
+      "header_image_url": "https://images.genius.com/aac18ebc21c19aa954b7c2d25f71ea93.1000x334x1.jpg",
+      "id": 25029,
+      "image_url": "https://images.genius.com/424f8e4564b837ad2343d80f0104b98a.1000x1000x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Isaac Rudder",
+      "url": "https://genius.com/artists/Isaac-rudder",
+      "iq": 12998
+     }
+    },
+    {
+     "annotation_count": 1,
+     "api_path": "/songs/3391555",
+     "full_title": "XO Tour Llif3 by\u00a0Fifi",
+     "header_image_thumbnail_url": "https://images.genius.com/5e2c7d91fd32a5acb71cbb8faa420a36.300x169x1.jpg",
+     "header_image_url": "https://images.genius.com/5e2c7d91fd32a5acb71cbb8faa420a36.640x360x1.jpg",
+     "id": 3391555,
+     "lyrics_owner_id": 4529339,
+     "lyrics_state": "complete",
+     "path": "/Fifi-xo-tour-llif3-lyrics",
+     "pyongs_count": null,
+     "song_art_image_thumbnail_url": "https://images.genius.com/91c75e7a0bc1a6a379b46642779b5414.300x300x1.png",
+     "song_art_image_url": "https://images.genius.com/91c75e7a0bc1a6a379b46642779b5414.719x719x1.png",
+     "stats": {
+      "unreviewed_annotations": 0,
+      "hot": false
+     },
+     "title": "XO Tour Llif3",
+     "title_with_featured": "XO Tour Llif3",
+     "url": "https://genius.com/Fifi-xo-tour-llif3-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/38518",
+      "header_image_url": "https://images.genius.com/32876f09b981faa9e67fa08ce552da44.640x640x1.jpg",
+      "id": 38518,
+      "image_url": "https://images.genius.com/32876f09b981faa9e67fa08ce552da44.640x640x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Fifi",
+      "url": "https://genius.com/artists/Fifi"
+     }
+    },
+    {
+     "annotation_count": 41,
+     "api_path": "/songs/3393125",
+     "full_title": "XO Tour Life by\u00a0Lil\u00a0Wayne (Ft.\u00a0Baby\u00a0E & Baby\u00a0E)",
+     "header_image_thumbnail_url": "https://images.genius.com/380dd8ad2dd34e87e19877a3ba6ee494.300x300x1.jpg",
+     "header_image_url": "https://images.genius.com/380dd8ad2dd34e87e19877a3ba6ee494.598x598x1.jpg",
+     "id": 3393125,
+     "lyrics_owner_id": 3375166,
+     "lyrics_state": "complete",
+     "path": "/Lil-wayne-xo-tour-life-lyrics",
+     "pyongs_count": 15,
+     "song_art_image_thumbnail_url": "https://images.genius.com/380dd8ad2dd34e87e19877a3ba6ee494.300x300x1.jpg",
+     "song_art_image_url": "https://images.genius.com/380dd8ad2dd34e87e19877a3ba6ee494.598x598x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 10,
+      "hot": false,
+      "pageviews": 189013
+     },
+     "title": "XO Tour Life",
+     "title_with_featured": "XO Tour Life (Ft.\u00a0Baby\u00a0E & Baby\u00a0E)",
+     "url": "https://genius.com/Lil-wayne-xo-tour-life-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/4",
+      "header_image_url": "https://images.genius.com/0cc2fdca3461d34878a59e3791b35e7b.500x278x13.gif",
+      "id": 4,
+      "image_url": "https://images.genius.com/b42bde67bc461dd55a00b577f33673bb.745x745x1.jpg",
+      "is_meme_verified": true,
+      "is_verified": true,
+      "name": "Lil Wayne",
+      "url": "https://genius.com/artists/Lil-wayne",
+      "iq": 4184
+     }
+    },
+    {
+     "annotation_count": 3,
+     "api_path": "/songs/3404738",
+     "full_title": "XO Tour Life Remix by\u00a0Szopen (Ft.\u00a0Wiktor\u00a0z WWA)",
+     "header_image_thumbnail_url": "https://images.genius.com/c72807613bb8232acbe3ccb9591e5a21.300x300x1.jpg",
+     "header_image_url": "https://images.genius.com/c72807613bb8232acbe3ccb9591e5a21.960x960x1.jpg",
+     "id": 3404738,
+     "lyrics_owner_id": 4788710,
+     "lyrics_state": "complete",
+     "path": "/Szopen-xo-tour-life-remix-lyrics",
+     "pyongs_count": null,
+     "song_art_image_thumbnail_url": "https://images.genius.com/c72807613bb8232acbe3ccb9591e5a21.300x300x1.jpg",
+     "song_art_image_url": "https://images.genius.com/c72807613bb8232acbe3ccb9591e5a21.960x960x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 2,
+      "hot": false
+     },
+     "title": "XO Tour Life Remix",
+     "title_with_featured": "XO Tour Life Remix (Ft.\u00a0Wiktor\u00a0z WWA)",
+     "url": "https://genius.com/Szopen-xo-tour-life-remix-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/73567",
+      "header_image_url": "https://images.genius.com/a60c79e4327eea720c9ff689706002bd.1000x667x1.jpg",
+      "id": 73567,
+      "image_url": "https://images.genius.com/2aab656b97c15bbb0b01a3091b8d1296.1000x1000x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": true,
+      "name": "Szopen",
+      "url": "https://genius.com/artists/Szopen",
+      "iq": 616
+     }
+    },
+    {
+     "annotation_count": 0,
+     "api_path": "/songs/3487461",
+     "full_title": "XII - Envie de Briller by\u00a0Totorhina",
+     "header_image_thumbnail_url": "https://images.genius.com/cd28b6eae7c21b168c5700f693b1fd52.300x300x1.jpg",
+     "header_image_url": "https://images.genius.com/cd28b6eae7c21b168c5700f693b1fd52.480x480x1.jpg",
+     "id": 3487461,
+     "lyrics_owner_id": 2241784,
+     "lyrics_state": "complete",
+     "path": "/Totorhina-xii-envie-de-briller-lyrics",
+     "pyongs_count": null,
+     "song_art_image_thumbnail_url": "https://images.genius.com/443c232ba6f4d1bad11c8f5219248851.300x300x1.jpg",
+     "song_art_image_url": "https://images.genius.com/443c232ba6f4d1bad11c8f5219248851.500x500x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 0,
+      "hot": false
+     },
+     "title": "XII - Envie de Briller",
+     "title_with_featured": "XII - Envie de Briller",
+     "url": "https://genius.com/Totorhina-xii-envie-de-briller-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/1337786",
+      "header_image_url": "https://images.genius.com/ec63e0f1e92a5165098b8a0fe96c31c5.400x400x1.jpg",
+      "id": 1337786,
+      "image_url": "https://images.genius.com/ec63e0f1e92a5165098b8a0fe96c31c5.400x400x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Totorhina",
+      "url": "https://genius.com/artists/Totorhina"
+     }
+    },
+    {
+     "annotation_count": 10,
+     "api_path": "/songs/3524033",
+     "full_title": "Bvtvclvn by\u00a0Pippo\u00a0Sowlo",
+     "header_image_thumbnail_url": "https://images.genius.com/e864b439b9df0253bc7ab6434fd201c4.300x300x1.jpg",
+     "header_image_url": "https://images.genius.com/e864b439b9df0253bc7ab6434fd201c4.500x500x1.jpg",
+     "id": 3524033,
+     "lyrics_owner_id": 5949602,
+     "lyrics_state": "complete",
+     "path": "/Pippo-sowlo-bvtvclvn-lyrics",
+     "pyongs_count": null,
+     "song_art_image_thumbnail_url": "https://images.genius.com/e864b439b9df0253bc7ab6434fd201c4.300x300x1.jpg",
+     "song_art_image_url": "https://images.genius.com/e864b439b9df0253bc7ab6434fd201c4.500x500x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 1,
+      "hot": false,
+      "pageviews": 13802
+     },
+     "title": "Bvtvclvn",
+     "title_with_featured": "Bvtvclvn",
+     "url": "https://genius.com/Pippo-sowlo-bvtvclvn-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/1392208",
+      "header_image_url": "https://images.genius.com/cc9fc7df878b1c25406407cb7830e0e4.600x600x1.jpg",
+      "id": 1392208,
+      "image_url": "https://images.genius.com/cc9fc7df878b1c25406407cb7830e0e4.600x600x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Pippo Sowlo",
+      "url": "https://genius.com/artists/Pippo-sowlo"
+     }
+    },
+    {
+     "annotation_count": 0,
+     "api_path": "/songs/3564022",
+     "full_title": "XO Tour Llif3 by\u00a0GeekHeavy",
+     "header_image_thumbnail_url": "https://images.genius.com/c42fbfd40750d0737c0381723c918fcf.300x300x1.png",
+     "header_image_url": "https://images.genius.com/c42fbfd40750d0737c0381723c918fcf.710x710x1.png",
+     "id": 3564022,
+     "lyrics_owner_id": 5618439,
+     "lyrics_state": "complete",
+     "path": "/Geekheavy-xo-tour-llif3-lyrics",
+     "pyongs_count": null,
+     "song_art_image_thumbnail_url": "https://images.genius.com/c42fbfd40750d0737c0381723c918fcf.300x300x1.png",
+     "song_art_image_url": "https://images.genius.com/c42fbfd40750d0737c0381723c918fcf.710x710x1.png",
+     "stats": {
+      "unreviewed_annotations": 0,
+      "hot": false
+     },
+     "title": "XO Tour Llif3",
+     "title_with_featured": "XO Tour Llif3",
+     "url": "https://genius.com/Geekheavy-xo-tour-llif3-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/1400837",
+      "header_image_url": "https://images.genius.com/0ffc395c79fabd9f207deb1ac95fc22f.400x400x1.jpg",
+      "id": 1400837,
+      "image_url": "https://images.genius.com/0ffc395c79fabd9f207deb1ac95fc22f.400x400x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "GeekHeavy",
+      "url": "https://genius.com/artists/Geekheavy"
+     }
+    },
+    {
+     "annotation_count": 1,
+     "api_path": "/songs/3741988",
+     "full_title": "XO TOUR Llif3/Vem e Brota Aqui na Base by\u00a0Matu\u00ea",
+     "header_image_thumbnail_url": "https://images.genius.com/6e89d10f1f9326b052c09a827e382c57.300x300x1.jpg",
+     "header_image_url": "https://images.genius.com/6e89d10f1f9326b052c09a827e382c57.666x666x1.jpg",
+     "id": 3741988,
+     "lyrics_owner_id": 5155061,
+     "lyrics_state": "complete",
+     "path": "/Matue-xo-tour-llif3-vem-e-brota-aqui-na-base-lyrics",
+     "pyongs_count": 1,
+     "song_art_image_thumbnail_url": "https://images.genius.com/6e89d10f1f9326b052c09a827e382c57.300x300x1.jpg",
+     "song_art_image_url": "https://images.genius.com/6e89d10f1f9326b052c09a827e382c57.666x666x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 0,
+      "hot": false
+     },
+     "title": "XO TOUR Llif3/Vem e Brota Aqui na Base",
+     "title_with_featured": "XO TOUR Llif3/Vem e Brota Aqui na Base",
+     "url": "https://genius.com/Matue-xo-tour-llif3-vem-e-brota-aqui-na-base-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/1076166",
+      "header_image_url": "https://images.genius.com/c49848729493ae77e66cb44788c33b2e.1000x1000x1.jpg",
+      "id": 1076166,
+      "image_url": "https://images.genius.com/8deda03224ab304a6f9829f91e7dc3d8.1000x1000x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": true,
+      "name": "Matu\u00ea",
+      "url": "https://genius.com/artists/Matue",
+      "iq": 1173
+     }
+    },
+    {
+     "annotation_count": 0,
+     "api_path": "/songs/3795910",
+     "full_title": "Emo Tour Life by\u00a0Lil\u2019\u00a0Ant (Character)",
+     "header_image_thumbnail_url": "https://images.genius.com/b946867b9018b246f57086fc44450b2c.300x225x1.jpg",
+     "header_image_url": "https://images.genius.com/b946867b9018b246f57086fc44450b2c.480x360x1.jpg",
+     "id": 3795910,
+     "lyrics_owner_id": 4469304,
+     "lyrics_state": "complete",
+     "path": "/Lil-ant-character-emo-tour-life-lyrics",
+     "pyongs_count": 1,
+     "song_art_image_thumbnail_url": "https://images.genius.com/b946867b9018b246f57086fc44450b2c.300x225x1.jpg",
+     "song_art_image_url": "https://images.genius.com/b946867b9018b246f57086fc44450b2c.480x360x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 0,
+      "hot": false
+     },
+     "title": "Emo Tour Life",
+     "title_with_featured": "Emo Tour Life",
+     "url": "https://genius.com/Lil-ant-character-emo-tour-life-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/140950",
+      "header_image_url": "https://images.genius.com/bfafc7769224c06a47bb34d4a52c2271.500x500x1.jpg",
+      "id": 140950,
+      "image_url": "https://images.genius.com/bfafc7769224c06a47bb34d4a52c2271.500x500x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Lil\u2019 Ant (Character)",
+      "url": "https://genius.com/artists/Lil-ant-character"
+     }
+    },
+    {
+     "annotation_count": 5,
+     "api_path": "/songs/3839396",
+     "full_title": "Summer '17 by\u00a0Jadedloner",
+     "header_image_thumbnail_url": "https://drive.google.com/file/d/16fL_W7tKhlsDO3KdpKcqBMneMZhaA2CS/view?usp=sharing",
+     "header_image_url": "https://drive.google.com/file/d/16fL_W7tKhlsDO3KdpKcqBMneMZhaA2CS/view?usp=sharing",
+     "id": 3839396,
+     "lyrics_owner_id": 6700594,
+     "lyrics_state": "complete",
+     "path": "/Jadedloner-summer-17-lyrics",
+     "pyongs_count": null,
+     "song_art_image_thumbnail_url": "https://drive.google.com/file/d/16fL_W7tKhlsDO3KdpKcqBMneMZhaA2CS/view?usp=sharing",
+     "song_art_image_url": "https://drive.google.com/file/d/16fL_W7tKhlsDO3KdpKcqBMneMZhaA2CS/view?usp=sharing",
+     "stats": {
+      "unreviewed_annotations": 0,
+      "hot": false
+     },
+     "title": "Summer \u201917",
+     "title_with_featured": "Summer '17",
+     "url": "https://genius.com/Jadedloner-summer-17-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/1527138",
+      "header_image_url": "https://images.genius.com/adea760b4749a69d03e494dc8ebdda9c.1000x667x1.jpg",
+      "id": 1527138,
+      "image_url": "https://images.genius.com/d4fc80e2f8d9d11fd621a93a488c299d.1000x1000x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Jadedloner",
+      "url": "https://genius.com/artists/Jadedloner",
+      "iq": 1441
+     }
+    },
+    {
+     "annotation_count": 0,
+     "api_path": "/songs/4140179",
+     "full_title": "Johnny Cage by\u00a0Panika\u00a0x Kaize",
+     "header_image_thumbnail_url": "https://images.genius.com/4042b1c1844a656477805d2c8cc1ae16.287x286x1.png",
+     "header_image_url": "https://images.genius.com/4042b1c1844a656477805d2c8cc1ae16.287x286x1.png",
+     "id": 4140179,
+     "lyrics_owner_id": 7506217,
+     "lyrics_state": "complete",
+     "path": "/Panika-x-kaize-johnny-cage-lyrics",
+     "pyongs_count": null,
+     "song_art_image_thumbnail_url": "https://images.genius.com/4042b1c1844a656477805d2c8cc1ae16.287x286x1.png",
+     "song_art_image_url": "https://images.genius.com/4042b1c1844a656477805d2c8cc1ae16.287x286x1.png",
+     "stats": {
+      "unreviewed_annotations": 0,
+      "hot": false
+     },
+     "title": "Johnny Cage",
+     "title_with_featured": "Johnny Cage",
+     "url": "https://genius.com/Panika-x-kaize-johnny-cage-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/1659473",
+      "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+      "id": 1659473,
+      "image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Panika x Kaize",
+      "url": "https://genius.com/artists/Panika-x-kaize"
+     }
+    },
+    {
+     "annotation_count": 0,
+     "api_path": "/songs/4571441",
+     "full_title": "XO TOUR Llif3 (Y2K Remix) by\u00a0Y2K",
+     "header_image_thumbnail_url": "https://images.genius.com/49c11468731162a281e7bf0e1e69df3c.300x300x1.jpg",
+     "header_image_url": "https://images.genius.com/49c11468731162a281e7bf0e1e69df3c.500x500x1.jpg",
+     "id": 4571441,
+     "lyrics_owner_id": 7685093,
+     "lyrics_state": "complete",
+     "path": "/Y2k-xo-tour-llif3-y2k-remix-lyrics",
+     "pyongs_count": 1,
+     "song_art_image_thumbnail_url": "https://images.genius.com/49c11468731162a281e7bf0e1e69df3c.300x300x1.jpg",
+     "song_art_image_url": "https://images.genius.com/49c11468731162a281e7bf0e1e69df3c.500x500x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 0,
+      "hot": false
+     },
+     "title": "XO TOUR Llif3 (Y2K Remix)",
+     "title_with_featured": "XO TOUR Llif3 (Y2K Remix)",
+     "url": "https://genius.com/Y2k-xo-tour-llif3-y2k-remix-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/278305",
+      "header_image_url": "https://images.genius.com/a3c655059f856d899ef96f8924b74694.500x500x1.jpg",
+      "id": 278305,
+      "image_url": "https://images.genius.com/a3c655059f856d899ef96f8924b74694.500x500x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": true,
+      "name": "Y2K",
+      "url": "https://genius.com/artists/Y2k",
+      "iq": 776
+     }
+    },
+    {
+     "annotation_count": 0,
+     "api_path": "/songs/4940094",
+     "full_title": "XO TOUR Llif3 (Spanish Remix) by\u00a0Travy\u00a0Dev",
+     "header_image_thumbnail_url": "https://images.genius.com/c5fa2c5392fca75bb9db9254ae874f40.300x169x1.jpg",
+     "header_image_url": "https://images.genius.com/c5fa2c5392fca75bb9db9254ae874f40.1000x563x1.jpg",
+     "id": 4940094,
+     "lyrics_owner_id": 9483475,
+     "lyrics_state": "complete",
+     "path": "/Travy-dev-xo-tour-llif3-spanish-remix-lyrics",
+     "pyongs_count": null,
+     "song_art_image_thumbnail_url": "https://images.genius.com/c5fa2c5392fca75bb9db9254ae874f40.300x169x1.jpg",
+     "song_art_image_url": "https://images.genius.com/c5fa2c5392fca75bb9db9254ae874f40.1000x563x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 0,
+      "hot": false
+     },
+     "title": "XO TOUR Llif3 (Spanish Remix)",
+     "title_with_featured": "XO TOUR Llif3 (Spanish Remix)",
+     "url": "https://genius.com/Travy-dev-xo-tour-llif3-spanish-remix-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/1486718",
+      "header_image_url": "https://images.genius.com/cf086337c3bfa4d314894c2b2d840150.360x360x1.jpg",
+      "id": 1486718,
+      "image_url": "https://images.genius.com/cf086337c3bfa4d314894c2b2d840150.360x360x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Travy Dev",
+      "url": "https://genius.com/artists/Travy-dev"
+     }
+    },
+    {
+     "annotation_count": 0,
+     "api_path": "/songs/5153051",
+     "full_title": "XO TOUR Llif3 (2nd Anniversary Edit) by\u00a0J.\u00a0Auditore",
+     "header_image_thumbnail_url": "https://images.genius.com/4f2823b710ef8fd1b5a0fb9472c86c32.300x300x1.jpg",
+     "header_image_url": "https://images.genius.com/4f2823b710ef8fd1b5a0fb9472c86c32.939x939x1.jpg",
+     "id": 5153051,
+     "lyrics_owner_id": 3763537,
+     "lyrics_state": "complete",
+     "path": "/J-auditore-xo-tour-llif3-2nd-anniversary-edit-lyrics",
+     "pyongs_count": null,
+     "song_art_image_thumbnail_url": "https://images.genius.com/4f2823b710ef8fd1b5a0fb9472c86c32.300x300x1.jpg",
+     "song_art_image_url": "https://images.genius.com/4f2823b710ef8fd1b5a0fb9472c86c32.939x939x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 0,
+      "hot": false
+     },
+     "title": "XO TOUR Llif3 (2nd Anniversary Edit)",
+     "title_with_featured": "XO TOUR Llif3 (2nd Anniversary Edit)",
+     "url": "https://genius.com/J-auditore-xo-tour-llif3-2nd-anniversary-edit-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/2066903",
+      "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+      "id": 2066903,
+      "image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "J. Auditore",
+      "url": "https://genius.com/artists/J-auditore"
+     }
+    },
+    {
+     "annotation_count": 1,
+     "api_path": "/songs/5289872",
+     "full_title": "Diamonds Part 2 by\u00a0JrKellyRocks",
+     "header_image_thumbnail_url": "https://images.genius.com/bb9174b0d5089c93211d8f0f7663617c.300x300x1.png",
+     "header_image_url": "https://images.genius.com/bb9174b0d5089c93211d8f0f7663617c.1000x1000x1.png",
+     "id": 5289872,
+     "lyrics_owner_id": 9991499,
+     "lyrics_state": "complete",
+     "path": "/Jrkellyrocks-diamonds-part-2-lyrics",
+     "pyongs_count": null,
+     "song_art_image_thumbnail_url": "https://images.genius.com/bb9174b0d5089c93211d8f0f7663617c.300x300x1.png",
+     "song_art_image_url": "https://images.genius.com/bb9174b0d5089c93211d8f0f7663617c.1000x1000x1.png",
+     "stats": {
+      "unreviewed_annotations": 1,
+      "hot": false
+     },
+     "title": "Diamonds Part 2",
+     "title_with_featured": "Diamonds Part 2",
+     "url": "https://genius.com/Jrkellyrocks-diamonds-part-2-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/2059397",
+      "header_image_url": "https://images.genius.com/9bc7b498471034bc050dd557adcd44ba.1000x563x1.jpg",
+      "id": 2059397,
+      "image_url": "https://images.genius.com/560e8ec20827fa80cd2dbbd3ab4aeaf5.1000x1000x1.png",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "JrKellyRocks",
+      "url": "https://genius.com/artists/Jrkellyrocks"
+     }
+    },
+    {
+     "annotation_count": 0,
+     "api_path": "/songs/5356696",
+     "full_title": "If Lil Uzi Vert Did Pokerap by\u00a0Aerial\u00a0Ace",
+     "header_image_thumbnail_url": "https://images.genius.com/d1bccf6df576707fbaeb7720ad1a0760.300x300x1.png",
+     "header_image_url": "https://images.genius.com/d1bccf6df576707fbaeb7720ad1a0760.871x871x1.png",
+     "id": 5356696,
+     "lyrics_owner_id": 4592112,
+     "lyrics_state": "complete",
+     "path": "/Aerial-ace-if-lil-uzi-vert-did-pokerap-lyrics",
+     "pyongs_count": null,
+     "song_art_image_thumbnail_url": "https://images.genius.com/d1bccf6df576707fbaeb7720ad1a0760.300x300x1.png",
+     "song_art_image_url": "https://images.genius.com/d1bccf6df576707fbaeb7720ad1a0760.871x871x1.png",
+     "stats": {
+      "unreviewed_annotations": 0,
+      "hot": false
+     },
+     "title": "If Lil Uzi Vert Did Pokerap",
+     "title_with_featured": "If Lil Uzi Vert Did Pokerap",
+     "url": "https://genius.com/Aerial-ace-if-lil-uzi-vert-did-pokerap-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/2150050",
+      "header_image_url": "https://images.genius.com/8eca5b7029832c677bd9afffc780fc0e.871x872x1.png",
+      "id": 2150050,
+      "image_url": "https://images.genius.com/d1bccf6df576707fbaeb7720ad1a0760.871x871x1.png",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Aerial Ace",
+      "url": "https://genius.com/artists/Aerial-ace"
+     }
+    },
+    {
+     "annotation_count": 0,
+     "api_path": "/songs/5425084",
+     "full_title": "XO Tour Llif3 / P2 (Lil Uzi Vert Remix) by\u00a0Lewxs",
+     "header_image_thumbnail_url": "https://i.genius.com/9eba6d22030d8481863a9864013952703cc5eeba?url=https%3A%2F%2Fimages.app.goo.gl%2FMvWb2gjXkdW56ixz9",
+     "header_image_url": "https://i.genius.com/9eba6d22030d8481863a9864013952703cc5eeba?url=https%3A%2F%2Fimages.app.goo.gl%2FMvWb2gjXkdW56ixz9",
+     "id": 5425084,
+     "lyrics_owner_id": 6336500,
+     "lyrics_state": "complete",
+     "path": "/Lewxs-xo-tour-llif3-p2-lil-uzi-vert-remix-lyrics",
+     "pyongs_count": null,
+     "song_art_image_thumbnail_url": "https://i.genius.com/9eba6d22030d8481863a9864013952703cc5eeba?url=https%3A%2F%2Fimages.app.goo.gl%2FMvWb2gjXkdW56ixz9",
+     "song_art_image_url": "https://i.genius.com/9eba6d22030d8481863a9864013952703cc5eeba?url=https%3A%2F%2Fimages.app.goo.gl%2FMvWb2gjXkdW56ixz9",
+     "stats": {
+      "unreviewed_annotations": 0,
+      "hot": false
+     },
+     "title": "XO Tour Llif3 / P2 (Lil Uzi Vert Remix)",
+     "title_with_featured": "XO Tour Llif3 / P2 (Lil Uzi Vert Remix)",
+     "url": "https://genius.com/Lewxs-xo-tour-llif3-p2-lil-uzi-vert-remix-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/1504735",
+      "header_image_url": "https://images.genius.com/43aa7e1528329daf8e7225585c5efcad.1000x992x1.jpg",
+      "id": 1504735,
+      "image_url": "https://images.genius.com/e59cb345c42160f470fa40ba34a05765.643x643x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Lewxs",
+      "url": "https://genius.com/artists/Lewxs"
+     }
+    },
+    {
+     "annotation_count": 3,
+     "api_path": "/songs/5551928",
+     "full_title": "Lil Uzi Freestyle by\u00a0Chakra (Ft.\u00a0Blur\u00a0Stallions, Frenezy & Zano)",
+     "header_image_thumbnail_url": "https://images.genius.com/484c421663b35c18d9bb184e3144923e.300x169x1.jpg",
+     "header_image_url": "https://images.genius.com/484c421663b35c18d9bb184e3144923e.1000x563x1.jpg",
+     "id": 5551928,
+     "lyrics_owner_id": 4875438,
+     "lyrics_state": "complete",
+     "path": "/Chakra-lil-uzi-freestyle-lyrics",
+     "pyongs_count": null,
+     "song_art_image_thumbnail_url": "https://images.genius.com/484c421663b35c18d9bb184e3144923e.300x169x1.jpg",
+     "song_art_image_url": "https://images.genius.com/484c421663b35c18d9bb184e3144923e.1000x563x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 3,
+      "hot": false
+     },
+     "title": "Lil Uzi Freestyle",
+     "title_with_featured": "Lil Uzi Freestyle (Ft.\u00a0Blur\u00a0Stallions, Frenezy & Zano)",
+     "url": "https://genius.com/Chakra-lil-uzi-freestyle-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/356992",
+      "header_image_url": "https://images.genius.com/4902c482689a7b367579f40e16b4591a.800x1000x1.jpg",
+      "id": 356992,
+      "image_url": "https://images.genius.com/d61d75ca1a89d82f3fb30c4741f86a81.944x944x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Chakra",
+      "url": "https://genius.com/artists/Chakra"
+     }
+    },
+    {
+     "annotation_count": 0,
+     "api_path": "/songs/5781746",
+     "full_title": "XOXO TOUR LIF3 (Spanish Remix) by\u00a0Yung\u00a0Beef (Ft.\u00a0Javielito)",
+     "header_image_thumbnail_url": "https://images.genius.com/cb24652cc1ec50790036d7aed0a4403c.300x300x1.jpg",
+     "header_image_url": "https://images.genius.com/cb24652cc1ec50790036d7aed0a4403c.1000x1000x1.jpg",
+     "id": 5781746,
+     "lyrics_owner_id": 5233128,
+     "lyrics_state": "complete",
+     "path": "/Yung-beef-xoxo-tour-lif3-spanish-remix-lyrics",
+     "pyongs_count": 1,
+     "song_art_image_thumbnail_url": "https://images.genius.com/cb24652cc1ec50790036d7aed0a4403c.300x300x1.jpg",
+     "song_art_image_url": "https://images.genius.com/cb24652cc1ec50790036d7aed0a4403c.1000x1000x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 0,
+      "hot": false
+     },
+     "title": "XOXO TOUR LIF3 (Spanish Remix)",
+     "title_with_featured": "XOXO TOUR LIF3 (Spanish Remix) (Ft.\u00a0Javielito)",
+     "url": "https://genius.com/Yung-beef-xoxo-tour-lif3-spanish-remix-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/213513",
+      "header_image_url": "https://images.genius.com/be9837ca0fffbc12097d313f130b196c.1000x429x1.jpg",
+      "id": 213513,
+      "image_url": "https://images.genius.com/cb24652cc1ec50790036d7aed0a4403c.1000x1000x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Yung Beef",
+      "url": "https://genius.com/artists/Yung-beef"
+     }
+    },
+    {
+     "annotation_count": 14,
+     "api_path": "/songs/5808307",
+     "full_title": "LOL SWAG LIFE by\u00a0B1G\u00a0$WAG",
+     "header_image_thumbnail_url": "https://images.genius.com/605f29bba09417300e62376b9b00e726.222x222x1.png",
+     "header_image_url": "https://images.genius.com/605f29bba09417300e62376b9b00e726.222x222x1.png",
+     "id": 5808307,
+     "lyrics_owner_id": 11409515,
+     "lyrics_state": "complete",
+     "path": "/B1g-swag-lol-swag-life-lyrics",
+     "pyongs_count": null,
+     "song_art_image_thumbnail_url": "https://images.genius.com/605f29bba09417300e62376b9b00e726.222x222x1.png",
+     "song_art_image_url": "https://images.genius.com/605f29bba09417300e62376b9b00e726.222x222x1.png",
+     "stats": {
+      "unreviewed_annotations": 14,
+      "hot": false
+     },
+     "title": "LOL SWAG LIFE",
+     "title_with_featured": "LOL SWAG LIFE",
+     "url": "https://genius.com/B1g-swag-lol-swag-life-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/2336671",
+      "header_image_url": "https://images.genius.com/8879fd187dcc7e591cd5466ba10a4940.294x220x1.png",
+      "id": 2336671,
+      "image_url": "https://images.genius.com/605f29bba09417300e62376b9b00e726.222x222x1.png",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "B1G $WAG",
+      "url": "https://genius.com/artists/B1g-swag"
+     }
+    }
+   ]
+  },
+  {
+   "relationship_type": "live_version_of",
+   "type": "live_version_of",
+   "songs": []
+  },
+  {
+   "relationship_type": "performed_live_as",
+   "type": "performed_live_as",
+   "songs": [
+    {
+     "annotation_count": 0,
+     "api_path": "/songs/3216024",
+     "full_title": "Shape of You / XO TOUR Llif3 2017 VMAs by\u00a0Ed\u00a0Sheeran (Ft.\u00a0Lil\u00a0Uzi Vert)",
+     "header_image_thumbnail_url": "https://images.genius.com/070b1bf851f59c99079990554d9b83db.300x208x1.jpg",
+     "header_image_url": "https://images.genius.com/070b1bf851f59c99079990554d9b83db.700x485x1.jpg",
+     "id": 3216024,
+     "lyrics_owner_id": 4574305,
+     "lyrics_state": "complete",
+     "path": "/Ed-sheeran-shape-of-you-xo-tour-llif3-2017-vmas-lyrics",
+     "pyongs_count": 2,
+     "song_art_image_thumbnail_url": "https://images.genius.com/070b1bf851f59c99079990554d9b83db.300x208x1.jpg",
+     "song_art_image_url": "https://images.genius.com/070b1bf851f59c99079990554d9b83db.700x485x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 0,
+      "hot": false,
+      "pageviews": 10535
+     },
+     "title": "Shape of You / XO TOUR Llif3 2017 VMAs",
+     "title_with_featured": "Shape of You / XO TOUR Llif3 2017 VMAs (Ft.\u00a0Lil\u00a0Uzi Vert)",
+     "url": "https://genius.com/Ed-sheeran-shape-of-you-xo-tour-llif3-2017-vmas-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/12418",
+      "header_image_url": "https://images.genius.com/9b501d1e2fedb6654f9f7f078a14679d.1000x667x1.jpg",
+      "id": 12418,
+      "image_url": "https://images.genius.com/1ff6b6189e1a78e497e09c90c1f6692e.1000x1000x1.jpg",
+      "is_meme_verified": true,
+      "is_verified": true,
+      "name": "Ed Sheeran",
+      "url": "https://genius.com/artists/Ed-sheeran",
+      "iq": 1300
+     }
+    }
+   ]
+  }
+ ],
+ "song_story": {
+  "api_path": "/song_stories/3003630",
+  "featured_placement_text": "Uzi struggles with fame, pills, and girlfriend issues on this moody 2017 hit.",
+  "gallery_cover_image_url": "https://images.ctfassets.net/tqknfhhxgjt0/45kiEjT94kiYsouYsGSGuc/45ee3679bd1497137285e06c999e7dc5/XO_Large.png",
+  "id": 2,
+  "song_id": 3003630,
+  "subtitle": "Lil Uzi Vert",
+  "title": "XO TOUR Llif3",
+  "url": "https://genius.com/song-stories/Lil-uzi-vert-xo-tour-llif3"
+ },
+ "verified_annotations_by": [],
+ "verified_contributors": [],
+ "verified_lyrics_by": [],
+ "writer_artists": [
+  {
+   "api_path": "/artists/1111168",
+   "header_image_url": "https://images.genius.com/ab9898d0a0bec6e8c1b6b97373a75ffb.562x562x1.jpg",
+   "id": 1111168,
+   "image_url": "https://images.genius.com/575f05f42509fc0c77ffc225c8dd8775.517x517x1.jpg",
+   "is_meme_verified": false,
+   "is_verified": false,
+   "name": "JW Lucas",
+   "url": "https://genius.com/artists/Jw-lucas"
+  },
+  {
+   "api_path": "/artists/27486",
+   "header_image_url": "https://images.genius.com/52f879e6a834dd8c17927b55e6edd37b.400x400x1.jpg",
+   "id": 27486,
+   "image_url": "https://images.genius.com/5c52b5f1eb9a2fb624f1040814d33e5e.487x487x1.png",
+   "is_meme_verified": false,
+   "is_verified": false,
+   "name": "TM88",
+   "url": "https://genius.com/artists/Tm88"
+  },
+  {
+   "api_path": "/artists/217208",
+   "header_image_url": "https://images.genius.com/46a8b723a36b4d8cfca6c9ecd9816c47.1000x429x1.jpg",
+   "id": 217208,
+   "image_url": "https://images.genius.com/05f2ee7ef53d1a68352ec67cda793d0c.469x469x1.jpg",
+   "is_meme_verified": false,
+   "is_verified": true,
+   "name": "Lil Uzi Vert",
+   "url": "https://genius.com/artists/Lil-uzi-vert",
+   "iq": 5017
+  }
+ ],
+ "lyrics": "Are you alright?\nI'm alright, I'm quite alright\nAnd my money's right\n8\u2026 (Yeah)\nCountin' them bands\nAll way to the top 'til they be fallin' over\n(Yeah, yeah, yeah)\nCountin' them bands\nOn my way to the top 'til we fallin' over\n\nI don't really care if you cry\nOn the real, you shoulda never lied\nShoulda saw the way she looked me in my eyes\nShe said, \"Baby, I am not afraid to die\"\nPush me to the edge\nAll my friends are dead\nPush me to the edge\nAll my friends are dead\nPush me to the edge\nAll my friends are dead\nPush me to the edge\n\nPhantom that's all red, inside all white\nLike somethin' you ride a sled down, I just want that head\nMy Brittany got mad, I'm barely her man now\nEverybody got the same swag now\nWatch the way that I tear it down\nStackin' my bands all the way to the top\nAll the way 'til my bands fallin' over\nEvery time that you leave your spot\nYour girlfriend call me like, \"Come on over!\"\nI like the way that she treat me\nGon' leave you, won't leave me, I call it that Casanova\nShe say I'm insane, yeah\nI might blow my brain out (Hey)\nXanny, help the pain, yeah\nPlease, Xanny, make it go away\nI'm committed, not addicted, but it keep control of me\nAll the pain, now I can't feel it\nI swear that it's slowin' me, yeah\n\nI don't really care if you cry\nOn the real, you shoulda never lied\nSaw the way she looked me in my eyes\nShe said, \"I am not afraid to die\" (Yeah)\nAll my friends are dead\nPush me to the edge (Yeah)\nAll my friends are dead, yeah, ooh\nPush me to the edge\nAll my friends are dead, yeah\nAll my friends are dead, yeah\n\nThat is not your swag, I swear you fake hard\nNow these niggas wanna take my cadence\nRain on 'em, thunderstorm, rain on 'em (Ooh, yeah)\nMedicine, lil' nigga, take some (Yeh, yeh)\nFast car, NASCAR, race on 'em\nIn the club, ain't got no ones, then we would beg them\nClothes from overseas, got the racks and they all C-Notes\nYou is not a G though\nLookin' at you stackin' all your money, it all green though\nI was countin' that and these all twenties, that's a G-roll\n\nShe say, \"You're the worst, you're the worst\"\nI cannot die because this my universe\n\nI don't really care if you cry\nOn the real, you shoulda never lied\nShoulda saw the way she looked me in my eyes\nShe said, \"Baby, I am not afraid to die\"\nPush me to the edge\nAll my friends are dead\nPush me to the edge\nAll my friends are dead\nPush me to the edge\nAll my friends are dead\nPush me to the edge"
+}

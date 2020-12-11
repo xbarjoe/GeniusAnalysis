@@ -1,0 +1,2083 @@
+{
+ "_type": "song",
+ "annotation_count": 13,
+ "api_path": "/songs/3185661",
+ "full_title": "Jocelyn Flores by\u00a0XXXTENTACION",
+ "header_image_thumbnail_url": "https://images.genius.com/3909b41f2c27e688e4caec3637cdba36.300x300x1.png",
+ "header_image_url": "https://images.genius.com/3909b41f2c27e688e4caec3637cdba36.1000x1000x1.png",
+ "id": 3185661,
+ "instrumental": false,
+ "lyrics_owner_id": 432937,
+ "lyrics_state": "complete",
+ "lyrics_updated_at": 1606560007,
+ "path": "/Xxxtentacion-jocelyn-flores-lyrics",
+ "pyongs_count": 712,
+ "song_art_image_thumbnail_url": "https://images.genius.com/3909b41f2c27e688e4caec3637cdba36.300x300x1.png",
+ "song_art_image_url": "https://images.genius.com/3909b41f2c27e688e4caec3637cdba36.1000x1000x1.png",
+ "stats": {
+  "accepted_annotations": 12,
+  "contributors": 417,
+  "iq_earners": 416,
+  "transcribers": 8,
+  "unreviewed_annotations": 0,
+  "verified_annotations": 0,
+  "concurrents": 3,
+  "hot": false,
+  "pageviews": 6432139
+ },
+ "title": "Jocelyn Flores",
+ "title_with_featured": "Jocelyn Flores",
+ "updated_by_human_at": 1606560007,
+ "url": "https://genius.com/Xxxtentacion-jocelyn-flores-lyrics",
+ "primary_artist": {
+  "api_path": "/artists/396565",
+  "header_image_url": "https://images.genius.com/a41c96abd3edca53b641d7e87d319766.1000x563x1.jpg",
+  "id": 396565,
+  "image_url": "https://images.genius.com/e7d452ae7fa3da11e1ebf16e866a2770.790x790x1.jpg",
+  "is_meme_verified": false,
+  "is_verified": true,
+  "name": "XXXTENTACION",
+  "url": "https://genius.com/artists/Xxxtentacion",
+  "iq": 359
+ },
+ "apple_music_id": "1274653478",
+ "apple_music_player_url": "https://genius.com/songs/3185661/apple_music_player",
+ "description": {
+  "plain": "Jocelyn Flores was a friend of X who suffered from depression and committed suicide in May 2017, while staying with him in Florida for a photoshoot. He posted tweets about the situation, but they were later deleted. In an Instagram Live video, X detailed the events personally,\n\nIt was a devastating situation to deal with, it fucked me up so bad to where I wasn\u2019t on social media for the last few days unless I was addressing something that I needed to. I never thought I would feel something for someone I barely knew that would fuck me up so bad just because I came from it\n\nHe previously dedicated the song \u201cRevenge\u201d to Jocelyn shortly after she died \u2013 he didn\u2019t discuss her death on the track, although he wrote it in the song\u2019s description on SoundCloud, \u201cRest in peace, Jocelyn, I will have my revenge upon the world.\u201d\n\nThis song was performed over \u201cim closing my eyes,\u201d a potsu-produced song that samples the lyrics from Shiloh Dynasty\u2019s \u201cI Knew You So Well.\u201d Two other tracks on 17 were also produced by potsu: \u201cEverybody Dies In Their Nightmares\u201d and \u201cCarry On.\u201d\n\nOn August 5, 2017, X uploaded a snippet of the song on his Snapchat story."
+ },
+ "embed_content": "<div id='rg_embed_link_3185661' class='rg_embed_link' data-song-id='3185661'>Read <a href='https://genius.com/Xxxtentacion-jocelyn-flores-lyrics'>\u201cJocelyn Flores\u201d by XXXTENTACION</a> on Genius</div> <script crossorigin src='//genius.com/songs/3185661/embed.js'></script>",
+ "fact_track": {
+  "provider": "spotify",
+  "external_url": "https://open.spotify.com/track/7m9OqQk4RVRkw9JJdeAw96",
+  "button_text": "Behind the Lyrics in Spotify",
+  "help_link_text": "What's a Fact Track?",
+  "help_link_url": "https://genius.com/a/genius-and-spotify-together"
+ },
+ "featured_video": false,
+ "lyrics_placeholder_reason": null,
+ "recording_location": "",
+ "release_date": "2017-08-25",
+ "release_date_for_display": "August 25, 2017",
+ "current_user_metadata": {
+  "permissions": [
+   "see_pageviews",
+   "watch_fact_track",
+   "view_apple_music_player",
+   "create_comment",
+   "view_song_story_gallery"
+  ],
+  "excluded_permissions": [
+   "follow",
+   "award_transcription_iq",
+   "remove_transcription_iq",
+   "pyong",
+   "edit_lyrics",
+   "view_annotation_engagement_data",
+   "publish",
+   "unpublish",
+   "edit_spotify_details",
+   "hide",
+   "unhide",
+   "toggle_featured_video",
+   "add_pinned_annotation_to",
+   "add_community_annotation_to",
+   "destroy",
+   "mark_as_not_spam",
+   "edit_spotify_annotations_for",
+   "verify_lyrics",
+   "unverify_lyrics",
+   "edit_anything",
+   "edit_any_media",
+   "edit",
+   "rename",
+   "edit_tags",
+   "reindex",
+   "view_lyrics_synchronization",
+   "enable_media",
+   "disable_media",
+   "edit_lyrics_or_annotation_brackets",
+   "see_editorial_indicators",
+   "view_attribution_visualization",
+   "edit_annotation_brackets",
+   "preview_lyrics_for_export",
+   "hide_apple_player",
+   "unhide_apple_player",
+   "trigger_apple_match",
+   "mark_lyrics_evaluation_as_approved",
+   "mark_lyrics_evaluation_as_staff_approved",
+   "mark_lyrics_evaluation_as_unapproved",
+   "mark_lyrics_evaluation_as_un_staff_approved",
+   "view_transcriber_media_player",
+   "override_apple_match",
+   "edit_youtube_url",
+   "edit_soundcloud_url",
+   "edit_spotify_uuid",
+   "edit_vevo_url",
+   "moderate_annotations",
+   "create_annotation",
+   "see_short_id",
+   "manage_chart_item",
+   "create_tag",
+   "propose_lyrics_edit",
+   "moderate_lyrics_edit_proposals",
+   "preview_react_song_page"
+  ],
+  "interactions": {
+   "pyong": false,
+   "following": false
+  },
+  "relationships": {},
+  "iq_by_action": {}
+ },
+ "album": {
+  "api_path": "/albums/342174",
+  "cover_art_url": "https://images.genius.com/3909b41f2c27e688e4caec3637cdba36.1000x1000x1.png",
+  "full_title": "17 by XXXTENTACION",
+  "id": 342174,
+  "name": "17",
+  "url": "https://genius.com/albums/Xxxtentacion/17",
+  "artist": {
+   "api_path": "/artists/396565",
+   "header_image_url": "https://images.genius.com/a41c96abd3edca53b641d7e87d319766.1000x563x1.jpg",
+   "id": 396565,
+   "image_url": "https://images.genius.com/e7d452ae7fa3da11e1ebf16e866a2770.790x790x1.jpg",
+   "is_meme_verified": false,
+   "is_verified": true,
+   "name": "XXXTENTACION",
+   "url": "https://genius.com/artists/Xxxtentacion",
+   "iq": 359
+  }
+ },
+ "custom_performances": [
+  {
+   "label": "Performance Rights",
+   "artists": [
+    {
+     "api_path": "/artists/551598",
+     "header_image_url": "https://images.genius.com/067d9bccf2ab6e5eded129861b73d9dc.851x315x1.jpg",
+     "id": 551598,
+     "image_url": "https://images.genius.com/5f24e8e67904faef419d736f2ade3f78.1000x1000x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "ASCAP",
+     "url": "https://genius.com/artists/Ascap"
+    },
+    {
+     "api_path": "/artists/1138091",
+     "header_image_url": "https://images.genius.com/5b84dbf7ba86e59c297143f076a56c9a.1000x1000x1.jpg",
+     "id": 1138091,
+     "image_url": "https://images.genius.com/051b0a6beabf8a9eb8768e9f874a542f.1000x1000x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "BMI",
+     "url": "https://genius.com/artists/Bmi"
+    }
+   ]
+  },
+  {
+   "label": "Publisher",
+   "artists": [
+    {
+     "api_path": "/artists/1361179",
+     "header_image_url": "https://images.genius.com/cf2ebf5e2a9c537747846c8afe6d4c77.512x92x1.jpg",
+     "id": 1361179,
+     "image_url": "https://images.genius.com/1f959d6d496e992de13cbe72baf343dd.396x396x1.png",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "SONGS Music Publishing",
+     "url": "https://genius.com/artists/Songs-music-publishing"
+    },
+    {
+     "api_path": "/artists/1190825",
+     "header_image_url": "https://images.genius.com/4a459401da45f83fe17430e9d027a2af.1000x265x1.jpg",
+     "id": 1190825,
+     "image_url": "https://images.genius.com/a3de594fe94a912ccc680b6bacfbe6ac.500x500x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Buddemusic",
+     "url": "https://genius.com/artists/Buddemusic"
+    },
+    {
+     "api_path": "/artists/2141298",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+     "id": 2141298,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "KMR Music Royalties II SCSP",
+     "url": "https://genius.com/artists/Kmr-music-royalties-ii-scsp"
+    },
+    {
+     "api_path": "/artists/1203913",
+     "header_image_url": "https://images.genius.com/48c3ec2a397b9a4ce009a7abb3ce7e68.565x1000x1.png",
+     "id": 1203913,
+     "image_url": "https://images.genius.com/ca683c91e72a43a5312a947cdfb3de3e.754x754x1.png",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Bad Vibes Forever",
+     "url": "https://genius.com/artists/Bad-vibes-forever"
+    },
+    {
+     "api_path": "/artists/1179023",
+     "header_image_url": "https://images.genius.com/92e4ea9ba616ee53bae21dc2e037a1e2.1000x1000x1.jpg",
+     "id": 1179023,
+     "image_url": "https://images.genius.com/f19c358ac9db989328ffc9a3de85bbd4.1000x1000x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Kobalt Music",
+     "url": "https://genius.com/artists/Kobalt-music"
+    },
+    {
+     "api_path": "/artists/2253772",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+     "id": 2253772,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Shiloh Dynasty Songs",
+     "url": "https://genius.com/artists/Shiloh-dynasty-songs"
+    }
+   ]
+  },
+  {
+   "label": "Additional Vocals",
+   "artists": [
+    {
+     "api_path": "/artists/1027596",
+     "header_image_url": "https://images.genius.com/42b736f1a611e8b0e8de16ece80cf57c.800x800x1.jpg",
+     "id": 1027596,
+     "image_url": "https://images.genius.com/4366661e6ebeb709768c8937318e3246.800x800x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Shiloh Dynasty",
+     "url": "https://genius.com/artists/Shiloh-dynasty"
+    }
+   ]
+  },
+  {
+   "label": "Mixing Engineer",
+   "artists": [
+    {
+     "api_path": "/artists/1420987",
+     "header_image_url": "https://images.genius.com/1aee8cd2bfdd076b3608b2a5ea866dd4.1000x1000x1.jpg",
+     "id": 1420987,
+     "image_url": "https://images.genius.com/1aee8cd2bfdd076b3608b2a5ea866dd4.1000x1000x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Koen Heldens",
+     "url": "https://genius.com/artists/Koen-heldens"
+    },
+    {
+     "api_path": "/artists/1291341",
+     "header_image_url": "https://images.genius.com/2fa9275c6201629ded1f1f28e8f3d4dd.512x512x1.jpg",
+     "id": 1291341,
+     "image_url": "https://images.genius.com/2fa9275c6201629ded1f1f28e8f3d4dd.512x512x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Jon Fx",
+     "url": "https://genius.com/artists/Jon-fx"
+    }
+   ]
+  },
+  {
+   "label": "Label",
+   "artists": [
+    {
+     "api_path": "/artists/1067746",
+     "header_image_url": "https://images.genius.com/e62acbeb4aa74d1838a1a12d37651f7b.636x421x1.jpg",
+     "id": 1067746,
+     "image_url": "https://images.genius.com/18e44ea127feb2a8bf7c37529aee8df7.400x400x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "EMPIRE",
+     "url": "https://genius.com/artists/Empire"
+    },
+    {
+     "api_path": "/artists/1203913",
+     "header_image_url": "https://images.genius.com/48c3ec2a397b9a4ce009a7abb3ce7e68.565x1000x1.png",
+     "id": 1203913,
+     "image_url": "https://images.genius.com/ca683c91e72a43a5312a947cdfb3de3e.754x754x1.png",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Bad Vibes Forever",
+     "url": "https://genius.com/artists/Bad-vibes-forever"
+    }
+   ]
+  }
+ ],
+ "description_annotation": {
+  "_type": "referent",
+  "annotator_id": 4521405,
+  "annotator_login": "XpectTheWorst",
+  "api_path": "/referents/12463832",
+  "classification": "accepted",
+  "fragment": "Jocelyn Flores",
+  "id": 12463832,
+  "is_description": true,
+  "path": "/12463832/Xxxtentacion-jocelyn-flores/Jocelyn-flores",
+  "range": {
+   "content": "Jocelyn Flores"
+  },
+  "song_id": 3185661,
+  "url": "https://genius.com/12463832/Xxxtentacion-jocelyn-flores/Jocelyn-flores",
+  "verified_annotator_ids": [],
+  "annotatable": {
+   "api_path": "/songs/3185661",
+   "client_timestamps": {
+    "updated_by_human_at": 1606560007,
+    "lyrics_updated_at": 1606560007
+   },
+   "context": "XXXTENTACION",
+   "id": 3185661,
+   "image_url": "https://images.genius.com/3909b41f2c27e688e4caec3637cdba36.1000x1000x1.png",
+   "link_title": "Jocelyn Flores by\u00a0XXXTENTACION",
+   "title": "Jocelyn Flores",
+   "type": "Song",
+   "url": "https://genius.com/Xxxtentacion-jocelyn-flores-lyrics"
+  },
+  "annotations": [
+   {
+    "api_path": "/annotations/12463832",
+    "body": {
+     "plain": "Jocelyn Flores was a friend of X who suffered from depression and committed suicide in May 2017, while staying with him in Florida for a photoshoot. He posted tweets about the situation, but they were later deleted. In an Instagram Live video, X detailed the events personally,\n\nIt was a devastating situation to deal with, it fucked me up so bad to where I wasn\u2019t on social media for the last few days unless I was addressing something that I needed to. I never thought I would feel something for someone I barely knew that would fuck me up so bad just because I came from it\n\nHe previously dedicated the song \u201cRevenge\u201d to Jocelyn shortly after she died \u2013 he didn\u2019t discuss her death on the track, although he wrote it in the song\u2019s description on SoundCloud, \u201cRest in peace, Jocelyn, I will have my revenge upon the world.\u201d\n\nThis song was performed over \u201cim closing my eyes,\u201d a potsu-produced song that samples the lyrics from Shiloh Dynasty\u2019s \u201cI Knew You So Well.\u201d Two other tracks on 17 were also produced by potsu: \u201cEverybody Dies In Their Nightmares\u201d and \u201cCarry On.\u201d\n\nOn August 5, 2017, X uploaded a snippet of the song on his Snapchat story."
+    },
+    "comment_count": 0,
+    "community": true,
+    "custom_preview": null,
+    "has_voters": true,
+    "id": 12463832,
+    "pinned": false,
+    "share_url": "https://genius.com/12463832",
+    "source": null,
+    "state": "accepted",
+    "url": "https://genius.com/12463832/Xxxtentacion-jocelyn-flores/Jocelyn-flores",
+    "verified": false,
+    "votes_total": 1176,
+    "current_user_metadata": {
+     "permissions": [
+      "create_comment"
+     ],
+     "excluded_permissions": [
+      "vote",
+      "edit",
+      "cosign",
+      "uncosign",
+      "destroy",
+      "accept",
+      "reject",
+      "see_unreviewed",
+      "clear_votes",
+      "propose_edit_to",
+      "pin_to_profile",
+      "unpin_from_profile",
+      "update_source",
+      "edit_custom_preview"
+     ],
+     "interactions": {
+      "cosign": false,
+      "pyong": false,
+      "vote": null
+     },
+     "iq_by_action": {}
+    },
+    "authors": [
+     {
+      "attribution": 0.3883495145631068,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/5827983",
+       "avatar": {
+        "tiny": {
+         "url": "https://images.genius.com/avatars/tiny/f13dc2b3b35fa2f4986a974abf88b27f",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://images.genius.com/avatars/thumb/f13dc2b3b35fa2f4986a974abf88b27f",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://images.genius.com/avatars/small/f13dc2b3b35fa2f4986a974abf88b27f",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://images.genius.com/avatars/medium/f13dc2b3b35fa2f4986a974abf88b27f",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://images.genius.com/f4d4d811696fc51b29a663fb32de6fa2.1000x210x1.jpg",
+       "human_readable_role_for_display": "Editor",
+       "id": 5827983,
+       "iq": 60595,
+       "login": "pastelgore",
+       "name": "\u200bpastelgore",
+       "role_for_display": "editor",
+       "url": "https://genius.com/pastelgore",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     },
+     {
+      "attribution": 0.33495145631067963,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/432937",
+       "avatar": {
+        "tiny": {
+         "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/HTnlLjxzQJyGCIRx8RCP_tumblr_oc0jnf60BT1tx0eb6o1_500.gif",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/HTnlLjxzQJyGCIRx8RCP_tumblr_oc0jnf60BT1tx0eb6o1_500.gif",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/HTnlLjxzQJyGCIRx8RCP_tumblr_oc0jnf60BT1tx0eb6o1_500.gif",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/HTnlLjxzQJyGCIRx8RCP_tumblr_oc0jnf60BT1tx0eb6o1_500.gif",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/KjM6SYVRMuFcIEAi4Pho_project6.gif",
+       "human_readable_role_for_display": "Editor",
+       "id": 432937,
+       "iq": 60788,
+       "login": "ojstrawberry",
+       "name": "ojstrawberry",
+       "role_for_display": "editor",
+       "url": "https://genius.com/ojstrawberry",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     },
+     {
+      "attribution": 0.06796116504854369,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/5122710",
+       "avatar": {
+        "tiny": {
+         "url": "https://images.genius.com/avatars/tiny/e9cb5e3959d2449f0b60894cd5776f79",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://images.genius.com/avatars/thumb/e9cb5e3959d2449f0b60894cd5776f79",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://images.genius.com/avatars/small/e9cb5e3959d2449f0b60894cd5776f79",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://images.genius.com/avatars/medium/e9cb5e3959d2449f0b60894cd5776f79",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/zsjgeprswo9",
+       "human_readable_role_for_display": "Contributor",
+       "id": 5122710,
+       "iq": 867,
+       "login": "SEANAYE",
+       "name": "SEANAYE",
+       "role_for_display": "contributor",
+       "url": "https://genius.com/SEANAYE",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     },
+     {
+      "attribution": 0.05825242718446602,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/104344",
+       "avatar": {
+        "tiny": {
+         "url": "https://images.genius.com/avatars/tiny/a1485559b7dd9463752d984ecd3dbeae",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://images.genius.com/avatars/thumb/a1485559b7dd9463752d984ecd3dbeae",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://images.genius.com/avatars/small/a1485559b7dd9463752d984ecd3dbeae",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://images.genius.com/avatars/medium/a1485559b7dd9463752d984ecd3dbeae",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://images.genius.com/f29273e26956c1f6c8d004d1e4533c2e.1000x1000x1.jpg",
+       "human_readable_role_for_display": "Staff",
+       "id": 104344,
+       "iq": 2663116,
+       "login": "streetlights",
+       "name": "\u200bstreetlights",
+       "role_for_display": "staff",
+       "url": "https://genius.com/streetlights",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     },
+     {
+      "attribution": 0.05825242718446602,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/3375166",
+       "avatar": {
+        "tiny": {
+         "url": "https://images.genius.com/f5ad556e854be294e987afbec90a9ab9.952x952x1.png",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://images.genius.com/f5ad556e854be294e987afbec90a9ab9.952x952x1.png",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://images.genius.com/f5ad556e854be294e987afbec90a9ab9.952x952x1.png",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://images.genius.com/f5ad556e854be294e987afbec90a9ab9.952x952x1.png",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://images.genius.com/6cd4f76bd6b13de7a556679f76a16295.1000x946x1.png",
+       "human_readable_role_for_display": "Moderator",
+       "id": 3375166,
+       "iq": 245083,
+       "login": "SharpshooterWB",
+       "name": "Wes Brown",
+       "role_for_display": "moderator",
+       "url": "https://genius.com/SharpshooterWB",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     },
+     {
+      "attribution": 0.04854368932038835,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/4521405",
+       "avatar": {
+        "tiny": {
+         "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/2cyoFbQVS4vGTbIc4sPb_IMG_5626.JPG",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/2cyoFbQVS4vGTbIc4sPb_IMG_5626.JPG",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/2cyoFbQVS4vGTbIc4sPb_IMG_5626.JPG",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/2cyoFbQVS4vGTbIc4sPb_IMG_5626.JPG",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/7Xm9qgZQWazGk5bCwpaw_youtube%20banner.png",
+       "human_readable_role_for_display": "Contributor",
+       "id": 4521405,
+       "iq": 1643,
+       "login": "XpectTheWorst",
+       "name": "XpectTheWorst",
+       "role_for_display": "contributor",
+       "url": "https://genius.com/XpectTheWorst",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     },
+     {
+      "attribution": 0.01941747572815534,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/2595704",
+       "avatar": {
+        "tiny": {
+         "url": "https://images.genius.com/avatars/tiny/fd897b927e8ad43e1d560ba63a6ddf53",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://images.genius.com/avatars/thumb/fd897b927e8ad43e1d560ba63a6ddf53",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://images.genius.com/avatars/small/fd897b927e8ad43e1d560ba63a6ddf53",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://images.genius.com/avatars/medium/fd897b927e8ad43e1d560ba63a6ddf53",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://images.genius.com/2bec07fc587fcc765219e84e1a542edc.1000x563x1.png",
+       "human_readable_role_for_display": "Editor",
+       "id": 2595704,
+       "iq": 73781,
+       "login": "RMZB",
+       "name": "RMZB",
+       "role_for_display": "editor",
+       "url": "https://genius.com/RMZB",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     },
+     {
+      "attribution": 0.014563106796116505,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/1837201",
+       "avatar": {
+        "tiny": {
+         "url": "https://images.genius.com/avatars/tiny/869faf906ce64ae85044d796e6a2e44a",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://images.genius.com/avatars/thumb/869faf906ce64ae85044d796e6a2e44a",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://images.genius.com/avatars/small/869faf906ce64ae85044d796e6a2e44a",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://images.genius.com/avatars/medium/869faf906ce64ae85044d796e6a2e44a",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/j9bfhhyzuz",
+       "human_readable_role_for_display": "Editor",
+       "id": 1837201,
+       "iq": 1000024,
+       "login": "distorted",
+       "name": "distorted",
+       "role_for_display": "editor",
+       "url": "https://genius.com/distorted",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     },
+     {
+      "attribution": 0.00970873786407767,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/427740",
+       "avatar": {
+        "tiny": {
+         "url": "https://images.genius.com/98da1237cc15b84540a205c92d1c849d.1000x1000x1.png",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://images.genius.com/98da1237cc15b84540a205c92d1c849d.1000x1000x1.png",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://images.genius.com/98da1237cc15b84540a205c92d1c849d.1000x1000x1.png",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://images.genius.com/98da1237cc15b84540a205c92d1c849d.1000x1000x1.png",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://images.genius.com/07830534fd792498abeaa68622ca801c.1000x223x1.jpg",
+       "human_readable_role_for_display": "Editor",
+       "id": 427740,
+       "iq": 244607,
+       "login": "yxng-nate",
+       "name": "Nathaniel Hall",
+       "role_for_display": "editor",
+       "url": "https://genius.com/yxng-nate",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     }
+    ],
+    "cosigned_by": [],
+    "rejection_comment": null,
+    "verified_by": null
+   }
+  ]
+ },
+ "featured_artists": [],
+ "lyrics_marked_complete_by": null,
+ "media": [
+  {
+   "native_uri": "spotify:track:7m9OqQk4RVRkw9JJdeAw96",
+   "provider": "spotify",
+   "type": "audio",
+   "url": "https://open.spotify.com/track/7m9OqQk4RVRkw9JJdeAw96"
+  },
+  {
+   "attribution": "user 840795771",
+   "provider": "soundcloud",
+   "type": "audio",
+   "url": "https://soundcloud.com/user-840795771/jocelyn-flores"
+  },
+  {
+   "provider": "youtube",
+   "start": 0,
+   "type": "video",
+   "url": "http://www.youtube.com/watch?v=FAucVNRx_mU"
+  }
+ ],
+ "producer_artists": [
+  {
+   "api_path": "/artists/1027596",
+   "header_image_url": "https://images.genius.com/42b736f1a611e8b0e8de16ece80cf57c.800x800x1.jpg",
+   "id": 1027596,
+   "image_url": "https://images.genius.com/4366661e6ebeb709768c8937318e3246.800x800x1.jpg",
+   "is_meme_verified": false,
+   "is_verified": false,
+   "name": "Shiloh Dynasty",
+   "url": "https://genius.com/artists/Shiloh-dynasty"
+  },
+  {
+   "api_path": "/artists/1150640",
+   "header_image_url": "https://images.genius.com/96bbecda03d543464a081749b9cae9a9.1000x333x1.jpg",
+   "id": 1150640,
+   "image_url": "https://images.genius.com/8d7b9d55679515773f8d1df4052517a7.805x805x1.png",
+   "is_meme_verified": false,
+   "is_verified": true,
+   "name": "\u200bpotsu",
+   "url": "https://genius.com/artists/Potsu",
+   "iq": 161
+  }
+ ],
+ "song_relationships": [
+  {
+   "relationship_type": "samples",
+   "type": "samples",
+   "songs": []
+  },
+  {
+   "relationship_type": "sampled_in",
+   "type": "sampled_in",
+   "songs": [
+    {
+     "annotation_count": 14,
+     "api_path": "/songs/3335792",
+     "full_title": "Alexis by\u00a0Joey\u00a0Trap",
+     "header_image_thumbnail_url": "https://images.genius.com/312592f460fcbb85c56946bf553f9b40.300x300x1.png",
+     "header_image_url": "https://images.genius.com/312592f460fcbb85c56946bf553f9b40.1000x1000x1.png",
+     "id": 3335792,
+     "lyrics_owner_id": 4424780,
+     "lyrics_state": "complete",
+     "path": "/Joey-trap-alexis-lyrics",
+     "pyongs_count": 4,
+     "song_art_image_thumbnail_url": "https://images.genius.com/312592f460fcbb85c56946bf553f9b40.300x300x1.png",
+     "song_art_image_url": "https://images.genius.com/312592f460fcbb85c56946bf553f9b40.1000x1000x1.png",
+     "stats": {
+      "unreviewed_annotations": 13,
+      "hot": false,
+      "pageviews": 56767
+     },
+     "title": "Alexis",
+     "title_with_featured": "Alexis",
+     "url": "https://genius.com/Joey-trap-alexis-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/1105370",
+      "header_image_url": "https://images.genius.com/f92620f89f47ff3cf50a701d0b6397af.1000x210x1.jpg",
+      "id": 1105370,
+      "image_url": "https://images.genius.com/92508c451ec86eb8732d70f32d768b0f.555x555x1.png",
+      "is_meme_verified": false,
+      "is_verified": true,
+      "name": "Joey Trap",
+      "url": "https://genius.com/artists/Joey-trap",
+      "iq": 8716
+     }
+    },
+    {
+     "annotation_count": 1,
+     "api_path": "/songs/3582337",
+     "full_title": "Sorry by\u00a0RAVEN! (Ft.\u00a0Isabella\u00a0Rose)",
+     "header_image_thumbnail_url": "https://images.genius.com/4b6bf934c088ed0f1931e9ec924d3921.300x300x1.png",
+     "header_image_url": "https://images.genius.com/4b6bf934c088ed0f1931e9ec924d3921.1000x1000x1.png",
+     "id": 3582337,
+     "lyrics_owner_id": 5408923,
+     "lyrics_state": "complete",
+     "path": "/Raven-sorry-lyrics",
+     "pyongs_count": null,
+     "song_art_image_thumbnail_url": "https://images.genius.com/4b6bf934c088ed0f1931e9ec924d3921.300x300x1.png",
+     "song_art_image_url": "https://images.genius.com/4b6bf934c088ed0f1931e9ec924d3921.1000x1000x1.png",
+     "stats": {
+      "unreviewed_annotations": 0,
+      "hot": false
+     },
+     "title": "Sorry",
+     "title_with_featured": "Sorry (Ft.\u00a0Isabella\u00a0Rose)",
+     "url": "https://genius.com/Raven-sorry-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/1365532",
+      "header_image_url": "https://images.genius.com/d53c204c0d43ad9b4cc44985087eb3fa.1000x1000x1.png",
+      "id": 1365532,
+      "image_url": "https://images.genius.com/65e9c04c3da0de861857f77fb9269b86.509x509x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": true,
+      "name": "RAVEN!",
+      "url": "https://genius.com/artists/Raven",
+      "iq": 165
+     }
+    },
+    {
+     "annotation_count": 7,
+     "api_path": "/songs/3790026",
+     "full_title": "Rip X by\u00a0Jake\u00a0Hill",
+     "header_image_thumbnail_url": "https://images.genius.com/51964ee70817823fdc3a46fe6668f077.300x300x1.png",
+     "header_image_url": "https://images.genius.com/51964ee70817823fdc3a46fe6668f077.1000x1000x1.png",
+     "id": 3790026,
+     "lyrics_owner_id": 5530749,
+     "lyrics_state": "complete",
+     "path": "/Jake-hill-rip-x-lyrics",
+     "pyongs_count": 19,
+     "song_art_image_thumbnail_url": "https://images.genius.com/51964ee70817823fdc3a46fe6668f077.300x300x1.png",
+     "song_art_image_url": "https://images.genius.com/51964ee70817823fdc3a46fe6668f077.1000x1000x1.png",
+     "stats": {
+      "unreviewed_annotations": 3,
+      "hot": false,
+      "pageviews": 72639
+     },
+     "title": "Rip X",
+     "title_with_featured": "Rip X",
+     "url": "https://genius.com/Jake-hill-rip-x-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/976196",
+      "header_image_url": "https://images.genius.com/ac9959798347ac21d7f79d5a3d60bbfd.1000x165x1.jpg",
+      "id": 976196,
+      "image_url": "https://images.genius.com/e23bb85105f1053b077fbd81de5d8139.640x639x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Jake Hill",
+      "url": "https://genius.com/artists/Jake-hill"
+     }
+    },
+    {
+     "annotation_count": 0,
+     "api_path": "/songs/4485485",
+     "full_title": "Friends Dont Last. by\u00a0Telizzo (Ft.\u00a0Telizzo)",
+     "header_image_thumbnail_url": "https://assets.genius.com/images/default_cover_image.png?1606943206",
+     "header_image_url": "https://assets.genius.com/images/default_cover_image.png?1606943206",
+     "id": 4485485,
+     "lyrics_owner_id": 8346189,
+     "lyrics_state": "complete",
+     "path": "/Telizzo-friends-dont-last-lyrics",
+     "pyongs_count": 1,
+     "song_art_image_thumbnail_url": "https://assets.genius.com/images/default_cover_image.png?1606943206",
+     "song_art_image_url": "https://assets.genius.com/images/default_cover_image.png?1606943206",
+     "stats": {
+      "unreviewed_annotations": 0,
+      "hot": false
+     },
+     "title": "Friends Dont Last.",
+     "title_with_featured": "Friends Dont Last. (Ft.\u00a0Telizzo)",
+     "url": "https://genius.com/Telizzo-friends-dont-last-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/1795870",
+      "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+      "id": 1795870,
+      "image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Telizzo",
+      "url": "https://genius.com/artists/Telizzo"
+     }
+    },
+    {
+     "annotation_count": 0,
+     "api_path": "/songs/4497292",
+     "full_title": "Hide by\u00a0Gerard\u00a0Salas",
+     "header_image_thumbnail_url": "https://images.genius.com/c0e2492ef08bee17872891d40198f29e.288x288x1.jpg",
+     "header_image_url": "https://images.genius.com/c0e2492ef08bee17872891d40198f29e.288x288x1.jpg",
+     "id": 4497292,
+     "lyrics_owner_id": 8035277,
+     "lyrics_state": "complete",
+     "path": "/Gerard-salas-hide-lyrics",
+     "pyongs_count": null,
+     "song_art_image_thumbnail_url": "https://images.genius.com/c0e2492ef08bee17872891d40198f29e.288x288x1.jpg",
+     "song_art_image_url": "https://images.genius.com/c0e2492ef08bee17872891d40198f29e.288x288x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 0,
+      "hot": false
+     },
+     "title": "Hide",
+     "title_with_featured": "Hide",
+     "url": "https://genius.com/Gerard-salas-hide-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/1769912",
+      "header_image_url": "https://images.genius.com/d163a7dfa36b893a7e82796502006ee7.1000x563x1.jpg",
+      "id": 1769912,
+      "image_url": "https://images.genius.com/630d3367b9af7640ee3ce63ecc5e6e6e.703x703x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Gerard Salas",
+      "url": "https://genius.com/artists/Gerard-salas",
+      "iq": 7654
+     }
+    },
+    {
+     "annotation_count": 0,
+     "api_path": "/songs/4602220",
+     "full_title": "Dear Jahseh by\u00a0Polo\u00a0Finesse",
+     "header_image_thumbnail_url": "https://images.genius.com/9f6feb864eabe3eb1dce6c3d92ac712a.300x198x1.jpg",
+     "header_image_url": "https://images.genius.com/9f6feb864eabe3eb1dce6c3d92ac712a.681x450x1.jpg",
+     "id": 4602220,
+     "lyrics_owner_id": 8327448,
+     "lyrics_state": "complete",
+     "path": "/Polo-finesse-dear-jahseh-lyrics",
+     "pyongs_count": null,
+     "song_art_image_thumbnail_url": "https://images.genius.com/9f6feb864eabe3eb1dce6c3d92ac712a.300x198x1.jpg",
+     "song_art_image_url": "https://images.genius.com/9f6feb864eabe3eb1dce6c3d92ac712a.681x450x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 0,
+      "hot": false
+     },
+     "title": "Dear Jahseh",
+     "title_with_featured": "Dear Jahseh",
+     "url": "https://genius.com/Polo-finesse-dear-jahseh-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/1792860",
+      "header_image_url": "https://images.genius.com/7b3df350cebf3d1841e9a960ea649ad5.1000x509x1.jpg",
+      "id": 1792860,
+      "image_url": "https://images.genius.com/e77f50d0a38990d6473a4d5aef696c14.756x756x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Polo Finesse",
+      "url": "https://genius.com/artists/Polo-finesse"
+     }
+    },
+    {
+     "annotation_count": 1,
+     "api_path": "/songs/4712789",
+     "full_title": "Pain&Despair by\u00a0GxthicKagura (Ft.\u00a0Shiloh\u00a0Dynasty)",
+     "header_image_thumbnail_url": "https://images.genius.com/67ebdc87c789ebe69edba4a36368e197.300x300x1.png",
+     "header_image_url": "https://images.genius.com/67ebdc87c789ebe69edba4a36368e197.1000x1000x1.png",
+     "id": 4712789,
+     "lyrics_owner_id": 7436231,
+     "lyrics_state": "complete",
+     "path": "/Gxthickagura-pain-despair-lyrics",
+     "pyongs_count": null,
+     "song_art_image_thumbnail_url": "https://images.genius.com/67ebdc87c789ebe69edba4a36368e197.300x300x1.png",
+     "song_art_image_url": "https://images.genius.com/67ebdc87c789ebe69edba4a36368e197.1000x1000x1.png",
+     "stats": {
+      "unreviewed_annotations": 0,
+      "hot": false
+     },
+     "title": "Pain&Despair",
+     "title_with_featured": "Pain&Despair (Ft.\u00a0Shiloh\u00a0Dynasty)",
+     "url": "https://genius.com/Gxthickagura-pain-despair-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/1648591",
+      "header_image_url": "https://images.genius.com/8c04c4895709e6cc757237136e0667bc.1000x210x1.png",
+      "id": 1648591,
+      "image_url": "https://images.genius.com/bf7c5c28cee1964b25c7352caf1bd0ad.1000x1000x1.png",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "GxthicKagura",
+      "url": "https://genius.com/artists/Gxthickagura",
+      "iq": 3110
+     }
+    },
+    {
+     "annotation_count": 1,
+     "api_path": "/songs/5008215",
+     "full_title": "Charles barkley's emo phase by\u00a0Acrylo",
+     "header_image_thumbnail_url": "https://images.genius.com/971b8637c53c1f6a7ba0b9756f14a484.300x300x1.jpg",
+     "header_image_url": "https://images.genius.com/971b8637c53c1f6a7ba0b9756f14a484.900x900x1.jpg",
+     "id": 5008215,
+     "lyrics_owner_id": 9297516,
+     "lyrics_state": "complete",
+     "path": "/Acrylo-charles-barkleys-emo-phase-lyrics",
+     "pyongs_count": null,
+     "song_art_image_thumbnail_url": "https://images.genius.com/971b8637c53c1f6a7ba0b9756f14a484.300x300x1.jpg",
+     "song_art_image_url": "https://images.genius.com/971b8637c53c1f6a7ba0b9756f14a484.900x900x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 1,
+      "hot": false
+     },
+     "title": "Charles barkley\u2019s emo phase",
+     "title_with_featured": "Charles barkley's emo phase",
+     "url": "https://genius.com/Acrylo-charles-barkleys-emo-phase-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/1505008",
+      "header_image_url": "https://images.genius.com/23fcb0032f15834d9ef7bf4b7423939e.1000x333x1.jpg",
+      "id": 1505008,
+      "image_url": "https://images.genius.com/90452ade68f3ecd7b9937285ca3286be.288x288x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Acrylo",
+      "url": "https://genius.com/artists/Acrylo"
+     }
+    },
+    {
+     "annotation_count": 0,
+     "api_path": "/songs/5327779",
+     "full_title": "C\u00c1LICE DE SANGUE by\u00a0Leozinho\u00a0do BA (Ft.\u00a0Mc\u00a0Lowan)",
+     "header_image_thumbnail_url": "https://images.genius.com/2bdf8335767c51199a26eb8a689709d2.300x300x1.jpg",
+     "header_image_url": "https://images.genius.com/2bdf8335767c51199a26eb8a689709d2.960x960x1.jpg",
+     "id": 5327779,
+     "lyrics_owner_id": 6032384,
+     "lyrics_state": "complete",
+     "path": "/Leozinho-do-ba-calice-de-sangue-lyrics",
+     "pyongs_count": null,
+     "song_art_image_thumbnail_url": "https://images.genius.com/2bdf8335767c51199a26eb8a689709d2.300x300x1.jpg",
+     "song_art_image_url": "https://images.genius.com/2bdf8335767c51199a26eb8a689709d2.960x960x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 0,
+      "hot": false
+     },
+     "title": "C\u00c1LICE DE SANGUE",
+     "title_with_featured": "C\u00c1LICE DE SANGUE (Ft.\u00a0Mc\u00a0Lowan)",
+     "url": "https://genius.com/Leozinho-do-ba-calice-de-sangue-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/1418277",
+      "header_image_url": "https://images.genius.com/4abb604c7149d1faaaff76be7eb4d79a.1000x731x1.jpg",
+      "id": 1418277,
+      "image_url": "https://images.genius.com/d419c13102b5fe8f5a4c34690ae3f711.1000x1000x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Leozinho do BA",
+      "url": "https://genius.com/artists/Leozinho-do-ba",
+      "iq": 832
+     }
+    },
+    {
+     "annotation_count": 2,
+     "api_path": "/songs/5800894",
+     "full_title": "Closing My Eyes by\u00a0Alrahim\u00a0Wright III (Ft.\u00a0DJAfroKid & Whize)",
+     "header_image_thumbnail_url": "https://images.genius.com/fcdfae20cf9e3228e74432db24dd5343.300x300x1.jpg",
+     "header_image_url": "https://images.genius.com/fcdfae20cf9e3228e74432db24dd5343.640x640x1.jpg",
+     "id": 5800894,
+     "lyrics_owner_id": 11300675,
+     "lyrics_state": "complete",
+     "path": "/Alrahim-wright-iii-closing-my-eyes-lyrics",
+     "pyongs_count": null,
+     "song_art_image_thumbnail_url": "https://images.genius.com/fcdfae20cf9e3228e74432db24dd5343.300x300x1.jpg",
+     "song_art_image_url": "https://images.genius.com/fcdfae20cf9e3228e74432db24dd5343.640x640x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 1,
+      "hot": false
+     },
+     "title": "Closing My Eyes",
+     "title_with_featured": "Closing My Eyes (Ft.\u00a0DJAfroKid & Whize)",
+     "url": "https://genius.com/Alrahim-wright-iii-closing-my-eyes-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/1138699",
+      "header_image_url": "https://images.genius.com/02ee6fbe2587aa2cb4fc55af8477ea42.1000x563x1.jpg",
+      "id": 1138699,
+      "image_url": "https://images.genius.com/49b9067859071d907bcc72a7e5b7ab82.1000x1000x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": true,
+      "name": "Alrahim Wright III",
+      "url": "https://genius.com/artists/Alrahim-wright-iii",
+      "iq": 750
+     }
+    },
+    {
+     "annotation_count": 0,
+     "api_path": "/songs/6199304",
+     "full_title": "XXXTENTACION BEST SONGS MIX (Vol. 2) by\u00a0Make\u00a0music, no suicide",
+     "header_image_thumbnail_url": "https://images.genius.com/c7981b6653faf2bd96b640621f427004.300x300x1.png",
+     "header_image_url": "https://images.genius.com/c7981b6653faf2bd96b640621f427004.600x600x1.png",
+     "id": 6199304,
+     "lyrics_owner_id": 10939760,
+     "lyrics_state": "complete",
+     "path": "/Make-music-no-suicide-xxxtentacion-best-songs-mix-vol-2-lyrics",
+     "pyongs_count": null,
+     "song_art_image_thumbnail_url": "https://images.genius.com/c7981b6653faf2bd96b640621f427004.300x300x1.png",
+     "song_art_image_url": "https://images.genius.com/c7981b6653faf2bd96b640621f427004.600x600x1.png",
+     "stats": {
+      "unreviewed_annotations": 0,
+      "hot": false
+     },
+     "title": "XXXTENTACION BEST SONGS MIX (Vol. 2)",
+     "title_with_featured": "XXXTENTACION BEST SONGS MIX (Vol. 2)",
+     "url": "https://genius.com/Make-music-no-suicide-xxxtentacion-best-songs-mix-vol-2-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/2488486",
+      "header_image_url": "https://images.genius.com/036125605fd609d2e8fc7c2af7124741.1000x562x1.png",
+      "id": 2488486,
+      "image_url": "https://images.genius.com/943ea7434afffcca9eac9fbfa6957602.382x382x1.png",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Make music, no suicide",
+      "url": "https://genius.com/artists/Make-music-no-suicide"
+     }
+    }
+   ]
+  },
+  {
+   "relationship_type": "interpolates",
+   "type": "interpolates",
+   "songs": []
+  },
+  {
+   "relationship_type": "interpolated_by",
+   "type": "interpolated_by",
+   "songs": [
+    {
+     "annotation_count": 12,
+     "api_path": "/songs/3275919",
+     "full_title": "Jocelyn Flores by\u00a0Swerzie",
+     "header_image_thumbnail_url": "https://images.genius.com/19167c046144aaa99d9c082280eaffa4.300x300x1.jpg",
+     "header_image_url": "https://images.genius.com/19167c046144aaa99d9c082280eaffa4.500x500x1.jpg",
+     "id": 3275919,
+     "lyrics_owner_id": 4493006,
+     "lyrics_state": "complete",
+     "path": "/Swerzie-jocelyn-flores-lyrics",
+     "pyongs_count": 1,
+     "song_art_image_thumbnail_url": "https://images.genius.com/19167c046144aaa99d9c082280eaffa4.300x300x1.jpg",
+     "song_art_image_url": "https://images.genius.com/19167c046144aaa99d9c082280eaffa4.500x500x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 12,
+      "hot": false,
+      "pageviews": 12357
+     },
+     "title": "Jocelyn Flores",
+     "title_with_featured": "Jocelyn Flores",
+     "url": "https://genius.com/Swerzie-jocelyn-flores-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/60392",
+      "header_image_url": "https://images.genius.com/b60b71cd6346091b54183492e51c2b0e.440x587x1.jpg",
+      "id": 60392,
+      "image_url": "https://images.genius.com/eb1664328547acca05428aa2ff0c2302.1000x1000x1.png",
+      "is_meme_verified": false,
+      "is_verified": true,
+      "name": "Swerzie",
+      "url": "https://genius.com/artists/Swerzie",
+      "iq": 517
+     }
+    },
+    {
+     "annotation_count": 7,
+     "api_path": "/songs/4117868",
+     "full_title": "Guardian angel by\u00a0XXXTENTACION",
+     "header_image_thumbnail_url": "https://images.genius.com/73cc940e45f93f3af1dc1af076f965cd.300x300x1.jpg",
+     "header_image_url": "https://images.genius.com/73cc940e45f93f3af1dc1af076f965cd.1000x1000x1.jpg",
+     "id": 4117868,
+     "lyrics_owner_id": 1505217,
+     "lyrics_state": "complete",
+     "path": "/Xxxtentacion-guardian-angel-lyrics",
+     "pyongs_count": 165,
+     "song_art_image_thumbnail_url": "https://images.genius.com/73cc940e45f93f3af1dc1af076f965cd.300x300x1.jpg",
+     "song_art_image_url": "https://images.genius.com/73cc940e45f93f3af1dc1af076f965cd.1000x1000x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 1,
+      "hot": false,
+      "pageviews": 790258
+     },
+     "title": "Guardian angel",
+     "title_with_featured": "Guardian angel",
+     "url": "https://genius.com/Xxxtentacion-guardian-angel-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/396565",
+      "header_image_url": "https://images.genius.com/a41c96abd3edca53b641d7e87d319766.1000x563x1.jpg",
+      "id": 396565,
+      "image_url": "https://images.genius.com/e7d452ae7fa3da11e1ebf16e866a2770.790x790x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": true,
+      "name": "XXXTENTACION",
+      "url": "https://genius.com/artists/Xxxtentacion",
+      "iq": 359
+     }
+    },
+    {
+     "annotation_count": 1,
+     "api_path": "/songs/4275611",
+     "full_title": "\u0425\u043e\u043b\u043e\u0434 (Cold) by\u00a0\u041a\u0420\u0415\u0421\u0422\u00a0(KREST)",
+     "header_image_thumbnail_url": "https://images.genius.com/12e0b799b7e99508c19ef0950715f363.300x300x1.jpg",
+     "header_image_url": "https://images.genius.com/12e0b799b7e99508c19ef0950715f363.1000x1000x1.jpg",
+     "id": 4275611,
+     "lyrics_owner_id": 6595816,
+     "lyrics_state": "complete",
+     "path": "/Krest-cold-lyrics",
+     "pyongs_count": 2,
+     "song_art_image_thumbnail_url": "https://images.genius.com/12e0b799b7e99508c19ef0950715f363.300x300x1.jpg",
+     "song_art_image_url": "https://images.genius.com/12e0b799b7e99508c19ef0950715f363.1000x1000x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 1,
+      "hot": false,
+      "pageviews": 26163
+     },
+     "title": "\u0425\u043e\u043b\u043e\u0434 (Cold)",
+     "title_with_featured": "\u0425\u043e\u043b\u043e\u0434 (Cold)",
+     "url": "https://genius.com/Krest-cold-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/1523120",
+      "header_image_url": "https://images.genius.com/593730fd4cdd806c12c3493f3bbc6c37.900x506x1.jpg",
+      "id": 1523120,
+      "image_url": "https://images.genius.com/c38cbc7802127f72585c6f172f2a8da8.897x897x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": true,
+      "name": "\u041a\u0420\u0415\u0421\u0422 (KREST)",
+      "url": "https://genius.com/artists/Krest",
+      "iq": 484
+     }
+    },
+    {
+     "annotation_count": 0,
+     "api_path": "/songs/4392859",
+     "full_title": "\u041c\u043e\u044f \u0437\u0432\u0435\u0437\u0434\u0430 (My star) by\u00a0Rauf\u00a0& Faik",
+     "header_image_thumbnail_url": "https://images.genius.com/b2ff4fa375c43bf2f5529baf5ce7308d.300x300x1.jpg",
+     "header_image_url": "https://images.genius.com/b2ff4fa375c43bf2f5529baf5ce7308d.1000x1000x1.jpg",
+     "id": 4392859,
+     "lyrics_owner_id": 5827093,
+     "lyrics_state": "complete",
+     "path": "/Rauf-and-faik-my-star-lyrics",
+     "pyongs_count": null,
+     "song_art_image_thumbnail_url": "https://images.genius.com/b2ff4fa375c43bf2f5529baf5ce7308d.300x300x1.jpg",
+     "song_art_image_url": "https://images.genius.com/b2ff4fa375c43bf2f5529baf5ce7308d.1000x1000x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 0,
+      "hot": false,
+      "pageviews": 5451
+     },
+     "title": "\u041c\u043e\u044f \u0437\u0432\u0435\u0437\u0434\u0430 (My star)",
+     "title_with_featured": "\u041c\u043e\u044f \u0437\u0432\u0435\u0437\u0434\u0430 (My star)",
+     "url": "https://genius.com/Rauf-and-faik-my-star-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/1619976",
+      "header_image_url": "https://images.genius.com/39f1730ebfcf2e233c91a0e36b5568fa.1000x210x1.jpg",
+      "id": 1619976,
+      "image_url": "https://images.genius.com/edb3fc3a1551d9b54a1023b074d99ce3.1000x1000x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": true,
+      "name": "Rauf & Faik",
+      "url": "https://genius.com/artists/Rauf-and-faik",
+      "iq": 109
+     }
+    },
+    {
+     "annotation_count": 1,
+     "api_path": "/songs/4867683",
+     "full_title": "20 Styles of Rapping! by\u00a0Quadeca",
+     "header_image_thumbnail_url": "https://images.genius.com/b31da64f323b1a2b726837ed0a96a68e.168x94x1.webp",
+     "header_image_url": "https://images.genius.com/b31da64f323b1a2b726837ed0a96a68e.168x94x1.webp",
+     "id": 4867683,
+     "lyrics_owner_id": 7435520,
+     "lyrics_state": "complete",
+     "path": "/Quadeca-20-styles-of-rapping-lyrics",
+     "pyongs_count": null,
+     "song_art_image_thumbnail_url": "https://images.genius.com/b31da64f323b1a2b726837ed0a96a68e.168x94x1.webp",
+     "song_art_image_url": "https://images.genius.com/b31da64f323b1a2b726837ed0a96a68e.168x94x1.webp",
+     "stats": {
+      "unreviewed_annotations": 1,
+      "hot": false
+     },
+     "title": "20 Styles of Rapping!",
+     "title_with_featured": "20 Styles of Rapping!",
+     "url": "https://genius.com/Quadeca-20-styles-of-rapping-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/683879",
+      "header_image_url": "https://images.genius.com/07b2862f0ab5fc8e7b44e1c2618a1aa4.1000x563x1.jpg",
+      "id": 683879,
+      "image_url": "https://images.genius.com/bd0be80d12436f088423924f0c25ad15.500x500x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": true,
+      "name": "Quadeca",
+      "url": "https://genius.com/artists/Quadeca",
+      "iq": 4730
+     }
+    },
+    {
+     "annotation_count": 0,
+     "api_path": "/songs/5568653",
+     "full_title": "\u042f \u043d\u0435 \u0445\u043e\u0447\u0443 \u0441\u043f\u0430\u0442\u044c (I don't want to sleep) by\u00a0Rakhim",
+     "header_image_thumbnail_url": "https://images.genius.com/78552a394215054e9a78959d7a165021.300x300x1.jpg",
+     "header_image_url": "https://images.genius.com/78552a394215054e9a78959d7a165021.1000x1000x1.jpg",
+     "id": 5568653,
+     "lyrics_owner_id": 10447381,
+     "lyrics_state": "complete",
+     "path": "/Rakhim-i-dont-want-to-sleep-lyrics",
+     "pyongs_count": 1,
+     "song_art_image_thumbnail_url": "https://images.genius.com/78552a394215054e9a78959d7a165021.300x300x1.jpg",
+     "song_art_image_url": "https://images.genius.com/78552a394215054e9a78959d7a165021.1000x1000x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 0,
+      "hot": false
+     },
+     "title": "\u042f \u043d\u0435 \u0445\u043e\u0447\u0443 \u0441\u043f\u0430\u0442\u044c (I don\u2019t want to sleep)",
+     "title_with_featured": "\u042f \u043d\u0435 \u0445\u043e\u0447\u0443 \u0441\u043f\u0430\u0442\u044c (I don't want to sleep)",
+     "url": "https://genius.com/Rakhim-i-dont-want-to-sleep-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/2208707",
+      "header_image_url": "https://images.genius.com/e73f15802b6383009a356bcdba8c72b3.1000x165x1.jpg",
+      "id": 2208707,
+      "image_url": "https://images.genius.com/225eff1d820b5f6bc39d7c1cfc3469b8.500x500x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Rakhim",
+      "url": "https://genius.com/artists/Rakhim"
+     }
+    },
+    {
+     "annotation_count": 0,
+     "api_path": "/songs/6179147",
+     "full_title": "#sadboyhours pt. 1 by\u00a0Rxsemxxn (Ft.\u00a0Vict\u00a0Molina)",
+     "header_image_thumbnail_url": "https://images.genius.com/447b87beb51a13872dd4532d1621785b.300x300x1.png",
+     "header_image_url": "https://images.genius.com/447b87beb51a13872dd4532d1621785b.522x522x1.png",
+     "id": 6179147,
+     "lyrics_owner_id": 12066514,
+     "lyrics_state": "complete",
+     "path": "/Rxsemxxn-sadboyhours-pt-1-lyrics",
+     "pyongs_count": null,
+     "song_art_image_thumbnail_url": "https://images.genius.com/447b87beb51a13872dd4532d1621785b.300x300x1.png",
+     "song_art_image_url": "https://images.genius.com/447b87beb51a13872dd4532d1621785b.522x522x1.png",
+     "stats": {
+      "unreviewed_annotations": 0,
+      "hot": false
+     },
+     "title": "#sadboyhours pt. 1",
+     "title_with_featured": "#sadboyhours pt. 1 (Ft.\u00a0Vict\u00a0Molina)",
+     "url": "https://genius.com/Rxsemxxn-sadboyhours-pt-1-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/2461447",
+      "header_image_url": "https://images.genius.com/988d4e88de4b0f53ed02010ef8b635be.600x600x1.jpg",
+      "id": 2461447,
+      "image_url": "https://images.genius.com/3222fba345fb73ccbc27da88e92f26db.225x225x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Rxsemxxn",
+      "url": "https://genius.com/artists/Rxsemxxn"
+     }
+    }
+   ]
+  },
+  {
+   "relationship_type": "cover_of",
+   "type": "cover_of",
+   "songs": []
+  },
+  {
+   "relationship_type": "covered_by",
+   "type": "covered_by",
+   "songs": [
+    {
+     "annotation_count": 1,
+     "api_path": "/songs/5334340",
+     "full_title": "Jocelyn Flores Remix by\u00a0MAX",
+     "header_image_thumbnail_url": "https://images.genius.com/f745976ed43610839fb4a9f0de13dc2d.300x300x1.jpg",
+     "header_image_url": "https://images.genius.com/f745976ed43610839fb4a9f0de13dc2d.980x980x1.jpg",
+     "id": 5334340,
+     "lyrics_owner_id": 10422012,
+     "lyrics_state": "complete",
+     "path": "/Max-jocelyn-flores-remix-lyrics",
+     "pyongs_count": 1,
+     "song_art_image_thumbnail_url": "https://images.genius.com/f745976ed43610839fb4a9f0de13dc2d.300x300x1.jpg",
+     "song_art_image_url": "https://images.genius.com/f745976ed43610839fb4a9f0de13dc2d.980x980x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 1,
+      "hot": false
+     },
+     "title": "Jocelyn Flores Remix",
+     "title_with_featured": "Jocelyn Flores Remix",
+     "url": "https://genius.com/Max-jocelyn-flores-remix-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/15071",
+      "header_image_url": "https://images.genius.com/10f3e4c76756620bfd05437e320325e5.1000x563x1.png",
+      "id": 15071,
+      "image_url": "https://images.genius.com/d6b49d809ec1c130a5f66f91d4b31b0f.400x400x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "MAX",
+      "url": "https://genius.com/artists/Max"
+     }
+    },
+    {
+     "annotation_count": 0,
+     "api_path": "/songs/5371983",
+     "full_title": "Jocelyn Flores by\u00a0Roboi",
+     "header_image_thumbnail_url": "https://images.genius.com/c1f8e7450ec83526b2d088be694203f6.188x188x1.jpg",
+     "header_image_url": "https://images.genius.com/c1f8e7450ec83526b2d088be694203f6.188x188x1.jpg",
+     "id": 5371983,
+     "lyrics_owner_id": 9991499,
+     "lyrics_state": "complete",
+     "path": "/Roboi-jocelyn-flores-lyrics",
+     "pyongs_count": null,
+     "song_art_image_thumbnail_url": "https://images.genius.com/c1f8e7450ec83526b2d088be694203f6.188x188x1.jpg",
+     "song_art_image_url": "https://images.genius.com/c1f8e7450ec83526b2d088be694203f6.188x188x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 0,
+      "hot": false
+     },
+     "title": "Jocelyn Flores",
+     "title_with_featured": "Jocelyn Flores",
+     "url": "https://genius.com/Roboi-jocelyn-flores-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/2081386",
+      "header_image_url": "https://images.genius.com/995a1cc49697b86b05af6c0783f08de7.672x672x1.png",
+      "id": 2081386,
+      "image_url": "https://images.genius.com/995a1cc49697b86b05af6c0783f08de7.672x672x1.png",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Roboi",
+      "url": "https://genius.com/artists/Roboi"
+     }
+    }
+   ]
+  },
+  {
+   "relationship_type": "remix_of",
+   "type": "remix_of",
+   "songs": [
+    {
+     "annotation_count": 2,
+     "api_path": "/songs/3224398",
+     "full_title": "\u200bim closing my eyes by\u00a0\u200bpotsu (Ft.\u00a0Shiloh\u00a0Dynasty)",
+     "header_image_thumbnail_url": "https://images.genius.com/8335c99719d0e2e9e3dceafa2c47e053.300x300x1.jpg",
+     "header_image_url": "https://images.genius.com/8335c99719d0e2e9e3dceafa2c47e053.500x500x1.jpg",
+     "id": 3224398,
+     "lyrics_owner_id": 2947998,
+     "lyrics_state": "complete",
+     "path": "/Potsu-im-closing-my-eyes-lyrics",
+     "pyongs_count": 19,
+     "song_art_image_thumbnail_url": "https://images.genius.com/8335c99719d0e2e9e3dceafa2c47e053.300x300x1.jpg",
+     "song_art_image_url": "https://images.genius.com/8335c99719d0e2e9e3dceafa2c47e053.500x500x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 1,
+      "hot": false,
+      "pageviews": 207769
+     },
+     "title": "\u200bim closing my eyes",
+     "title_with_featured": "\u200bim closing my eyes (Ft.\u00a0Shiloh\u00a0Dynasty)",
+     "url": "https://genius.com/Potsu-im-closing-my-eyes-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/1150640",
+      "header_image_url": "https://images.genius.com/96bbecda03d543464a081749b9cae9a9.1000x333x1.jpg",
+      "id": 1150640,
+      "image_url": "https://images.genius.com/8d7b9d55679515773f8d1df4052517a7.805x805x1.png",
+      "is_meme_verified": false,
+      "is_verified": true,
+      "name": "\u200bpotsu",
+      "url": "https://genius.com/artists/Potsu",
+      "iq": 161
+     }
+    }
+   ]
+  },
+  {
+   "relationship_type": "remixed_by",
+   "type": "remixed_by",
+   "songs": [
+    {
+     "annotation_count": 1,
+     "api_path": "/songs/3224160",
+     "full_title": "Flores by\u00a0Rojuu",
+     "header_image_thumbnail_url": "https://images.genius.com/ecebbc95317cbb25382dae32d94d78ab.300x300x1.jpg",
+     "header_image_url": "https://images.genius.com/ecebbc95317cbb25382dae32d94d78ab.1000x1000x1.jpg",
+     "id": 3224160,
+     "lyrics_owner_id": 5158426,
+     "lyrics_state": "complete",
+     "path": "/Rojuu-flores-lyrics",
+     "pyongs_count": null,
+     "song_art_image_thumbnail_url": "https://images.genius.com/ecebbc95317cbb25382dae32d94d78ab.300x300x1.jpg",
+     "song_art_image_url": "https://images.genius.com/ecebbc95317cbb25382dae32d94d78ab.1000x1000x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 0,
+      "hot": false
+     },
+     "title": "Flores",
+     "title_with_featured": "Flores",
+     "url": "https://genius.com/Rojuu-flores-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/1023559",
+      "header_image_url": "https://images.genius.com/ea69aa377f1e8e6d708503cf4972647f.1000x563x1.jpg",
+      "id": 1023559,
+      "image_url": "https://images.genius.com/1130cc004dd68f9236790a785feb72a0.640x640x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": true,
+      "name": "Rojuu",
+      "url": "https://genius.com/artists/Rojuu",
+      "iq": 5970
+     }
+    },
+    {
+     "annotation_count": 0,
+     "api_path": "/songs/3547391",
+     "full_title": "What Happened? by\u00a0RAVEN!",
+     "header_image_thumbnail_url": "https://images.genius.com/1c322a01858ca4368fb2cb853da43b01.300x299x1.jpg",
+     "header_image_url": "https://images.genius.com/1c322a01858ca4368fb2cb853da43b01.502x500x1.jpg",
+     "id": 3547391,
+     "lyrics_owner_id": 5408923,
+     "lyrics_state": "complete",
+     "path": "/Raven-what-happened-lyrics",
+     "pyongs_count": null,
+     "song_art_image_thumbnail_url": "https://images.genius.com/1c322a01858ca4368fb2cb853da43b01.300x299x1.jpg",
+     "song_art_image_url": "https://images.genius.com/1c322a01858ca4368fb2cb853da43b01.502x500x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 0,
+      "hot": false
+     },
+     "title": "What Happened?",
+     "title_with_featured": "What Happened?",
+     "url": "https://genius.com/Raven-what-happened-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/1365532",
+      "header_image_url": "https://images.genius.com/d53c204c0d43ad9b4cc44985087eb3fa.1000x1000x1.png",
+      "id": 1365532,
+      "image_url": "https://images.genius.com/65e9c04c3da0de861857f77fb9269b86.509x509x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": true,
+      "name": "RAVEN!",
+      "url": "https://genius.com/artists/Raven",
+      "iq": 165
+     }
+    },
+    {
+     "annotation_count": 12,
+     "api_path": "/songs/4189189",
+     "full_title": "Mind Prison by\u00a0StoryofSaint",
+     "header_image_thumbnail_url": "https://images.genius.com/08672e9e0f0703429dcf7e50aa3b2967.300x300x1.jpg",
+     "header_image_url": "https://images.genius.com/08672e9e0f0703429dcf7e50aa3b2967.1000x1000x1.jpg",
+     "id": 4189189,
+     "lyrics_owner_id": 6164713,
+     "lyrics_state": "complete",
+     "path": "/Storyofsaint-mind-prison-lyrics",
+     "pyongs_count": null,
+     "song_art_image_thumbnail_url": "https://images.genius.com/08672e9e0f0703429dcf7e50aa3b2967.300x300x1.jpg",
+     "song_art_image_url": "https://images.genius.com/08672e9e0f0703429dcf7e50aa3b2967.1000x1000x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 0,
+      "hot": false
+     },
+     "title": "Mind Prison",
+     "title_with_featured": "Mind Prison",
+     "url": "https://genius.com/Storyofsaint-mind-prison-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/1672656",
+      "header_image_url": "https://images.genius.com/9fa79b4540b0619bbfacf025f62e8e93.1000x1000x1.jpg",
+      "id": 1672656,
+      "image_url": "https://images.genius.com/9fa79b4540b0619bbfacf025f62e8e93.1000x1000x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": true,
+      "name": "StoryofSaint",
+      "url": "https://genius.com/artists/Storyofsaint",
+      "iq": 5585
+     }
+    },
+    {
+     "annotation_count": 0,
+     "api_path": "/songs/4540391",
+     "full_title": "JOCELYN FLORES - BURTON RMX by\u00a0Drill\u00a0Burton",
+     "header_image_thumbnail_url": "https://images.genius.com/0337e28d4b524f3ca4a130c4578f4a51.300x300x1.jpg",
+     "header_image_url": "https://images.genius.com/0337e28d4b524f3ca4a130c4578f4a51.1000x1000x1.jpg",
+     "id": 4540391,
+     "lyrics_owner_id": 3894218,
+     "lyrics_state": "complete",
+     "path": "/Drill-burton-jocelyn-flores-burton-rmx-lyrics",
+     "pyongs_count": null,
+     "song_art_image_thumbnail_url": "https://images.genius.com/0337e28d4b524f3ca4a130c4578f4a51.300x300x1.jpg",
+     "song_art_image_url": "https://images.genius.com/0337e28d4b524f3ca4a130c4578f4a51.1000x1000x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 0,
+      "hot": false
+     },
+     "title": "JOCELYN FLORES - BURTON RMX",
+     "title_with_featured": "JOCELYN FLORES - BURTON RMX",
+     "url": "https://genius.com/Drill-burton-jocelyn-flores-burton-rmx-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/1818538",
+      "header_image_url": "https://images.genius.com/0337e28d4b524f3ca4a130c4578f4a51.1000x1000x1.jpg",
+      "id": 1818538,
+      "image_url": "https://images.genius.com/0337e28d4b524f3ca4a130c4578f4a51.1000x1000x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Drill Burton",
+      "url": "https://genius.com/artists/Drill-burton"
+     }
+    },
+    {
+     "annotation_count": 3,
+     "api_path": "/songs/4653898",
+     "full_title": "Gennady Gorin will be fine by\u00a0Gefalsht",
+     "header_image_thumbnail_url": "https://images.genius.com/4613d7539eb0b17c871e3840b1f90827.300x302x1.jpg",
+     "header_image_url": "https://images.genius.com/4613d7539eb0b17c871e3840b1f90827.495x499x1.jpg",
+     "id": 4653898,
+     "lyrics_owner_id": 8790402,
+     "lyrics_state": "complete",
+     "path": "/Gefalsht-gennady-gorin-will-be-fine-lyrics",
+     "pyongs_count": 8,
+     "song_art_image_thumbnail_url": "https://images.genius.com/4613d7539eb0b17c871e3840b1f90827.300x302x1.jpg",
+     "song_art_image_url": "https://images.genius.com/4613d7539eb0b17c871e3840b1f90827.495x499x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 3,
+      "hot": false,
+      "pageviews": 14800
+     },
+     "title": "Gennady Gorin will be fine",
+     "title_with_featured": "Gennady Gorin will be fine",
+     "url": "https://genius.com/Gefalsht-gennady-gorin-will-be-fine-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/1865801",
+      "header_image_url": "https://images.genius.com/1c262112618d3df16122b61b26b544b9.912x912x1.jpg",
+      "id": 1865801,
+      "image_url": "https://images.genius.com/1c262112618d3df16122b61b26b544b9.912x912x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Gefalsht",
+      "url": "https://genius.com/artists/Gefalsht"
+     }
+    },
+    {
+     "annotation_count": 0,
+     "api_path": "/songs/5083436",
+     "full_title": "Numb (Jocelyn Flores Acoustic Remix/Rewrite) by\u00a0Rempola (Ft.\u00a0MayaHiga)",
+     "header_image_thumbnail_url": "https://images.genius.com/f3336db8ef59972b8532c467a54f6862.300x300x1.jpg",
+     "header_image_url": "https://images.genius.com/f3336db8ef59972b8532c467a54f6862.500x500x1.jpg",
+     "id": 5083436,
+     "lyrics_owner_id": 7649223,
+     "lyrics_state": "complete",
+     "path": "/Rempola-numb-jocelyn-flores-acoustic-remix-rewrite-lyrics",
+     "pyongs_count": null,
+     "song_art_image_thumbnail_url": "https://images.genius.com/f3336db8ef59972b8532c467a54f6862.300x300x1.jpg",
+     "song_art_image_url": "https://images.genius.com/f3336db8ef59972b8532c467a54f6862.500x500x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 0,
+      "hot": false
+     },
+     "title": "Numb (Jocelyn Flores Acoustic Remix/Rewrite)",
+     "title_with_featured": "Numb (Jocelyn Flores Acoustic Remix/Rewrite) (Ft.\u00a0MayaHiga)",
+     "url": "https://genius.com/Rempola-numb-jocelyn-flores-acoustic-remix-rewrite-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/2039227",
+      "header_image_url": "https://images.genius.com/74668a20e0da9b2b2f8d2cce47b5729e.1000x333x1.png",
+      "id": 2039227,
+      "image_url": "https://images.genius.com/c59c9aa7b60963f45d164d40bbd957b4.500x500x1.png",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Rempola",
+      "url": "https://genius.com/artists/Rempola"
+     }
+    },
+    {
+     "annotation_count": 0,
+     "api_path": "/songs/5107851",
+     "full_title": "Jocelyn Flores (Remix) by\u00a0Papithbk (Ft.\u00a0Papithbk)",
+     "header_image_thumbnail_url": "https://images.genius.com/e5b535fa97e94e075790ff8f8075c95d.300x300x1.jpg",
+     "header_image_url": "https://images.genius.com/e5b535fa97e94e075790ff8f8075c95d.480x480x1.jpg",
+     "id": 5107851,
+     "lyrics_owner_id": 5461609,
+     "lyrics_state": "complete",
+     "path": "/Papithbk-jocelyn-flores-remix-lyrics",
+     "pyongs_count": null,
+     "song_art_image_thumbnail_url": "https://images.genius.com/e5b535fa97e94e075790ff8f8075c95d.300x300x1.jpg",
+     "song_art_image_url": "https://images.genius.com/e5b535fa97e94e075790ff8f8075c95d.480x480x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 0,
+      "hot": false
+     },
+     "title": "Jocelyn Flores (Remix)",
+     "title_with_featured": "Jocelyn Flores (Remix) (Ft.\u00a0Papithbk)",
+     "url": "https://genius.com/Papithbk-jocelyn-flores-remix-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/1591282",
+      "header_image_url": "https://images.genius.com/0b68a6437ff962bf2f4ae77a15137bca.350x350x1.jpg",
+      "id": 1591282,
+      "image_url": "https://images.genius.com/e5b535fa97e94e075790ff8f8075c95d.480x480x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Papithbk",
+      "url": "https://genius.com/artists/Papithbk"
+     }
+    },
+    {
+     "annotation_count": 0,
+     "api_path": "/songs/5302128",
+     "full_title": "Jocelyn Flores RMX by\u00a0Matteo\u00a0Salvi",
+     "header_image_thumbnail_url": "https://images.genius.com/3c88f606a61a60adedae1a3c9aafbc40.85x85x1.jpg",
+     "header_image_url": "https://images.genius.com/3c88f606a61a60adedae1a3c9aafbc40.85x85x1.jpg",
+     "id": 5302128,
+     "lyrics_owner_id": 10152197,
+     "lyrics_state": "complete",
+     "path": "/Matteo-salvi-jocelyn-flores-rmx-lyrics",
+     "pyongs_count": null,
+     "song_art_image_thumbnail_url": "https://images.genius.com/3c88f606a61a60adedae1a3c9aafbc40.85x85x1.jpg",
+     "song_art_image_url": "https://images.genius.com/3c88f606a61a60adedae1a3c9aafbc40.85x85x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 0,
+      "hot": false
+     },
+     "title": "Jocelyn Flores RMX",
+     "title_with_featured": "Jocelyn Flores RMX",
+     "url": "https://genius.com/Matteo-salvi-jocelyn-flores-rmx-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/2126992",
+      "header_image_url": "https://images.genius.com/e3ac4b15efe7191dba3bed0aed738192.1000x501x1.jpg",
+      "id": 2126992,
+      "image_url": "https://images.genius.com/ed68e87e3599bba88ba4ba08a47c7fe7.1000x1000x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Matteo Salvi",
+      "url": "https://genius.com/artists/Matteo-salvi"
+     }
+    },
+    {
+     "annotation_count": 0,
+     "api_path": "/songs/5552820",
+     "full_title": "Jocelyn Flores Freestyle by\u00a0MBDarth",
+     "header_image_thumbnail_url": "https://assets.genius.com/images/default_cover_image.png?1606943206",
+     "header_image_url": "https://assets.genius.com/images/default_cover_image.png?1606943206",
+     "id": 5552820,
+     "lyrics_owner_id": 10849446,
+     "lyrics_state": "complete",
+     "path": "/Mbdarth-jocelyn-flores-freestyle-lyrics",
+     "pyongs_count": null,
+     "song_art_image_thumbnail_url": "https://assets.genius.com/images/default_cover_image.png?1606943206",
+     "song_art_image_url": "https://assets.genius.com/images/default_cover_image.png?1606943206",
+     "stats": {
+      "unreviewed_annotations": 0,
+      "hot": false
+     },
+     "title": "Jocelyn Flores Freestyle",
+     "title_with_featured": "Jocelyn Flores Freestyle",
+     "url": "https://genius.com/Mbdarth-jocelyn-flores-freestyle-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/2230740",
+      "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+      "id": 2230740,
+      "image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "MBDarth",
+      "url": "https://genius.com/artists/Mbdarth"
+     }
+    },
+    {
+     "annotation_count": 0,
+     "api_path": "/songs/5628274",
+     "full_title": "Qu\u00e9date by\u00a0Rad\u00a0Gussy (Ft.\u00a0Rad\u00a0Gussy)",
+     "header_image_thumbnail_url": "https://images.genius.com/1ea6d11504678b4676298d6e315710f1.300x300x1.jpg",
+     "header_image_url": "https://images.genius.com/1ea6d11504678b4676298d6e315710f1.500x500x1.jpg",
+     "id": 5628274,
+     "lyrics_owner_id": 11021554,
+     "lyrics_state": "complete",
+     "path": "/Rad-gussy-quedate-lyrics",
+     "pyongs_count": null,
+     "song_art_image_thumbnail_url": "https://images.genius.com/1ea6d11504678b4676298d6e315710f1.300x300x1.jpg",
+     "song_art_image_url": "https://images.genius.com/1ea6d11504678b4676298d6e315710f1.500x500x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 0,
+      "hot": false
+     },
+     "title": "Qu\u00e9date",
+     "title_with_featured": "Qu\u00e9date (Ft.\u00a0Rad\u00a0Gussy)",
+     "url": "https://genius.com/Rad-gussy-quedate-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/2265206",
+      "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+      "id": 2265206,
+      "image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Rad Gussy",
+      "url": "https://genius.com/artists/Rad-gussy"
+     }
+    },
+    {
+     "annotation_count": 1,
+     "api_path": "/songs/5682790",
+     "full_title": "Jocelyn Flores RMX by\u00a0Iliad\u00a0(ITA)",
+     "header_image_thumbnail_url": "https://images.genius.com/e1fb97d73769d26b8d2a98d4a7fbc0f5.300x300x1.jpg",
+     "header_image_url": "https://images.genius.com/e1fb97d73769d26b8d2a98d4a7fbc0f5.1000x1000x1.jpg",
+     "id": 5682790,
+     "lyrics_owner_id": 10977089,
+     "lyrics_state": "complete",
+     "path": "/Iliad-ita-jocelyn-flores-rmx-lyrics",
+     "pyongs_count": null,
+     "song_art_image_thumbnail_url": "https://images.genius.com/e1fb97d73769d26b8d2a98d4a7fbc0f5.300x300x1.jpg",
+     "song_art_image_url": "https://images.genius.com/e1fb97d73769d26b8d2a98d4a7fbc0f5.1000x1000x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 1,
+      "hot": false
+     },
+     "title": "Jocelyn Flores RMX",
+     "title_with_featured": "Jocelyn Flores RMX",
+     "url": "https://genius.com/Iliad-ita-jocelyn-flores-rmx-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/2287788",
+      "header_image_url": "https://images.genius.com/0312da150dbbf30745b9bdec0aaa2f84.1000x1000x1.jpg",
+      "id": 2287788,
+      "image_url": "https://images.genius.com/24923e849572164a07fe51a691424c41.1000x1000x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Iliad (ITA)",
+      "url": "https://genius.com/artists/Iliad-ita"
+     }
+    },
+    {
+     "annotation_count": 0,
+     "api_path": "/songs/5844407",
+     "full_title": "Jocelyn Flores by\u00a0\u200bdowntime",
+     "header_image_thumbnail_url": "https://images.genius.com/529854c67a99804d6f86cbcc59e91a16.300x300x1.jpg",
+     "header_image_url": "https://images.genius.com/529854c67a99804d6f86cbcc59e91a16.500x500x1.jpg",
+     "id": 5844407,
+     "lyrics_owner_id": 7095211,
+     "lyrics_state": "complete",
+     "path": "/Downtime-jocelyn-flores-lyrics",
+     "pyongs_count": null,
+     "song_art_image_thumbnail_url": "https://images.genius.com/529854c67a99804d6f86cbcc59e91a16.300x300x1.jpg",
+     "song_art_image_url": "https://images.genius.com/529854c67a99804d6f86cbcc59e91a16.500x500x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 0,
+      "hot": false
+     },
+     "title": "Jocelyn Flores",
+     "title_with_featured": "Jocelyn Flores",
+     "url": "https://genius.com/Downtime-jocelyn-flores-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/376181",
+      "header_image_url": "https://images.genius.com/47e812fa94d15a2e5664c476cc2d64b7.1000x210x1.jpg",
+      "id": 376181,
+      "image_url": "https://images.genius.com/529854c67a99804d6f86cbcc59e91a16.500x500x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "\u200bdowntime",
+      "url": "https://genius.com/artists/Downtime"
+     }
+    },
+    {
+     "annotation_count": 0,
+     "api_path": "/songs/5970734",
+     "full_title": "Jocelyn Flores Verse by\u00a0Ferdinand\u00a0Stan",
+     "header_image_thumbnail_url": "https://images.genius.com/2c3e04e5d83b09e7dd1840cc27ee91bd.300x300x1.jpg",
+     "header_image_url": "https://images.genius.com/2c3e04e5d83b09e7dd1840cc27ee91bd.500x500x1.jpg",
+     "id": 5970734,
+     "lyrics_owner_id": 8188683,
+     "lyrics_state": "complete",
+     "path": "/Ferdinand-stan-jocelyn-flores-verse-lyrics",
+     "pyongs_count": null,
+     "song_art_image_thumbnail_url": "https://images.genius.com/2c3e04e5d83b09e7dd1840cc27ee91bd.300x300x1.jpg",
+     "song_art_image_url": "https://images.genius.com/2c3e04e5d83b09e7dd1840cc27ee91bd.500x500x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 0,
+      "hot": false
+     },
+     "title": "Jocelyn Flores Verse",
+     "title_with_featured": "Jocelyn Flores Verse",
+     "url": "https://genius.com/Ferdinand-stan-jocelyn-flores-verse-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/2383644",
+      "header_image_url": "https://images.genius.com/fb09d40f8d6ca63d076f4e0500381e42.510x510x1.jpg",
+      "id": 2383644,
+      "image_url": "https://images.genius.com/fb09d40f8d6ca63d076f4e0500381e42.510x510x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Ferdinand Stan",
+      "url": "https://genius.com/artists/Ferdinand-stan"
+     }
+    }
+   ]
+  },
+  {
+   "relationship_type": "live_version_of",
+   "type": "live_version_of",
+   "songs": []
+  },
+  {
+   "relationship_type": "performed_live_as",
+   "type": "performed_live_as",
+   "songs": []
+  }
+ ],
+ "verified_annotations_by": [],
+ "verified_contributors": [],
+ "verified_lyrics_by": [],
+ "writer_artists": [
+  {
+   "api_path": "/artists/1027596",
+   "header_image_url": "https://images.genius.com/42b736f1a611e8b0e8de16ece80cf57c.800x800x1.jpg",
+   "id": 1027596,
+   "image_url": "https://images.genius.com/4366661e6ebeb709768c8937318e3246.800x800x1.jpg",
+   "is_meme_verified": false,
+   "is_verified": false,
+   "name": "Shiloh Dynasty",
+   "url": "https://genius.com/artists/Shiloh-dynasty"
+  },
+  {
+   "api_path": "/artists/396565",
+   "header_image_url": "https://images.genius.com/a41c96abd3edca53b641d7e87d319766.1000x563x1.jpg",
+   "id": 396565,
+   "image_url": "https://images.genius.com/e7d452ae7fa3da11e1ebf16e866a2770.790x790x1.jpg",
+   "is_meme_verified": false,
+   "is_verified": true,
+   "name": "XXXTENTACION",
+   "url": "https://genius.com/artists/Xxxtentacion",
+   "iq": 359
+  }
+ ],
+ "lyrics": "I know you so well, so well\nI mean, I can do anything that he can\nI've been pretty\u2014\n\nI know you're somewhere, somewhere\nI've been trapped in my mind, girl, just holding on\nI don't wanna pretend we're something, we're nothing\nI've been stuck thinking 'bout her, I can't hold on (I'll be feeling)\n\nI'm in pain, wanna put ten shots in my brain\nI've been trippin' 'bout some things, can't change\nSuicidal, same time I'm tame\nPicture this, in bed, get a phone call\nGirl that you fucked with killed herself\nThat was this summer when nobody helped\nAnd ever since then, man, I hate myself\nWanna fuckin' end it, pessimistic\nAll wanna see me with no pot to piss in\nBut niggas been excited 'bout the grave I'm diggin'\nHavin' conversations 'bout my haste decisions\nFuckin' sickenin'; at the same time\nMemories surface through the grapevine\n'Bout my uncle playin' with a slip knot\nPost-traumatic stress got me fucked up\nBeen fucked up since the couple months they had a nigga locked up\n\nI'll be feelin' pain, I'll be feelin' pain just to hold on\nAnd I don't feel the same, I'm so numb\nI'll be feelin' pain, I'll be feelin' pain just to hold on\nAnd I don't feel the same, I'm so numb\n\nI know you so well (I know you, girl)\nI mean, I can do better than he can\nI've been pretty\u2014\nI know you so well"
+}

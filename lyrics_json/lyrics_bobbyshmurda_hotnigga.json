@@ -1,0 +1,3183 @@
+{
+ "_type": "song",
+ "annotation_count": 43,
+ "api_path": "/songs/466028",
+ "full_title": "Hot Nigga by\u00a0Bobby\u00a0Shmurda",
+ "header_image_thumbnail_url": "https://images.genius.com/607fd96fc22e8b86a8325d5850fbae70.300x300x1.jpg",
+ "header_image_url": "https://images.genius.com/607fd96fc22e8b86a8325d5850fbae70.1000x1000x1.jpg",
+ "id": 466028,
+ "instrumental": false,
+ "lyrics_owner_id": 1019591,
+ "lyrics_state": "complete",
+ "lyrics_updated_at": 1606163395,
+ "path": "/Bobby-shmurda-hot-nigga-lyrics",
+ "pyongs_count": 3104,
+ "song_art_image_thumbnail_url": "https://images.genius.com/1fead2045c3bebc9db534fe83f8abfa2.300x300x1.png",
+ "song_art_image_url": "https://images.genius.com/1fead2045c3bebc9db534fe83f8abfa2.1000x1000x1.png",
+ "stats": {
+  "accepted_annotations": 42,
+  "contributors": 354,
+  "iq_earners": 352,
+  "transcribers": 9,
+  "unreviewed_annotations": 0,
+  "verified_annotations": 0,
+  "concurrents": 3,
+  "hot": false,
+  "pageviews": 5000096
+ },
+ "title": "Hot Nigga",
+ "title_with_featured": "Hot Nigga",
+ "updated_by_human_at": 1606163396,
+ "url": "https://genius.com/Bobby-shmurda-hot-nigga-lyrics",
+ "primary_artist": {
+  "api_path": "/artists/197731",
+  "header_image_url": "https://images.genius.com/bcc5d9dc8e1b2f354b83e49b2ee0dd0d.1000x1000x1.jpg",
+  "id": 197731,
+  "image_url": "https://images.genius.com/27d7933a8902e0a5bf84f1de70abcd81.1000x1000x1.jpg",
+  "is_meme_verified": false,
+  "is_verified": false,
+  "name": "Bobby Shmurda",
+  "url": "https://genius.com/artists/Bobby-shmurda"
+ },
+ "apple_music_id": "928631317",
+ "apple_music_player_url": "https://genius.com/songs/466028/apple_music_player",
+ "description": {
+  "plain": "\u201cHot Nigga\u201d\u2019s popularity came primarily due to the Shmoney Dance and this iconic line. The Shmoney Dance blew up on the popular social media app Vine, drawing a lot of interest in the actual song. It even hit the top ten of the Hot 100, peaking out at #6.\n\nMany celebrities have hit the Shmoney Dance, including Rihanna, Chris Brown, Beyonc\u00e9, Justin Bieber, and more."
+ },
+ "embed_content": "<div id='rg_embed_link_466028' class='rg_embed_link' data-song-id='466028'>Read <a href='https://genius.com/Bobby-shmurda-hot-nigga-lyrics'>\u201cHot Nigga\u201d by Bobby\u00a0Shmurda</a> on Genius</div> <script crossorigin src='//genius.com/songs/466028/embed.js'></script>",
+ "fact_track": {
+  "provider": "spotify",
+  "external_url": "https://open.spotify.com/track/19gEmPjfqSZT0ulDRfjl0m",
+  "button_text": "Behind the Lyrics in Spotify",
+  "help_link_text": "What's a Fact Track?",
+  "help_link_url": "https://genius.com/a/genius-and-spotify-together"
+ },
+ "featured_video": true,
+ "lyrics_placeholder_reason": null,
+ "recording_location": "New York",
+ "release_date": "2014-07-25",
+ "release_date_for_display": "July 25, 2014",
+ "current_user_metadata": {
+  "permissions": [
+   "see_pageviews",
+   "watch_fact_track",
+   "view_apple_music_player",
+   "create_comment",
+   "view_song_story_gallery"
+  ],
+  "excluded_permissions": [
+   "follow",
+   "award_transcription_iq",
+   "remove_transcription_iq",
+   "pyong",
+   "edit_lyrics",
+   "view_annotation_engagement_data",
+   "publish",
+   "unpublish",
+   "edit_spotify_details",
+   "hide",
+   "unhide",
+   "toggle_featured_video",
+   "add_pinned_annotation_to",
+   "add_community_annotation_to",
+   "destroy",
+   "mark_as_not_spam",
+   "edit_spotify_annotations_for",
+   "verify_lyrics",
+   "unverify_lyrics",
+   "edit_anything",
+   "edit_any_media",
+   "edit",
+   "rename",
+   "edit_tags",
+   "reindex",
+   "view_lyrics_synchronization",
+   "enable_media",
+   "disable_media",
+   "edit_lyrics_or_annotation_brackets",
+   "see_editorial_indicators",
+   "view_attribution_visualization",
+   "edit_annotation_brackets",
+   "preview_lyrics_for_export",
+   "hide_apple_player",
+   "unhide_apple_player",
+   "trigger_apple_match",
+   "mark_lyrics_evaluation_as_approved",
+   "mark_lyrics_evaluation_as_staff_approved",
+   "mark_lyrics_evaluation_as_unapproved",
+   "mark_lyrics_evaluation_as_un_staff_approved",
+   "view_transcriber_media_player",
+   "override_apple_match",
+   "edit_youtube_url",
+   "edit_soundcloud_url",
+   "edit_spotify_uuid",
+   "edit_vevo_url",
+   "moderate_annotations",
+   "create_annotation",
+   "see_short_id",
+   "manage_chart_item",
+   "create_tag",
+   "propose_lyrics_edit",
+   "moderate_lyrics_edit_proposals",
+   "preview_react_song_page"
+  ],
+  "interactions": {
+   "pyong": false,
+   "following": false
+  },
+  "relationships": {},
+  "iq_by_action": {}
+ },
+ "album": {
+  "api_path": "/albums/113527",
+  "cover_art_url": "https://images.genius.com/607fd96fc22e8b86a8325d5850fbae70.1000x1000x1.jpg",
+  "full_title": "Shmurda She Wrote by Bobby Shmurda",
+  "id": 113527,
+  "name": "Shmurda She Wrote",
+  "url": "https://genius.com/albums/Bobby-shmurda/Shmurda-she-wrote",
+  "artist": {
+   "api_path": "/artists/197731",
+   "header_image_url": "https://images.genius.com/bcc5d9dc8e1b2f354b83e49b2ee0dd0d.1000x1000x1.jpg",
+   "id": 197731,
+   "image_url": "https://images.genius.com/27d7933a8902e0a5bf84f1de70abcd81.1000x1000x1.jpg",
+   "is_meme_verified": false,
+   "is_verified": false,
+   "name": "Bobby Shmurda",
+   "url": "https://genius.com/artists/Bobby-shmurda"
+  }
+ },
+ "custom_performances": [
+  {
+   "label": "Video Director",
+   "artists": [
+    {
+     "api_path": "/artists/2323887",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+     "id": 2323887,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Maine Fetti",
+     "url": "https://genius.com/artists/Maine-fetti"
+    }
+   ]
+  },
+  {
+   "label": "Recording Engineer",
+   "artists": [
+    {
+     "api_path": "/artists/2323886",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+     "id": 2323886,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Joeyzaza",
+     "url": "https://genius.com/artists/Joeyzaza"
+    }
+   ]
+  },
+  {
+   "label": "Mixing Engineer",
+   "artists": [
+    {
+     "api_path": "/artists/999162",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+     "id": 999162,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Anthony Daniel",
+     "url": "https://genius.com/artists/Anthony-daniel"
+    }
+   ]
+  },
+  {
+   "label": "Mastering Engineer",
+   "artists": [
+    {
+     "api_path": "/artists/198492",
+     "header_image_url": "https://images.genius.com/84fc73a0d4d731d5ee778112e2c1e125.590x443x1.jpg",
+     "id": 198492,
+     "image_url": "https://images.genius.com/c46a9a4d328fa5038d182e617ce7a0b0.306x306x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Chris Gehringer",
+     "url": "https://genius.com/artists/Chris-gehringer"
+    }
+   ]
+  },
+  {
+   "label": "Phonographic Copyright \u2117",
+   "artists": [
+    {
+     "api_path": "/artists/88331",
+     "header_image_url": "https://images.genius.com/b46212847df33dcc782ffff51fc737b4.1000x207x1.png",
+     "id": 88331,
+     "image_url": "https://images.genius.com/2a8cce70d4827d126ecbbc648a8ad62f.1000x1000x1.png",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Sony Music Entertainment",
+     "url": "https://genius.com/artists/Sony-music-entertainment"
+    },
+    {
+     "api_path": "/artists/217631",
+     "header_image_url": "https://images.genius.com/7d5fca137b6ff0583d0f82daa4893463.500x300x1.jpg",
+     "id": 217631,
+     "image_url": "https://images.genius.com/7d5fca137b6ff0583d0f82daa4893463.500x300x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "GS9",
+     "url": "https://genius.com/artists/Gs9"
+    },
+    {
+     "api_path": "/artists/49879",
+     "header_image_url": "https://images.rapgenius.com/avatars/medium/678ca35b336a4c3062a236defa00d275",
+     "id": 49879,
+     "image_url": "https://images.rapgenius.com/avatars/medium/678ca35b336a4c3062a236defa00d275",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "Epic Records",
+     "url": "https://genius.com/artists/Epic-records",
+     "iq": 100
+    }
+   ]
+  },
+  {
+   "label": "Copyright \u00a9",
+   "artists": [
+    {
+     "api_path": "/artists/88331",
+     "header_image_url": "https://images.genius.com/b46212847df33dcc782ffff51fc737b4.1000x207x1.png",
+     "id": 88331,
+     "image_url": "https://images.genius.com/2a8cce70d4827d126ecbbc648a8ad62f.1000x1000x1.png",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Sony Music Entertainment",
+     "url": "https://genius.com/artists/Sony-music-entertainment"
+    },
+    {
+     "api_path": "/artists/49879",
+     "header_image_url": "https://images.rapgenius.com/avatars/medium/678ca35b336a4c3062a236defa00d275",
+     "id": 49879,
+     "image_url": "https://images.rapgenius.com/avatars/medium/678ca35b336a4c3062a236defa00d275",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "Epic Records",
+     "url": "https://genius.com/artists/Epic-records",
+     "iq": 100
+    },
+    {
+     "api_path": "/artists/217631",
+     "header_image_url": "https://images.genius.com/7d5fca137b6ff0583d0f82daa4893463.500x300x1.jpg",
+     "id": 217631,
+     "image_url": "https://images.genius.com/7d5fca137b6ff0583d0f82daa4893463.500x300x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "GS9",
+     "url": "https://genius.com/artists/Gs9"
+    }
+   ]
+  },
+  {
+   "label": "Distributor",
+   "artists": [
+    {
+     "api_path": "/artists/88331",
+     "header_image_url": "https://images.genius.com/b46212847df33dcc782ffff51fc737b4.1000x207x1.png",
+     "id": 88331,
+     "image_url": "https://images.genius.com/2a8cce70d4827d126ecbbc648a8ad62f.1000x1000x1.png",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Sony Music Entertainment",
+     "url": "https://genius.com/artists/Sony-music-entertainment"
+    }
+   ]
+  },
+  {
+   "label": "Performance Rights",
+   "artists": [
+    {
+     "api_path": "/artists/551598",
+     "header_image_url": "https://images.genius.com/067d9bccf2ab6e5eded129861b73d9dc.851x315x1.jpg",
+     "id": 551598,
+     "image_url": "https://images.genius.com/5f24e8e67904faef419d736f2ade3f78.1000x1000x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "ASCAP",
+     "url": "https://genius.com/artists/Ascap"
+    }
+   ]
+  },
+  {
+   "label": "Publisher",
+   "artists": [
+    {
+     "api_path": "/artists/1112276",
+     "header_image_url": "https://images.genius.com/159917d9c26b9cfe66c0b04493a1f05a.900x900x1.png",
+     "id": 1112276,
+     "image_url": "https://images.genius.com/340e19086e9ebeae265e6e4947b0ffcb.900x900x1.png",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Warner Music Group",
+     "url": "https://genius.com/artists/Warner-music-group"
+    },
+    {
+     "api_path": "/artists/1152704",
+     "header_image_url": "https://images.genius.com/6b9a922068a379c1836441d79f071e92.672x672x1.jpg",
+     "id": 1152704,
+     "image_url": "https://images.genius.com/6b9a922068a379c1836441d79f071e92.672x672x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Warner/Chappell",
+     "url": "https://genius.com/artists/Warner-chappell"
+    },
+    {
+     "api_path": "/artists/1179023",
+     "header_image_url": "https://images.genius.com/92e4ea9ba616ee53bae21dc2e037a1e2.1000x1000x1.jpg",
+     "id": 1179023,
+     "image_url": "https://images.genius.com/f19c358ac9db989328ffc9a3de85bbd4.1000x1000x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Kobalt Music",
+     "url": "https://genius.com/artists/Kobalt-music"
+    },
+    {
+     "api_path": "/artists/1104563",
+     "header_image_url": "https://images.genius.com/6ee5d6766689e04358c1d0f8ea0ed8f0.600x600x1.png",
+     "id": 1104563,
+     "image_url": "https://images.genius.com/7b3fb2c00317cb2eb2453f9f4e7473d1.600x600x1.png",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Universal Music Group",
+     "url": "https://genius.com/artists/Universal-music-group"
+    },
+    {
+     "api_path": "/artists/57118",
+     "header_image_url": "https://images.genius.com/733a9682cded0888d3b42ac279cd1e53.660x440x1.jpg",
+     "id": 57118,
+     "image_url": "https://images.genius.com/733a9682cded0888d3b42ac279cd1e53.660x440x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Roc Nation",
+     "url": "https://genius.com/artists/Roc-nation"
+    },
+    {
+     "api_path": "/artists/2243228",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+     "id": 2243228,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Jahlil Beats Publishing",
+     "url": "https://genius.com/artists/Jahlil-beats-publishing"
+    },
+    {
+     "api_path": "/artists/217631",
+     "header_image_url": "https://images.genius.com/7d5fca137b6ff0583d0f82daa4893463.500x300x1.jpg",
+     "id": 217631,
+     "image_url": "https://images.genius.com/7d5fca137b6ff0583d0f82daa4893463.500x300x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "GS9",
+     "url": "https://genius.com/artists/Gs9"
+    }
+   ]
+  },
+  {
+   "label": "Label",
+   "artists": [
+    {
+     "api_path": "/artists/217631",
+     "header_image_url": "https://images.genius.com/7d5fca137b6ff0583d0f82daa4893463.500x300x1.jpg",
+     "id": 217631,
+     "image_url": "https://images.genius.com/7d5fca137b6ff0583d0f82daa4893463.500x300x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "GS9",
+     "url": "https://genius.com/artists/Gs9"
+    },
+    {
+     "api_path": "/artists/49879",
+     "header_image_url": "https://images.rapgenius.com/avatars/medium/678ca35b336a4c3062a236defa00d275",
+     "id": 49879,
+     "image_url": "https://images.rapgenius.com/avatars/medium/678ca35b336a4c3062a236defa00d275",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "Epic Records",
+     "url": "https://genius.com/artists/Epic-records",
+     "iq": 100
+    }
+   ]
+  }
+ ],
+ "description_annotation": {
+  "_type": "referent",
+  "annotator_id": 678494,
+  "annotator_login": "roundtwoproxy",
+  "api_path": "/referents/3653060",
+  "classification": "accepted",
+  "fragment": "Hot Nigga",
+  "id": 3653060,
+  "is_description": true,
+  "path": "/3653060/Bobby-shmurda-hot-nigga/Hot-nigga",
+  "range": {
+   "content": "Hot Nigga"
+  },
+  "song_id": 466028,
+  "url": "https://genius.com/3653060/Bobby-shmurda-hot-nigga/Hot-nigga",
+  "verified_annotator_ids": [],
+  "annotatable": {
+   "api_path": "/songs/466028",
+   "client_timestamps": {
+    "updated_by_human_at": 1606163396,
+    "lyrics_updated_at": 1606163395
+   },
+   "context": "Bobby Shmurda",
+   "id": 466028,
+   "image_url": "https://images.genius.com/1fead2045c3bebc9db534fe83f8abfa2.1000x1000x1.png",
+   "link_title": "Hot Nigga by\u00a0Bobby\u00a0Shmurda",
+   "title": "Hot Nigga",
+   "type": "Song",
+   "url": "https://genius.com/Bobby-shmurda-hot-nigga-lyrics"
+  },
+  "annotations": [
+   {
+    "api_path": "/annotations/3653060",
+    "body": {
+     "plain": "\u201cHot Nigga\u201d\u2019s popularity came primarily due to the Shmoney Dance and this iconic line. The Shmoney Dance blew up on the popular social media app Vine, drawing a lot of interest in the actual song. It even hit the top ten of the Hot 100, peaking out at #6.\n\nMany celebrities have hit the Shmoney Dance, including Rihanna, Chris Brown, Beyonc\u00e9, Justin Bieber, and more."
+    },
+    "comment_count": 6,
+    "community": true,
+    "custom_preview": null,
+    "has_voters": true,
+    "id": 3653060,
+    "pinned": false,
+    "share_url": "https://genius.com/3653060",
+    "source": null,
+    "state": "accepted",
+    "url": "https://genius.com/3653060/Bobby-shmurda-hot-nigga/Hot-nigga",
+    "verified": false,
+    "votes_total": 241,
+    "current_user_metadata": {
+     "permissions": [
+      "create_comment"
+     ],
+     "excluded_permissions": [
+      "vote",
+      "edit",
+      "cosign",
+      "uncosign",
+      "destroy",
+      "accept",
+      "reject",
+      "see_unreviewed",
+      "clear_votes",
+      "propose_edit_to",
+      "pin_to_profile",
+      "unpin_from_profile",
+      "update_source",
+      "edit_custom_preview"
+     ],
+     "interactions": {
+      "cosign": false,
+      "pyong": false,
+      "vote": null
+     },
+     "iq_by_action": {}
+    },
+    "authors": [
+     {
+      "attribution": 0.36363636363636365,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/54639",
+       "avatar": {
+        "tiny": {
+         "url": "https://images.genius.com/avatars/tiny/a552d37ef4dfc8c4ba1e4aba7f8d122d",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://images.genius.com/avatars/thumb/a552d37ef4dfc8c4ba1e4aba7f8d122d",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://images.genius.com/avatars/small/a552d37ef4dfc8c4ba1e4aba7f8d122d",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://images.genius.com/avatars/medium/a552d37ef4dfc8c4ba1e4aba7f8d122d",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://images.genius.com/avatars/medium/a552d37ef4dfc8c4ba1e4aba7f8d122d",
+       "human_readable_role_for_display": "Staff",
+       "id": 54639,
+       "iq": 1752507,
+       "login": "WriteNProppa",
+       "name": "WriteNProppa",
+       "role_for_display": "staff",
+       "url": "https://genius.com/WriteNProppa",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     },
+     {
+      "attribution": 0.25757575757575757,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/678494",
+       "avatar": {
+        "tiny": {
+         "url": "https://images.genius.com/avatars/tiny/ac28eb678409d3a81d4d6c8f90ba3fa3",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://images.genius.com/avatars/thumb/ac28eb678409d3a81d4d6c8f90ba3fa3",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://images.genius.com/avatars/small/ac28eb678409d3a81d4d6c8f90ba3fa3",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://images.genius.com/avatars/medium/ac28eb678409d3a81d4d6c8f90ba3fa3",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://images.genius.com/avatars/medium/ac28eb678409d3a81d4d6c8f90ba3fa3",
+       "human_readable_role_for_display": "Contributor",
+       "id": 678494,
+       "iq": 4943,
+       "login": "roundtwoproxy",
+       "name": "roundtwoproxy",
+       "role_for_display": "contributor",
+       "url": "https://genius.com/roundtwoproxy",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     },
+     {
+      "attribution": 0.15151515151515152,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/314816",
+       "avatar": {
+        "tiny": {
+         "url": "https://images.genius.com/avatars/tiny/2b69fda2182d3ed21b7d1224b9ea1c4f",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://images.genius.com/avatars/thumb/2b69fda2182d3ed21b7d1224b9ea1c4f",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://images.genius.com/avatars/small/2b69fda2182d3ed21b7d1224b9ea1c4f",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://images.genius.com/avatars/medium/2b69fda2182d3ed21b7d1224b9ea1c4f",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/IMdSbocTcuG1hONBlWsP_Kanye-West-BLKKK-SKKKN-HEAD-Explicit.gif",
+       "human_readable_role_for_display": "Contributor",
+       "id": 314816,
+       "iq": 59840,
+       "login": "Hectic",
+       "name": "Hectic",
+       "role_for_display": "contributor",
+       "url": "https://genius.com/Hectic",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     },
+     {
+      "attribution": 0.15151515151515152,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/1448826",
+       "avatar": {
+        "tiny": {
+         "url": "https://images.genius.com/avatars/tiny/744bc3b7bd77206b4c768fadc9911a25",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://images.genius.com/avatars/thumb/744bc3b7bd77206b4c768fadc9911a25",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://images.genius.com/avatars/small/744bc3b7bd77206b4c768fadc9911a25",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://images.genius.com/avatars/medium/744bc3b7bd77206b4c768fadc9911a25",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://images.genius.com/427478c68f285fc5e038b6995aabbbb9.600x600x1.png",
+       "human_readable_role_for_display": "Moderator",
+       "id": 1448826,
+       "iq": 175718,
+       "login": "babuc",
+       "name": "Babu Chatterjee",
+       "role_for_display": "moderator",
+       "url": "https://genius.com/babuc",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     },
+     {
+      "attribution": 0.045454545454545456,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/6790749",
+       "avatar": {
+        "tiny": {
+         "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/82qcu7lw99b",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/82qcu7lw99b",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/82qcu7lw99b",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/82qcu7lw99b",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/9ddr0g68wy4",
+       "human_readable_role_for_display": "Editor",
+       "id": 6790749,
+       "iq": 57457,
+       "login": "FinoyElegante",
+       "name": "FinoyElegante",
+       "role_for_display": "editor",
+       "url": "https://genius.com/FinoyElegante",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     },
+     {
+      "attribution": 0.015151515151515152,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/89923",
+       "avatar": {
+        "tiny": {
+         "url": "https://s3.amazonaws.com/rapgenius/avatars/tiny/4DfGg1JqQe6hPSM7MD7z.gif",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://s3.amazonaws.com/rapgenius/avatars/thumb/4DfGg1JqQe6hPSM7MD7z.gif",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://s3.amazonaws.com/rapgenius/avatars/small/4DfGg1JqQe6hPSM7MD7z.gif",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://s3.amazonaws.com/rapgenius/avatars/medium/4DfGg1JqQe6hPSM7MD7z.gif",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://s3.amazonaws.com/rapgenius/avatars/medium/4DfGg1JqQe6hPSM7MD7z.gif",
+       "human_readable_role_for_display": "Contributor",
+       "id": 89923,
+       "iq": 2725,
+       "login": "KeL_Stay_Fresh98",
+       "name": "KeL_Stay_Fresh98",
+       "role_for_display": "contributor",
+       "url": "https://genius.com/KeL_Stay_Fresh98",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     },
+     {
+      "attribution": 0.015151515151515152,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/889808",
+       "avatar": {
+        "tiny": {
+         "url": "https://images.rapgenius.com/avatars/tiny/81ee66c43fc698ad7b8b420b7b66cb6f",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://images.rapgenius.com/avatars/thumb/81ee66c43fc698ad7b8b420b7b66cb6f",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://images.rapgenius.com/avatars/small/81ee66c43fc698ad7b8b420b7b66cb6f",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://images.rapgenius.com/avatars/medium/81ee66c43fc698ad7b8b420b7b66cb6f",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://images.rapgenius.com/avatars/medium/81ee66c43fc698ad7b8b420b7b66cb6f",
+       "human_readable_role_for_display": "Editor",
+       "id": 889808,
+       "iq": 20246,
+       "login": "JustBlinQandItsGone",
+       "name": "Translucent",
+       "role_for_display": "editor",
+       "url": "https://genius.com/JustBlinQandItsGone",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     }
+    ],
+    "cosigned_by": [],
+    "rejection_comment": null,
+    "verified_by": null
+   }
+  ]
+ },
+ "featured_artists": [],
+ "lyrics_marked_complete_by": null,
+ "media": [
+  {
+   "provider": "youtube",
+   "start": 0,
+   "type": "video",
+   "url": "http://www.youtube.com/watch?v=vJwKKKd2ZYE"
+  },
+  {
+   "native_uri": "spotify:track:19gEmPjfqSZT0ulDRfjl0m",
+   "provider": "spotify",
+   "type": "audio",
+   "url": "https://open.spotify.com/track/19gEmPjfqSZT0ulDRfjl0m"
+  }
+ ],
+ "producer_artists": [
+  {
+   "api_path": "/artists/17746",
+   "header_image_url": "https://images.genius.com/d985980078c531554b342794ee5712fe.1000x954x1.jpg",
+   "id": 17746,
+   "image_url": "https://images.genius.com/39e3d4a9a208f9c1f0090316a74faec0.761x761x1.jpg",
+   "is_meme_verified": false,
+   "is_verified": true,
+   "name": "Jahlil Beats",
+   "url": "https://genius.com/artists/Jahlil-beats",
+   "iq": 100
+  }
+ ],
+ "song_relationships": [
+  {
+   "relationship_type": "samples",
+   "type": "samples",
+   "songs": []
+  },
+  {
+   "relationship_type": "sampled_in",
+   "type": "sampled_in",
+   "songs": [
+    {
+     "annotation_count": 6,
+     "api_path": "/songs/541854",
+     "full_title": "Kerstbomen (KK Dure Kerstmis) by\u00a0Lefensmannen (Ft.\u00a0Def\u00a0Major, Kid\u00a0de Blits & Mafe)",
+     "header_image_thumbnail_url": "https://images.rapgenius.com/2249c339b5f6ef472ae57932f0b5272f.300x225x1.jpg",
+     "header_image_url": "https://images.rapgenius.com/2249c339b5f6ef472ae57932f0b5272f.1000x750x1.jpg",
+     "id": 541854,
+     "lyrics_owner_id": 340679,
+     "lyrics_state": "complete",
+     "path": "/Lefensmannen-kerstbomen-kk-dure-kerstmis-lyrics",
+     "pyongs_count": 3,
+     "song_art_image_thumbnail_url": "https://images.rapgenius.com/2249c339b5f6ef472ae57932f0b5272f.300x225x1.jpg",
+     "song_art_image_url": "https://images.rapgenius.com/2249c339b5f6ef472ae57932f0b5272f.1000x750x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 5,
+      "hot": false
+     },
+     "title": "Kerstbomen (KK Dure Kerstmis)",
+     "title_with_featured": "Kerstbomen (KK Dure Kerstmis) (Ft.\u00a0Def\u00a0Major, Kid\u00a0de Blits & Mafe)",
+     "url": "https://genius.com/Lefensmannen-kerstbomen-kk-dure-kerstmis-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/196056",
+      "header_image_url": "https://images.genius.com/1f9d0d743a83d3f720c78be84798e7b9.1000x1000x1.png",
+      "id": 196056,
+      "image_url": "https://images.genius.com/45cb29cc748504e10334bc75a65f1023.1000x1000x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Lefensmannen",
+      "url": "https://genius.com/artists/Lefensmannen"
+     }
+    },
+    {
+     "annotation_count": 35,
+     "api_path": "/songs/698845",
+     "full_title": "Hot Dinner (Freestyle) by\u00a0Cal\u00a0Chuchesta",
+     "header_image_thumbnail_url": "https://images.genius.com/229f2bf7c627d0775a471bff8102d935.300x300x1.jpg",
+     "header_image_url": "https://images.genius.com/229f2bf7c627d0775a471bff8102d935.1000x1000x1.jpg",
+     "id": 698845,
+     "lyrics_owner_id": 1493938,
+     "lyrics_state": "complete",
+     "path": "/Cal-chuchesta-hot-dinner-freestyle-lyrics",
+     "pyongs_count": 10,
+     "song_art_image_thumbnail_url": "https://images.genius.com/229f2bf7c627d0775a471bff8102d935.300x300x1.jpg",
+     "song_art_image_url": "https://images.genius.com/229f2bf7c627d0775a471bff8102d935.1000x1000x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 6,
+      "hot": false,
+      "pageviews": 11829
+     },
+     "title": "Hot Dinner (Freestyle)",
+     "title_with_featured": "Hot Dinner (Freestyle)",
+     "url": "https://genius.com/Cal-chuchesta-hot-dinner-freestyle-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/136381",
+      "header_image_url": "https://images.genius.com/312b19406395127afe20e2c61c4bb220.1000x323x1.jpg",
+      "id": 136381,
+      "image_url": "https://images.genius.com/4282254abc5867f35fbdb7cc38c8f346.310x310x15.gif",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Cal Chuchesta",
+      "url": "https://genius.com/artists/Cal-chuchesta"
+     }
+    },
+    {
+     "annotation_count": 18,
+     "api_path": "/songs/3147034",
+     "full_title": "McRoyalty - \u05de\u05e7\u05e8\u05d5\u05d9\u05d0\u05dc\u05d8\u05d9 by\u00a0KE$EP\u00a0MOB - \u05db\u05e1\u05e4 \u05de\u05d5\u05d1 (Ft.\u00a0KE$EP\u00a0Manaiac - \u05db\u05e1\u05e4 \u05de\u05d0\u05e0\u05d0\u05d9\u05d9\u05e7, KE$EP\u00a0Thebe - \u05db\u05e1\u05e4 \u05d8\u05d1\u05d4, Lil\u00a0KE$EP - \u05dc\u05d9\u05dc \u05db\u05e1\u05e4 & NateTheMate)",
+     "header_image_thumbnail_url": "https://images.genius.com/8716bb86e4c1b85d0baba054bbf9a16a.300x300x1.jpg",
+     "header_image_url": "https://images.genius.com/8716bb86e4c1b85d0baba054bbf9a16a.1000x1000x1.jpg",
+     "id": 3147034,
+     "lyrics_owner_id": 4009104,
+     "lyrics_state": "complete",
+     "path": "/Ke-ep-mob-mcroyalty-lyrics",
+     "pyongs_count": null,
+     "song_art_image_thumbnail_url": "https://images.genius.com/8716bb86e4c1b85d0baba054bbf9a16a.300x300x1.jpg",
+     "song_art_image_url": "https://images.genius.com/8716bb86e4c1b85d0baba054bbf9a16a.1000x1000x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 0,
+      "hot": false
+     },
+     "title": "McRoyalty - \u05de\u05e7\u05e8\u05d5\u05d9\u05d0\u05dc\u05d8\u05d9",
+     "title_with_featured": "McRoyalty - \u05de\u05e7\u05e8\u05d5\u05d9\u05d0\u05dc\u05d8\u05d9 (Ft.\u00a0KE$EP\u00a0Manaiac - \u05db\u05e1\u05e4 \u05de\u05d0\u05e0\u05d0\u05d9\u05d9\u05e7, KE$EP\u00a0Thebe - \u05db\u05e1\u05e4 \u05d8\u05d1\u05d4, Lil\u00a0KE$EP - \u05dc\u05d9\u05dc \u05db\u05e1\u05e4 & NateTheMate)",
+     "url": "https://genius.com/Ke-ep-mob-mcroyalty-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/1160598",
+      "header_image_url": "https://images.genius.com/ef035703a724bf95d9024523cfd135f7.1000x1000x1.png",
+      "id": 1160598,
+      "image_url": "https://images.genius.com/ef035703a724bf95d9024523cfd135f7.1000x1000x1.png",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "KE$EP MOB - \u05db\u05e1\u05e4 \u05de\u05d5\u05d1",
+      "url": "https://genius.com/artists/Ke-ep-mob"
+     }
+    },
+    {
+     "annotation_count": 1,
+     "api_path": "/songs/3177294",
+     "full_title": "Cash Out by\u00a0Purpmiya",
+     "header_image_thumbnail_url": "https://images.genius.com/3b0f7581e959fdea38ceb75bab92e806.300x300x1.jpg",
+     "header_image_url": "https://images.genius.com/3b0f7581e959fdea38ceb75bab92e806.1000x1000x1.jpg",
+     "id": 3177294,
+     "lyrics_owner_id": 3123289,
+     "lyrics_state": "complete",
+     "path": "/Purpmiya-cash-out-lyrics",
+     "pyongs_count": null,
+     "song_art_image_thumbnail_url": "https://images.genius.com/3b0f7581e959fdea38ceb75bab92e806.300x300x1.jpg",
+     "song_art_image_url": "https://images.genius.com/3b0f7581e959fdea38ceb75bab92e806.1000x1000x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 0,
+      "hot": false
+     },
+     "title": "Cash Out",
+     "title_with_featured": "Cash Out",
+     "url": "https://genius.com/Purpmiya-cash-out-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/657166",
+      "header_image_url": "https://images.genius.com/310a7df5d1c8089eb1419f28e2f0d0c2.1000x667x1.jpg",
+      "id": 657166,
+      "image_url": "https://images.genius.com/e3f7847ea74e44a3e2ca1661d83d10af.1000x1000x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": true,
+      "name": "Purpmiya",
+      "url": "https://genius.com/artists/Purpmiya",
+      "iq": 2670
+     }
+    },
+    {
+     "annotation_count": 0,
+     "api_path": "/songs/4582311",
+     "full_title": "\u041d\u0415\u0422 \u0418\u041c\u0415\u041d\u0418 (NO NAME) by\u00a0KURT92",
+     "header_image_thumbnail_url": "https://images.genius.com/09ee26e64f9de38dbb617f1c6b8d1169.300x300x1.jpg",
+     "header_image_url": "https://images.genius.com/09ee26e64f9de38dbb617f1c6b8d1169.1000x1000x1.jpg",
+     "id": 4582311,
+     "lyrics_owner_id": 3568693,
+     "lyrics_state": "complete",
+     "path": "/Kurt92-no-name-lyrics",
+     "pyongs_count": 1,
+     "song_art_image_thumbnail_url": "https://images.genius.com/09ee26e64f9de38dbb617f1c6b8d1169.300x300x1.jpg",
+     "song_art_image_url": "https://images.genius.com/09ee26e64f9de38dbb617f1c6b8d1169.1000x1000x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 0,
+      "hot": false
+     },
+     "title": "\u041d\u0415\u0422 \u0418\u041c\u0415\u041d\u0418 (NO NAME)",
+     "title_with_featured": "\u041d\u0415\u0422 \u0418\u041c\u0415\u041d\u0418 (NO NAME)",
+     "url": "https://genius.com/Kurt92-no-name-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/1122344",
+      "header_image_url": "https://images.genius.com/9a4996b3d9911d1a803c1675839e4f9b.1000x941x1.jpg",
+      "id": 1122344,
+      "image_url": "https://images.genius.com/17e2fae4c2e86c8b62864325e19f282f.1000x1000x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": true,
+      "name": "KURT92",
+      "url": "https://genius.com/artists/Kurt92",
+      "iq": 1070
+     }
+    },
+    {
+     "annotation_count": 0,
+     "api_path": "/songs/4830721",
+     "full_title": "Kahoot N*gga by\u00a0Kanskaart",
+     "header_image_thumbnail_url": "https://images.genius.com/ff8fe7e0ed359b79e89253b0cba6e27d.300x225x1.jpg",
+     "header_image_url": "https://images.genius.com/ff8fe7e0ed359b79e89253b0cba6e27d.480x360x1.jpg",
+     "id": 4830721,
+     "lyrics_owner_id": 9149913,
+     "lyrics_state": "complete",
+     "path": "/Kanskaart-kahoot-ngga-lyrics",
+     "pyongs_count": null,
+     "song_art_image_thumbnail_url": "https://images.genius.com/f360bc5a29a3e77d2782336de56c28db.300x300x1.jpg",
+     "song_art_image_url": "https://images.genius.com/f360bc5a29a3e77d2782336de56c28db.500x500x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 0,
+      "hot": false
+     },
+     "title": "Kahoot N*gga",
+     "title_with_featured": "Kahoot N*gga",
+     "url": "https://genius.com/Kanskaart-kahoot-ngga-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/1935184",
+      "header_image_url": "https://images.genius.com/f01e359f02d0f3d677e6f99e8d616de9.1000x166x1.jpg",
+      "id": 1935184,
+      "image_url": "https://images.genius.com/56f2bbf45e5a2d287a6ef8a9c5b7322e.400x400x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Kanskaart",
+      "url": "https://genius.com/artists/Kanskaart"
+     }
+    },
+    {
+     "annotation_count": 0,
+     "api_path": "/songs/4832322",
+     "full_title": "Africa by\u00a0Kanskaart",
+     "header_image_thumbnail_url": "https://images.genius.com/a1ee5ff061d99848dd6e9b5b30bb11a5.300x169x1.jpg",
+     "header_image_url": "https://images.genius.com/a1ee5ff061d99848dd6e9b5b30bb11a5.1000x563x1.jpg",
+     "id": 4832322,
+     "lyrics_owner_id": 9149913,
+     "lyrics_state": "complete",
+     "path": "/Kanskaart-africa-lyrics",
+     "pyongs_count": null,
+     "song_art_image_thumbnail_url": "https://images.genius.com/a1ee5ff061d99848dd6e9b5b30bb11a5.300x169x1.jpg",
+     "song_art_image_url": "https://images.genius.com/a1ee5ff061d99848dd6e9b5b30bb11a5.1000x563x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 0,
+      "hot": false
+     },
+     "title": "Africa",
+     "title_with_featured": "Africa",
+     "url": "https://genius.com/Kanskaart-africa-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/1935184",
+      "header_image_url": "https://images.genius.com/f01e359f02d0f3d677e6f99e8d616de9.1000x166x1.jpg",
+      "id": 1935184,
+      "image_url": "https://images.genius.com/56f2bbf45e5a2d287a6ef8a9c5b7322e.400x400x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Kanskaart",
+      "url": "https://genius.com/artists/Kanskaart"
+     }
+    },
+    {
+     "annotation_count": 0,
+     "api_path": "/songs/5149599",
+     "full_title": ". (dz4zeou9geqc) by\u00a0\u200bbsd.u",
+     "header_image_thumbnail_url": "https://images.genius.com/977f20416961060f09fc9b6d98b0210e.300x300x1.jpg",
+     "header_image_url": "https://images.genius.com/977f20416961060f09fc9b6d98b0210e.675x675x1.jpg",
+     "id": 5149599,
+     "lyrics_owner_id": 4881589,
+     "lyrics_state": "complete",
+     "path": "/Bsdu-dz4zeou9geqc-lyrics",
+     "pyongs_count": null,
+     "song_art_image_thumbnail_url": "https://images.genius.com/70ef9cf3e9d592f95fbf048f8a45e58d.300x300x1.jpg",
+     "song_art_image_url": "https://images.genius.com/70ef9cf3e9d592f95fbf048f8a45e58d.500x500x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 0,
+      "hot": false
+     },
+     "title": ". (dz4zeou9geqc)",
+     "title_with_featured": ". (dz4zeou9geqc)",
+     "url": "https://genius.com/Bsdu-dz4zeou9geqc-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/131367",
+      "header_image_url": "https://images.genius.com/72ad0d34733b0a20360270361ca4b09a.966x966x1.jpg",
+      "id": 131367,
+      "image_url": "https://images.genius.com/72ad0d34733b0a20360270361ca4b09a.966x966x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "\u200bbsd.u",
+      "url": "https://genius.com/artists/Bsdu"
+     }
+    }
+   ]
+  },
+  {
+   "relationship_type": "interpolates",
+   "type": "interpolates",
+   "songs": []
+  },
+  {
+   "relationship_type": "interpolated_by",
+   "type": "interpolated_by",
+   "songs": [
+    {
+     "annotation_count": 67,
+     "api_path": "/songs/702718",
+     "full_title": "Pat Stay vs. Charron (Title Match) by\u00a0King\u00a0of the Dot (Ft.\u00a0Charron & Pat\u00a0Stay)",
+     "header_image_thumbnail_url": "https://images.rapgenius.com/fb9499d10b0b273334285cdf55885b00.300x199x1.jpg",
+     "header_image_url": "https://images.rapgenius.com/fb9499d10b0b273334285cdf55885b00.610x405x1.jpg",
+     "id": 702718,
+     "lyrics_owner_id": 303,
+     "lyrics_state": "complete",
+     "path": "/King-of-the-dot-pat-stay-vs-charron-title-match-lyrics",
+     "pyongs_count": 4,
+     "song_art_image_thumbnail_url": "https://images.rapgenius.com/fb9499d10b0b273334285cdf55885b00.300x199x1.jpg",
+     "song_art_image_url": "https://images.rapgenius.com/fb9499d10b0b273334285cdf55885b00.610x405x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 0,
+      "hot": false,
+      "pageviews": 7307
+     },
+     "title": "Pat Stay vs. Charron (Title Match)",
+     "title_with_featured": "Pat Stay vs. Charron (Title Match) (Ft.\u00a0Charron & Pat\u00a0Stay)",
+     "url": "https://genius.com/King-of-the-dot-pat-stay-vs-charron-title-match-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/117146",
+      "header_image_url": "https://images.genius.com/4cc36450de3b25a82183c9a1876caff9.900x900x1.jpg",
+      "id": 117146,
+      "image_url": "https://images.genius.com/4cc36450de3b25a82183c9a1876caff9.900x900x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "King of the Dot",
+      "url": "https://genius.com/artists/King-of-the-dot"
+     }
+    },
+    {
+     "annotation_count": 7,
+     "api_path": "/songs/733365",
+     "full_title": "Booty Butt Ass by\u00a0T-Pain",
+     "header_image_thumbnail_url": "https://images.genius.com/e85952df47bb3600fdb266b971314e87.300x300x1.jpg",
+     "header_image_url": "https://images.genius.com/e85952df47bb3600fdb266b971314e87.768x768x1.jpg",
+     "id": 733365,
+     "lyrics_owner_id": 54639,
+     "lyrics_state": "complete",
+     "path": "/T-pain-booty-butt-ass-lyrics",
+     "pyongs_count": 3,
+     "song_art_image_thumbnail_url": "https://images.genius.com/e85952df47bb3600fdb266b971314e87.300x300x1.jpg",
+     "song_art_image_url": "https://images.genius.com/e85952df47bb3600fdb266b971314e87.768x768x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 1,
+      "hot": false,
+      "pageviews": 7090
+     },
+     "title": "Booty Butt Ass",
+     "title_with_featured": "Booty Butt Ass",
+     "url": "https://genius.com/T-pain-booty-butt-ass-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/337",
+      "header_image_url": "https://images.genius.com/5f2e9a0fce5f6eb6e7ab605d69e880ee.824x470x1.jpg",
+      "id": 337,
+      "image_url": "https://images.genius.com/6efed4f2f043ca2d708512a157481569.720x720x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": true,
+      "name": "T-Pain",
+      "url": "https://genius.com/artists/T-pain",
+      "iq": 412
+     }
+    },
+    {
+     "annotation_count": 28,
+     "api_path": "/songs/2474069",
+     "full_title": "OOOUUU by\u00a0Young\u00a0M.A",
+     "header_image_thumbnail_url": "https://images.genius.com/6697b65322ef90e9777557e902c1b3c4.300x300x1.jpg",
+     "header_image_url": "https://images.genius.com/6697b65322ef90e9777557e902c1b3c4.1000x1000x1.jpg",
+     "id": 2474069,
+     "lyrics_owner_id": 1619851,
+     "lyrics_state": "complete",
+     "path": "/Young-ma-ooouuu-lyrics",
+     "pyongs_count": 90,
+     "song_art_image_thumbnail_url": "https://images.genius.com/f15e8be646f10cb262cce3929dbb472b.300x300x1.png",
+     "song_art_image_url": "https://images.genius.com/f15e8be646f10cb262cce3929dbb472b.1000x1000x1.png",
+     "stats": {
+      "unreviewed_annotations": 0,
+      "concurrents": 3,
+      "hot": false,
+      "pageviews": 3664086
+     },
+     "title": "OOOUUU",
+     "title_with_featured": "OOOUUU",
+     "url": "https://genius.com/Young-ma-ooouuu-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/339543",
+      "header_image_url": "https://images.genius.com/a929ae266748fcede0754ee5de0a8ce9.500x500x1.jpg",
+      "id": 339543,
+      "image_url": "https://images.genius.com/eac22acf0996fe81401676d52fe00183.803x803x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": true,
+      "name": "Young M.A",
+      "url": "https://genius.com/artists/Young-ma",
+      "iq": 4643
+     }
+    },
+    {
+     "annotation_count": 1,
+     "api_path": "/songs/3218341",
+     "full_title": "God Forgive Me by\u00a0LP\u00a0Rambo (Ft.\u00a0Kashout\u00a0Klil)",
+     "header_image_thumbnail_url": "https://images.genius.com/9c9f8a07a750cb1689ed685f345ba8bd.300x300x1.jpg",
+     "header_image_url": "https://images.genius.com/9c9f8a07a750cb1689ed685f345ba8bd.1000x1000x1.jpg",
+     "id": 3218341,
+     "lyrics_owner_id": 133377,
+     "lyrics_state": "complete",
+     "path": "/Lp-rambo-god-forgive-me-lyrics",
+     "pyongs_count": null,
+     "song_art_image_thumbnail_url": "https://images.genius.com/9c9f8a07a750cb1689ed685f345ba8bd.300x300x1.jpg",
+     "song_art_image_url": "https://images.genius.com/9c9f8a07a750cb1689ed685f345ba8bd.1000x1000x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 1,
+      "hot": false
+     },
+     "title": "God Forgive Me",
+     "title_with_featured": "God Forgive Me (Ft.\u00a0Kashout\u00a0Klil)",
+     "url": "https://genius.com/Lp-rambo-god-forgive-me-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/1001893",
+      "header_image_url": "https://images.genius.com/f1c5f9e4a8ae8e5294616f206c52d9ab.355x146x1.png",
+      "id": 1001893,
+      "image_url": "https://images.genius.com/1b013e8b58817ef687e9bfc5a634a52c.418x418x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "LP Rambo",
+      "url": "https://genius.com/artists/Lp-rambo"
+     }
+    },
+    {
+     "annotation_count": 15,
+     "api_path": "/songs/3462407",
+     "full_title": "Bounce Out With That by\u00a0YBN\u00a0Nahmir",
+     "header_image_thumbnail_url": "https://images.genius.com/4808f23ed1bfcfa2efd81442669bf245.300x163x1.png",
+     "header_image_url": "https://images.genius.com/4808f23ed1bfcfa2efd81442669bf245.1000x542x1.png",
+     "id": 3462407,
+     "lyrics_owner_id": 5027026,
+     "lyrics_state": "complete",
+     "path": "/Ybn-nahmir-bounce-out-with-that-lyrics",
+     "pyongs_count": 48,
+     "song_art_image_thumbnail_url": "https://images.genius.com/556b1a780b868db75fd9d5781024b529.300x300x1.png",
+     "song_art_image_url": "https://images.genius.com/556b1a780b868db75fd9d5781024b529.1000x1000x1.png",
+     "stats": {
+      "unreviewed_annotations": 0,
+      "hot": false,
+      "pageviews": 822437
+     },
+     "title": "Bounce Out With That",
+     "title_with_featured": "Bounce Out With That",
+     "url": "https://genius.com/Ybn-nahmir-bounce-out-with-that-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/1219483",
+      "header_image_url": "https://images.genius.com/19a200bdcf49b8eb99932cda69dfe9e3.640x640x1.jpg",
+      "id": 1219483,
+      "image_url": "https://images.genius.com/c5ac23c5b61d2ccb5bc362d115049f97.640x640x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": true,
+      "name": "YBN Nahmir",
+      "url": "https://genius.com/artists/Ybn-nahmir",
+      "iq": 2069
+     }
+    },
+    {
+     "annotation_count": 0,
+     "api_path": "/songs/3873420",
+     "full_title": "Popped Nigga by\u00a0Nick\u00a0Mintle",
+     "header_image_thumbnail_url": "https://images.genius.com/646d971a30bcd6c028883e46435c6670.300x300x1.jpg",
+     "header_image_url": "https://images.genius.com/646d971a30bcd6c028883e46435c6670.1000x1000x1.jpg",
+     "id": 3873420,
+     "lyrics_owner_id": 6616250,
+     "lyrics_state": "complete",
+     "path": "/Nick-mintle-popped-nigga-lyrics",
+     "pyongs_count": null,
+     "song_art_image_thumbnail_url": "https://images.genius.com/646d971a30bcd6c028883e46435c6670.300x300x1.jpg",
+     "song_art_image_url": "https://images.genius.com/646d971a30bcd6c028883e46435c6670.1000x1000x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 0,
+      "hot": false
+     },
+     "title": "Popped Nigga",
+     "title_with_featured": "Popped Nigga",
+     "url": "https://genius.com/Nick-mintle-popped-nigga-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/1542594",
+      "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+      "id": 1542594,
+      "image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Nick Mintle",
+      "url": "https://genius.com/artists/Nick-mintle"
+     }
+    },
+    {
+     "annotation_count": 4,
+     "api_path": "/songs/3915843",
+     "full_title": "Ham Gever - \u05d7\u05dd \u05d2\u05d1\u05e8 by\u00a0Young\u00a0Boiz - \u05d9\u05d0\u05e0\u05d2 \u05d1\u05d5\u05d9\u05d6",
+     "header_image_thumbnail_url": "https://images.genius.com/0e13246ec26d0dc5216e3b5e7be78f0a.300x300x1.jpg",
+     "header_image_url": "https://images.genius.com/0e13246ec26d0dc5216e3b5e7be78f0a.1000x1000x1.jpg",
+     "id": 3915843,
+     "lyrics_owner_id": 5360433,
+     "lyrics_state": "complete",
+     "path": "/Young-boiz-ham-gever-lyrics",
+     "pyongs_count": null,
+     "song_art_image_thumbnail_url": "https://images.genius.com/0e13246ec26d0dc5216e3b5e7be78f0a.300x300x1.jpg",
+     "song_art_image_url": "https://images.genius.com/0e13246ec26d0dc5216e3b5e7be78f0a.1000x1000x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 1,
+      "hot": false
+     },
+     "title": "Ham Gever - \u05d7\u05dd \u05d2\u05d1\u05e8",
+     "title_with_featured": "Ham Gever - \u05d7\u05dd \u05d2\u05d1\u05e8",
+     "url": "https://genius.com/Young-boiz-ham-gever-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/1272191",
+      "header_image_url": "https://images.genius.com/1b6bea120ccce912db2942f6ba77d529.640x640x1.jpg",
+      "id": 1272191,
+      "image_url": "https://images.genius.com/660c65f6de4696bb84fdc37973d6ba4b.718x718x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Young Boiz - \u05d9\u05d0\u05e0\u05d2 \u05d1\u05d5\u05d9\u05d6",
+      "url": "https://genius.com/artists/Young-boiz"
+     }
+    },
+    {
+     "annotation_count": 5,
+     "api_path": "/songs/3946430",
+     "full_title": "Hot Wigga by\u00a0Big\u00a0Baby Tape",
+     "header_image_thumbnail_url": "https://images.genius.com/2e7e2475bf15d2fb2989adb5383a83e0.300x300x1.jpg",
+     "header_image_url": "https://images.genius.com/2e7e2475bf15d2fb2989adb5383a83e0.960x960x1.jpg",
+     "id": 3946430,
+     "lyrics_owner_id": 3568693,
+     "lyrics_state": "complete",
+     "path": "/Big-baby-tape-hot-wigga-lyrics",
+     "pyongs_count": 17,
+     "song_art_image_thumbnail_url": "https://images.genius.com/2e7e2475bf15d2fb2989adb5383a83e0.300x300x1.jpg",
+     "song_art_image_url": "https://images.genius.com/2e7e2475bf15d2fb2989adb5383a83e0.960x960x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 0,
+      "hot": false,
+      "pageviews": 130970
+     },
+     "title": "Hot Wigga",
+     "title_with_featured": "Hot Wigga",
+     "url": "https://genius.com/Big-baby-tape-hot-wigga-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/1184443",
+      "header_image_url": "https://images.genius.com/2ec436afe8a8810dbb96014007b9acc1.1000x252x1.jpg",
+      "id": 1184443,
+      "image_url": "https://images.genius.com/d3fc4853f74c35383ec68670bbd292eb.709x709x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": true,
+      "name": "Big Baby Tape",
+      "url": "https://genius.com/artists/Big-baby-tape",
+      "iq": 1973
+     }
+    },
+    {
+     "annotation_count": 23,
+     "api_path": "/songs/4028318",
+     "full_title": "Foot Fungus by\u00a0Ski\u00a0Mask the Slump God",
+     "header_image_thumbnail_url": "https://images.genius.com/e82b8ad098be04fb086164457532f232.300x300x1.png",
+     "header_image_url": "https://images.genius.com/e82b8ad098be04fb086164457532f232.1000x1000x1.png",
+     "id": 4028318,
+     "lyrics_owner_id": 1211266,
+     "lyrics_state": "complete",
+     "path": "/Ski-mask-the-slump-god-foot-fungus-lyrics",
+     "pyongs_count": 61,
+     "song_art_image_thumbnail_url": "https://images.genius.com/e82b8ad098be04fb086164457532f232.300x300x1.png",
+     "song_art_image_url": "https://images.genius.com/e82b8ad098be04fb086164457532f232.1000x1000x1.png",
+     "stats": {
+      "unreviewed_annotations": 0,
+      "hot": false,
+      "pageviews": 447892
+     },
+     "title": "Foot Fungus",
+     "title_with_featured": "Foot Fungus",
+     "url": "https://genius.com/Ski-mask-the-slump-god-foot-fungus-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/396531",
+      "header_image_url": "https://images.genius.com/3e4bf60d331944bec22c89b2854cc61b.1000x525x1.jpg",
+      "id": 396531,
+      "image_url": "https://images.genius.com/34cdbd7a6f8e03644fa3525524101102.1000x1000x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": true,
+      "name": "Ski Mask the Slump God",
+      "url": "https://genius.com/artists/Ski-mask-the-slump-god",
+      "iq": 8651
+     }
+    },
+    {
+     "annotation_count": 0,
+     "api_path": "/songs/4742798",
+     "full_title": "BLOCK by\u00a0Tay\u00a0Milly",
+     "header_image_thumbnail_url": "https://images.genius.com/756d3edd7cfe976d4f3018b16b47cf76.300x169x1.jpg",
+     "header_image_url": "https://images.genius.com/756d3edd7cfe976d4f3018b16b47cf76.1000x563x1.jpg",
+     "id": 4742798,
+     "lyrics_owner_id": 1505217,
+     "lyrics_state": "complete",
+     "path": "/Tay-milly-block-lyrics",
+     "pyongs_count": null,
+     "song_art_image_thumbnail_url": "https://images.genius.com/756d3edd7cfe976d4f3018b16b47cf76.300x169x1.jpg",
+     "song_art_image_url": "https://images.genius.com/756d3edd7cfe976d4f3018b16b47cf76.1000x563x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 0,
+      "hot": false
+     },
+     "title": "BLOCK",
+     "title_with_featured": "BLOCK",
+     "url": "https://genius.com/Tay-milly-block-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/1902046",
+      "header_image_url": "https://images.genius.com/8052ea6fa1095a401f88a3fc167ac571.440x440x1.png",
+      "id": 1902046,
+      "image_url": "https://images.genius.com/8052ea6fa1095a401f88a3fc167ac571.440x440x1.png",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Tay Milly",
+      "url": "https://genius.com/artists/Tay-milly"
+     }
+    }
+   ]
+  },
+  {
+   "relationship_type": "cover_of",
+   "type": "cover_of",
+   "songs": []
+  },
+  {
+   "relationship_type": "covered_by",
+   "type": "covered_by",
+   "songs": [
+    {
+     "annotation_count": 5,
+     "api_path": "/songs/5035123",
+     "full_title": "Ya Empec\u00e9 by\u00a0Miky\u00a0Woodz",
+     "header_image_thumbnail_url": "https://images.genius.com/e42751cb7eb702aa840a064fd9a06cf4.300x300x1.jpg",
+     "header_image_url": "https://images.genius.com/e42751cb7eb702aa840a064fd9a06cf4.370x370x1.jpg",
+     "id": 5035123,
+     "lyrics_owner_id": 7019031,
+     "lyrics_state": "complete",
+     "path": "/Miky-woodz-ya-empece-lyrics",
+     "pyongs_count": null,
+     "song_art_image_thumbnail_url": "https://images.genius.com/e42751cb7eb702aa840a064fd9a06cf4.300x300x1.jpg",
+     "song_art_image_url": "https://images.genius.com/e42751cb7eb702aa840a064fd9a06cf4.370x370x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 5,
+      "hot": false
+     },
+     "title": "Ya Empec\u00e9",
+     "title_with_featured": "Ya Empec\u00e9",
+     "url": "https://genius.com/Miky-woodz-ya-empece-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/642728",
+      "header_image_url": "https://images.genius.com/848a5921a837ef87601baaef815e3e01.640x640x1.jpg",
+      "id": 642728,
+      "image_url": "https://images.genius.com/280b786577103cbfb9a9d0c6d1d4bb36.640x640x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Miky Woodz",
+      "url": "https://genius.com/artists/Miky-woodz"
+     }
+    }
+   ]
+  },
+  {
+   "relationship_type": "remix_of",
+   "type": "remix_of",
+   "songs": [
+    {
+     "annotation_count": 4,
+     "api_path": "/songs/66363",
+     "full_title": "Jackpot by\u00a0Lloyd\u00a0Banks",
+     "header_image_thumbnail_url": "https://images.genius.com/1375739b6923a8782ae37594e07a11d5.300x300x1.jpg",
+     "header_image_url": "https://images.genius.com/1375739b6923a8782ae37594e07a11d5.400x400x1.jpg",
+     "id": 66363,
+     "lyrics_owner_id": 74694,
+     "lyrics_state": "complete",
+     "path": "/Lloyd-banks-jackpot-lyrics",
+     "pyongs_count": 3,
+     "song_art_image_thumbnail_url": "https://images.genius.com/1375739b6923a8782ae37594e07a11d5.300x300x1.jpg",
+     "song_art_image_url": "https://images.genius.com/1375739b6923a8782ae37594e07a11d5.400x400x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 2,
+      "hot": false,
+      "pageviews": 23960
+     },
+     "title": "Jackpot",
+     "title_with_featured": "Jackpot",
+     "url": "https://genius.com/Lloyd-banks-jackpot-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/255",
+      "header_image_url": "https://images.genius.com/c2796db87a16869acc47dd19649ad024.879x896x1.png",
+      "id": 255,
+      "image_url": "https://images.genius.com/e863455640709c76a4f2cbc68e8a7dd5.556x556x1.png",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Lloyd Banks",
+      "url": "https://genius.com/artists/Lloyd-banks"
+     }
+    }
+   ]
+  },
+  {
+   "relationship_type": "remixed_by",
+   "type": "remixed_by",
+   "songs": [
+    {
+     "annotation_count": 7,
+     "api_path": "/songs/480547",
+     "full_title": "Hot Nigga (Remix) by\u00a0Problem",
+     "header_image_thumbnail_url": "https://images.genius.com/07f0b039d7cab7eb982ac57884a9a623.300x300x1.jpg",
+     "header_image_url": "https://images.genius.com/07f0b039d7cab7eb982ac57884a9a623.500x500x1.jpg",
+     "id": 480547,
+     "lyrics_owner_id": 1531990,
+     "lyrics_state": "complete",
+     "path": "/Problem-hot-nigga-remix-lyrics",
+     "pyongs_count": 2,
+     "song_art_image_thumbnail_url": "https://images.genius.com/07f0b039d7cab7eb982ac57884a9a623.300x300x1.jpg",
+     "song_art_image_url": "https://images.genius.com/07f0b039d7cab7eb982ac57884a9a623.500x500x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 1,
+      "hot": false
+     },
+     "title": "Hot Nigga (Remix)",
+     "title_with_featured": "Hot Nigga (Remix)",
+     "url": "https://genius.com/Problem-hot-nigga-remix-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/9477",
+      "header_image_url": "https://images.genius.com/602735089e3cf14aa551d018384382db.600x300x1.jpg",
+      "id": 9477,
+      "image_url": "https://images.genius.com/c4005e254f231b7ae838ab00e001de5f.421x421x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Problem",
+      "url": "https://genius.com/artists/Problem"
+     }
+    },
+    {
+     "annotation_count": 9,
+     "api_path": "/songs/481904",
+     "full_title": "Hot Nigga (Freestyle) by\u00a0Juicy\u00a0J",
+     "header_image_thumbnail_url": "https://images.genius.com/d42f50ada8df12cb647ff9de20e2a2ea.300x300x1.jpg",
+     "header_image_url": "https://images.genius.com/d42f50ada8df12cb647ff9de20e2a2ea.304x304x1.jpg",
+     "id": 481904,
+     "lyrics_owner_id": 272373,
+     "lyrics_state": "complete",
+     "path": "/Juicy-j-hot-nigga-freestyle-lyrics",
+     "pyongs_count": 12,
+     "song_art_image_thumbnail_url": "https://images.genius.com/d42f50ada8df12cb647ff9de20e2a2ea.300x300x1.jpg",
+     "song_art_image_url": "https://images.genius.com/d42f50ada8df12cb647ff9de20e2a2ea.304x304x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 4,
+      "hot": false,
+      "pageviews": 18512
+     },
+     "title": "Hot Nigga (Freestyle)",
+     "title_with_featured": "Hot Nigga (Freestyle)",
+     "url": "https://genius.com/Juicy-j-hot-nigga-freestyle-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/1073",
+      "header_image_url": "https://images.genius.com/adfbc864a2841c44a156c187af7f10a8.1000x661x1.jpg",
+      "id": 1073,
+      "image_url": "https://images.genius.com/d42f50ada8df12cb647ff9de20e2a2ea.304x304x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": true,
+      "name": "Juicy J",
+      "url": "https://genius.com/artists/Juicy-j",
+      "iq": 483
+     }
+    },
+    {
+     "annotation_count": 4,
+     "api_path": "/songs/486375",
+     "full_title": "Hot Nigga (Freestyle) by\u00a0Rich\u00a0The Kid",
+     "header_image_thumbnail_url": "https://images.genius.com/572a6bed5ad19e5ee0eac655e728763b.300x300x1.jpg",
+     "header_image_url": "https://images.genius.com/572a6bed5ad19e5ee0eac655e728763b.1000x1000x1.jpg",
+     "id": 486375,
+     "lyrics_owner_id": 54639,
+     "lyrics_state": "complete",
+     "path": "/Rich-the-kid-hot-nigga-freestyle-lyrics",
+     "pyongs_count": 13,
+     "song_art_image_thumbnail_url": "https://images.genius.com/572a6bed5ad19e5ee0eac655e728763b.300x300x1.jpg",
+     "song_art_image_url": "https://images.genius.com/572a6bed5ad19e5ee0eac655e728763b.1000x1000x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 0,
+      "hot": false
+     },
+     "title": "Hot Nigga (Freestyle)",
+     "title_with_featured": "Hot Nigga (Freestyle)",
+     "url": "https://genius.com/Rich-the-kid-hot-nigga-freestyle-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/65109",
+      "header_image_url": "https://images.genius.com/642a55353714961bf8f627143cd71885.1000x228x1.jpg",
+      "id": 65109,
+      "image_url": "https://images.genius.com/d48a9fc541d0bd37bee9d605b635d1db.760x760x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": true,
+      "name": "Rich The Kid",
+      "url": "https://genius.com/artists/Rich-the-kid",
+      "iq": 2553
+     }
+    },
+    {
+     "annotation_count": 18,
+     "api_path": "/songs/490556",
+     "full_title": "Hot Nigga (Remix) by\u00a0French\u00a0Montana",
+     "header_image_thumbnail_url": "https://images.genius.com/99431503a5ae0bb0e46760c2efde9a19.300x300x1.jpg",
+     "header_image_url": "https://images.genius.com/99431503a5ae0bb0e46760c2efde9a19.581x581x1.jpg",
+     "id": 490556,
+     "lyrics_owner_id": 366619,
+     "lyrics_state": "complete",
+     "path": "/French-montana-hot-nigga-remix-lyrics",
+     "pyongs_count": 27,
+     "song_art_image_thumbnail_url": "https://images.genius.com/99431503a5ae0bb0e46760c2efde9a19.300x300x1.jpg",
+     "song_art_image_url": "https://images.genius.com/99431503a5ae0bb0e46760c2efde9a19.581x581x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 8,
+      "hot": false,
+      "pageviews": 93507
+     },
+     "title": "Hot Nigga (Remix)",
+     "title_with_featured": "Hot Nigga (Remix)",
+     "url": "https://genius.com/French-montana-hot-nigga-remix-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/1583",
+      "header_image_url": "https://images.genius.com/225d559b44636f2ce45885f8bc006b5f.1000x333x1.jpg",
+      "id": 1583,
+      "image_url": "https://images.genius.com/99431503a5ae0bb0e46760c2efde9a19.581x581x1.jpg",
+      "is_meme_verified": true,
+      "is_verified": true,
+      "name": "French Montana",
+      "url": "https://genius.com/artists/French-montana",
+      "iq": 6762
+     }
+    },
+    {
+     "annotation_count": 5,
+     "api_path": "/songs/491805",
+     "full_title": "Hot Nigga (Freestyle) by\u00a0Lil'\u00a0Kim",
+     "header_image_thumbnail_url": "https://images.genius.com/00ef3234f37f93be04bef5e4a27a3795.300x300x1.jpg",
+     "header_image_url": "https://images.genius.com/00ef3234f37f93be04bef5e4a27a3795.500x500x1.jpg",
+     "id": 491805,
+     "lyrics_owner_id": 220926,
+     "lyrics_state": "complete",
+     "path": "/Lil-kim-hot-nigga-freestyle-lyrics",
+     "pyongs_count": 12,
+     "song_art_image_thumbnail_url": "https://images.genius.com/00ef3234f37f93be04bef5e4a27a3795.300x300x1.jpg",
+     "song_art_image_url": "https://images.genius.com/00ef3234f37f93be04bef5e4a27a3795.500x500x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 5,
+      "hot": false,
+      "pageviews": 18373
+     },
+     "title": "Hot Nigga (Freestyle)",
+     "title_with_featured": "Hot Nigga (Freestyle)",
+     "url": "https://genius.com/Lil-kim-hot-nigga-freestyle-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/411",
+      "header_image_url": "https://images.genius.com/4d166d2738316648bafd34e5bcf0fcdd.667x1000x1.jpg",
+      "id": 411,
+      "image_url": "https://images.genius.com/1f3a02fe6bbec2bfa1c81631bea5ba67.1000x1000x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Lil\u2019 Kim",
+      "url": "https://genius.com/artists/Lil-kim"
+     }
+    },
+    {
+     "annotation_count": 8,
+     "api_path": "/songs/492419",
+     "full_title": "Hot Nigga (Freestyle) by\u00a0Ace\u00a0Hood",
+     "header_image_thumbnail_url": "https://images.rapgenius.com/4b447e62df2659f8ff69c14a10f14656.300x300x1.jpg",
+     "header_image_url": "https://images.rapgenius.com/4b447e62df2659f8ff69c14a10f14656.500x500x1.jpg",
+     "id": 492419,
+     "lyrics_owner_id": 37643,
+     "lyrics_state": "complete",
+     "path": "/Ace-hood-hot-nigga-freestyle-lyrics",
+     "pyongs_count": 7,
+     "song_art_image_thumbnail_url": "https://images.rapgenius.com/4b447e62df2659f8ff69c14a10f14656.300x300x1.jpg",
+     "song_art_image_url": "https://images.rapgenius.com/4b447e62df2659f8ff69c14a10f14656.500x500x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 6,
+      "hot": false,
+      "pageviews": 21869
+     },
+     "title": "Hot Nigga (Freestyle)",
+     "title_with_featured": "Hot Nigga (Freestyle)",
+     "url": "https://genius.com/Ace-hood-hot-nigga-freestyle-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/460",
+      "header_image_url": "https://images.genius.com/2b8521f75a42651c7f8673b2f3f696bc.720x720x1.jpg",
+      "id": 460,
+      "image_url": "https://images.genius.com/2b8521f75a42651c7f8673b2f3f696bc.720x720x1.jpg",
+      "is_meme_verified": true,
+      "is_verified": true,
+      "name": "Ace Hood",
+      "url": "https://genius.com/artists/Ace-hood",
+      "iq": 1206
+     }
+    },
+    {
+     "annotation_count": 4,
+     "api_path": "/songs/492424",
+     "full_title": "Hot Nigga (Freestyle) by\u00a0Gunplay",
+     "header_image_thumbnail_url": "https://images.genius.com/2a30d6eba81c9d11ecca8c868b04e10a.300x300x1.jpg",
+     "header_image_url": "https://images.genius.com/2a30d6eba81c9d11ecca8c868b04e10a.500x500x1.jpg",
+     "id": 492424,
+     "lyrics_owner_id": 126498,
+     "lyrics_state": "complete",
+     "path": "/Gunplay-hot-nigga-freestyle-lyrics",
+     "pyongs_count": 3,
+     "song_art_image_thumbnail_url": "https://images.genius.com/2a30d6eba81c9d11ecca8c868b04e10a.300x300x1.jpg",
+     "song_art_image_url": "https://images.genius.com/2a30d6eba81c9d11ecca8c868b04e10a.500x500x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 3,
+      "hot": false
+     },
+     "title": "Hot Nigga (Freestyle)",
+     "title_with_featured": "Hot Nigga (Freestyle)",
+     "url": "https://genius.com/Gunplay-hot-nigga-freestyle-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/2286",
+      "header_image_url": "https://s3.amazonaws.com/rapgenius/59753_420073688081025_1063908673_n.jpg",
+      "id": 2286,
+      "image_url": "https://s3.amazonaws.com/rapgenius/59753_420073688081025_1063908673_n.jpg",
+      "is_meme_verified": true,
+      "is_verified": true,
+      "name": "Gunplay",
+      "url": "https://genius.com/artists/Gunplay",
+      "iq": 2236
+     }
+    },
+    {
+     "annotation_count": 3,
+     "api_path": "/songs/498304",
+     "full_title": "Hot Nigga by\u00a0Shy\u00a0Glizzy",
+     "header_image_thumbnail_url": "https://images.genius.com/483e63647f55327b26eea9b1834bd2fd.300x300x1.jpg",
+     "header_image_url": "https://images.genius.com/483e63647f55327b26eea9b1834bd2fd.812x812x1.jpg",
+     "id": 498304,
+     "lyrics_owner_id": 1286822,
+     "lyrics_state": "complete",
+     "path": "/Shy-glizzy-hot-nigga-lyrics",
+     "pyongs_count": 9,
+     "song_art_image_thumbnail_url": "https://images.genius.com/483e63647f55327b26eea9b1834bd2fd.300x300x1.jpg",
+     "song_art_image_url": "https://images.genius.com/483e63647f55327b26eea9b1834bd2fd.812x812x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 3,
+      "hot": false,
+      "pageviews": 6236
+     },
+     "title": "Hot Nigga",
+     "title_with_featured": "Hot Nigga",
+     "url": "https://genius.com/Shy-glizzy-hot-nigga-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/19139",
+      "header_image_url": "https://images.genius.com/ff3bb39e1943f582b5f8171247a1b17e.1000x1000x1.jpg",
+      "id": 19139,
+      "image_url": "https://images.genius.com/483e63647f55327b26eea9b1834bd2fd.812x812x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": true,
+      "name": "Shy Glizzy",
+      "url": "https://genius.com/artists/Shy-glizzy",
+      "iq": 3788
+     }
+    },
+    {
+     "annotation_count": 1,
+     "api_path": "/songs/500733",
+     "full_title": "Hot Nigga by\u00a0Jeezy",
+     "header_image_thumbnail_url": "https://images.genius.com/fbc2b0356da7d7469c4a4b124f2ea64c.300x300x1.jpg",
+     "header_image_url": "https://images.genius.com/fbc2b0356da7d7469c4a4b124f2ea64c.1000x1000x1.jpg",
+     "id": 500733,
+     "lyrics_owner_id": 2613,
+     "lyrics_state": "complete",
+     "path": "/Jeezy-hot-nigga-lyrics",
+     "pyongs_count": 2,
+     "song_art_image_thumbnail_url": "https://images.genius.com/fbc2b0356da7d7469c4a4b124f2ea64c.300x300x1.jpg",
+     "song_art_image_url": "https://images.genius.com/fbc2b0356da7d7469c4a4b124f2ea64c.1000x1000x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 0,
+      "hot": false
+     },
+     "title": "Hot Nigga",
+     "title_with_featured": "Hot Nigga",
+     "url": "https://genius.com/Jeezy-hot-nigga-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/67",
+      "header_image_url": "https://images.genius.com/e188ba0724ddbd8360fb4c146f4fc426.745x317x1.jpg",
+      "id": 67,
+      "image_url": "https://images.genius.com/fbc2b0356da7d7469c4a4b124f2ea64c.1000x1000x1.jpg",
+      "is_meme_verified": true,
+      "is_verified": true,
+      "name": "Jeezy",
+      "url": "https://genius.com/artists/Jeezy",
+      "iq": 4855
+     }
+    },
+    {
+     "annotation_count": 15,
+     "api_path": "/songs/505184",
+     "full_title": "Hot Nigga (Remix) by\u00a0Montana\u00a0of 300",
+     "header_image_thumbnail_url": "https://images.genius.com/018ed827febf5fb3928abfbe4ef883be.260x260x1.jpg",
+     "header_image_url": "https://images.genius.com/018ed827febf5fb3928abfbe4ef883be.260x260x1.jpg",
+     "id": 505184,
+     "lyrics_owner_id": 55022,
+     "lyrics_state": "complete",
+     "path": "/Montana-of-300-hot-nigga-remix-lyrics",
+     "pyongs_count": 14,
+     "song_art_image_thumbnail_url": "https://images.genius.com/018ed827febf5fb3928abfbe4ef883be.260x260x1.jpg",
+     "song_art_image_url": "https://images.genius.com/018ed827febf5fb3928abfbe4ef883be.260x260x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 6,
+      "hot": false,
+      "pageviews": 58100
+     },
+     "title": "Hot Nigga (Remix)",
+     "title_with_featured": "Hot Nigga (Remix)",
+     "url": "https://genius.com/Montana-of-300-hot-nigga-remix-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/35857",
+      "header_image_url": "https://images.genius.com/c4353179ebe85df8475d248f77b35ab1.1000x667x1.jpg",
+      "id": 35857,
+      "image_url": "https://images.genius.com/8a87caca9d8596de2be32bd4e6f83b58.446x446x1.jpg",
+      "is_meme_verified": true,
+      "is_verified": true,
+      "name": "Montana of 300",
+      "url": "https://genius.com/artists/Montana-of-300",
+      "iq": 2743
+     }
+    },
+    {
+     "annotation_count": 34,
+     "api_path": "/songs/513559",
+     "full_title": "Hot Nigga (Remix) by\u00a0Bobby\u00a0Shmurda (Ft.\u00a0Busta\u00a0Rhymes, Chris\u00a0Brown, Fabolous, Jadakiss, Rowdy\u00a0Rebel & Yo\u00a0Gotti)",
+     "header_image_thumbnail_url": "https://images.rapgenius.com/3271233bacfee346a1736a871ec56fd4.300x300x1.jpg",
+     "header_image_url": "https://images.rapgenius.com/3271233bacfee346a1736a871ec56fd4.600x600x1.jpg",
+     "id": 513559,
+     "lyrics_owner_id": 145701,
+     "lyrics_state": "complete",
+     "path": "/Bobby-shmurda-hot-nigga-remix-lyrics",
+     "pyongs_count": 47,
+     "song_art_image_thumbnail_url": "https://images.rapgenius.com/3271233bacfee346a1736a871ec56fd4.300x300x1.jpg",
+     "song_art_image_url": "https://images.rapgenius.com/3271233bacfee346a1736a871ec56fd4.600x600x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 2,
+      "hot": false,
+      "pageviews": 119090
+     },
+     "title": "Hot Nigga (Remix)",
+     "title_with_featured": "Hot Nigga (Remix) (Ft.\u00a0Busta\u00a0Rhymes, Chris\u00a0Brown, Fabolous, Jadakiss, Rowdy\u00a0Rebel & Yo\u00a0Gotti)",
+     "url": "https://genius.com/Bobby-shmurda-hot-nigga-remix-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/197731",
+      "header_image_url": "https://images.genius.com/bcc5d9dc8e1b2f354b83e49b2ee0dd0d.1000x1000x1.jpg",
+      "id": 197731,
+      "image_url": "https://images.genius.com/27d7933a8902e0a5bf84f1de70abcd81.1000x1000x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Bobby Shmurda",
+      "url": "https://genius.com/artists/Bobby-shmurda"
+     }
+    },
+    {
+     "annotation_count": 8,
+     "api_path": "/songs/518146",
+     "full_title": "Hot Bitch (Hot Nigga Remix) by\u00a0Remy\u00a0Ma",
+     "header_image_thumbnail_url": "https://images.genius.com/830781a0ee8f2dba542e5ac5165044af.300x300x1.jpg",
+     "header_image_url": "https://images.genius.com/830781a0ee8f2dba542e5ac5165044af.480x480x1.jpg",
+     "id": 518146,
+     "lyrics_owner_id": 280322,
+     "lyrics_state": "complete",
+     "path": "/Remy-ma-hot-bitch-hot-nigga-remix-lyrics",
+     "pyongs_count": 3,
+     "song_art_image_thumbnail_url": "https://images.genius.com/830781a0ee8f2dba542e5ac5165044af.300x300x1.jpg",
+     "song_art_image_url": "https://images.genius.com/830781a0ee8f2dba542e5ac5165044af.480x480x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 2,
+      "hot": false,
+      "pageviews": 27544
+     },
+     "title": "Hot Bitch (Hot Nigga Remix)",
+     "title_with_featured": "Hot Bitch (Hot Nigga Remix)",
+     "url": "https://genius.com/Remy-ma-hot-bitch-hot-nigga-remix-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/2274",
+      "header_image_url": "https://images.genius.com/aa3c0f4bd28538cc9fb5e05c63f10ffd.480x600x1.jpg",
+      "id": 2274,
+      "image_url": "https://images.genius.com/830781a0ee8f2dba542e5ac5165044af.480x480x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": true,
+      "name": "Remy Ma",
+      "url": "https://genius.com/artists/Remy-ma",
+      "iq": 525
+     }
+    },
+    {
+     "annotation_count": 6,
+     "api_path": "/songs/522334",
+     "full_title": "Hot Nigga Part 2 (Hol' up It's Coming) by\u00a0Sean\u00a0Leon",
+     "header_image_thumbnail_url": "https://images.genius.com/e8211f31bcb14a887d6836100656baf0.300x300x1.jpg",
+     "header_image_url": "https://images.genius.com/e8211f31bcb14a887d6836100656baf0.500x500x1.jpg",
+     "id": 522334,
+     "lyrics_owner_id": 336881,
+     "lyrics_state": "complete",
+     "path": "/Sean-leon-hot-nigga-part-2-hol-up-its-coming-lyrics",
+     "pyongs_count": 2,
+     "song_art_image_thumbnail_url": "https://images.genius.com/e8211f31bcb14a887d6836100656baf0.300x300x1.jpg",
+     "song_art_image_url": "https://images.genius.com/e8211f31bcb14a887d6836100656baf0.500x500x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 5,
+      "hot": false
+     },
+     "title": "Hot Nigga Part 2 (Hol\u2019 up It\u2019s Coming)",
+     "title_with_featured": "Hot Nigga Part 2 (Hol' up It's Coming)",
+     "url": "https://genius.com/Sean-leon-hot-nigga-part-2-hol-up-its-coming-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/45180",
+      "header_image_url": "https://images.genius.com/8a8bbb9399b75220180b7cf501bf5481.1000x667x1.jpg",
+      "id": 45180,
+      "image_url": "https://images.genius.com/387bf7ab924ff4f18685d20a068622aa.1000x1000x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": true,
+      "name": "Sean Leon",
+      "url": "https://genius.com/artists/Sean-leon",
+      "iq": 845
+     }
+    },
+    {
+     "annotation_count": 11,
+     "api_path": "/songs/530352",
+     "full_title": "Hot Nigga (Freestyle) by\u00a0Ludacris",
+     "header_image_thumbnail_url": "https://images.genius.com/5badb0ba1278d907060a3bb3a7fbd94c.300x299x1.png",
+     "header_image_url": "https://images.genius.com/5badb0ba1278d907060a3bb3a7fbd94c.499x498x1.png",
+     "id": 530352,
+     "lyrics_owner_id": 674592,
+     "lyrics_state": "complete",
+     "path": "/Ludacris-hot-nigga-freestyle-lyrics",
+     "pyongs_count": 2,
+     "song_art_image_thumbnail_url": "https://images.genius.com/5badb0ba1278d907060a3bb3a7fbd94c.300x299x1.png",
+     "song_art_image_url": "https://images.genius.com/5badb0ba1278d907060a3bb3a7fbd94c.499x498x1.png",
+     "stats": {
+      "unreviewed_annotations": 0,
+      "hot": false,
+      "pageviews": 5026
+     },
+     "title": "Hot Nigga (Freestyle)",
+     "title_with_featured": "Hot Nigga (Freestyle)",
+     "url": "https://genius.com/Ludacris-hot-nigga-freestyle-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/111",
+      "header_image_url": "https://images.genius.com/b6b9eb0b270797fa915f4c7a4d19d3be.1000x563x1.jpg",
+      "id": 111,
+      "image_url": "https://images.genius.com/d211edacb8de02968540124c6801063d.1000x1000x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Ludacris",
+      "url": "https://genius.com/artists/Ludacris"
+     }
+    },
+    {
+     "annotation_count": 6,
+     "api_path": "/songs/530996",
+     "full_title": "Hot Nigga (Freestyle) by\u00a0Cory\u00a0Gunz",
+     "header_image_thumbnail_url": "https://images.genius.com/03d5998aefc6566ec69427ea4b060117.300x375x1.jpg",
+     "header_image_url": "https://images.genius.com/03d5998aefc6566ec69427ea4b060117.640x799x1.jpg",
+     "id": 530996,
+     "lyrics_owner_id": 222050,
+     "lyrics_state": "complete",
+     "path": "/Cory-gunz-hot-nigga-freestyle-lyrics",
+     "pyongs_count": null,
+     "song_art_image_thumbnail_url": "https://images.genius.com/03d5998aefc6566ec69427ea4b060117.300x375x1.jpg",
+     "song_art_image_url": "https://images.genius.com/03d5998aefc6566ec69427ea4b060117.640x799x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 6,
+      "hot": false
+     },
+     "title": "Hot Nigga (Freestyle)",
+     "title_with_featured": "Hot Nigga (Freestyle)",
+     "url": "https://genius.com/Cory-gunz-hot-nigga-freestyle-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/349",
+      "header_image_url": "https://images.genius.com/03d5998aefc6566ec69427ea4b060117.640x799x1.jpg",
+      "id": 349,
+      "image_url": "https://images.genius.com/03d5998aefc6566ec69427ea4b060117.640x799x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Cory Gunz",
+      "url": "https://genius.com/artists/Cory-gunz"
+     }
+    },
+    {
+     "annotation_count": 18,
+     "api_path": "/songs/531387",
+     "full_title": "Hot Ninja by\u00a0Keith\u00a0Ape",
+     "header_image_thumbnail_url": "https://images.genius.com/d69d2001f601bebac7c1746a00ef11dd.300x172x1.jpg",
+     "header_image_url": "https://images.genius.com/d69d2001f601bebac7c1746a00ef11dd.1000x574x1.jpg",
+     "id": 531387,
+     "lyrics_owner_id": 191555,
+     "lyrics_state": "complete",
+     "path": "/Keith-ape-hot-ninja-lyrics",
+     "pyongs_count": 2,
+     "song_art_image_thumbnail_url": "https://images.genius.com/d89f255d084939b3b06b38418d6186c1.300x275x1.jpg",
+     "song_art_image_url": "https://images.genius.com/d89f255d084939b3b06b38418d6186c1.1000x915x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 17,
+      "hot": false,
+      "pageviews": 5471
+     },
+     "title": "Hot Ninja",
+     "title_with_featured": "Hot Ninja",
+     "url": "https://genius.com/Keith-ape-hot-ninja-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/234440",
+      "header_image_url": "https://images.genius.com/a2cd2ab2e5064408290ac37c5761bd4d.911x608x1.jpg",
+      "id": 234440,
+      "image_url": "https://images.genius.com/c28c9ebefbc55285c5d46053892664dd.757x757x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Keith Ape",
+      "url": "https://genius.com/artists/Keith-ape"
+     }
+    },
+    {
+     "annotation_count": 30,
+     "api_path": "/songs/537185",
+     "full_title": "JACKPOT (REMIX) by\u00a0OBLADAET (Ft.\u00a0Nastavnik)",
+     "header_image_thumbnail_url": "https://images.rapgenius.com/2511ca28f1580811eebddb7cbb34c12b.300x300x1.jpg",
+     "header_image_url": "https://images.rapgenius.com/2511ca28f1580811eebddb7cbb34c12b.600x600x1.jpg",
+     "id": 537185,
+     "lyrics_owner_id": 637957,
+     "lyrics_state": "complete",
+     "path": "/Obladaet-jackpot-remix-lyrics",
+     "pyongs_count": 8,
+     "song_art_image_thumbnail_url": "https://images.rapgenius.com/2511ca28f1580811eebddb7cbb34c12b.300x300x1.jpg",
+     "song_art_image_url": "https://images.rapgenius.com/2511ca28f1580811eebddb7cbb34c12b.600x600x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 0,
+      "hot": false,
+      "pageviews": 71612
+     },
+     "title": "JACKPOT (REMIX)",
+     "title_with_featured": "JACKPOT (REMIX) (Ft.\u00a0Nastavnik)",
+     "url": "https://genius.com/Obladaet-jackpot-remix-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/212437",
+      "header_image_url": "https://images.genius.com/eb3e25a8f242c2b4e0a2c5f7ef99a000.1000x1000x1.jpg",
+      "id": 212437,
+      "image_url": "https://images.genius.com/4411ffc50a3cd07d303d09a5db3b7cf5.1000x1000x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": true,
+      "name": "OBLADAET",
+      "url": "https://genius.com/artists/Obladaet",
+      "iq": 3332
+     }
+    },
+    {
+     "annotation_count": 13,
+     "api_path": "/songs/538036",
+     "full_title": "Bonus Track by\u00a0N\u00e9pal",
+     "header_image_thumbnail_url": "https://images.rapgenius.com/9fe4f0cad2e1829d38525ec4964874fd.300x300x1.jpg",
+     "header_image_url": "https://images.rapgenius.com/9fe4f0cad2e1829d38525ec4964874fd.960x960x1.jpg",
+     "id": 538036,
+     "lyrics_owner_id": 171814,
+     "lyrics_state": "complete",
+     "path": "/Nepal-bonus-track-lyrics",
+     "pyongs_count": 2,
+     "song_art_image_thumbnail_url": "https://images.rapgenius.com/9fe4f0cad2e1829d38525ec4964874fd.300x300x1.jpg",
+     "song_art_image_url": "https://images.rapgenius.com/9fe4f0cad2e1829d38525ec4964874fd.960x960x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 1,
+      "hot": false
+     },
+     "title": "Bonus Track",
+     "title_with_featured": "Bonus Track",
+     "url": "https://genius.com/Nepal-bonus-track-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/19547",
+      "header_image_url": "https://images.genius.com/9ac508195670c06a28326d2b3a240285.1000x536x1.png",
+      "id": 19547,
+      "image_url": "https://images.genius.com/4a06b9304948c1278d575c580952fb97.402x402x1.png",
+      "is_meme_verified": false,
+      "is_verified": true,
+      "name": "N\u00e9pal",
+      "url": "https://genius.com/artists/Nepal",
+      "iq": 1540
+     }
+    },
+    {
+     "annotation_count": 1,
+     "api_path": "/songs/548620",
+     "full_title": "Hot Nigga (Remix) by\u00a0Slim\u00a0400",
+     "header_image_thumbnail_url": "https://images.genius.com/d4aa1394293923f13baeeb14e014dad0.300x300x1.jpg",
+     "header_image_url": "https://images.genius.com/d4aa1394293923f13baeeb14e014dad0.399x399x1.jpg",
+     "id": 548620,
+     "lyrics_owner_id": 3483639,
+     "lyrics_state": "complete",
+     "path": "/Slim-400-hot-nigga-remix-lyrics",
+     "pyongs_count": null,
+     "song_art_image_thumbnail_url": "https://images.genius.com/d4aa1394293923f13baeeb14e014dad0.300x300x1.jpg",
+     "song_art_image_url": "https://images.genius.com/d4aa1394293923f13baeeb14e014dad0.399x399x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 0,
+      "hot": false
+     },
+     "title": "Hot Nigga (Remix)",
+     "title_with_featured": "Hot Nigga (Remix)",
+     "url": "https://genius.com/Slim-400-hot-nigga-remix-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/154157",
+      "header_image_url": "https://images.genius.com/32256cd79eb4d5e1e3a977f7998914ec.750x399x1.jpg",
+      "id": 154157,
+      "image_url": "https://images.genius.com/d4aa1394293923f13baeeb14e014dad0.399x399x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Slim 400",
+      "url": "https://genius.com/artists/Slim-400"
+     }
+    },
+    {
+     "annotation_count": 3,
+     "api_path": "/songs/560083",
+     "full_title": "Toca Tuesday Freestyle #2 by\u00a0Logic",
+     "header_image_thumbnail_url": "https://images.genius.com/dc9f7ec748acf2f30f8a9ad2ea65edf0.300x128x1.jpg",
+     "header_image_url": "https://images.genius.com/dc9f7ec748acf2f30f8a9ad2ea65edf0.715x305x1.jpg",
+     "id": 560083,
+     "lyrics_owner_id": 542931,
+     "lyrics_state": "complete",
+     "path": "/Logic-toca-tuesday-freestyle-2-lyrics",
+     "pyongs_count": null,
+     "song_art_image_thumbnail_url": "https://images.genius.com/75015dced369b44014c82f5735b27e63.300x191x1.png",
+     "song_art_image_url": "https://images.genius.com/75015dced369b44014c82f5735b27e63.846x539x1.png",
+     "stats": {
+      "unreviewed_annotations": 1,
+      "hot": false
+     },
+     "title": "Toca Tuesday Freestyle #2",
+     "title_with_featured": "Toca Tuesday Freestyle #2",
+     "url": "https://genius.com/Logic-toca-tuesday-freestyle-2-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/7922",
+      "header_image_url": "https://images.genius.com/f6b08bf607b94a279d743e14bbca2a3a.1000x563x1.jpg",
+      "id": 7922,
+      "image_url": "https://images.genius.com/0f975524d106026e89de983689d007c4.900x900x1.jpg",
+      "is_meme_verified": true,
+      "is_verified": true,
+      "name": "Logic",
+      "url": "https://genius.com/artists/Logic",
+      "iq": 91961
+     }
+    },
+    {
+     "annotation_count": 9,
+     "api_path": "/songs/599607",
+     "full_title": "Hot Nigga (Freestyle) by\u00a0Lance\u00a0Stephenson",
+     "header_image_thumbnail_url": "https://images.genius.com/d9507c2b051da2810d62c77676ca926a.300x300x1.jpg",
+     "header_image_url": "https://images.genius.com/d9507c2b051da2810d62c77676ca926a.887x887x1.jpg",
+     "id": 599607,
+     "lyrics_owner_id": 1319574,
+     "lyrics_state": "complete",
+     "path": "/Lance-stephenson-hot-nigga-freestyle-lyrics",
+     "pyongs_count": 2,
+     "song_art_image_thumbnail_url": "https://images.genius.com/d9507c2b051da2810d62c77676ca926a.300x300x1.jpg",
+     "song_art_image_url": "https://images.genius.com/d9507c2b051da2810d62c77676ca926a.887x887x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 8,
+      "hot": false
+     },
+     "title": "Hot Nigga (Freestyle)",
+     "title_with_featured": "Hot Nigga (Freestyle)",
+     "url": "https://genius.com/Lance-stephenson-hot-nigga-freestyle-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/277265",
+      "header_image_url": "https://images.genius.com/a919625a75709b31543a96abf6335d32.1000x667x1.jpg",
+      "id": 277265,
+      "image_url": "https://images.genius.com/d9507c2b051da2810d62c77676ca926a.887x887x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Lance Stephenson",
+      "url": "https://genius.com/artists/Lance-stephenson"
+     }
+    },
+    {
+     "annotation_count": 1,
+     "api_path": "/songs/671867",
+     "full_title": "Hot Style by\u00a0Giggs (Ft.\u00a0DJ\u00a0Big Ryde, Suspect & Y.Sap)",
+     "header_image_thumbnail_url": "https://images.genius.com/3e5c2f8f77760544c5bd236d97bec07b.300x300x1.jpg",
+     "header_image_url": "https://images.genius.com/3e5c2f8f77760544c5bd236d97bec07b.1000x1000x1.jpg",
+     "id": 671867,
+     "lyrics_owner_id": 1381558,
+     "lyrics_state": "complete",
+     "path": "/Giggs-hot-style-lyrics",
+     "pyongs_count": null,
+     "song_art_image_thumbnail_url": "https://images.genius.com/3e5c2f8f77760544c5bd236d97bec07b.300x300x1.jpg",
+     "song_art_image_url": "https://images.genius.com/3e5c2f8f77760544c5bd236d97bec07b.1000x1000x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 0,
+      "hot": false
+     },
+     "title": "Hot Style",
+     "title_with_featured": "Hot Style (Ft.\u00a0DJ\u00a0Big Ryde, Suspect & Y.Sap)",
+     "url": "https://genius.com/Giggs-hot-style-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/1397",
+      "header_image_url": "https://images.genius.com/06067885b14c051518793fd643336c9a.1000x665x1.jpg",
+      "id": 1397,
+      "image_url": "https://images.genius.com/2405885cf9859416fab474a33779a25e.365x365x1.jpg",
+      "is_meme_verified": true,
+      "is_verified": true,
+      "name": "Giggs",
+      "url": "https://genius.com/artists/Giggs",
+      "iq": 100
+     }
+    },
+    {
+     "annotation_count": 44,
+     "api_path": "/songs/677233",
+     "full_title": "G.W.A. by\u00a0Karlo (Ft.\u00a0Cbch, Robin\u00a0Zoot, Yeezuz2020 & Yzomandias)",
+     "header_image_thumbnail_url": "https://images.genius.com/31089bb6cbbcb063b990bd6b4f7b4892.300x300x1.jpg",
+     "header_image_url": "https://images.genius.com/31089bb6cbbcb063b990bd6b4f7b4892.500x500x1.jpg",
+     "id": 677233,
+     "lyrics_owner_id": 1434869,
+     "lyrics_state": "complete",
+     "path": "/Karlo-gwa-lyrics",
+     "pyongs_count": 1,
+     "song_art_image_thumbnail_url": "https://images.genius.com/31089bb6cbbcb063b990bd6b4f7b4892.300x300x1.jpg",
+     "song_art_image_url": "https://images.genius.com/31089bb6cbbcb063b990bd6b4f7b4892.500x500x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 44,
+      "hot": false
+     },
+     "title": "G.W.A.",
+     "title_with_featured": "G.W.A. (Ft.\u00a0Cbch, Robin\u00a0Zoot, Yeezuz2020 & Yzomandias)",
+     "url": "https://genius.com/Karlo-gwa-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/317006",
+      "header_image_url": "https://images.genius.com/01345feb3c3f3355365255fd4d2399f9.682x682x1.jpg",
+      "id": 317006,
+      "image_url": "https://images.genius.com/01345feb3c3f3355365255fd4d2399f9.682x682x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Karlo",
+      "url": "https://genius.com/artists/Karlo"
+     }
+    },
+    {
+     "annotation_count": 31,
+     "api_path": "/songs/685099",
+     "full_title": "Hot Nigga by\u00a0Lil\u00a0Wayne",
+     "header_image_thumbnail_url": "https://images.genius.com/c84ee812d9e99028d560054b386d4d9d.300x300x1.jpg",
+     "header_image_url": "https://images.genius.com/c84ee812d9e99028d560054b386d4d9d.500x500x1.jpg",
+     "id": 685099,
+     "lyrics_owner_id": 282633,
+     "lyrics_state": "complete",
+     "path": "/Lil-wayne-hot-nigga-lyrics",
+     "pyongs_count": 42,
+     "song_art_image_thumbnail_url": "https://images.genius.com/c84ee812d9e99028d560054b386d4d9d.300x300x1.jpg",
+     "song_art_image_url": "https://images.genius.com/c84ee812d9e99028d560054b386d4d9d.500x500x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 0,
+      "hot": false,
+      "pageviews": 127531
+     },
+     "title": "Hot Nigga",
+     "title_with_featured": "Hot Nigga",
+     "url": "https://genius.com/Lil-wayne-hot-nigga-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/4",
+      "header_image_url": "https://images.genius.com/0cc2fdca3461d34878a59e3791b35e7b.500x278x13.gif",
+      "id": 4,
+      "image_url": "https://images.genius.com/b42bde67bc461dd55a00b577f33673bb.745x745x1.jpg",
+      "is_meme_verified": true,
+      "is_verified": true,
+      "name": "Lil Wayne",
+      "url": "https://genius.com/artists/Lil-wayne",
+      "iq": 4184
+     }
+    },
+    {
+     "annotation_count": 5,
+     "api_path": "/songs/705783",
+     "full_title": "Hot Niggas (Remy Mix) by\u00a0Fetty\u00a0Wap (Ft.\u00a0Monty)",
+     "header_image_thumbnail_url": "https://images.genius.com/b0686e6e7eec842de90328ac63f4da85.300x300x1.jpg",
+     "header_image_url": "https://images.genius.com/b0686e6e7eec842de90328ac63f4da85.400x400x1.jpg",
+     "id": 705783,
+     "lyrics_owner_id": 1456361,
+     "lyrics_state": "complete",
+     "path": "/Fetty-wap-hot-niggas-remy-mix-lyrics",
+     "pyongs_count": 5,
+     "song_art_image_thumbnail_url": "https://images.genius.com/b0686e6e7eec842de90328ac63f4da85.300x300x1.jpg",
+     "song_art_image_url": "https://images.genius.com/b0686e6e7eec842de90328ac63f4da85.400x400x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 5,
+      "hot": false,
+      "pageviews": 5288
+     },
+     "title": "Hot Niggas (Remy Mix)",
+     "title_with_featured": "Hot Niggas (Remy Mix) (Ft.\u00a0Monty)",
+     "url": "https://genius.com/Fetty-wap-hot-niggas-remy-mix-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/216609",
+      "header_image_url": "https://images.genius.com/cfdf0e6082f7216c2483b34c15420f43.700x393x1.jpg",
+      "id": 216609,
+      "image_url": "https://images.genius.com/b0686e6e7eec842de90328ac63f4da85.400x400x1.jpg",
+      "is_meme_verified": true,
+      "is_verified": true,
+      "name": "Fetty Wap",
+      "url": "https://genius.com/artists/Fetty-wap",
+      "iq": 100
+     }
+    },
+    {
+     "annotation_count": 1,
+     "api_path": "/songs/1781319",
+     "full_title": "Hot Nigga (Spanish Remix) by\u00a0Messiah",
+     "header_image_thumbnail_url": "https://images.genius.com/dee58c7c952ac6f7f81cda343b9ffd82.300x300x1.jpg",
+     "header_image_url": "https://images.genius.com/dee58c7c952ac6f7f81cda343b9ffd82.1000x1000x1.jpg",
+     "id": 1781319,
+     "lyrics_owner_id": 1706793,
+     "lyrics_state": "complete",
+     "path": "/Messiah-hot-nigga-spanish-remix-lyrics",
+     "pyongs_count": 1,
+     "song_art_image_thumbnail_url": "https://images.genius.com/dee58c7c952ac6f7f81cda343b9ffd82.300x300x1.jpg",
+     "song_art_image_url": "https://images.genius.com/dee58c7c952ac6f7f81cda343b9ffd82.1000x1000x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 0,
+      "hot": false,
+      "pageviews": 12835
+     },
+     "title": "Hot Nigga (Spanish Remix)",
+     "title_with_featured": "Hot Nigga (Spanish Remix)",
+     "url": "https://genius.com/Messiah-hot-nigga-spanish-remix-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/395757",
+      "header_image_url": "https://images.genius.com/3ee259a9428d8fbc3cc26e3fa2a2d60c.1000x1000x1.jpg",
+      "id": 395757,
+      "image_url": "https://images.genius.com/69086ba160c3032595eecd4e7339224c.586x586x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Messiah",
+      "url": "https://genius.com/artists/Messiah"
+     }
+    },
+    {
+     "annotation_count": 1,
+     "api_path": "/songs/1781950",
+     "full_title": "Hot Nigga (Interlude) by\u00a0Busta\u00a0Rhymes",
+     "header_image_thumbnail_url": "https://images.genius.com/e62c91245f30f934445e89fdf7493038.300x300x1.jpg",
+     "header_image_url": "https://images.genius.com/e62c91245f30f934445e89fdf7493038.500x500x1.jpg",
+     "id": 1781950,
+     "lyrics_owner_id": 278163,
+     "lyrics_state": "complete",
+     "path": "/Busta-rhymes-hot-nigga-interlude-lyrics",
+     "pyongs_count": null,
+     "song_art_image_thumbnail_url": "https://images.genius.com/e62c91245f30f934445e89fdf7493038.300x300x1.jpg",
+     "song_art_image_url": "https://images.genius.com/e62c91245f30f934445e89fdf7493038.500x500x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 0,
+      "hot": false
+     },
+     "title": "Hot Nigga (Interlude)",
+     "title_with_featured": "Hot Nigga (Interlude)",
+     "url": "https://genius.com/Busta-rhymes-hot-nigga-interlude-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/338",
+      "header_image_url": "https://images.genius.com/817d76f300bfd41b3e9e8fa757ddc012.1000x174x1.png",
+      "id": 338,
+      "image_url": "https://images.genius.com/31e8b80ed91e4219eb2afe4019045f75.271x271x1.jpg",
+      "is_meme_verified": true,
+      "is_verified": true,
+      "name": "Busta Rhymes",
+      "url": "https://genius.com/artists/Busta-rhymes",
+      "iq": 400
+     }
+    },
+    {
+     "annotation_count": 1,
+     "api_path": "/songs/2016210",
+     "full_title": "Hot Nigga by\u00a0Slim\u00a0Thug (Ft.\u00a0Z-Ro)",
+     "header_image_thumbnail_url": "https://images.genius.com/828eb37f97508ed128217aa8be65552e.300x300x1.jpg",
+     "header_image_url": "https://images.genius.com/828eb37f97508ed128217aa8be65552e.500x500x1.jpg",
+     "id": 2016210,
+     "lyrics_owner_id": 414376,
+     "lyrics_state": "complete",
+     "path": "/Slim-thug-hot-nigga-lyrics",
+     "pyongs_count": null,
+     "song_art_image_thumbnail_url": "https://images.genius.com/828eb37f97508ed128217aa8be65552e.300x300x1.jpg",
+     "song_art_image_url": "https://images.genius.com/828eb37f97508ed128217aa8be65552e.500x500x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 0,
+      "hot": false
+     },
+     "title": "Hot Nigga",
+     "title_with_featured": "Hot Nigga (Ft.\u00a0Z-Ro)",
+     "url": "https://genius.com/Slim-thug-hot-nigga-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/286",
+      "header_image_url": "https://images.genius.com/75b6eb5c66421bb8a2da73f97eed0aef.405x405x1.jpg",
+      "id": 286,
+      "image_url": "https://images.genius.com/75b6eb5c66421bb8a2da73f97eed0aef.405x405x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Slim Thug",
+      "url": "https://genius.com/artists/Slim-thug"
+     }
+    },
+    {
+     "annotation_count": 9,
+     "api_path": "/songs/2316947",
+     "full_title": "Hot Biggie by\u00a0BAStardo\u00a0LOCale",
+     "header_image_thumbnail_url": "https://images.genius.com/e6efdfb187eee8eb22a5808a7a6acf28.300x300x1.jpg",
+     "header_image_url": "https://images.genius.com/e6efdfb187eee8eb22a5808a7a6acf28.800x800x1.jpg",
+     "id": 2316947,
+     "lyrics_owner_id": 2241432,
+     "lyrics_state": "complete",
+     "path": "/Bastardo-locale-hot-biggie-lyrics",
+     "pyongs_count": 1,
+     "song_art_image_thumbnail_url": "https://images.genius.com/e6efdfb187eee8eb22a5808a7a6acf28.300x300x1.jpg",
+     "song_art_image_url": "https://images.genius.com/e6efdfb187eee8eb22a5808a7a6acf28.800x800x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 9,
+      "hot": false
+     },
+     "title": "Hot Biggie",
+     "title_with_featured": "Hot Biggie",
+     "url": "https://genius.com/Bastardo-locale-hot-biggie-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/572012",
+      "header_image_url": "https://images.genius.com/7db52559527870c371eb31cd872857c4.1000x648x1.png",
+      "id": 572012,
+      "image_url": "https://images.genius.com/76b92788dee7a9d20d51800a829d969a.1000x1000x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "BAStardo LOCale",
+      "url": "https://genius.com/artists/Bastardo-locale"
+     }
+    },
+    {
+     "annotation_count": 0,
+     "api_path": "/songs/2419342",
+     "full_title": "Hot Nigga (Freestyle) by\u00a0\u200bcupcakKe",
+     "header_image_thumbnail_url": "https://images.genius.com/9f5b52456ef776ea30e53563c05fc30d.300x300x1.jpg",
+     "header_image_url": "https://images.genius.com/9f5b52456ef776ea30e53563c05fc30d.400x400x1.jpg",
+     "id": 2419342,
+     "lyrics_owner_id": 2820713,
+     "lyrics_state": "complete",
+     "path": "/Cupcakke-hot-nigga-freestyle-lyrics",
+     "pyongs_count": null,
+     "song_art_image_thumbnail_url": "https://images.genius.com/9f5b52456ef776ea30e53563c05fc30d.300x300x1.jpg",
+     "song_art_image_url": "https://images.genius.com/9f5b52456ef776ea30e53563c05fc30d.400x400x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 0,
+      "hot": false
+     },
+     "title": "Hot Nigga (Freestyle)",
+     "title_with_featured": "Hot Nigga (Freestyle)",
+     "url": "https://genius.com/Cupcakke-hot-nigga-freestyle-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/576538",
+      "header_image_url": "https://images.genius.com/a48cc0528592105ae126a0aefdf2820b.1000x210x1.jpg",
+      "id": 576538,
+      "image_url": "https://images.genius.com/9f5b52456ef776ea30e53563c05fc30d.400x400x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": true,
+      "name": "\u200bcupcakKe",
+      "url": "https://genius.com/artists/Cupcakke",
+      "iq": 895
+     }
+    },
+    {
+     "annotation_count": 0,
+     "api_path": "/songs/2802538",
+     "full_title": "Hot Nigga by\u00a0AJ\u00a0Tracey",
+     "header_image_thumbnail_url": "https://images.genius.com/57a07e1d1e21143f9e727f0b43a19c91.300x300x1.jpg",
+     "header_image_url": "https://images.genius.com/57a07e1d1e21143f9e727f0b43a19c91.500x500x1.jpg",
+     "id": 2802538,
+     "lyrics_owner_id": 321196,
+     "lyrics_state": "complete",
+     "path": "/Aj-tracey-hot-nigga-lyrics",
+     "pyongs_count": null,
+     "song_art_image_thumbnail_url": "https://images.genius.com/57a07e1d1e21143f9e727f0b43a19c91.300x300x1.jpg",
+     "song_art_image_url": "https://images.genius.com/57a07e1d1e21143f9e727f0b43a19c91.500x500x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 0,
+      "hot": false
+     },
+     "title": "Hot Nigga",
+     "title_with_featured": "Hot Nigga",
+     "url": "https://genius.com/Aj-tracey-hot-nigga-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/632700",
+      "header_image_url": "https://images.genius.com/be9959b8a148188fbf9198dd7b5b763b.1000x563x1.jpg",
+      "id": 632700,
+      "image_url": "https://images.genius.com/f7836bcbafc881cc082c53d1909c2a35.1000x1000x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": true,
+      "name": "AJ Tracey",
+      "url": "https://genius.com/artists/Aj-tracey",
+      "iq": 696
+     }
+    },
+    {
+     "annotation_count": 2,
+     "api_path": "/songs/2831914",
+     "full_title": "Hot Nigga (Freestyle) by\u00a0Young\u00a0M.A",
+     "header_image_thumbnail_url": "https://images.genius.com/7441e7d1f3478922c9112bd215826a1b.300x300x1.jpg",
+     "header_image_url": "https://images.genius.com/7441e7d1f3478922c9112bd215826a1b.800x800x1.jpg",
+     "id": 2831914,
+     "lyrics_owner_id": 54639,
+     "lyrics_state": "complete",
+     "path": "/Young-ma-hot-nigga-freestyle-lyrics",
+     "pyongs_count": null,
+     "song_art_image_thumbnail_url": "https://images.genius.com/7441e7d1f3478922c9112bd215826a1b.300x300x1.jpg",
+     "song_art_image_url": "https://images.genius.com/7441e7d1f3478922c9112bd215826a1b.800x800x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 2,
+      "hot": false,
+      "pageviews": 11468
+     },
+     "title": "Hot Nigga (Freestyle)",
+     "title_with_featured": "Hot Nigga (Freestyle)",
+     "url": "https://genius.com/Young-ma-hot-nigga-freestyle-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/339543",
+      "header_image_url": "https://images.genius.com/a929ae266748fcede0754ee5de0a8ce9.500x500x1.jpg",
+      "id": 339543,
+      "image_url": "https://images.genius.com/eac22acf0996fe81401676d52fe00183.803x803x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": true,
+      "name": "Young M.A",
+      "url": "https://genius.com/artists/Young-ma",
+      "iq": 4643
+     }
+    },
+    {
+     "annotation_count": 1,
+     "api_path": "/songs/2916141",
+     "full_title": "Hot Nigga (Remix) by\u00a0Jackboy",
+     "header_image_thumbnail_url": "https://images.genius.com/cbb7efd844f42ba74d47871e6c4908a7.240x221x1.png",
+     "header_image_url": "https://images.genius.com/cbb7efd844f42ba74d47871e6c4908a7.240x221x1.png",
+     "id": 2916141,
+     "lyrics_owner_id": 2694943,
+     "lyrics_state": "complete",
+     "path": "/Jackboy-hot-nigga-remix-lyrics",
+     "pyongs_count": null,
+     "song_art_image_thumbnail_url": "https://images.genius.com/cbb7efd844f42ba74d47871e6c4908a7.240x221x1.png",
+     "song_art_image_url": "https://images.genius.com/cbb7efd844f42ba74d47871e6c4908a7.240x221x1.png",
+     "stats": {
+      "unreviewed_annotations": 1,
+      "hot": false
+     },
+     "title": "Hot Nigga (Remix)",
+     "title_with_featured": "Hot Nigga (Remix)",
+     "url": "https://genius.com/Jackboy-hot-nigga-remix-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/1036371",
+      "header_image_url": "https://images.genius.com/1f4c5805722fb4a61ead408a3853cc60.986x986x1.jpg",
+      "id": 1036371,
+      "image_url": "https://images.genius.com/1f4c5805722fb4a61ead408a3853cc60.986x986x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": true,
+      "name": "Jackboy",
+      "url": "https://genius.com/artists/Jackboy",
+      "iq": 456
+     }
+    },
+    {
+     "annotation_count": 1,
+     "api_path": "/songs/3141402",
+     "full_title": "Pulsion by\u00a0Ichon",
+     "header_image_thumbnail_url": "https://images.genius.com/fb42615e41a92dc0b6b7430e05480611.300x300x1.jpg",
+     "header_image_url": "https://images.genius.com/fb42615e41a92dc0b6b7430e05480611.500x500x1.jpg",
+     "id": 3141402,
+     "lyrics_owner_id": 4366404,
+     "lyrics_state": "complete",
+     "path": "/Ichon-pulsion-lyrics",
+     "pyongs_count": null,
+     "song_art_image_thumbnail_url": "https://images.genius.com/fb42615e41a92dc0b6b7430e05480611.300x300x1.jpg",
+     "song_art_image_url": "https://images.genius.com/fb42615e41a92dc0b6b7430e05480611.500x500x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 1,
+      "hot": false
+     },
+     "title": "Pulsion",
+     "title_with_featured": "Pulsion",
+     "url": "https://genius.com/Ichon-pulsion-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/27122",
+      "header_image_url": "https://images.genius.com/de2026b3956094d3ce221285b96f3128.472x179x1.png",
+      "id": 27122,
+      "image_url": "https://images.genius.com/c74e8176312343776967b243609e81a9.365x365x1.png",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Ichon",
+      "url": "https://genius.com/artists/Ichon"
+     }
+    },
+    {
+     "annotation_count": 8,
+     "api_path": "/songs/3190733",
+     "full_title": "Raw by\u00a0Freedy\u00a0Esaies",
+     "header_image_thumbnail_url": "https://images.genius.com/6d76d3fab1ec4ad8d5922f108b7e7fa2.300x300x1.jpg",
+     "header_image_url": "https://images.genius.com/6d76d3fab1ec4ad8d5922f108b7e7fa2.500x500x1.jpg",
+     "id": 3190733,
+     "lyrics_owner_id": 3059993,
+     "lyrics_state": "complete",
+     "path": "/Freedy-esaies-raw-lyrics",
+     "pyongs_count": 1,
+     "song_art_image_thumbnail_url": "https://images.genius.com/6d76d3fab1ec4ad8d5922f108b7e7fa2.300x300x1.jpg",
+     "song_art_image_url": "https://images.genius.com/6d76d3fab1ec4ad8d5922f108b7e7fa2.500x500x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 1,
+      "hot": false
+     },
+     "title": "Raw",
+     "title_with_featured": "Raw",
+     "url": "https://genius.com/Freedy-esaies-raw-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/1192873",
+      "header_image_url": "https://images.genius.com/775524b830e7da4b0313f9b80588e6ab.750x747x1.jpg",
+      "id": 1192873,
+      "image_url": "https://images.genius.com/6d45ab9c9a5063aa063bc80afc22fa0d.746x746x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": true,
+      "name": "Freedy Esaies",
+      "url": "https://genius.com/artists/Freedy-esaies",
+      "iq": 909
+     }
+    },
+    {
+     "annotation_count": 0,
+     "api_path": "/songs/3307999",
+     "full_title": "Hot nigga remix by\u00a0\u200bnafla",
+     "header_image_thumbnail_url": "https://images.genius.com/22093a4aabf8ac5c1c6f90613eefcaa8.300x300x1.jpg",
+     "header_image_url": "https://images.genius.com/22093a4aabf8ac5c1c6f90613eefcaa8.500x500x1.jpg",
+     "id": 3307999,
+     "lyrics_owner_id": 5381630,
+     "lyrics_state": "complete",
+     "path": "/Nafla-hot-nigga-remix-lyrics",
+     "pyongs_count": null,
+     "song_art_image_thumbnail_url": "https://images.genius.com/22093a4aabf8ac5c1c6f90613eefcaa8.300x300x1.jpg",
+     "song_art_image_url": "https://images.genius.com/22093a4aabf8ac5c1c6f90613eefcaa8.500x500x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 0,
+      "hot": false
+     },
+     "title": "Hot nigga remix",
+     "title_with_featured": "Hot nigga remix",
+     "url": "https://genius.com/Nafla-hot-nigga-remix-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/634241",
+      "header_image_url": "https://images.genius.com/6591f2589f8c5a064e7346bceaad0ec2.1000x563x1.jpg",
+      "id": 634241,
+      "image_url": "https://images.genius.com/ac5b7086a45fb8d2d8d2c6cef84f8412.966x966x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "\u200bnafla",
+      "url": "https://genius.com/artists/Nafla"
+     }
+    },
+    {
+     "annotation_count": 0,
+     "api_path": "/songs/3308556",
+     "full_title": "Hot Nigga Remix by\u00a0Loopy",
+     "header_image_thumbnail_url": "https://images.genius.com/2f515c1143cf084bf93cdf85580a192d.300x300x1.jpg",
+     "header_image_url": "https://images.genius.com/2f515c1143cf084bf93cdf85580a192d.500x500x1.jpg",
+     "id": 3308556,
+     "lyrics_owner_id": 5381630,
+     "lyrics_state": "complete",
+     "path": "/Loopy-hot-nigga-remix-lyrics",
+     "pyongs_count": null,
+     "song_art_image_thumbnail_url": "https://images.genius.com/2f515c1143cf084bf93cdf85580a192d.300x300x1.jpg",
+     "song_art_image_url": "https://images.genius.com/2f515c1143cf084bf93cdf85580a192d.500x500x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 0,
+      "hot": false
+     },
+     "title": "Hot Nigga Remix",
+     "title_with_featured": "Hot Nigga Remix",
+     "url": "https://genius.com/Loopy-hot-nigga-remix-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/52869",
+      "header_image_url": "https://images.genius.com/97d3613387bf585c88a2c0c03a15c16f.600x600x1.jpg",
+      "id": 52869,
+      "image_url": "https://images.genius.com/a62ee579457dc312877fe918e5d20fde.600x600x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Loopy",
+      "url": "https://genius.com/artists/Loopy"
+     }
+    },
+    {
+     "annotation_count": 0,
+     "api_path": "/songs/3309398",
+     "full_title": "Shmurda (Remix) by\u00a0Seckond\u00a0Chaynce (Ft.\u00a0Jonah & Peter\u00a0the Disciple)",
+     "header_image_thumbnail_url": "https://images.genius.com/43ef37fb5458c016380b9b8b776d2352.300x300x1.jpg",
+     "header_image_url": "https://images.genius.com/43ef37fb5458c016380b9b8b776d2352.360x360x1.jpg",
+     "id": 3309398,
+     "lyrics_owner_id": 5438397,
+     "lyrics_state": "complete",
+     "path": "/Seckond-chaynce-shmurda-remix-lyrics",
+     "pyongs_count": 1,
+     "song_art_image_thumbnail_url": "https://images.genius.com/43ef37fb5458c016380b9b8b776d2352.300x300x1.jpg",
+     "song_art_image_url": "https://images.genius.com/43ef37fb5458c016380b9b8b776d2352.360x360x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 0,
+      "hot": false
+     },
+     "title": "Shmurda (Remix)",
+     "title_with_featured": "Shmurda (Remix) (Ft.\u00a0Jonah & Peter\u00a0the Disciple)",
+     "url": "https://genius.com/Seckond-chaynce-shmurda-remix-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/150055",
+      "header_image_url": "https://images.genius.com/43ef37fb5458c016380b9b8b776d2352.360x360x1.jpg",
+      "id": 150055,
+      "image_url": "https://images.genius.com/43ef37fb5458c016380b9b8b776d2352.360x360x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Seckond Chaynce",
+      "url": "https://genius.com/artists/Seckond-chaynce"
+     }
+    },
+    {
+     "annotation_count": 0,
+     "api_path": "/songs/3330580",
+     "full_title": "Ghetto Spirit by\u00a0Grim\u00a0Sickers",
+     "header_image_thumbnail_url": "https://images.genius.com/9757e901800c7ca834412e8bfa9e723f.300x300x1.jpg",
+     "header_image_url": "https://images.genius.com/9757e901800c7ca834412e8bfa9e723f.1000x1000x1.jpg",
+     "id": 3330580,
+     "lyrics_owner_id": 321196,
+     "lyrics_state": "complete",
+     "path": "/Grim-sickers-ghetto-spirit-lyrics",
+     "pyongs_count": null,
+     "song_art_image_thumbnail_url": "https://images.genius.com/9757e901800c7ca834412e8bfa9e723f.300x300x1.jpg",
+     "song_art_image_url": "https://images.genius.com/9757e901800c7ca834412e8bfa9e723f.1000x1000x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 0,
+      "hot": false
+     },
+     "title": "Ghetto Spirit",
+     "title_with_featured": "Ghetto Spirit",
+     "url": "https://genius.com/Grim-sickers-ghetto-spirit-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/265150",
+      "header_image_url": "https://images.genius.com/1ea6669bb439c9e99ab5336d27299bff.400x400x1.jpg",
+      "id": 265150,
+      "image_url": "https://images.genius.com/1ea6669bb439c9e99ab5336d27299bff.400x400x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Grim Sickers",
+      "url": "https://genius.com/artists/Grim-sickers"
+     }
+    },
+    {
+     "annotation_count": 2,
+     "api_path": "/songs/3414866",
+     "full_title": "Cracovia Pt. 2 by\u00a0Il\u00a0Tre 3",
+     "header_image_thumbnail_url": "https://images.genius.com/19ce4d1c3f096b3e13eab7dca8f4459b.300x300x1.jpg",
+     "header_image_url": "https://images.genius.com/19ce4d1c3f096b3e13eab7dca8f4459b.800x800x1.jpg",
+     "id": 3414866,
+     "lyrics_owner_id": 5732200,
+     "lyrics_state": "complete",
+     "path": "/Il-tre-3-cracovia-pt-2-lyrics",
+     "pyongs_count": 6,
+     "song_art_image_thumbnail_url": "https://images.genius.com/19ce4d1c3f096b3e13eab7dca8f4459b.300x300x1.jpg",
+     "song_art_image_url": "https://images.genius.com/19ce4d1c3f096b3e13eab7dca8f4459b.800x800x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 2,
+      "hot": false,
+      "pageviews": 153983
+     },
+     "title": "Cracovia Pt. 2",
+     "title_with_featured": "Cracovia Pt. 2",
+     "url": "https://genius.com/Il-tre-3-cracovia-pt-2-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/1380890",
+      "header_image_url": "https://images.genius.com/fe363fe0ff176b6918b3f98d6fb7a3bd.541x541x1.jpg",
+      "id": 1380890,
+      "image_url": "https://images.genius.com/e3b62e54a4b8ff35d71a305ac783ff60.541x541x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Il Tre 3",
+      "url": "https://genius.com/artists/Il-tre-3"
+     }
+    },
+    {
+     "annotation_count": 2,
+     "api_path": "/songs/3575779",
+     "full_title": "Hot Nigga (Freestyle) by\u00a0Dave\u00a0East",
+     "header_image_thumbnail_url": "https://images.genius.com/8da176fb3dc3c8cd1069d7391014d578.300x300x1.jpg",
+     "header_image_url": "https://images.genius.com/8da176fb3dc3c8cd1069d7391014d578.500x500x1.jpg",
+     "id": 3575779,
+     "lyrics_owner_id": 2266355,
+     "lyrics_state": "complete",
+     "path": "/Dave-east-hot-nigga-freestyle-lyrics",
+     "pyongs_count": null,
+     "song_art_image_thumbnail_url": "https://images.genius.com/8da176fb3dc3c8cd1069d7391014d578.300x300x1.jpg",
+     "song_art_image_url": "https://images.genius.com/8da176fb3dc3c8cd1069d7391014d578.500x500x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 2,
+      "hot": false
+     },
+     "title": "Hot Nigga (Freestyle)",
+     "title_with_featured": "Hot Nigga (Freestyle)",
+     "url": "https://genius.com/Dave-east-hot-nigga-freestyle-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/103654",
+      "header_image_url": "https://images.genius.com/a30af7fc470d642573f8cc9b855fb949.500x236x1.jpg",
+      "id": 103654,
+      "image_url": "https://images.genius.com/70eeaaeff146518f87aecace409a17e6.628x628x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": true,
+      "name": "Dave East",
+      "url": "https://genius.com/artists/Dave-east",
+      "iq": 610
+     }
+    },
+    {
+     "annotation_count": 0,
+     "api_path": "/songs/3670393",
+     "full_title": "Hot N*gga Rmx by\u00a0Young\u00a0Rame",
+     "header_image_thumbnail_url": "https://images.genius.com/2de4f3ba1d2cad215200ec2ce9b4129c.300x300x1.jpg",
+     "header_image_url": "https://images.genius.com/2de4f3ba1d2cad215200ec2ce9b4129c.1000x1000x1.jpg",
+     "id": 3670393,
+     "lyrics_owner_id": 4684771,
+     "lyrics_state": "complete",
+     "path": "/Young-rame-hot-ngga-rmx-lyrics",
+     "pyongs_count": null,
+     "song_art_image_thumbnail_url": "https://images.genius.com/2de4f3ba1d2cad215200ec2ce9b4129c.300x300x1.jpg",
+     "song_art_image_url": "https://images.genius.com/2de4f3ba1d2cad215200ec2ce9b4129c.1000x1000x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 0,
+      "hot": false
+     },
+     "title": "Hot N*gga Rmx",
+     "title_with_featured": "Hot N*gga Rmx",
+     "url": "https://genius.com/Young-rame-hot-ngga-rmx-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/1322487",
+      "header_image_url": "https://images.genius.com/a686e073ee5e2266f6c573bc68d4979c.1000x563x1.jpg",
+      "id": 1322487,
+      "image_url": "https://images.genius.com/ed6cbbf964113fa050121b9a1c00ecd1.838x838x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Young Rame",
+      "url": "https://genius.com/artists/Young-rame"
+     }
+    },
+    {
+     "annotation_count": 2,
+     "api_path": "/songs/3726107",
+     "full_title": "Gay Nigga (Hot Nigga Parody) by\u00a0Lil\u00a0Allah",
+     "header_image_thumbnail_url": "https://images.genius.com/9aa1e9c2afa20e274bd49424d1e7917b.300x300x1.jpg",
+     "header_image_url": "https://images.genius.com/9aa1e9c2afa20e274bd49424d1e7917b.500x500x1.jpg",
+     "id": 3726107,
+     "lyrics_owner_id": 5640302,
+     "lyrics_state": "complete",
+     "path": "/Lil-allah-gay-nigga-hot-nigga-parody-lyrics",
+     "pyongs_count": 8,
+     "song_art_image_thumbnail_url": "https://images.genius.com/9aa1e9c2afa20e274bd49424d1e7917b.300x300x1.jpg",
+     "song_art_image_url": "https://images.genius.com/9aa1e9c2afa20e274bd49424d1e7917b.500x500x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 2,
+      "hot": false,
+      "pageviews": 75343
+     },
+     "title": "Gay Nigga (Hot Nigga Parody)",
+     "title_with_featured": "Gay Nigga (Hot Nigga Parody)",
+     "url": "https://genius.com/Lil-allah-gay-nigga-hot-nigga-parody-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/1477356",
+      "header_image_url": "https://images.genius.com/b47032ed1adc6779ae262144575cb998.1000x210x1.jpg",
+      "id": 1477356,
+      "image_url": "https://images.genius.com/b5473b8f0ede7793212dfd4220d6008e.200x200x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Lil Allah",
+      "url": "https://genius.com/artists/Lil-allah"
+     }
+    },
+    {
+     "annotation_count": 0,
+     "api_path": "/songs/4569136",
+     "full_title": "Hot Dog by\u00a0Malfatto",
+     "header_image_thumbnail_url": "https://images.genius.com/a912389132ad2a7698e2cc3e547b70b0.300x303x1.png",
+     "header_image_url": "https://images.genius.com/a912389132ad2a7698e2cc3e547b70b0.605x611x1.png",
+     "id": 4569136,
+     "lyrics_owner_id": 4592112,
+     "lyrics_state": "complete",
+     "path": "/Malfatto-hot-dog-lyrics",
+     "pyongs_count": null,
+     "song_art_image_thumbnail_url": "https://images.genius.com/a912389132ad2a7698e2cc3e547b70b0.300x303x1.png",
+     "song_art_image_url": "https://images.genius.com/a912389132ad2a7698e2cc3e547b70b0.605x611x1.png",
+     "stats": {
+      "unreviewed_annotations": 0,
+      "hot": false
+     },
+     "title": "Hot Dog",
+     "title_with_featured": "Hot Dog",
+     "url": "https://genius.com/Malfatto-hot-dog-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/2404749",
+      "header_image_url": "https://images.genius.com/42fd56f1c62e3d755501a74be0010a5e.289x289x1.png",
+      "id": 2404749,
+      "image_url": "https://images.genius.com/42fd56f1c62e3d755501a74be0010a5e.289x289x1.png",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Malfatto",
+      "url": "https://genius.com/artists/Malfatto"
+     }
+    },
+    {
+     "annotation_count": 0,
+     "api_path": "/songs/4940204",
+     "full_title": "Tough Nigga by\u00a0Stoned\u00a0Devil",
+     "header_image_thumbnail_url": "https://images.genius.com/6716d7ba0bab6d0afae4008a629a3a2d.85x85x1.jpg",
+     "header_image_url": "https://images.genius.com/6716d7ba0bab6d0afae4008a629a3a2d.85x85x1.jpg",
+     "id": 4940204,
+     "lyrics_owner_id": 5628993,
+     "lyrics_state": "complete",
+     "path": "/Stoned-devil-tough-nigga-lyrics",
+     "pyongs_count": null,
+     "song_art_image_thumbnail_url": "https://images.genius.com/6716d7ba0bab6d0afae4008a629a3a2d.85x85x1.jpg",
+     "song_art_image_url": "https://images.genius.com/6716d7ba0bab6d0afae4008a629a3a2d.85x85x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 0,
+      "hot": false
+     },
+     "title": "Tough Nigga",
+     "title_with_featured": "Tough Nigga",
+     "url": "https://genius.com/Stoned-devil-tough-nigga-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/631125",
+      "header_image_url": "https://images.genius.com/d89ad4e36b4715bb62d40df00f649183.1000x1000x1.png",
+      "id": 631125,
+      "image_url": "https://images.genius.com/17461e6e0cb0199c399d5b08b7c5a041.1000x1000x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Stoned Devil",
+      "url": "https://genius.com/artists/Stoned-devil"
+     }
+    },
+    {
+     "annotation_count": 0,
+     "api_path": "/songs/5342162",
+     "full_title": "Hot Nigga (Modmon Remix) by\u00a0Bobby\u00a0Shmurda (Ft.\u00a0Jah\u00a0X, Junior\u00a0Reid, Mavado & Popcaan)",
+     "header_image_thumbnail_url": "https://images.genius.com/9c7a6501ea1d63ebe813460cb13ca25b.300x300x1.png",
+     "header_image_url": "https://images.genius.com/9c7a6501ea1d63ebe813460cb13ca25b.600x600x1.png",
+     "id": 5342162,
+     "lyrics_owner_id": 8877092,
+     "lyrics_state": "complete",
+     "path": "/Bobby-shmurda-hot-nigga-modmon-remix-lyrics",
+     "pyongs_count": null,
+     "song_art_image_thumbnail_url": "https://images.genius.com/9c7a6501ea1d63ebe813460cb13ca25b.300x300x1.png",
+     "song_art_image_url": "https://images.genius.com/9c7a6501ea1d63ebe813460cb13ca25b.600x600x1.png",
+     "stats": {
+      "unreviewed_annotations": 0,
+      "hot": false
+     },
+     "title": "Hot Nigga (Modmon Remix)",
+     "title_with_featured": "Hot Nigga (Modmon Remix) (Ft.\u00a0Jah\u00a0X, Junior\u00a0Reid, Mavado & Popcaan)",
+     "url": "https://genius.com/Bobby-shmurda-hot-nigga-modmon-remix-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/197731",
+      "header_image_url": "https://images.genius.com/bcc5d9dc8e1b2f354b83e49b2ee0dd0d.1000x1000x1.jpg",
+      "id": 197731,
+      "image_url": "https://images.genius.com/27d7933a8902e0a5bf84f1de70abcd81.1000x1000x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Bobby Shmurda",
+      "url": "https://genius.com/artists/Bobby-shmurda"
+     }
+    },
+    {
+     "annotation_count": 0,
+     "api_path": "/songs/5559397",
+     "full_title": "Hot Nigga (Freestyle) by\u00a0Bad\u00a0Bunny",
+     "header_image_thumbnail_url": "https://images.genius.com/6843ab124d1da1a5bf4151ed33031ecf.300x300x1.jpg",
+     "header_image_url": "https://images.genius.com/6843ab124d1da1a5bf4151ed33031ecf.795x795x1.jpg",
+     "id": 5559397,
+     "lyrics_owner_id": 10094691,
+     "lyrics_state": "complete",
+     "path": "/Bad-bunny-hot-nigga-freestyle-lyrics",
+     "pyongs_count": null,
+     "song_art_image_thumbnail_url": "https://images.genius.com/6843ab124d1da1a5bf4151ed33031ecf.300x300x1.jpg",
+     "song_art_image_url": "https://images.genius.com/6843ab124d1da1a5bf4151ed33031ecf.795x795x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 0,
+      "hot": false
+     },
+     "title": "Hot Nigga (Freestyle)",
+     "title_with_featured": "Hot Nigga (Freestyle)",
+     "url": "https://genius.com/Bad-bunny-hot-nigga-freestyle-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/690350",
+      "header_image_url": "https://images.genius.com/d50474e7e8a81760bad60f54250f96ad.1000x403x1.jpg",
+      "id": 690350,
+      "image_url": "https://images.genius.com/6843ab124d1da1a5bf4151ed33031ecf.795x795x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Bad Bunny",
+      "url": "https://genius.com/artists/Bad-bunny"
+     }
+    },
+    {
+     "annotation_count": 1,
+     "api_path": "/songs/5655078",
+     "full_title": "They Dont Care About Us (Bobby Shmurda remix) by\u00a0Michael\u00a0Jackson",
+     "header_image_thumbnail_url": "https://images.genius.com/c7a9e27c446c5276b33a478084590d2e.300x300x1.jpg",
+     "header_image_url": "https://images.genius.com/c7a9e27c446c5276b33a478084590d2e.500x500x1.jpg",
+     "id": 5655078,
+     "lyrics_owner_id": 11090614,
+     "lyrics_state": "complete",
+     "path": "/Michael-jackson-they-dont-care-about-us-bobby-shmurda-remix-lyrics",
+     "pyongs_count": 1,
+     "song_art_image_thumbnail_url": "https://images.genius.com/c7a9e27c446c5276b33a478084590d2e.300x300x1.jpg",
+     "song_art_image_url": "https://images.genius.com/c7a9e27c446c5276b33a478084590d2e.500x500x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 1,
+      "hot": false
+     },
+     "title": "They Dont Care About Us (Bobby Shmurda remix)",
+     "title_with_featured": "They Dont Care About Us (Bobby Shmurda remix)",
+     "url": "https://genius.com/Michael-jackson-they-dont-care-about-us-bobby-shmurda-remix-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/835",
+      "header_image_url": "https://images.genius.com/141715fc809d51d5625da2441794c339.851x315x1.jpg",
+      "id": 835,
+      "image_url": "https://images.genius.com/c01e2f316435bc76798f44eea465818f.499x499x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Michael Jackson",
+      "url": "https://genius.com/artists/Michael-jackson"
+     }
+    },
+    {
+     "annotation_count": 0,
+     "api_path": "/songs/5709358",
+     "full_title": "Let her go hot nigga by\u00a0Kanskaart",
+     "header_image_thumbnail_url": "https://images.genius.com/56f2bbf45e5a2d287a6ef8a9c5b7322e.300x300x1.jpg",
+     "header_image_url": "https://images.genius.com/56f2bbf45e5a2d287a6ef8a9c5b7322e.400x400x1.jpg",
+     "id": 5709358,
+     "lyrics_owner_id": 6867845,
+     "lyrics_state": "complete",
+     "path": "/Kanskaart-let-her-go-hot-nigga-lyrics",
+     "pyongs_count": null,
+     "song_art_image_thumbnail_url": "https://images.genius.com/56f2bbf45e5a2d287a6ef8a9c5b7322e.300x300x1.jpg",
+     "song_art_image_url": "https://images.genius.com/56f2bbf45e5a2d287a6ef8a9c5b7322e.400x400x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 0,
+      "hot": false
+     },
+     "title": "Let her go hot nigga",
+     "title_with_featured": "Let her go hot nigga",
+     "url": "https://genius.com/Kanskaart-let-her-go-hot-nigga-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/1935184",
+      "header_image_url": "https://images.genius.com/f01e359f02d0f3d677e6f99e8d616de9.1000x166x1.jpg",
+      "id": 1935184,
+      "image_url": "https://images.genius.com/56f2bbf45e5a2d287a6ef8a9c5b7322e.400x400x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Kanskaart",
+      "url": "https://genius.com/artists/Kanskaart"
+     }
+    }
+   ]
+  },
+  {
+   "relationship_type": "live_version_of",
+   "type": "live_version_of",
+   "songs": []
+  },
+  {
+   "relationship_type": "performed_live_as",
+   "type": "performed_live_as",
+   "songs": []
+  }
+ ],
+ "verified_annotations_by": [],
+ "verified_contributors": [],
+ "verified_lyrics_by": [],
+ "writer_artists": [
+  {
+   "api_path": "/artists/17746",
+   "header_image_url": "https://images.genius.com/d985980078c531554b342794ee5712fe.1000x954x1.jpg",
+   "id": 17746,
+   "image_url": "https://images.genius.com/39e3d4a9a208f9c1f0090316a74faec0.761x761x1.jpg",
+   "is_meme_verified": false,
+   "is_verified": true,
+   "name": "Jahlil Beats",
+   "url": "https://genius.com/artists/Jahlil-beats",
+   "iq": 100
+  },
+  {
+   "api_path": "/artists/197731",
+   "header_image_url": "https://images.genius.com/bcc5d9dc8e1b2f354b83e49b2ee0dd0d.1000x1000x1.jpg",
+   "id": 197731,
+   "image_url": "https://images.genius.com/27d7933a8902e0a5bf84f1de70abcd81.1000x1000x1.jpg",
+   "is_meme_verified": false,
+   "is_verified": false,
+   "name": "Bobby Shmurda",
+   "url": "https://genius.com/artists/Bobby-shmurda"
+  }
+ ],
+ "lyrics": "Y'all tryna make a next motherfuckin' scene up in here, huh?\nIt's fucking Shmurda she wrote (Ah-ah-ahh)\nHow much Shmoney's that?\n(Nah-ah-ahh! Ah-ahh!)\nGrr-r-r-r!\nJahlil Beats, holla at me\n\nAnd Truey on some hot nigga (Hot nigga)\nLike I talk to Shyste when I shot niggas (What's good?)\nLike you seen him twirl, then he drop, nigga (Seen him drop!)\nAnd we keep them 9 millis on my block, nigga\nAnd Monte keep it on him, he done dropped niggas\nAnd Trigger, he be wilding, he some hot nigga\nTones known to get busy with them Glocks, nigga\nTry to run down and you can catch a shot, nigga\nRunning through these checks 'til I pass out (Pass out)\nAnd shorty give me neck 'til I pass out (Pass out)\nI swear to God, all I do is cash out (All I do)\nAnd if you ain't a ho, get up out my trap house!\nI been selling crack since like the fifth grade (Like the fifth grade)\nReally never made no difference what the shit made (What the shit made)\nJaja taught me flip them packs and how to maintain (How to maintain)\nGet that money back and spend it on the same thang\nShawty like the way that I ball out (Ball out)\nI be getting money 'til I fall out (Fall out)\nYou talking cash, dog, I goes all out (All out)\nShorty love the way that I floss out (Floss out!)\nFree Greezy, though, let all of my dogs out (Let my dogs out)\nMama said no pussycats inside my doghouse (Pussy nigga)\nThat's what got my daddy locked up in the dog pound (Huh)\nFree Phantom though, let all of my dogs out\nWe gon' pull up in that hooptie like we cops on 'em\nWith them 16s, we gon' put some shots on 'em\nI send a lil' thot to send the drop on him (Send it, send it)\nShe gon' call me up and I'ma sic the hots on him (And I'ma, and I'ma)\nGrimey savage, that's what we are (We are)\nGrimey shooters dressed in G-Star (Star)\nGS9, I go so hard (Hard)\nBut GS for my gun squad (That's for my gun squad)\nAnd, bitch, if it's a problem, we gon' gun-brawl (Bow nigga!)\nShots popping out the AR (B-B-B-Bow, nigga!)\nI'm with Trigger, I'm with Rasha, I'm with A-Rod (B-B-B-Bow, nigga!)\nBroad daylight and we gon' let them things bark\nTell them niggas free Meeshie, ho (Free Meeshie)\nSUBwave, free Breezy, ho (Free Breezy, ho)\nAnd tell my niggas, Shmurda teaming, ho (Shmurda teaming, ho)\nMitch caught a body about a week ago, week ago\nFuck with us and then we tweaking, ho, tweaking, ho\nRun up on that nigga, get to squeezing, ho, squeezing, ho\nEverybody catching bullet holes, bullet holes (B-B-B-Boom!)\nNiggas got me on my bully, yo, bully, yo\nI'ma run up, put that gun on him (That gun on him)\nI'ma run up, go dumb on him (Dumb on him)\nNiggas got me on that young shit (That young shit)\nGot me on that go-dumb shit (Dumb shit)\n\nGot me on that go-dumb shit, man\nTrap mode in this motherfucker\nHotter than a bitch\nAyo, pour up! I need some more drank"
+}

@@ -1,0 +1,1219 @@
+{
+ "_type": "song",
+ "annotation_count": 22,
+ "api_path": "/songs/2436402",
+ "full_title": "Caroline by\u00a0Amin\u00e9",
+ "header_image_thumbnail_url": "https://images.genius.com/e5b85886dea15403c0e28e312bb22e1e.300x300x1.jpg",
+ "header_image_url": "https://images.genius.com/e5b85886dea15403c0e28e312bb22e1e.1000x1000x1.jpg",
+ "id": 2436402,
+ "instrumental": false,
+ "lyrics_owner_id": 2158999,
+ "lyrics_state": "complete",
+ "lyrics_updated_at": 1586502978,
+ "path": "/Amine-caroline-lyrics",
+ "pyongs_count": 161,
+ "song_art_image_thumbnail_url": "https://images.genius.com/e5b85886dea15403c0e28e312bb22e1e.300x300x1.jpg",
+ "song_art_image_url": "https://images.genius.com/e5b85886dea15403c0e28e312bb22e1e.1000x1000x1.jpg",
+ "stats": {
+  "accepted_annotations": 15,
+  "contributors": 184,
+  "iq_earners": 184,
+  "transcribers": 3,
+  "unreviewed_annotations": 0,
+  "verified_annotations": 6,
+  "hot": false,
+  "pageviews": 4737315
+ },
+ "title": "Caroline",
+ "title_with_featured": "Caroline",
+ "updated_by_human_at": 1592764202,
+ "url": "https://genius.com/Amine-caroline-lyrics",
+ "primary_artist": {
+  "api_path": "/artists/26577",
+  "header_image_url": "https://images.genius.com/14e6727d3f1fbba577fb0a45b79b9723.1000x563x1.jpg",
+  "id": 26577,
+  "image_url": "https://images.genius.com/cb3fa9f5d984d7b2f02f2e2b7a472a6e.1000x1000x1.jpg",
+  "is_meme_verified": false,
+  "is_verified": true,
+  "name": "Amin\u00e9",
+  "url": "https://genius.com/artists/Amine",
+  "iq": 11164
+ },
+ "apple_music_id": "1252787337",
+ "apple_music_player_url": "https://genius.com/songs/2436402/apple_music_player",
+ "description": {
+  "plain": "Portland-born rapper Amin\u00e9 has been simmering with underground releases, but he appears ready to break into the mainstream with his viral hit \u201dCaroline.\u201d\n\nHe described the song to Genius saying:\n\nI wrote this song with the intentions of hopefully making a modern day \u201cBillie Jean.\u201d Caroline represents the handful of women I\u2019ve met in my life that I would put genuine effort in.\n\nAmin\u00e9 made the beat along with another Portland producer, Pasqu\u00e9. Amin\u00e9 also directed the video, which includes clever visual references to the filmmaker Quentin Tarantino, who\u2019s namechecked in the lyrics."
+ },
+ "embed_content": "<div id='rg_embed_link_2436402' class='rg_embed_link' data-song-id='2436402'>Read <a href='https://genius.com/Amine-caroline-lyrics'>\u201cCaroline\u201d by Amin\u00e9</a> on Genius</div> <script crossorigin src='//genius.com/songs/2436402/embed.js'></script>",
+ "fact_track": {
+  "provider": "spotify",
+  "external_url": "https://open.spotify.com/track/34dVqrAW35mn6dpgfzntOS",
+  "button_text": "Behind the Lyrics in Spotify",
+  "help_link_text": "What's a Fact Track?",
+  "help_link_url": "https://genius.com/a/genius-and-spotify-together"
+ },
+ "featured_video": true,
+ "lyrics_placeholder_reason": null,
+ "recording_location": "The Banana Factory, OR, US",
+ "release_date": "2016-03-09",
+ "release_date_for_display": "March 9, 2016",
+ "current_user_metadata": {
+  "permissions": [
+   "see_pageviews",
+   "watch_fact_track",
+   "view_apple_music_player",
+   "create_comment",
+   "view_song_story_gallery"
+  ],
+  "excluded_permissions": [
+   "follow",
+   "award_transcription_iq",
+   "remove_transcription_iq",
+   "pyong",
+   "edit_lyrics",
+   "view_annotation_engagement_data",
+   "publish",
+   "unpublish",
+   "edit_spotify_details",
+   "hide",
+   "unhide",
+   "toggle_featured_video",
+   "add_pinned_annotation_to",
+   "add_community_annotation_to",
+   "destroy",
+   "mark_as_not_spam",
+   "edit_spotify_annotations_for",
+   "verify_lyrics",
+   "unverify_lyrics",
+   "edit_anything",
+   "edit_any_media",
+   "edit",
+   "rename",
+   "edit_tags",
+   "reindex",
+   "view_lyrics_synchronization",
+   "enable_media",
+   "disable_media",
+   "edit_lyrics_or_annotation_brackets",
+   "see_editorial_indicators",
+   "view_attribution_visualization",
+   "edit_annotation_brackets",
+   "preview_lyrics_for_export",
+   "hide_apple_player",
+   "unhide_apple_player",
+   "trigger_apple_match",
+   "mark_lyrics_evaluation_as_approved",
+   "mark_lyrics_evaluation_as_staff_approved",
+   "mark_lyrics_evaluation_as_unapproved",
+   "mark_lyrics_evaluation_as_un_staff_approved",
+   "view_transcriber_media_player",
+   "override_apple_match",
+   "edit_youtube_url",
+   "edit_soundcloud_url",
+   "edit_spotify_uuid",
+   "edit_vevo_url",
+   "moderate_annotations",
+   "create_annotation",
+   "see_short_id",
+   "manage_chart_item",
+   "create_tag",
+   "propose_lyrics_edit",
+   "moderate_lyrics_edit_proposals",
+   "preview_react_song_page"
+  ],
+  "interactions": {
+   "pyong": false,
+   "following": false
+  },
+  "relationships": {},
+  "iq_by_action": {}
+ },
+ "album": {
+  "api_path": "/albums/352625",
+  "cover_art_url": "https://images.genius.com/db9514897774fd7715cbe1aa432c2a59.1000x1000x1.jpg",
+  "full_title": "Good for You by Amin\u00e9",
+  "id": 352625,
+  "name": "Good for You",
+  "url": "https://genius.com/albums/Amine/Good-for-you",
+  "artist": {
+   "api_path": "/artists/26577",
+   "header_image_url": "https://images.genius.com/14e6727d3f1fbba577fb0a45b79b9723.1000x563x1.jpg",
+   "id": 26577,
+   "image_url": "https://images.genius.com/cb3fa9f5d984d7b2f02f2e2b7a472a6e.1000x1000x1.jpg",
+   "is_meme_verified": false,
+   "is_verified": true,
+   "name": "Amin\u00e9",
+   "url": "https://genius.com/artists/Amine",
+   "iq": 11164
+  }
+ },
+ "custom_performances": [
+  {
+   "label": "Performance Rights",
+   "artists": [
+    {
+     "api_path": "/artists/551598",
+     "header_image_url": "https://images.genius.com/067d9bccf2ab6e5eded129861b73d9dc.851x315x1.jpg",
+     "id": 551598,
+     "image_url": "https://images.genius.com/5f24e8e67904faef419d736f2ade3f78.1000x1000x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "ASCAP",
+     "url": "https://genius.com/artists/Ascap"
+    },
+    {
+     "api_path": "/artists/1138091",
+     "header_image_url": "https://images.genius.com/5b84dbf7ba86e59c297143f076a56c9a.1000x1000x1.jpg",
+     "id": 1138091,
+     "image_url": "https://images.genius.com/051b0a6beabf8a9eb8768e9f874a542f.1000x1000x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "BMI",
+     "url": "https://genius.com/artists/Bmi"
+    }
+   ]
+  },
+  {
+   "label": "Publisher",
+   "artists": [
+    {
+     "api_path": "/artists/1112276",
+     "header_image_url": "https://images.genius.com/159917d9c26b9cfe66c0b04493a1f05a.900x900x1.png",
+     "id": 1112276,
+     "image_url": "https://images.genius.com/340e19086e9ebeae265e6e4947b0ffcb.900x900x1.png",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Warner Music Group",
+     "url": "https://genius.com/artists/Warner-music-group"
+    },
+    {
+     "api_path": "/artists/1100826",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+     "id": 1100826,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "New World Music",
+     "url": "https://genius.com/artists/New-world-music"
+    },
+    {
+     "api_path": "/artists/1104563",
+     "header_image_url": "https://images.genius.com/6ee5d6766689e04358c1d0f8ea0ed8f0.600x600x1.png",
+     "id": 1104563,
+     "image_url": "https://images.genius.com/7b3fb2c00317cb2eb2453f9f4e7473d1.600x600x1.png",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Universal Music Group",
+     "url": "https://genius.com/artists/Universal-music-group"
+    },
+    {
+     "api_path": "/artists/2286152",
+     "header_image_url": "https://images.genius.com/6855dd1e2c4a6956518be6530786a0c2.256x256x1.png",
+     "id": 2286152,
+     "image_url": "https://images.genius.com/6855dd1e2c4a6956518be6530786a0c2.256x256x1.png",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Club Banana",
+     "url": "https://genius.com/artists/Club-banana"
+    },
+    {
+     "api_path": "/artists/992219",
+     "header_image_url": "https://images.genius.com/a43ed819378fccdad8a80cad050f2029.768x433x1.jpg",
+     "id": 992219,
+     "image_url": "https://images.genius.com/8af7bba6ca0c481513ffe4b4ab87e347.314x314x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Warner-Tamerlane Publishing Corp.",
+     "url": "https://genius.com/artists/Warner-tamerlane-publishing-corp"
+    }
+   ]
+  },
+  {
+   "label": "Mixing Engineer",
+   "artists": [
+    {
+     "api_path": "/artists/1192761",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+     "id": 1192761,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Gabe Schuman",
+     "url": "https://genius.com/artists/Gabe-schuman"
+    }
+   ]
+  },
+  {
+   "label": "Programmer",
+   "artists": [
+    {
+     "api_path": "/artists/1002050",
+     "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/miB2z9WsQMesDldKzZVO_15035648_2150274645197051_2348732213329133568_n.jpg",
+     "id": 1002050,
+     "image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/DrpFz7maSSm1S6zE9Y9F_15035648_2150274645197051_2348732213329133568_n.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Pasqu\u00e9",
+     "url": "https://genius.com/artists/Pasque"
+    }
+   ]
+  },
+  {
+   "label": "Video Writing",
+   "artists": [
+    {
+     "api_path": "/artists/26577",
+     "header_image_url": "https://images.genius.com/14e6727d3f1fbba577fb0a45b79b9723.1000x563x1.jpg",
+     "id": 26577,
+     "image_url": "https://images.genius.com/cb3fa9f5d984d7b2f02f2e2b7a472a6e.1000x1000x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "Amin\u00e9",
+     "url": "https://genius.com/artists/Amine",
+     "iq": 11164
+    },
+    {
+     "api_path": "/artists/1089394",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+     "id": 1089394,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Brian Kinnes",
+     "url": "https://genius.com/artists/Brian-kinnes"
+    }
+   ]
+  },
+  {
+   "label": "Video Editing/Post",
+   "artists": [
+    {
+     "api_path": "/artists/1887078",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+     "id": 1887078,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Nikolaus Popp",
+     "url": "https://genius.com/artists/Nikolaus-popp"
+    }
+   ]
+  },
+  {
+   "label": "Label",
+   "artists": [
+    {
+     "api_path": "/artists/1104563",
+     "header_image_url": "https://images.genius.com/6ee5d6766689e04358c1d0f8ea0ed8f0.600x600x1.png",
+     "id": 1104563,
+     "image_url": "https://images.genius.com/7b3fb2c00317cb2eb2453f9f4e7473d1.600x600x1.png",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Universal Music Group",
+     "url": "https://genius.com/artists/Universal-music-group"
+    },
+    {
+     "api_path": "/artists/1011844",
+     "header_image_url": "https://images.genius.com/d3d4fad20d9150bbcbdcf791b0532dd2.1000x1000x1.jpg",
+     "id": 1011844,
+     "image_url": "https://images.genius.com/d8ea37a285aa8bdcb0eaebb31f116529.1000x1000x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Republic Records",
+     "url": "https://genius.com/artists/Republic-records"
+    }
+   ]
+  },
+  {
+   "label": "Background Vocals",
+   "artists": [
+    {
+     "api_path": "/artists/1192762",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+     "id": 1192762,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Marche\u2019 Black",
+     "url": "https://genius.com/artists/Marche-black"
+    }
+   ]
+  },
+  {
+   "label": "Vocals",
+   "artists": [
+    {
+     "api_path": "/artists/26577",
+     "header_image_url": "https://images.genius.com/14e6727d3f1fbba577fb0a45b79b9723.1000x563x1.jpg",
+     "id": 26577,
+     "image_url": "https://images.genius.com/cb3fa9f5d984d7b2f02f2e2b7a472a6e.1000x1000x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "Amin\u00e9",
+     "url": "https://genius.com/artists/Amine",
+     "iq": 11164
+    }
+   ]
+  }
+ ],
+ "description_annotation": {
+  "_type": "referent",
+  "annotator_id": 325189,
+  "annotator_login": "Incilin",
+  "api_path": "/referents/10196664",
+  "classification": "accepted",
+  "fragment": "Caroline",
+  "id": 10196664,
+  "is_description": true,
+  "path": "/10196664/Amine-caroline/Caroline",
+  "range": {
+   "content": "Caroline"
+  },
+  "song_id": 2436402,
+  "url": "https://genius.com/10196664/Amine-caroline/Caroline",
+  "verified_annotator_ids": [],
+  "annotatable": {
+   "api_path": "/songs/2436402",
+   "client_timestamps": {
+    "updated_by_human_at": 1592764202,
+    "lyrics_updated_at": 1586502978
+   },
+   "context": "Amin\u00e9",
+   "id": 2436402,
+   "image_url": "https://images.genius.com/e5b85886dea15403c0e28e312bb22e1e.1000x1000x1.jpg",
+   "link_title": "Caroline by\u00a0Amin\u00e9",
+   "title": "Caroline",
+   "type": "Song",
+   "url": "https://genius.com/Amine-caroline-lyrics"
+  },
+  "annotations": [
+   {
+    "api_path": "/annotations/10196664",
+    "body": {
+     "plain": "Portland-born rapper Amin\u00e9 has been simmering with underground releases, but he appears ready to break into the mainstream with his viral hit \u201dCaroline.\u201d\n\nHe described the song to Genius saying:\n\nI wrote this song with the intentions of hopefully making a modern day \u201cBillie Jean.\u201d Caroline represents the handful of women I\u2019ve met in my life that I would put genuine effort in.\n\nAmin\u00e9 made the beat along with another Portland producer, Pasqu\u00e9. Amin\u00e9 also directed the video, which includes clever visual references to the filmmaker Quentin Tarantino, who\u2019s namechecked in the lyrics."
+    },
+    "comment_count": 0,
+    "community": true,
+    "custom_preview": null,
+    "has_voters": true,
+    "id": 10196664,
+    "pinned": false,
+    "share_url": "https://genius.com/10196664",
+    "source": null,
+    "state": "accepted",
+    "url": "https://genius.com/10196664/Amine-caroline/Caroline",
+    "verified": false,
+    "votes_total": 303,
+    "current_user_metadata": {
+     "permissions": [
+      "create_comment"
+     ],
+     "excluded_permissions": [
+      "vote",
+      "edit",
+      "cosign",
+      "uncosign",
+      "destroy",
+      "accept",
+      "reject",
+      "see_unreviewed",
+      "clear_votes",
+      "propose_edit_to",
+      "pin_to_profile",
+      "unpin_from_profile",
+      "update_source",
+      "edit_custom_preview"
+     ],
+     "interactions": {
+      "cosign": false,
+      "pyong": false,
+      "vote": null
+     },
+     "iq_by_action": {}
+    },
+    "authors": [
+     {
+      "attribution": 0.5161290322580645,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/325189",
+       "avatar": {
+        "tiny": {
+         "url": "https://images.genius.com/avatars/tiny/e4c300054daec5c64f107d687e2b5648",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://images.genius.com/avatars/thumb/e4c300054daec5c64f107d687e2b5648",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://images.genius.com/avatars/small/e4c300054daec5c64f107d687e2b5648",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://images.genius.com/avatars/medium/e4c300054daec5c64f107d687e2b5648",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://images.genius.com/avatars/medium/e4c300054daec5c64f107d687e2b5648",
+       "human_readable_role_for_display": "Staff",
+       "id": 325189,
+       "iq": 77083,
+       "login": "Incilin",
+       "name": "Insanul Ahmed",
+       "role_for_display": "staff",
+       "url": "https://genius.com/Incilin",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     },
+     {
+      "attribution": 0.46236559139784944,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/1762386",
+       "avatar": {
+        "tiny": {
+         "url": "https://images.rapgenius.com/avatars/tiny/5cb8ae3ea928290d5c8fa812aeeb6426",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://images.rapgenius.com/avatars/thumb/5cb8ae3ea928290d5c8fa812aeeb6426",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://images.rapgenius.com/avatars/small/5cb8ae3ea928290d5c8fa812aeeb6426",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://images.rapgenius.com/avatars/medium/5cb8ae3ea928290d5c8fa812aeeb6426",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://images.rapgenius.com/avatars/medium/5cb8ae3ea928290d5c8fa812aeeb6426",
+       "human_readable_role_for_display": "Editor",
+       "id": 1762386,
+       "iq": 39997,
+       "login": "JohnGanz",
+       "name": "JohnGanz",
+       "role_for_display": "editor",
+       "url": "https://genius.com/JohnGanz",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     },
+     {
+      "attribution": 0.02150537634408602,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/86920",
+       "avatar": {
+        "tiny": {
+         "url": "https://images.genius.com/avatars/tiny/7d722fd0c9d9ca68374649d47c925163",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://images.genius.com/avatars/thumb/7d722fd0c9d9ca68374649d47c925163",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://images.genius.com/avatars/small/7d722fd0c9d9ca68374649d47c925163",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://images.genius.com/avatars/medium/7d722fd0c9d9ca68374649d47c925163",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://images.genius.com/ae78f8f44fa40985017dbbd56b8e8701.1000x518x1.png",
+       "human_readable_role_for_display": "Moderator",
+       "id": 86920,
+       "iq": 117797,
+       "login": "BasedGator",
+       "name": "BasedGator",
+       "role_for_display": "moderator",
+       "url": "https://genius.com/BasedGator",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     }
+    ],
+    "cosigned_by": [],
+    "rejection_comment": null,
+    "verified_by": null
+   }
+  ]
+ },
+ "featured_artists": [],
+ "lyrics_marked_complete_by": null,
+ "media": [
+  {
+   "provider": "youtube",
+   "start": 0,
+   "type": "video",
+   "url": "http://www.youtube.com/watch?v=3j8ecF8Wt4E"
+  },
+  {
+   "native_uri": "spotify:track:34dVqrAW35mn6dpgfzntOS",
+   "provider": "spotify",
+   "type": "audio",
+   "url": "https://open.spotify.com/track/34dVqrAW35mn6dpgfzntOS"
+  },
+  {
+   "attribution": "heyamine",
+   "provider": "soundcloud",
+   "type": "audio",
+   "url": "https://soundcloud.com/heyamine/caroline"
+  }
+ ],
+ "producer_artists": [
+  {
+   "api_path": "/artists/26577",
+   "header_image_url": "https://images.genius.com/14e6727d3f1fbba577fb0a45b79b9723.1000x563x1.jpg",
+   "id": 26577,
+   "image_url": "https://images.genius.com/cb3fa9f5d984d7b2f02f2e2b7a472a6e.1000x1000x1.jpg",
+   "is_meme_verified": false,
+   "is_verified": true,
+   "name": "Amin\u00e9",
+   "url": "https://genius.com/artists/Amine",
+   "iq": 11164
+  },
+  {
+   "api_path": "/artists/1002050",
+   "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/miB2z9WsQMesDldKzZVO_15035648_2150274645197051_2348732213329133568_n.jpg",
+   "id": 1002050,
+   "image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/DrpFz7maSSm1S6zE9Y9F_15035648_2150274645197051_2348732213329133568_n.jpg",
+   "is_meme_verified": false,
+   "is_verified": false,
+   "name": "Pasqu\u00e9",
+   "url": "https://genius.com/artists/Pasque"
+  }
+ ],
+ "song_relationships": [
+  {
+   "relationship_type": "samples",
+   "type": "samples",
+   "songs": []
+  },
+  {
+   "relationship_type": "sampled_in",
+   "type": "sampled_in",
+   "songs": [
+    {
+     "annotation_count": 0,
+     "api_path": "/songs/3019136",
+     "full_title": "Caroline by\u00a0Thess",
+     "header_image_thumbnail_url": "https://i.genius.com/f33d1171021f524719539cc7c7d74dd202c68f52?url=https%3A%2F%2Flh3.googleusercontent.com%2FRXphaKm8i0q1sNlEIkjblvDg1hx8Y3GDGYuSVuniRIndGkrb36-BatbI5ZOYDnD-gyzsf6eqT18Kj5Cynx56cVwzBnAk4jnC%3Ds440-rw",
+     "header_image_url": "https://i.genius.com/f33d1171021f524719539cc7c7d74dd202c68f52?url=https%3A%2F%2Flh3.googleusercontent.com%2FRXphaKm8i0q1sNlEIkjblvDg1hx8Y3GDGYuSVuniRIndGkrb36-BatbI5ZOYDnD-gyzsf6eqT18Kj5Cynx56cVwzBnAk4jnC%3Ds440-rw",
+     "id": 3019136,
+     "lyrics_owner_id": 61908,
+     "lyrics_state": "complete",
+     "path": "/Thess-caroline-lyrics",
+     "pyongs_count": null,
+     "song_art_image_thumbnail_url": "https://i.genius.com/f33d1171021f524719539cc7c7d74dd202c68f52?url=https%3A%2F%2Flh3.googleusercontent.com%2FRXphaKm8i0q1sNlEIkjblvDg1hx8Y3GDGYuSVuniRIndGkrb36-BatbI5ZOYDnD-gyzsf6eqT18Kj5Cynx56cVwzBnAk4jnC%3Ds440-rw",
+     "song_art_image_url": "https://i.genius.com/f33d1171021f524719539cc7c7d74dd202c68f52?url=https%3A%2F%2Flh3.googleusercontent.com%2FRXphaKm8i0q1sNlEIkjblvDg1hx8Y3GDGYuSVuniRIndGkrb36-BatbI5ZOYDnD-gyzsf6eqT18Kj5Cynx56cVwzBnAk4jnC%3Ds440-rw",
+     "stats": {
+      "unreviewed_annotations": 0,
+      "hot": false
+     },
+     "title": "Caroline",
+     "title_with_featured": "Caroline",
+     "url": "https://genius.com/Thess-caroline-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/1098201",
+      "header_image_url": "https://images.genius.com/fc2ebe1c9b5da10ab5497feb65865c87.1000x1000x1.jpg",
+      "id": 1098201,
+      "image_url": "https://images.genius.com/7ced44619a380949827cfb07b6dbaf63.587x587x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Thess",
+      "url": "https://genius.com/artists/Thess"
+     }
+    },
+    {
+     "annotation_count": 0,
+     "api_path": "/songs/3204290",
+     "full_title": "Seventeen by\u00a0Wacko\u00a0Genius",
+     "header_image_thumbnail_url": "https://images.genius.com/cfc68a2e4faeda81d62da4a18f692129.300x300x1.jpg",
+     "header_image_url": "https://images.genius.com/cfc68a2e4faeda81d62da4a18f692129.1000x1000x1.jpg",
+     "id": 3204290,
+     "lyrics_owner_id": 3652363,
+     "lyrics_state": "complete",
+     "path": "/Wacko-genius-seventeen-lyrics",
+     "pyongs_count": null,
+     "song_art_image_thumbnail_url": "https://images.genius.com/cfc68a2e4faeda81d62da4a18f692129.300x300x1.jpg",
+     "song_art_image_url": "https://images.genius.com/cfc68a2e4faeda81d62da4a18f692129.1000x1000x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 0,
+      "hot": false
+     },
+     "title": "Seventeen",
+     "title_with_featured": "Seventeen",
+     "url": "https://genius.com/Wacko-genius-seventeen-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/994766",
+      "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+      "id": 994766,
+      "image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Wacko Genius",
+      "url": "https://genius.com/artists/Wacko-genius"
+     }
+    },
+    {
+     "annotation_count": 1,
+     "api_path": "/songs/6106167",
+     "full_title": "Young Love, Baby by\u00a0Perseu",
+     "header_image_thumbnail_url": "https://images.genius.com/18c0485004993039b11a6c5e041d5e27.300x300x1.png",
+     "header_image_url": "https://images.genius.com/18c0485004993039b11a6c5e041d5e27.1000x1000x1.png",
+     "id": 6106167,
+     "lyrics_owner_id": 11262398,
+     "lyrics_state": "complete",
+     "path": "/Perseu-young-love-baby-lyrics",
+     "pyongs_count": null,
+     "song_art_image_thumbnail_url": "https://images.genius.com/18c0485004993039b11a6c5e041d5e27.300x300x1.png",
+     "song_art_image_url": "https://images.genius.com/18c0485004993039b11a6c5e041d5e27.1000x1000x1.png",
+     "stats": {
+      "unreviewed_annotations": 1,
+      "hot": false
+     },
+     "title": "Young Love, Baby",
+     "title_with_featured": "Young Love, Baby",
+     "url": "https://genius.com/Perseu-young-love-baby-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/2310549",
+      "header_image_url": "https://images.genius.com/1fd1a23e5147013207fb8eeb15b77382.828x578x1.jpg",
+      "id": 2310549,
+      "image_url": "https://images.genius.com/55d59f8d1fd0cf147aa8d61edc4559c8.313x313x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Perseu",
+      "url": "https://genius.com/artists/Perseu"
+     }
+    }
+   ]
+  },
+  {
+   "relationship_type": "interpolates",
+   "type": "interpolates",
+   "songs": []
+  },
+  {
+   "relationship_type": "interpolated_by",
+   "type": "interpolated_by",
+   "songs": [
+    {
+     "annotation_count": 0,
+     "api_path": "/songs/3050467",
+     "full_title": "Frequency by\u00a0R&D (Ft.\u00a0Indica)",
+     "header_image_thumbnail_url": "https://images.genius.com/0e094339c51174b07233f7a6c2e2c33d.300x300x1.jpg",
+     "header_image_url": "https://images.genius.com/0e094339c51174b07233f7a6c2e2c33d.500x500x1.jpg",
+     "id": 3050467,
+     "lyrics_owner_id": 47111,
+     "lyrics_state": "complete",
+     "path": "/R-d-frequency-lyrics",
+     "pyongs_count": null,
+     "song_art_image_thumbnail_url": "https://images.genius.com/0e094339c51174b07233f7a6c2e2c33d.300x300x1.jpg",
+     "song_art_image_url": "https://images.genius.com/0e094339c51174b07233f7a6c2e2c33d.500x500x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 0,
+      "hot": false
+     },
+     "title": "Frequency",
+     "title_with_featured": "Frequency (Ft.\u00a0Indica)",
+     "url": "https://genius.com/R-d-frequency-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/1116293",
+      "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+      "id": 1116293,
+      "image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "R&D",
+      "url": "https://genius.com/artists/R-d"
+     }
+    },
+    {
+     "annotation_count": 0,
+     "api_path": "/songs/4251204",
+     "full_title": "LMSYD by\u00a0Lil\u00a0Richie (Ft.\u00a0An\u00a0Extremely Agitated Hedgehog)",
+     "header_image_thumbnail_url": "https://images.genius.com/231a582c8fce9c2444d70fd1196f0169.300x300x1.jpg",
+     "header_image_url": "https://images.genius.com/231a582c8fce9c2444d70fd1196f0169.1000x1000x1.jpg",
+     "id": 4251204,
+     "lyrics_owner_id": 7686238,
+     "lyrics_state": "complete",
+     "path": "/Lil-richie-lmsyd-lyrics",
+     "pyongs_count": null,
+     "song_art_image_thumbnail_url": "https://images.genius.com/231a582c8fce9c2444d70fd1196f0169.300x300x1.jpg",
+     "song_art_image_url": "https://images.genius.com/231a582c8fce9c2444d70fd1196f0169.1000x1000x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 0,
+      "hot": false
+     },
+     "title": "LMSYD",
+     "title_with_featured": "LMSYD (Ft.\u00a0An\u00a0Extremely Agitated Hedgehog)",
+     "url": "https://genius.com/Lil-richie-lmsyd-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/609895",
+      "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+      "id": 609895,
+      "image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Lil Richie",
+      "url": "https://genius.com/artists/Lil-richie"
+     }
+    },
+    {
+     "annotation_count": 0,
+     "api_path": "/songs/5267313",
+     "full_title": "She thicc by\u00a0Yvng\u00a0Timmy Drip & Ky Burns (Ft.\u00a0Ky\u00a0Burns & Yvng\u00a0Timmy Drip)",
+     "header_image_thumbnail_url": "https://images.genius.com/d0777e5c2a6a05a8a7178de5b46d59e6.300x300x1.jpg",
+     "header_image_url": "https://images.genius.com/d0777e5c2a6a05a8a7178de5b46d59e6.958x958x1.jpg",
+     "id": 5267313,
+     "lyrics_owner_id": 8179327,
+     "lyrics_state": "complete",
+     "path": "/Yvng-timmy-drip-and-ky-burns-she-thicc-lyrics",
+     "pyongs_count": null,
+     "song_art_image_thumbnail_url": "https://images.genius.com/d0777e5c2a6a05a8a7178de5b46d59e6.300x300x1.jpg",
+     "song_art_image_url": "https://images.genius.com/d0777e5c2a6a05a8a7178de5b46d59e6.958x958x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 0,
+      "hot": false
+     },
+     "title": "She thicc",
+     "title_with_featured": "She thicc (Ft.\u00a0Ky\u00a0Burns & Yvng\u00a0Timmy Drip)",
+     "url": "https://genius.com/Yvng-timmy-drip-and-ky-burns-she-thicc-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/2104319",
+      "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+      "id": 2104319,
+      "image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Yvng Timmy Drip & Ky Burns",
+      "url": "https://genius.com/artists/Yvng-timmy-drip-and-ky-burns"
+     }
+    }
+   ]
+  },
+  {
+   "relationship_type": "cover_of",
+   "type": "cover_of",
+   "songs": []
+  },
+  {
+   "relationship_type": "covered_by",
+   "type": "covered_by",
+   "songs": [
+    {
+     "annotation_count": 1,
+     "api_path": "/songs/2900809",
+     "full_title": "Fake Love x Broccoli x Caroline Mashup by\u00a0William\u00a0Singe & Alex Aiono",
+     "header_image_thumbnail_url": "https://images.genius.com/e40bfce8582ec7f8398fe48d1f1195c6.300x169x1.jpg",
+     "header_image_url": "https://images.genius.com/e40bfce8582ec7f8398fe48d1f1195c6.1000x563x1.jpg",
+     "id": 2900809,
+     "lyrics_owner_id": 3725198,
+     "lyrics_state": "complete",
+     "path": "/William-singe-and-alex-aiono-fake-love-x-broccoli-x-caroline-mashup-lyrics",
+     "pyongs_count": 11,
+     "song_art_image_thumbnail_url": "https://images.genius.com/e40bfce8582ec7f8398fe48d1f1195c6.300x169x1.jpg",
+     "song_art_image_url": "https://images.genius.com/e40bfce8582ec7f8398fe48d1f1195c6.1000x563x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 1,
+      "hot": false,
+      "pageviews": 134607
+     },
+     "title": "Fake Love x Broccoli x Caroline Mashup",
+     "title_with_featured": "Fake Love x Broccoli x Caroline Mashup",
+     "url": "https://genius.com/William-singe-and-alex-aiono-fake-love-x-broccoli-x-caroline-mashup-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/1025845",
+      "header_image_url": "https://images.genius.com/380ee742cd0dc809c910c81d394450d9.1000x563x1.jpg",
+      "id": 1025845,
+      "image_url": "https://images.genius.com/47e7c566b663face3936b688943d9feb.420x420x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "William Singe & Alex Aiono",
+      "url": "https://genius.com/artists/William-singe-and-alex-aiono"
+     }
+    }
+   ]
+  },
+  {
+   "relationship_type": "remix_of",
+   "type": "remix_of",
+   "songs": []
+  },
+  {
+   "relationship_type": "remixed_by",
+   "type": "remixed_by",
+   "songs": [
+    {
+     "annotation_count": 6,
+     "api_path": "/songs/2935015",
+     "full_title": "Caroline (Remix) by\u00a0Audio\u00a0Push",
+     "header_image_thumbnail_url": "https://images.genius.com/062f357af17c44ef0d6a3aee03f44695.300x300x1.jpg",
+     "header_image_url": "https://images.genius.com/062f357af17c44ef0d6a3aee03f44695.350x350x1.jpg",
+     "id": 2935015,
+     "lyrics_owner_id": 1392552,
+     "lyrics_state": "complete",
+     "path": "/Audio-push-caroline-remix-lyrics",
+     "pyongs_count": 1,
+     "song_art_image_thumbnail_url": "https://images.genius.com/062f357af17c44ef0d6a3aee03f44695.300x300x1.jpg",
+     "song_art_image_url": "https://images.genius.com/062f357af17c44ef0d6a3aee03f44695.350x350x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 4,
+      "hot": false
+     },
+     "title": "Caroline (Remix)",
+     "title_with_featured": "Caroline (Remix)",
+     "url": "https://genius.com/Audio-push-caroline-remix-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/1981",
+      "header_image_url": "https://images.genius.com/6b3bf30610270a41edd39aae22c27dc7.600x600x1.jpg",
+      "id": 1981,
+      "image_url": "https://images.genius.com/6b3bf30610270a41edd39aae22c27dc7.600x600x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": true,
+      "name": "Audio Push",
+      "url": "https://genius.com/artists/Audio-push",
+      "iq": 537
+     }
+    },
+    {
+     "annotation_count": 1,
+     "api_path": "/songs/4397705",
+     "full_title": "Caroline (Remix) by\u00a0DaBaby",
+     "header_image_thumbnail_url": "https://images.genius.com/fa242d3e0e043b6323716b6cd4f41477.300x300x1.jpg",
+     "header_image_url": "https://images.genius.com/fa242d3e0e043b6323716b6cd4f41477.600x600x1.jpg",
+     "id": 4397705,
+     "lyrics_owner_id": 595596,
+     "lyrics_state": "complete",
+     "path": "/Dababy-caroline-remix-lyrics",
+     "pyongs_count": null,
+     "song_art_image_thumbnail_url": "https://images.genius.com/fa242d3e0e043b6323716b6cd4f41477.300x300x1.jpg",
+     "song_art_image_url": "https://images.genius.com/fa242d3e0e043b6323716b6cd4f41477.600x600x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 0,
+      "hot": false
+     },
+     "title": "Caroline (Remix)",
+     "title_with_featured": "Caroline (Remix)",
+     "url": "https://genius.com/Dababy-caroline-remix-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/1162342",
+      "header_image_url": "https://images.genius.com/0c36e17a76bb2a69ec15b06133cb872b.1000x250x1.jpg",
+      "id": 1162342,
+      "image_url": "https://images.genius.com/8e568122e28494802bc4ef822356b2f9.1000x1000x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": true,
+      "name": "DaBaby",
+      "url": "https://genius.com/artists/Dababy",
+      "iq": 1071
+     }
+    }
+   ]
+  },
+  {
+   "relationship_type": "live_version_of",
+   "type": "live_version_of",
+   "songs": []
+  },
+  {
+   "relationship_type": "performed_live_as",
+   "type": "performed_live_as",
+   "songs": [
+    {
+     "annotation_count": 2,
+     "api_path": "/songs/2910058",
+     "full_title": "Caroline (Live on The Tonight Show) by\u00a0Amin\u00e9",
+     "header_image_thumbnail_url": "https://images.genius.com/21c5f94b44535c8429fd29de6147882a.300x169x1.jpg",
+     "header_image_url": "https://images.genius.com/21c5f94b44535c8429fd29de6147882a.1000x563x1.jpg",
+     "id": 2910058,
+     "lyrics_owner_id": 104344,
+     "lyrics_state": "complete",
+     "path": "/Amine-caroline-live-on-the-tonight-show-lyrics",
+     "pyongs_count": 3,
+     "song_art_image_thumbnail_url": "https://images.genius.com/21c5f94b44535c8429fd29de6147882a.300x169x1.jpg",
+     "song_art_image_url": "https://images.genius.com/21c5f94b44535c8429fd29de6147882a.1000x563x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 0,
+      "hot": false,
+      "pageviews": 11123
+     },
+     "title": "Caroline (Live on The Tonight Show)",
+     "title_with_featured": "Caroline (Live on The Tonight Show)",
+     "url": "https://genius.com/Amine-caroline-live-on-the-tonight-show-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/26577",
+      "header_image_url": "https://images.genius.com/14e6727d3f1fbba577fb0a45b79b9723.1000x563x1.jpg",
+      "id": 26577,
+      "image_url": "https://images.genius.com/cb3fa9f5d984d7b2f02f2e2b7a472a6e.1000x1000x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": true,
+      "name": "Amin\u00e9",
+      "url": "https://genius.com/artists/Amine",
+      "iq": 11164
+     }
+    }
+   ]
+  }
+ ],
+ "verified_annotations_by": [
+  {
+   "api_path": "/users/2158999",
+   "avatar": {
+    "tiny": {
+     "url": "https://images.genius.com/avatars/tiny/6a9c5baf2f6e6e056df51bc42ad6a373",
+     "bounding_box": {
+      "width": 16,
+      "height": 16
+     }
+    },
+    "thumb": {
+     "url": "https://images.genius.com/avatars/thumb/6a9c5baf2f6e6e056df51bc42ad6a373",
+     "bounding_box": {
+      "width": 32,
+      "height": 32
+     }
+    },
+    "small": {
+     "url": "https://images.genius.com/avatars/small/6a9c5baf2f6e6e056df51bc42ad6a373",
+     "bounding_box": {
+      "width": 100,
+      "height": 100
+     }
+    },
+    "medium": {
+     "url": "https://images.genius.com/avatars/medium/6a9c5baf2f6e6e056df51bc42ad6a373",
+     "bounding_box": {
+      "width": 300,
+      "height": 400
+     }
+    }
+   },
+   "header_image_url": "https://images.genius.com/14e6727d3f1fbba577fb0a45b79b9723.1000x563x1.jpg",
+   "human_readable_role_for_display": "Verified Artist",
+   "id": 2158999,
+   "iq": 11164,
+   "login": "heyamine",
+   "name": "Amin\u00e9",
+   "role_for_display": "verified_artist",
+   "url": "https://genius.com/heyamine",
+   "current_user_metadata": {
+    "permissions": [],
+    "excluded_permissions": [
+     "follow"
+    ],
+    "interactions": {
+     "following": false
+    }
+   }
+  }
+ ],
+ "verified_contributors": [
+  {
+   "contributions": [
+    "annotations",
+    "lyrics",
+    "answers"
+   ],
+   "artist": {
+    "api_path": "/artists/26577",
+    "header_image_url": "https://images.genius.com/14e6727d3f1fbba577fb0a45b79b9723.1000x563x1.jpg",
+    "id": 26577,
+    "image_url": "https://images.genius.com/cb3fa9f5d984d7b2f02f2e2b7a472a6e.1000x1000x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": true,
+    "name": "Amin\u00e9",
+    "url": "https://genius.com/artists/Amine",
+    "iq": 11164
+   },
+   "user": {
+    "api_path": "/users/2158999",
+    "avatar": {
+     "tiny": {
+      "url": "https://images.genius.com/avatars/tiny/6a9c5baf2f6e6e056df51bc42ad6a373",
+      "bounding_box": {
+       "width": 16,
+       "height": 16
+      }
+     },
+     "thumb": {
+      "url": "https://images.genius.com/avatars/thumb/6a9c5baf2f6e6e056df51bc42ad6a373",
+      "bounding_box": {
+       "width": 32,
+       "height": 32
+      }
+     },
+     "small": {
+      "url": "https://images.genius.com/avatars/small/6a9c5baf2f6e6e056df51bc42ad6a373",
+      "bounding_box": {
+       "width": 100,
+       "height": 100
+      }
+     },
+     "medium": {
+      "url": "https://images.genius.com/avatars/medium/6a9c5baf2f6e6e056df51bc42ad6a373",
+      "bounding_box": {
+       "width": 300,
+       "height": 400
+      }
+     }
+    },
+    "header_image_url": "https://images.genius.com/14e6727d3f1fbba577fb0a45b79b9723.1000x563x1.jpg",
+    "human_readable_role_for_display": "Verified Artist",
+    "id": 2158999,
+    "iq": 11164,
+    "login": "heyamine",
+    "name": "Amin\u00e9",
+    "role_for_display": "verified_artist",
+    "url": "https://genius.com/heyamine",
+    "current_user_metadata": {
+     "permissions": [],
+     "excluded_permissions": [
+      "follow"
+     ],
+     "interactions": {
+      "following": false
+     }
+    }
+   }
+  }
+ ],
+ "verified_lyrics_by": [
+  {
+   "api_path": "/users/2158999",
+   "avatar": {
+    "tiny": {
+     "url": "https://images.genius.com/avatars/tiny/6a9c5baf2f6e6e056df51bc42ad6a373",
+     "bounding_box": {
+      "width": 16,
+      "height": 16
+     }
+    },
+    "thumb": {
+     "url": "https://images.genius.com/avatars/thumb/6a9c5baf2f6e6e056df51bc42ad6a373",
+     "bounding_box": {
+      "width": 32,
+      "height": 32
+     }
+    },
+    "small": {
+     "url": "https://images.genius.com/avatars/small/6a9c5baf2f6e6e056df51bc42ad6a373",
+     "bounding_box": {
+      "width": 100,
+      "height": 100
+     }
+    },
+    "medium": {
+     "url": "https://images.genius.com/avatars/medium/6a9c5baf2f6e6e056df51bc42ad6a373",
+     "bounding_box": {
+      "width": 300,
+      "height": 400
+     }
+    }
+   },
+   "header_image_url": "https://images.genius.com/14e6727d3f1fbba577fb0a45b79b9723.1000x563x1.jpg",
+   "human_readable_role_for_display": "Verified Artist",
+   "id": 2158999,
+   "iq": 11164,
+   "login": "heyamine",
+   "name": "Amin\u00e9",
+   "role_for_display": "verified_artist",
+   "url": "https://genius.com/heyamine",
+   "current_user_metadata": {
+    "permissions": [],
+    "excluded_permissions": [
+     "follow"
+    ],
+    "interactions": {
+     "following": false
+    }
+   }
+  }
+ ],
+ "writer_artists": [
+  {
+   "api_path": "/artists/1002050",
+   "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/miB2z9WsQMesDldKzZVO_15035648_2150274645197051_2348732213329133568_n.jpg",
+   "id": 1002050,
+   "image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/DrpFz7maSSm1S6zE9Y9F_15035648_2150274645197051_2348732213329133568_n.jpg",
+   "is_meme_verified": false,
+   "is_verified": false,
+   "name": "Pasqu\u00e9",
+   "url": "https://genius.com/artists/Pasque"
+  },
+  {
+   "api_path": "/artists/26577",
+   "header_image_url": "https://images.genius.com/14e6727d3f1fbba577fb0a45b79b9723.1000x563x1.jpg",
+   "id": 26577,
+   "image_url": "https://images.genius.com/cb3fa9f5d984d7b2f02f2e2b7a472a6e.1000x1000x1.jpg",
+   "is_meme_verified": false,
+   "is_verified": true,
+   "name": "Amin\u00e9",
+   "url": "https://genius.com/artists/Amine",
+   "iq": 11164
+  }
+ ],
+ "lyrics": "Listen man\nWhat's up?\nI heard you done got you a dime piece, man\nHell naw, man\nOne of them Beyonc\u00e9, Meagan Good types, man\nNah, nah, nah\nIs that true, man?\nI just wanna know\nProbably not\nI mean, shit to be honest with you, man, she's a...\n\nBad thang, fine as hell, thick as fuck\nOh my god, that's my baby\nCaroline, you divine\nMighty fine\nShawty really blow the pipe (That's true)\nLike a pro\nAha, fuck you thought?\nHoly shit, I'm really lit\nIt's looking like it's 'bout time to fuck it up (Word)\nCaroline, listen up, don't wanna hear\nAbout ya horoscope or what the future holds\nShut up and shut up and\nLet's get gory, like a Tarantino movie\nDon't wanna talk it out, can we fuck it out?\nCause we gon' be up all night, fuck a decaf\nYou say I'm a tall thug, guess I'm a G-raffe\nIf ya want safe-sex, baby use the knee pads\nFreaky with the sticky icky\nBaby give me kitty kitty\nKilla, westside nigga\nBoy you like 98 degrees\nAnd I'm 300, nigga keep ya feet runnin'\nI chief keef keef when I eat these beats\nBetter boy get scurred\nDon't run up in my lane, I don't want you in my lane\nYou a lame, get swerved\n\nCause great scenes might be great\nBut I love your bloopers\nAnd perfect's for the urgent\nBaby I want forever\nCaroline, don't you see that\nI want you to be my\n\nBad thang, fine as hell, thick as fuck\nOh my god, that's my baby\nCaroline, you divine\nMighty fine\nShawty really blow the pipe (That's true)\nLike a pro\nAha... what?\nHoly shit, I'm really lit\nIt's looking like it's 'bout time to fuck it up\nCaroline, listen up, don't wanna hear\nAbout ya horoscope or what the future holds\nShut up and shut up and\nLet's get gory, like a Tarantino movie\nDon't wanna talk it out, can we fuck it out?\nCause we gon' be up all night, fuck a decaf\nYou say I'm a tall thug, guess I'm a G-raffe\nIf ya want safe-sex, baby use the knee pads\nFreaky with the sticky icky\nBaby give me kitty kitty\nKilla, westside nigga\nBoy you like 98 degrees\nAnd I'm 300, nigga keep ya feet runnin'\nI chief keef keef when I eat these beats\nBet a boy get scurred\nDon't run up in my lane, I don't want you in my lane\nYou a lame, get swerved\n\nCause great scenes might be great\nBut I love your bloopers\nAnd perfect's for the urgent\nBaby I want forever\nCaroline, don't you see that\nI want you to be my\n\nBad thang, bad, bad, bad, bad thang, thang, thang, thang, thang\nBad thang, thang, bad, bad, bad, b-b-bad, thang, thang\nBad thang, thang, thang, bad, b-bad, bad thang, thang, thang\nBad thang, thang, bad, bad, bad, b-b-bad"
+}

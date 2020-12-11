@@ -1,0 +1,3175 @@
+{
+ "_type": "song",
+ "annotation_count": 27,
+ "api_path": "/songs/4067762",
+ "full_title": "7 rings by\u00a0Ariana\u00a0Grande",
+ "header_image_thumbnail_url": "https://images.genius.com/39e41252985b10aa8cdcedffe97d1ff7.300x300x1.jpg",
+ "header_image_url": "https://images.genius.com/39e41252985b10aa8cdcedffe97d1ff7.1000x1000x1.jpg",
+ "id": 4067762,
+ "instrumental": false,
+ "lyrics_owner_id": 2891574,
+ "lyrics_state": "complete",
+ "lyrics_updated_at": 1606849504,
+ "path": "/Ariana-grande-7-rings-lyrics",
+ "pyongs_count": 409,
+ "song_art_image_thumbnail_url": "https://images.genius.com/f7bcb9687dff02847f0f376cddb23165.300x300x1.png",
+ "song_art_image_url": "https://images.genius.com/f7bcb9687dff02847f0f376cddb23165.1000x1000x1.png",
+ "stats": {
+  "accepted_annotations": 26,
+  "contributors": 412,
+  "iq_earners": 412,
+  "transcribers": 7,
+  "unreviewed_annotations": 0,
+  "verified_annotations": 0,
+  "concurrents": 4,
+  "hot": false,
+  "pageviews": 7052813
+ },
+ "title": "7 rings",
+ "title_with_featured": "7 rings",
+ "updated_by_human_at": 1606849505,
+ "url": "https://genius.com/Ariana-grande-7-rings-lyrics",
+ "primary_artist": {
+  "api_path": "/artists/26507",
+  "header_image_url": "https://images.genius.com/0b63409589894fbd955a658fc89f08dd.1000x429x1.jpg",
+  "id": 26507,
+  "image_url": "https://images.genius.com/d36a47955ac0ddb12748c5e7c2bd4b4b.640x640x1.jpg",
+  "is_meme_verified": false,
+  "is_verified": true,
+  "name": "Ariana Grande",
+  "url": "https://genius.com/artists/Ariana-grande",
+  "iq": 2260
+ },
+ "apple_music_id": "1450330685",
+ "apple_music_player_url": "https://genius.com/songs/4067762/apple_music_player",
+ "description": {
+  "plain": "\u201c7 rings,\u201d which features Ariana boasting about money and many other luxuries, including diamonds and houses, is the second official single from Ariana Grande\u2019s fifth studio album, thank u, next after Ariana announced that \u201cimagine\u201d will act as a promotional single for the album. The title is in reference to a collection of matching friendship rings Ariana and six of her friends bought in New York.\n\nOn December 1st, Ariana revealed the owners of the rings: herself, Victoria Mon\u00e9t, Courtney Chipolone, Alexa Luria, Tayla Parx, Njomza and Kaydence Krysiuk, all of whom have a writing credit on the song except Courtney and Alexa.\n\nIn December 2018, Ariana confirmed via Twitter that the \u201cthank u, next\u201d video featured a \u201c7 rings\u201d snippet, playing a loop of the instrumental at the beginning.\n\nOn January 12th, 2019, Ariana tweeted a very small snippet of the song, and then on January 14th, she posted a sneak peek for the music video on her Instagram. Two days later, Ariana uploaded a video of her dancing to the track in the car from 22 December 2018, with a timer counting down to the song\u2019s release. This was also the first time any lyrics were heard."
+ },
+ "embed_content": "<div id='rg_embed_link_4067762' class='rg_embed_link' data-song-id='4067762'>Read <a href='https://genius.com/Ariana-grande-7-rings-lyrics'>\u201c7 rings\u201d by Ariana\u00a0Grande</a> on Genius</div> <script crossorigin src='//genius.com/songs/4067762/embed.js'></script>",
+ "fact_track": {
+  "provider": "spotify",
+  "external_url": "https://open.spotify.com/track/14msK75pk3pA33pzPVNtBF",
+  "button_text": "Behind the Lyrics in Spotify",
+  "help_link_text": "What's a Fact Track?",
+  "help_link_url": "https://genius.com/a/genius-and-spotify-together"
+ },
+ "featured_video": false,
+ "lyrics_placeholder_reason": null,
+ "recording_location": "Jungle City Studios, New York / The Record Plant, Hollywood, CA",
+ "release_date": "2019-01-18",
+ "release_date_for_display": "January 18, 2019",
+ "current_user_metadata": {
+  "permissions": [
+   "see_pageviews",
+   "watch_fact_track",
+   "view_apple_music_player",
+   "create_comment",
+   "view_song_story_gallery"
+  ],
+  "excluded_permissions": [
+   "follow",
+   "award_transcription_iq",
+   "remove_transcription_iq",
+   "pyong",
+   "edit_lyrics",
+   "view_annotation_engagement_data",
+   "publish",
+   "unpublish",
+   "edit_spotify_details",
+   "hide",
+   "unhide",
+   "toggle_featured_video",
+   "add_pinned_annotation_to",
+   "add_community_annotation_to",
+   "destroy",
+   "mark_as_not_spam",
+   "edit_spotify_annotations_for",
+   "verify_lyrics",
+   "unverify_lyrics",
+   "edit_anything",
+   "edit_any_media",
+   "edit",
+   "rename",
+   "edit_tags",
+   "reindex",
+   "view_lyrics_synchronization",
+   "enable_media",
+   "disable_media",
+   "edit_lyrics_or_annotation_brackets",
+   "see_editorial_indicators",
+   "view_attribution_visualization",
+   "edit_annotation_brackets",
+   "preview_lyrics_for_export",
+   "hide_apple_player",
+   "unhide_apple_player",
+   "trigger_apple_match",
+   "mark_lyrics_evaluation_as_approved",
+   "mark_lyrics_evaluation_as_staff_approved",
+   "mark_lyrics_evaluation_as_unapproved",
+   "mark_lyrics_evaluation_as_un_staff_approved",
+   "view_transcriber_media_player",
+   "override_apple_match",
+   "edit_youtube_url",
+   "edit_soundcloud_url",
+   "edit_spotify_uuid",
+   "edit_vevo_url",
+   "moderate_annotations",
+   "create_annotation",
+   "see_short_id",
+   "manage_chart_item",
+   "create_tag",
+   "propose_lyrics_edit",
+   "moderate_lyrics_edit_proposals",
+   "preview_react_song_page"
+  ],
+  "interactions": {
+   "pyong": false,
+   "following": false
+  },
+  "relationships": {},
+  "iq_by_action": {}
+ },
+ "album": {
+  "api_path": "/albums/467250",
+  "cover_art_url": "https://images.genius.com/ec2bf95bcb40e436cf8ca6c358afaf44.1000x1000x1.jpg",
+  "full_title": "thank u, next by Ariana Grande",
+  "id": 467250,
+  "name": "thank u, next",
+  "url": "https://genius.com/albums/Ariana-grande/Thank-u-next",
+  "artist": {
+   "api_path": "/artists/26507",
+   "header_image_url": "https://images.genius.com/0b63409589894fbd955a658fc89f08dd.1000x429x1.jpg",
+   "id": 26507,
+   "image_url": "https://images.genius.com/d36a47955ac0ddb12748c5e7c2bd4b4b.640x640x1.jpg",
+   "is_meme_verified": false,
+   "is_verified": true,
+   "name": "Ariana Grande",
+   "url": "https://genius.com/artists/Ariana-grande",
+   "iq": 2260
+  }
+ },
+ "custom_performances": [
+  {
+   "label": "Performance Rights",
+   "artists": [
+    {
+     "api_path": "/artists/551598",
+     "header_image_url": "https://images.genius.com/067d9bccf2ab6e5eded129861b73d9dc.851x315x1.jpg",
+     "id": 551598,
+     "image_url": "https://images.genius.com/5f24e8e67904faef419d736f2ade3f78.1000x1000x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "ASCAP",
+     "url": "https://genius.com/artists/Ascap"
+    },
+    {
+     "api_path": "/artists/1138091",
+     "header_image_url": "https://images.genius.com/5b84dbf7ba86e59c297143f076a56c9a.1000x1000x1.jpg",
+     "id": 1138091,
+     "image_url": "https://images.genius.com/051b0a6beabf8a9eb8768e9f874a542f.1000x1000x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "BMI",
+     "url": "https://genius.com/artists/Bmi"
+    }
+   ]
+  },
+  {
+   "label": "Publisher",
+   "artists": [
+    {
+     "api_path": "/artists/1179023",
+     "header_image_url": "https://images.genius.com/92e4ea9ba616ee53bae21dc2e037a1e2.1000x1000x1.jpg",
+     "id": 1179023,
+     "image_url": "https://images.genius.com/f19c358ac9db989328ffc9a3de85bbd4.1000x1000x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Kobalt Music",
+     "url": "https://genius.com/artists/Kobalt-music"
+    },
+    {
+     "api_path": "/artists/977738",
+     "header_image_url": "https://images.genius.com/b008d4956c52e00d33926169f43a5b42.646x220x1.png",
+     "id": 977738,
+     "image_url": "https://images.genius.com/42609eac7f9afd416d03dd778c5f134e.165x165x1.gif",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Concord Music Group",
+     "url": "https://genius.com/artists/Concord-music-group"
+    },
+    {
+     "api_path": "/artists/1100826",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+     "id": 1100826,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "New World Music",
+     "url": "https://genius.com/artists/New-world-music"
+    },
+    {
+     "api_path": "/artists/1112276",
+     "header_image_url": "https://images.genius.com/159917d9c26b9cfe66c0b04493a1f05a.900x900x1.png",
+     "id": 1112276,
+     "image_url": "https://images.genius.com/340e19086e9ebeae265e6e4947b0ffcb.900x900x1.png",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Warner Music Group",
+     "url": "https://genius.com/artists/Warner-music-group"
+    },
+    {
+     "api_path": "/artists/1506497",
+     "header_image_url": "https://images.genius.com/8a9f21cde090346e0aba49e40895898f.1000x1000x1.png",
+     "id": 1506497,
+     "image_url": "https://images.genius.com/8a9f21cde090346e0aba49e40895898f.1000x1000x1.png",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "The Royalty Network",
+     "url": "https://genius.com/artists/The-royalty-network"
+    },
+    {
+     "api_path": "/artists/1209162",
+     "header_image_url": "https://images.genius.com/159ffe1bdbffeaf422f56a9a648f8b21.1000x485x1.png",
+     "id": 1209162,
+     "image_url": "https://images.genius.com/fd149dde35fbbd337e610fa4b159fd33.224x224x1.png",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "EMI Music Publishing Group",
+     "url": "https://genius.com/artists/Emi-music-publishing-group"
+    },
+    {
+     "api_path": "/artists/1011919",
+     "header_image_url": "https://images.genius.com/26596e664ee4244a3a112d1a0eefabe3.220x102x1.png",
+     "id": 1011919,
+     "image_url": "https://images.genius.com/f39d8c1ab1923335932d0b5356758f39.382x382x1.png",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "BMG",
+     "url": "https://genius.com/artists/Bmg"
+    },
+    {
+     "api_path": "/artists/1124724",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+     "id": 1124724,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Williamson Music Company",
+     "url": "https://genius.com/artists/Williamson-music-company"
+    },
+    {
+     "api_path": "/artists/2236437",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+     "id": 2236437,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Victoria McCants Music Publishing",
+     "url": "https://genius.com/artists/Victoria-mccants-music-publishing"
+    },
+    {
+     "api_path": "/artists/1104563",
+     "header_image_url": "https://images.genius.com/6ee5d6766689e04358c1d0f8ea0ed8f0.600x600x1.png",
+     "id": 1104563,
+     "image_url": "https://images.genius.com/7b3fb2c00317cb2eb2453f9f4e7473d1.600x600x1.png",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Universal Music Group",
+     "url": "https://genius.com/artists/Universal-music-group"
+    },
+    {
+     "api_path": "/artists/2236436",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+     "id": 2236436,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "The Hillstorian",
+     "url": "https://genius.com/artists/The-hillstorian"
+    },
+    {
+     "api_path": "/artists/2236435",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+     "id": 2236435,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "TBHitsville",
+     "url": "https://genius.com/artists/Tbhitsville"
+    },
+    {
+     "api_path": "/artists/2209569",
+     "header_image_url": "https://images.genius.com/c099f02bd413af83f491269fbb9f9938.1000x525x1.jpg",
+     "id": 2209569,
+     "image_url": "https://images.genius.com/59e518b6267df665bd42ccfa4b2b35d0.630x630x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Avex Group",
+     "url": "https://genius.com/artists/Avex-group"
+    },
+    {
+     "api_path": "/artists/983536",
+     "header_image_url": "https://images.genius.com/6130e5c2d031c700f09aa2e577628902.1000x441x1.jpg",
+     "id": 983536,
+     "image_url": "https://images.genius.com/19babc165887faefc1f5f88db9e50883.960x960x1.png",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "OWSLA",
+     "url": "https://genius.com/artists/Owsla",
+     "iq": 100
+    },
+    {
+     "api_path": "/artists/672537",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+     "id": 672537,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "GrandAriMusic",
+     "url": "https://genius.com/artists/Grandarimusic"
+    },
+    {
+     "api_path": "/artists/992360",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+     "id": 992360,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "BMG Gold Songs",
+     "url": "https://genius.com/artists/Bmg-gold-songs"
+    },
+    {
+     "api_path": "/artists/2233133",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+     "id": 2233133,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Xeva Music",
+     "url": "https://genius.com/artists/Xeva-music"
+    },
+    {
+     "api_path": "/artists/992219",
+     "header_image_url": "https://images.genius.com/a43ed819378fccdad8a80cad050f2029.768x433x1.jpg",
+     "id": 992219,
+     "image_url": "https://images.genius.com/8af7bba6ca0c481513ffe4b4ab87e347.314x314x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Warner-Tamerlane Publishing Corp.",
+     "url": "https://genius.com/artists/Warner-tamerlane-publishing-corp"
+    },
+    {
+     "api_path": "/artists/2233132",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+     "id": 2233132,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "The District 4 12",
+     "url": "https://genius.com/artists/The-district-4-12"
+    },
+    {
+     "api_path": "/artists/2236438",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+     "id": 2236438,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Taylor Monet Music",
+     "url": "https://genius.com/artists/Taylor-monet-music"
+    },
+    {
+     "api_path": "/artists/1039843",
+     "header_image_url": "https://images.genius.com/95537b6b72e2ee923324f2635cc9e823.1000x563x1.png",
+     "id": 1039843,
+     "image_url": "https://images.genius.com/95537b6b72e2ee923324f2635cc9e823.1000x563x1.png",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "BMG Platinum Songs",
+     "url": "https://genius.com/artists/Bmg-platinum-songs"
+    },
+    {
+     "api_path": "/artists/1998298",
+     "header_image_url": "https://images.genius.com/e4936f1209db588cdd1ffeb779475987.600x600x1.jpg",
+     "id": 1998298,
+     "image_url": "https://images.genius.com/e4936f1209db588cdd1ffeb779475987.600x600x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Imagem",
+     "url": "https://genius.com/artists/Imagem"
+    }
+   ]
+  },
+  {
+   "label": "Distributor",
+   "artists": [
+    {
+     "api_path": "/artists/1104563",
+     "header_image_url": "https://images.genius.com/6ee5d6766689e04358c1d0f8ea0ed8f0.600x600x1.png",
+     "id": 1104563,
+     "image_url": "https://images.genius.com/7b3fb2c00317cb2eb2453f9f4e7473d1.600x600x1.png",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Universal Music Group",
+     "url": "https://genius.com/artists/Universal-music-group"
+    }
+   ]
+  },
+  {
+   "label": "Lead Vocals",
+   "artists": [
+    {
+     "api_path": "/artists/26507",
+     "header_image_url": "https://images.genius.com/0b63409589894fbd955a658fc89f08dd.1000x429x1.jpg",
+     "id": 26507,
+     "image_url": "https://images.genius.com/d36a47955ac0ddb12748c5e7c2bd4b4b.640x640x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "Ariana Grande",
+     "url": "https://genius.com/artists/Ariana-grande",
+     "iq": 2260
+    }
+   ]
+  },
+  {
+   "label": "Programmer",
+   "artists": [
+    {
+     "api_path": "/artists/27643",
+     "header_image_url": "https://images.genius.com/2bc5f766cb17d893e3a5f7b7762f8a94.1000x749x1.jpg",
+     "id": 27643,
+     "image_url": "https://images.genius.com/70f77d1ccd2ec84ca54c00ee78ef4cd3.748x748x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "TBHits",
+     "url": "https://genius.com/artists/Tbhits"
+    },
+    {
+     "api_path": "/artists/1052387",
+     "header_image_url": "https://images.genius.com/47a742e588f71dea6396281ed892b44f.1000x618x1.jpg",
+     "id": 1052387,
+     "image_url": "https://images.genius.com/440d223d8d42c4ff0fb6b75a242006ca.749x749x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Scootie",
+     "url": "https://genius.com/artists/Scootie"
+    },
+    {
+     "api_path": "/artists/1667483",
+     "header_image_url": "https://images.genius.com/a3e99d3f224803132e4d6e21a1c110df.800x1000x1.jpg",
+     "id": 1667483,
+     "image_url": "https://images.genius.com/dce3a20a2723de915023157d7b1861fa.640x640x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Michael \u201cMikey\u201d Foster",
+     "url": "https://genius.com/artists/Michael-mikey-foster"
+    }
+   ]
+  },
+  {
+   "label": "Mixing Engineer",
+   "artists": [
+    {
+     "api_path": "/artists/640944",
+     "header_image_url": "https://images.genius.com/85976afabe58227daa3e817416e37c78.600x290x1.jpg",
+     "id": 640944,
+     "image_url": "https://images.genius.com/9df828b303f7312f9a9f04a8a6f0610a.739x1000x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "\u0218erban Ghenea",
+     "url": "https://genius.com/artists/Serban-ghenea"
+    },
+    {
+     "api_path": "/artists/641348",
+     "header_image_url": "https://images.genius.com/71246d8afafabc7cd9b75074109135c4.205x205x1.jpg",
+     "id": 641348,
+     "image_url": "https://images.genius.com/71246d8afafabc7cd9b75074109135c4.205x205x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "John Hanes",
+     "url": "https://genius.com/artists/John-hanes"
+    }
+   ]
+  },
+  {
+   "label": "Photographer",
+   "artists": [
+    {
+     "api_path": "/artists/1706822",
+     "header_image_url": "https://images.genius.com/9bd9a063fba7fe9564b8b27d985689e8.554x554x1.jpg",
+     "id": 1706822,
+     "image_url": "https://images.genius.com/9bd9a063fba7fe9564b8b27d985689e8.554x554x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Alfredo Flores",
+     "url": "https://genius.com/artists/Alfredo-flores"
+    }
+   ]
+  },
+  {
+   "label": "Video Producer",
+   "artists": [
+    {
+     "api_path": "/artists/1000188",
+     "header_image_url": "https://images.genius.com/4e4cc38828523d6c6f4cf6ea0b2a332f.1000x1000x1.jpg",
+     "id": 1000188,
+     "image_url": "https://images.genius.com/4e4cc38828523d6c6f4cf6ea0b2a332f.1000x1000x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Brandon Bonfiglio",
+     "url": "https://genius.com/artists/Brandon-bonfiglio"
+    }
+   ]
+  },
+  {
+   "label": "Video Director",
+   "artists": [
+    {
+     "api_path": "/artists/1179122",
+     "header_image_url": "https://images.genius.com/1670fb450110180c3c6d0466cf9af87f.800x533x1.jpg",
+     "id": 1179122,
+     "image_url": "https://images.genius.com/d20b467d3d848b0cf1e866b415ec8a4a.533x533x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Hannah Lux Davis",
+     "url": "https://genius.com/artists/Hannah-lux-davis"
+    }
+   ]
+  },
+  {
+   "label": "Phonographic Copyright \u2117",
+   "artists": [
+    {
+     "api_path": "/artists/1104563",
+     "header_image_url": "https://images.genius.com/6ee5d6766689e04358c1d0f8ea0ed8f0.600x600x1.png",
+     "id": 1104563,
+     "image_url": "https://images.genius.com/7b3fb2c00317cb2eb2453f9f4e7473d1.600x600x1.png",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Universal Music Group",
+     "url": "https://genius.com/artists/Universal-music-group"
+    },
+    {
+     "api_path": "/artists/1011844",
+     "header_image_url": "https://images.genius.com/d3d4fad20d9150bbcbdcf791b0532dd2.1000x1000x1.jpg",
+     "id": 1011844,
+     "image_url": "https://images.genius.com/d8ea37a285aa8bdcb0eaebb31f116529.1000x1000x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Republic Records",
+     "url": "https://genius.com/artists/Republic-records"
+    }
+   ]
+  },
+  {
+   "label": "Copyright \u00a9",
+   "artists": [
+    {
+     "api_path": "/artists/1104563",
+     "header_image_url": "https://images.genius.com/6ee5d6766689e04358c1d0f8ea0ed8f0.600x600x1.png",
+     "id": 1104563,
+     "image_url": "https://images.genius.com/7b3fb2c00317cb2eb2453f9f4e7473d1.600x600x1.png",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Universal Music Group",
+     "url": "https://genius.com/artists/Universal-music-group"
+    },
+    {
+     "api_path": "/artists/1011844",
+     "header_image_url": "https://images.genius.com/d3d4fad20d9150bbcbdcf791b0532dd2.1000x1000x1.jpg",
+     "id": 1011844,
+     "image_url": "https://images.genius.com/d8ea37a285aa8bdcb0eaebb31f116529.1000x1000x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Republic Records",
+     "url": "https://genius.com/artists/Republic-records"
+    }
+   ]
+  },
+  {
+   "label": "Label",
+   "artists": [
+    {
+     "api_path": "/artists/1104563",
+     "header_image_url": "https://images.genius.com/6ee5d6766689e04358c1d0f8ea0ed8f0.600x600x1.png",
+     "id": 1104563,
+     "image_url": "https://images.genius.com/7b3fb2c00317cb2eb2453f9f4e7473d1.600x600x1.png",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Universal Music Group",
+     "url": "https://genius.com/artists/Universal-music-group"
+    },
+    {
+     "api_path": "/artists/1011844",
+     "header_image_url": "https://images.genius.com/d3d4fad20d9150bbcbdcf791b0532dd2.1000x1000x1.jpg",
+     "id": 1011844,
+     "image_url": "https://images.genius.com/d8ea37a285aa8bdcb0eaebb31f116529.1000x1000x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Republic Records",
+     "url": "https://genius.com/artists/Republic-records"
+    }
+   ]
+  },
+  {
+   "label": "Vocal Producer",
+   "artists": [
+    {
+     "api_path": "/artists/21798",
+     "header_image_url": "https://images.genius.com/34d32769a3820191fc2c948685b76abf.600x200x1.jpg",
+     "id": 21798,
+     "image_url": "https://images.genius.com/052deadafdc023b54cb55cf1d02a18fd.399x399x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "Victoria Mon\u00e9t",
+     "url": "https://genius.com/artists/Victoria-monet",
+     "iq": 920
+    }
+   ]
+  },
+  {
+   "label": "Studio Personnel",
+   "artists": [
+    {
+     "api_path": "/artists/1610001",
+     "header_image_url": "https://images.genius.com/7edb515f9c1ef22367e17dc366f79bfb.399x399x1.png",
+     "id": 1610001,
+     "image_url": "https://images.genius.com/7edb515f9c1ef22367e17dc366f79bfb.399x399x1.png",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Brendan Morawski",
+     "url": "https://genius.com/artists/Brendan-morawski"
+    },
+    {
+     "api_path": "/artists/990046",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+     "id": 990046,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Billy Hickey",
+     "url": "https://genius.com/artists/Billy-hickey"
+    },
+    {
+     "api_path": "/artists/641348",
+     "header_image_url": "https://images.genius.com/71246d8afafabc7cd9b75074109135c4.205x205x1.jpg",
+     "id": 641348,
+     "image_url": "https://images.genius.com/71246d8afafabc7cd9b75074109135c4.205x205x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "John Hanes",
+     "url": "https://genius.com/artists/John-hanes"
+    },
+    {
+     "api_path": "/artists/640944",
+     "header_image_url": "https://images.genius.com/85976afabe58227daa3e817416e37c78.600x290x1.jpg",
+     "id": 640944,
+     "image_url": "https://images.genius.com/9df828b303f7312f9a9f04a8a6f0610a.739x1000x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "\u0218erban Ghenea",
+     "url": "https://genius.com/artists/Serban-ghenea"
+    },
+    {
+     "api_path": "/artists/984523",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+     "id": 984523,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Sean Klein",
+     "url": "https://genius.com/artists/Sean-klein"
+    }
+   ]
+  },
+  {
+   "label": "Background Vocals",
+   "artists": [
+    {
+     "api_path": "/artists/615916",
+     "header_image_url": "https://images.genius.com/8846f528c30187b805c80d140f7c0d8c.360x331x1.jpg",
+     "id": 615916,
+     "image_url": "https://images.genius.com/d4e913ee4f3372c3a10537b53501c76e.407x407x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "Tayla Parx",
+     "url": "https://genius.com/artists/Tayla-parx",
+     "iq": 1399
+    },
+    {
+     "api_path": "/artists/21798",
+     "header_image_url": "https://images.genius.com/34d32769a3820191fc2c948685b76abf.600x200x1.jpg",
+     "id": 21798,
+     "image_url": "https://images.genius.com/052deadafdc023b54cb55cf1d02a18fd.399x399x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "Victoria Mon\u00e9t",
+     "url": "https://genius.com/artists/Victoria-monet",
+     "iq": 920
+    }
+   ]
+  },
+  {
+   "label": "Assistant Recording Engineer",
+   "artists": [
+    {
+     "api_path": "/artists/984523",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+     "id": 984523,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Sean Klein",
+     "url": "https://genius.com/artists/Sean-klein"
+    }
+   ]
+  }
+ ],
+ "description_annotation": {
+  "_type": "referent",
+  "annotator_id": 113718,
+  "annotator_login": "TVibeWinter",
+  "api_path": "/referents/15919674",
+  "classification": "accepted",
+  "fragment": "7 rings",
+  "id": 15919674,
+  "is_description": true,
+  "path": "/15919674/Ariana-grande-7-rings/7-rings",
+  "range": {
+   "content": "7 rings"
+  },
+  "song_id": 4067762,
+  "url": "https://genius.com/15919674/Ariana-grande-7-rings/7-rings",
+  "verified_annotator_ids": [],
+  "annotatable": {
+   "api_path": "/songs/4067762",
+   "client_timestamps": {
+    "updated_by_human_at": 1606849505,
+    "lyrics_updated_at": 1606849504
+   },
+   "context": "Ariana Grande",
+   "id": 4067762,
+   "image_url": "https://images.genius.com/f7bcb9687dff02847f0f376cddb23165.1000x1000x1.png",
+   "link_title": "7 rings by\u00a0Ariana\u00a0Grande",
+   "title": "7 rings",
+   "type": "Song",
+   "url": "https://genius.com/Ariana-grande-7-rings-lyrics"
+  },
+  "annotations": [
+   {
+    "api_path": "/annotations/15919674",
+    "body": {
+     "plain": "\u201c7 rings,\u201d which features Ariana boasting about money and many other luxuries, including diamonds and houses, is the second official single from Ariana Grande\u2019s fifth studio album, thank u, next after Ariana announced that \u201cimagine\u201d will act as a promotional single for the album. The title is in reference to a collection of matching friendship rings Ariana and six of her friends bought in New York.\n\nOn December 1st, Ariana revealed the owners of the rings: herself, Victoria Mon\u00e9t, Courtney Chipolone, Alexa Luria, Tayla Parx, Njomza and Kaydence Krysiuk, all of whom have a writing credit on the song except Courtney and Alexa.\n\nIn December 2018, Ariana confirmed via Twitter that the \u201cthank u, next\u201d video featured a \u201c7 rings\u201d snippet, playing a loop of the instrumental at the beginning.\n\nOn January 12th, 2019, Ariana tweeted a very small snippet of the song, and then on January 14th, she posted a sneak peek for the music video on her Instagram. Two days later, Ariana uploaded a video of her dancing to the track in the car from 22 December 2018, with a timer counting down to the song\u2019s release. This was also the first time any lyrics were heard."
+    },
+    "comment_count": 0,
+    "community": true,
+    "custom_preview": null,
+    "has_voters": true,
+    "id": 15919674,
+    "pinned": false,
+    "share_url": "https://genius.com/15919674",
+    "source": null,
+    "state": "accepted",
+    "url": "https://genius.com/15919674/Ariana-grande-7-rings/7-rings",
+    "verified": false,
+    "votes_total": 480,
+    "current_user_metadata": {
+     "permissions": [
+      "create_comment"
+     ],
+     "excluded_permissions": [
+      "vote",
+      "edit",
+      "cosign",
+      "uncosign",
+      "destroy",
+      "accept",
+      "reject",
+      "see_unreviewed",
+      "clear_votes",
+      "propose_edit_to",
+      "pin_to_profile",
+      "unpin_from_profile",
+      "update_source",
+      "edit_custom_preview"
+     ],
+     "interactions": {
+      "cosign": false,
+      "pyong": false,
+      "vote": null
+     },
+     "iq_by_action": {}
+    },
+    "authors": [
+     {
+      "attribution": 0.4120603015075377,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/6110965",
+       "avatar": {
+        "tiny": {
+         "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/ij8va2ogsm",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/ij8va2ogsm",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/ij8va2ogsm",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/ij8va2ogsm",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/3irv2vnu05d",
+       "human_readable_role_for_display": "Editor",
+       "id": 6110965,
+       "iq": 44465,
+       "login": "tomsarram",
+       "name": "tomsarram",
+       "role_for_display": "editor",
+       "url": "https://genius.com/tomsarram",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     },
+     {
+      "attribution": 0.23618090452261306,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/113718",
+       "avatar": {
+        "tiny": {
+         "url": "https://images.genius.com/avatars/tiny/e5e7bab859a2e87fa0cedb22cdb25c85",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://images.genius.com/avatars/thumb/e5e7bab859a2e87fa0cedb22cdb25c85",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://images.genius.com/avatars/small/e5e7bab859a2e87fa0cedb22cdb25c85",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://images.genius.com/avatars/medium/e5e7bab859a2e87fa0cedb22cdb25c85",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://images.genius.com/3a417be975986cc83729d29704727eb0.1000x334x1.png",
+       "human_readable_role_for_display": "Editor",
+       "id": 113718,
+       "iq": 71260,
+       "login": "TVibeWinter",
+       "name": "TVibeWinter",
+       "role_for_display": "editor",
+       "url": "https://genius.com/TVibeWinter",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     },
+     {
+      "attribution": 0.1206030150753769,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/5667167",
+       "avatar": {
+        "tiny": {
+         "url": "https://images.genius.com/ed4d77ad78cba4d73a80d8cc66a1a6d5.1000x1000x1.jpg",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://images.genius.com/ed4d77ad78cba4d73a80d8cc66a1a6d5.1000x1000x1.jpg",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://images.genius.com/ed4d77ad78cba4d73a80d8cc66a1a6d5.1000x1000x1.jpg",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://images.genius.com/ed4d77ad78cba4d73a80d8cc66a1a6d5.1000x1000x1.jpg",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://images.genius.com/13b567d2d5aace872abf57d94196e160.480x214x60.gif",
+       "human_readable_role_for_display": "Moderator",
+       "id": 5667167,
+       "iq": 474893,
+       "login": "Pessoa",
+       "name": "Pessoa",
+       "role_for_display": "moderator",
+       "url": "https://genius.com/Pessoa",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     },
+     {
+      "attribution": 0.07035175879396985,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/5640709",
+       "avatar": {
+        "tiny": {
+         "url": "https://images.genius.com/avatars/tiny/a8328a4bf88a3f88c56b5fd80614d75a",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://images.genius.com/avatars/thumb/a8328a4bf88a3f88c56b5fd80614d75a",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://images.genius.com/avatars/small/a8328a4bf88a3f88c56b5fd80614d75a",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://images.genius.com/avatars/medium/a8328a4bf88a3f88c56b5fd80614d75a",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/tfdmb86eyj",
+       "human_readable_role_for_display": "Contributor",
+       "id": 5640709,
+       "iq": 22681,
+       "login": "leilahluna",
+       "name": "leilahluna",
+       "role_for_display": "contributor",
+       "url": "https://genius.com/leilahluna",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     },
+     {
+      "attribution": 0.06030150753768845,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/3886675",
+       "avatar": {
+        "tiny": {
+         "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/8zk56tbhf5h",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/8zk56tbhf5h",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/8zk56tbhf5h",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/8zk56tbhf5h",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/vaoh35yyel",
+       "human_readable_role_for_display": "Contributor",
+       "id": 3886675,
+       "iq": 2036,
+       "login": "95leo",
+       "name": "95leo",
+       "role_for_display": "contributor",
+       "url": "https://genius.com/95leo",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     },
+     {
+      "attribution": 0.035175879396984924,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/3744491",
+       "avatar": {
+        "tiny": {
+         "url": "https://images.genius.com/avatars/tiny/25c3b94edd3ed9dcf10574e6cc34c2ac",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://images.genius.com/avatars/thumb/25c3b94edd3ed9dcf10574e6cc34c2ac",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://images.genius.com/avatars/small/25c3b94edd3ed9dcf10574e6cc34c2ac",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://images.genius.com/avatars/medium/25c3b94edd3ed9dcf10574e6cc34c2ac",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/um34atenblg",
+       "human_readable_role_for_display": "Contributor",
+       "id": 3744491,
+       "iq": 1519,
+       "login": "LaloMontes",
+       "name": "LaloMontes",
+       "role_for_display": "contributor",
+       "url": "https://genius.com/LaloMontes",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     },
+     {
+      "attribution": 0.02512562814070352,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/658112",
+       "avatar": {
+        "tiny": {
+         "url": "https://images.genius.com/avatars/tiny/c682333ab390b3ee5a795cf020c32b10",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://images.genius.com/avatars/thumb/c682333ab390b3ee5a795cf020c32b10",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://images.genius.com/avatars/small/c682333ab390b3ee5a795cf020c32b10",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://images.genius.com/avatars/medium/c682333ab390b3ee5a795cf020c32b10",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://images.genius.com/avatars/medium/c682333ab390b3ee5a795cf020c32b10",
+       "human_readable_role_for_display": "Contributor",
+       "id": 658112,
+       "iq": 1188,
+       "login": "heikadog",
+       "name": "heikadog",
+       "role_for_display": "contributor",
+       "url": "https://genius.com/heikadog",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     },
+     {
+      "attribution": 0.015075376884422112,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/4973800",
+       "avatar": {
+        "tiny": {
+         "url": "https://images.genius.com/avatars/tiny/9a5686fe8f5217c443caf45609752aff",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://images.genius.com/avatars/thumb/9a5686fe8f5217c443caf45609752aff",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://images.genius.com/avatars/small/9a5686fe8f5217c443caf45609752aff",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://images.genius.com/avatars/medium/9a5686fe8f5217c443caf45609752aff",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/0119pwd5gcyb",
+       "human_readable_role_for_display": "Editor",
+       "id": 4973800,
+       "iq": 36332,
+       "login": "honeymoonavenue",
+       "name": "honeymoonavenue",
+       "role_for_display": "editor",
+       "url": "https://genius.com/honeymoonavenue",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     },
+     {
+      "attribution": 0.010050251256281405,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/756535",
+       "avatar": {
+        "tiny": {
+         "url": "https://images.genius.com/avatars/tiny/82a9d0fa16b9bc0263a854492d56b40c",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://images.genius.com/avatars/thumb/82a9d0fa16b9bc0263a854492d56b40c",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://images.genius.com/avatars/small/82a9d0fa16b9bc0263a854492d56b40c",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://images.genius.com/avatars/medium/82a9d0fa16b9bc0263a854492d56b40c",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://images.genius.com/31bf862faf49fee02461e759e412ed1f.1000x666x1.jpg",
+       "human_readable_role_for_display": "Moderator",
+       "id": 756535,
+       "iq": 157075,
+       "login": "BrianErwin",
+       "name": "Brian Erwin",
+       "role_for_display": "moderator",
+       "url": "https://genius.com/BrianErwin",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     },
+     {
+      "attribution": 0.005025125628140703,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/5424225",
+       "avatar": {
+        "tiny": {
+         "url": "https://assets.genius.com/images/default_avatar_16.png?1606943206",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://assets.genius.com/images/default_avatar_32.png?1606943206",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://assets.genius.com/images/default_avatar_100.png?1606943206",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+       "human_readable_role_for_display": null,
+       "id": 5424225,
+       "iq": 167,
+       "login": "Nirali",
+       "name": "Nirali",
+       "role_for_display": null,
+       "url": "https://genius.com/Nirali",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     },
+     {
+      "attribution": 0.005025125628140703,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/2310308",
+       "avatar": {
+        "tiny": {
+         "url": "https://images.genius.com/avatars/tiny/497437af928e97ea4aaab16745820047",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://images.genius.com/avatars/thumb/497437af928e97ea4aaab16745820047",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://images.genius.com/avatars/small/497437af928e97ea4aaab16745820047",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://images.genius.com/avatars/medium/497437af928e97ea4aaab16745820047",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://images.genius.com/avatars/medium/497437af928e97ea4aaab16745820047",
+       "human_readable_role_for_display": "Contributor",
+       "id": 2310308,
+       "iq": 2251,
+       "login": "Apple3141",
+       "name": "Apple3141",
+       "role_for_display": "contributor",
+       "url": "https://genius.com/Apple3141",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     },
+     {
+      "attribution": 0.005025125628140703,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/6790749",
+       "avatar": {
+        "tiny": {
+         "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/82qcu7lw99b",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/82qcu7lw99b",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/82qcu7lw99b",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/82qcu7lw99b",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/9ddr0g68wy4",
+       "human_readable_role_for_display": "Editor",
+       "id": 6790749,
+       "iq": 57457,
+       "login": "FinoyElegante",
+       "name": "FinoyElegante",
+       "role_for_display": "editor",
+       "url": "https://genius.com/FinoyElegante",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     }
+    ],
+    "cosigned_by": [],
+    "rejection_comment": null,
+    "verified_by": null
+   }
+  ]
+ },
+ "featured_artists": [],
+ "lyrics_marked_complete_by": {
+  "api_path": "/users/93685",
+  "avatar": {
+   "tiny": {
+    "url": "https://images.genius.com/avatars/tiny/2082aa1b121eaf4bc9967d8b81fd7eca",
+    "bounding_box": {
+     "width": 16,
+     "height": 16
+    }
+   },
+   "thumb": {
+    "url": "https://images.genius.com/avatars/thumb/2082aa1b121eaf4bc9967d8b81fd7eca",
+    "bounding_box": {
+     "width": 32,
+     "height": 32
+    }
+   },
+   "small": {
+    "url": "https://images.genius.com/avatars/small/2082aa1b121eaf4bc9967d8b81fd7eca",
+    "bounding_box": {
+     "width": 100,
+     "height": 100
+    }
+   },
+   "medium": {
+    "url": "https://images.genius.com/avatars/medium/2082aa1b121eaf4bc9967d8b81fd7eca",
+    "bounding_box": {
+     "width": 300,
+     "height": 400
+    }
+   }
+  },
+  "header_image_url": "https://images.genius.com/5d9fd826e38ad61f98aa9b6985263347.1000x263x121.gif",
+  "human_readable_role_for_display": "Staff",
+  "id": 93685,
+  "iq": 732022,
+  "login": "killersnowtiger",
+  "name": "\u200bKST",
+  "role_for_display": "staff",
+  "url": "https://genius.com/killersnowtiger",
+  "current_user_metadata": {
+   "permissions": [],
+   "excluded_permissions": [
+    "follow"
+   ],
+   "interactions": {
+    "following": false
+   }
+  }
+ },
+ "media": [
+  {
+   "native_uri": "spotify:track:14msK75pk3pA33pzPVNtBF",
+   "provider": "spotify",
+   "type": "audio",
+   "url": "https://open.spotify.com/track/14msK75pk3pA33pzPVNtBF"
+  },
+  {
+   "attribution": "arianagrande",
+   "provider": "soundcloud",
+   "type": "audio",
+   "url": "https://soundcloud.com/arianagrande/7-rings"
+  },
+  {
+   "provider": "youtube",
+   "start": 0,
+   "type": "video",
+   "url": "http://www.youtube.com/watch?v=QYh6mYIJG2Y"
+  }
+ ],
+ "producer_artists": [
+  {
+   "api_path": "/artists/27643",
+   "header_image_url": "https://images.genius.com/2bc5f766cb17d893e3a5f7b7762f8a94.1000x749x1.jpg",
+   "id": 27643,
+   "image_url": "https://images.genius.com/70f77d1ccd2ec84ca54c00ee78ef4cd3.748x748x1.jpg",
+   "is_meme_verified": false,
+   "is_verified": false,
+   "name": "TBHits",
+   "url": "https://genius.com/artists/Tbhits"
+  },
+  {
+   "api_path": "/artists/1496400",
+   "header_image_url": "https://images.genius.com/977a63138076db2097546a36202da80f.768x431x1.jpg",
+   "id": 1496400,
+   "image_url": "https://images.genius.com/dfc19122327f79da719f77f3f19c29e4.898x898x1.jpg",
+   "is_meme_verified": false,
+   "is_verified": true,
+   "name": "Social House",
+   "url": "https://genius.com/artists/Social-house",
+   "iq": 909
+  }
+ ],
+ "song_relationships": [
+  {
+   "relationship_type": "samples",
+   "type": "samples",
+   "songs": [
+    {
+     "annotation_count": 1,
+     "api_path": "/songs/105001",
+     "full_title": "My Favorite Things by\u00a0Julie\u00a0Andrews",
+     "header_image_thumbnail_url": "https://images.genius.com/27bdc89cdecdd9979e6bb09dcec225fb.300x300x1.jpg",
+     "header_image_url": "https://images.genius.com/27bdc89cdecdd9979e6bb09dcec225fb.1000x1000x1.jpg",
+     "id": 105001,
+     "lyrics_owner_id": 3081621,
+     "lyrics_state": "complete",
+     "path": "/Julie-andrews-my-favorite-things-lyrics",
+     "pyongs_count": 10,
+     "song_art_image_thumbnail_url": "https://images.genius.com/27bdc89cdecdd9979e6bb09dcec225fb.300x300x1.jpg",
+     "song_art_image_url": "https://images.genius.com/27bdc89cdecdd9979e6bb09dcec225fb.1000x1000x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 0,
+      "concurrents": 3,
+      "hot": false,
+      "pageviews": 177546
+     },
+     "title": "My Favorite Things",
+     "title_with_featured": "My Favorite Things",
+     "url": "https://genius.com/Julie-andrews-my-favorite-things-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/32811",
+      "header_image_url": "https://images.genius.com/94c579cfab755a7856b72fbcf66ceb42.1000x1000x1.jpg",
+      "id": 32811,
+      "image_url": "https://images.genius.com/94c579cfab755a7856b72fbcf66ceb42.1000x1000x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Julie Andrews",
+      "url": "https://genius.com/artists/Julie-andrews"
+     }
+    }
+   ]
+  },
+  {
+   "relationship_type": "sampled_in",
+   "type": "sampled_in",
+   "songs": [
+    {
+     "annotation_count": 1,
+     "api_path": "/songs/4245756",
+     "full_title": "Seven Rings (TRAKTIVIST Radio Mashup) by\u00a0Year\u00a0of the Ox",
+     "header_image_thumbnail_url": "https://images.genius.com/1d48f8d7e4d4ac93dfcf1fb877117b87.300x300x1.jpg",
+     "header_image_url": "https://images.genius.com/1d48f8d7e4d4ac93dfcf1fb877117b87.1000x1000x1.jpg",
+     "id": 4245756,
+     "lyrics_owner_id": 1593362,
+     "lyrics_state": "complete",
+     "path": "/Year-of-the-ox-seven-rings-traktivist-radio-mashup-lyrics",
+     "pyongs_count": 1,
+     "song_art_image_thumbnail_url": "https://images.genius.com/1d48f8d7e4d4ac93dfcf1fb877117b87.300x300x1.jpg",
+     "song_art_image_url": "https://images.genius.com/1d48f8d7e4d4ac93dfcf1fb877117b87.1000x1000x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 0,
+      "hot": false
+     },
+     "title": "Seven Rings (TRAKTIVIST Radio Mashup)",
+     "title_with_featured": "Seven Rings (TRAKTIVIST Radio Mashup)",
+     "url": "https://genius.com/Year-of-the-ox-seven-rings-traktivist-radio-mashup-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/992248",
+      "header_image_url": "https://images.genius.com/bc5785cefa56ca9e67148b5f89c35cd7.1000x563x1.jpg",
+      "id": 992248,
+      "image_url": "https://images.genius.com/2e4f78beb41ed282189ec60c98dd57f6.300x300x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Year of the Ox",
+      "url": "https://genius.com/artists/Year-of-the-ox"
+     }
+    },
+    {
+     "annotation_count": 0,
+     "api_path": "/songs/4533695",
+     "full_title": "Naked Delusion by\u00a0Lil\u00a0Cartier",
+     "header_image_thumbnail_url": "https://images.genius.com/4b4948f18b70c4ed6317aa44016e210b.300x300x1.jpg",
+     "header_image_url": "https://images.genius.com/4b4948f18b70c4ed6317aa44016e210b.1000x1000x1.jpg",
+     "id": 4533695,
+     "lyrics_owner_id": 6295551,
+     "lyrics_state": "complete",
+     "path": "/Lil-cartier-naked-delusion-lyrics",
+     "pyongs_count": null,
+     "song_art_image_thumbnail_url": "https://images.genius.com/4b4948f18b70c4ed6317aa44016e210b.300x300x1.jpg",
+     "song_art_image_url": "https://images.genius.com/4b4948f18b70c4ed6317aa44016e210b.1000x1000x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 0,
+      "hot": false
+     },
+     "title": "Naked Delusion",
+     "title_with_featured": "Naked Delusion",
+     "url": "https://genius.com/Lil-cartier-naked-delusion-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/1199760",
+      "header_image_url": "https://images.genius.com/90ca32c268ae955d26b9472ce5f4ef15.1000x563x1.jpg",
+      "id": 1199760,
+      "image_url": "https://images.genius.com/473df5109794d1311c17a0e8d517ba54.1000x1000x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Lil Cartier",
+      "url": "https://genius.com/artists/Lil-cartier"
+     }
+    },
+    {
+     "annotation_count": 0,
+     "api_path": "/songs/5085421",
+     "full_title": "AMFEE by\u00a0Alex\u00a0Gonzaga",
+     "header_image_thumbnail_url": "https://images.genius.com/22bf287afd2ae868818254a57b880bb2.268x268x1.jpg",
+     "header_image_url": "https://images.genius.com/22bf287afd2ae868818254a57b880bb2.268x268x1.jpg",
+     "id": 5085421,
+     "lyrics_owner_id": 4420277,
+     "lyrics_state": "complete",
+     "path": "/Alex-gonzaga-amfee-lyrics",
+     "pyongs_count": null,
+     "song_art_image_thumbnail_url": "https://images.genius.com/22bf287afd2ae868818254a57b880bb2.268x268x1.jpg",
+     "song_art_image_url": "https://images.genius.com/22bf287afd2ae868818254a57b880bb2.268x268x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 0,
+      "hot": false
+     },
+     "title": "AMFEE",
+     "title_with_featured": "AMFEE",
+     "url": "https://genius.com/Alex-gonzaga-amfee-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/348820",
+      "header_image_url": "https://images.genius.com/23457756e39336256e6a99b53e2dfdcf.225x225x1.jpg",
+      "id": 348820,
+      "image_url": "https://images.genius.com/23457756e39336256e6a99b53e2dfdcf.225x225x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Alex Gonzaga",
+      "url": "https://genius.com/artists/Alex-gonzaga"
+     }
+    },
+    {
+     "annotation_count": 0,
+     "api_path": "/songs/5211015",
+     "full_title": "Woodchuck by\u00a0Boxy",
+     "header_image_thumbnail_url": "https://assets.genius.com/images/default_cover_image.png?1606943206",
+     "header_image_url": "https://assets.genius.com/images/default_cover_image.png?1606943206",
+     "id": 5211015,
+     "lyrics_owner_id": 10073499,
+     "lyrics_state": "complete",
+     "path": "/Boxy-woodchuck-lyrics",
+     "pyongs_count": 1,
+     "song_art_image_thumbnail_url": "https://assets.genius.com/images/default_cover_image.png?1606943206",
+     "song_art_image_url": "https://assets.genius.com/images/default_cover_image.png?1606943206",
+     "stats": {
+      "unreviewed_annotations": 0,
+      "hot": false
+     },
+     "title": "Woodchuck",
+     "title_with_featured": "Woodchuck",
+     "url": "https://genius.com/Boxy-woodchuck-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/2090625",
+      "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+      "id": 2090625,
+      "image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Boxy",
+      "url": "https://genius.com/artists/Boxy"
+     }
+    },
+    {
+     "annotation_count": 16,
+     "api_path": "/songs/5236692",
+     "full_title": "Mannequin by\u00a0Pop\u00a0Smoke (Ft.\u00a0Lil\u00a0Tjay)",
+     "header_image_thumbnail_url": "https://images.genius.com/f7e8e5be2a7e3433d7dad365f5537542.300x300x1.jpg",
+     "header_image_url": "https://images.genius.com/f7e8e5be2a7e3433d7dad365f5537542.750x750x1.jpg",
+     "id": 5236692,
+     "lyrics_owner_id": 1599419,
+     "lyrics_state": "complete",
+     "path": "/Pop-smoke-mannequin-lyrics",
+     "pyongs_count": 6,
+     "song_art_image_thumbnail_url": "https://images.genius.com/f7e8e5be2a7e3433d7dad365f5537542.300x300x1.jpg",
+     "song_art_image_url": "https://images.genius.com/f7e8e5be2a7e3433d7dad365f5537542.750x750x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 13,
+      "concurrents": 2,
+      "hot": false,
+      "pageviews": 126161
+     },
+     "title": "Mannequin",
+     "title_with_featured": "Mannequin (Ft.\u00a0Lil\u00a0Tjay)",
+     "url": "https://genius.com/Pop-smoke-mannequin-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/1801970",
+      "header_image_url": "https://images.genius.com/41eeb550a79204cee6bdee9acdb584a2.1000x1000x1.jpg",
+      "id": 1801970,
+      "image_url": "https://images.genius.com/41eeb550a79204cee6bdee9acdb584a2.1000x1000x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": true,
+      "name": "Pop Smoke",
+      "url": "https://genius.com/artists/Pop-smoke",
+      "iq": 2199
+     }
+    },
+    {
+     "annotation_count": 0,
+     "api_path": "/songs/5261605",
+     "full_title": "What I Want by\u00a0Pluffaduff",
+     "header_image_thumbnail_url": "https://www.google.com/url?sa=i&url=https://rateyourmusic.com/release/album/pluffaduff/worlds-collide/&psig=AOvVaw3hQlbg0BBywfn0XjK6ZbXK&ust=1581794402774000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCIDOmL7h0ecCFQAAAAAdAAAAABAD",
+     "header_image_url": "https://www.google.com/url?sa=i&url=https://rateyourmusic.com/release/album/pluffaduff/worlds-collide/&psig=AOvVaw3hQlbg0BBywfn0XjK6ZbXK&ust=1581794402774000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCIDOmL7h0ecCFQAAAAAdAAAAABAD",
+     "id": 5261605,
+     "lyrics_owner_id": 8505279,
+     "lyrics_state": "complete",
+     "path": "/Pluffaduff-what-i-want-lyrics",
+     "pyongs_count": null,
+     "song_art_image_thumbnail_url": "https://www.google.com/url?sa=i&url=https://rateyourmusic.com/release/album/pluffaduff/worlds-collide/&psig=AOvVaw3hQlbg0BBywfn0XjK6ZbXK&ust=1581794402774000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCIDOmL7h0ecCFQAAAAAdAAAAABAD",
+     "song_art_image_url": "https://www.google.com/url?sa=i&url=https://rateyourmusic.com/release/album/pluffaduff/worlds-collide/&psig=AOvVaw3hQlbg0BBywfn0XjK6ZbXK&ust=1581794402774000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCIDOmL7h0ecCFQAAAAAdAAAAABAD",
+     "stats": {
+      "unreviewed_annotations": 0,
+      "hot": false
+     },
+     "title": "What I Want",
+     "title_with_featured": "What I Want",
+     "url": "https://genius.com/Pluffaduff-what-i-want-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/1673277",
+      "header_image_url": "https://images.genius.com/877a0d5ee19d09c81188103ce9cb825d.288x288x1.jpg",
+      "id": 1673277,
+      "image_url": "https://images.genius.com/877a0d5ee19d09c81188103ce9cb825d.288x288x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Pluffaduff",
+      "url": "https://genius.com/artists/Pluffaduff"
+     }
+    },
+    {
+     "annotation_count": 1,
+     "api_path": "/songs/5674853",
+     "full_title": "SUPER MEME MEGAMIX ULTIMATE 2 by\u00a0Vincent\u00a0Mashups",
+     "header_image_thumbnail_url": "https://images.genius.com/c05b6b55874a200ea5c5a02859a5658b.300x169x1.jpg",
+     "header_image_url": "https://images.genius.com/c05b6b55874a200ea5c5a02859a5658b.1000x563x1.jpg",
+     "id": 5674853,
+     "lyrics_owner_id": 6741179,
+     "lyrics_state": "complete",
+     "path": "/Vincent-mashups-super-meme-megamix-ultimate-2-lyrics",
+     "pyongs_count": 2,
+     "song_art_image_thumbnail_url": "https://images.genius.com/c05b6b55874a200ea5c5a02859a5658b.300x169x1.jpg",
+     "song_art_image_url": "https://images.genius.com/c05b6b55874a200ea5c5a02859a5658b.1000x563x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 1,
+      "hot": false
+     },
+     "title": "SUPER MEME MEGAMIX ULTIMATE 2",
+     "title_with_featured": "SUPER MEME MEGAMIX ULTIMATE 2",
+     "url": "https://genius.com/Vincent-mashups-super-meme-megamix-ultimate-2-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/1950550",
+      "header_image_url": "https://images.genius.com/b5c6d19072efb5bf08cf280cb10276cc.224x224x1.jpg",
+      "id": 1950550,
+      "image_url": "https://images.genius.com/b5c6d19072efb5bf08cf280cb10276cc.224x224x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Vincent Mashups",
+      "url": "https://genius.com/artists/Vincent-mashups"
+     }
+    },
+    {
+     "annotation_count": 0,
+     "api_path": "/songs/5734783",
+     "full_title": "6 Si\u00f3str by\u00a0Adrianna\u00a0Skon",
+     "header_image_thumbnail_url": "https://images.genius.com/0813e983743385cbbea939e5b9921327.300x169x1.jpg",
+     "header_image_url": "https://images.genius.com/0813e983743385cbbea939e5b9921327.1000x563x1.jpg",
+     "id": 5734783,
+     "lyrics_owner_id": 11246400,
+     "lyrics_state": "complete",
+     "path": "/Adrianna-skon-6-siostr-lyrics",
+     "pyongs_count": null,
+     "song_art_image_thumbnail_url": "https://images.genius.com/0813e983743385cbbea939e5b9921327.300x169x1.jpg",
+     "song_art_image_url": "https://images.genius.com/0813e983743385cbbea939e5b9921327.1000x563x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 0,
+      "hot": false
+     },
+     "title": "6 Si\u00f3str",
+     "title_with_featured": "6 Si\u00f3str",
+     "url": "https://genius.com/Adrianna-skon-6-siostr-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/2308548",
+      "header_image_url": "https://images.genius.com/7a893070149ca1fd1c8222b9162285c7.800x800x1.jpg",
+      "id": 2308548,
+      "image_url": "https://images.genius.com/7a893070149ca1fd1c8222b9162285c7.800x800x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Adrianna Skon",
+      "url": "https://genius.com/artists/Adrianna-skon"
+     }
+    }
+   ]
+  },
+  {
+   "relationship_type": "interpolates",
+   "type": "interpolates",
+   "songs": [
+    {
+     "annotation_count": 1,
+     "api_path": "/songs/105001",
+     "full_title": "My Favorite Things by\u00a0Julie\u00a0Andrews",
+     "header_image_thumbnail_url": "https://images.genius.com/27bdc89cdecdd9979e6bb09dcec225fb.300x300x1.jpg",
+     "header_image_url": "https://images.genius.com/27bdc89cdecdd9979e6bb09dcec225fb.1000x1000x1.jpg",
+     "id": 105001,
+     "lyrics_owner_id": 3081621,
+     "lyrics_state": "complete",
+     "path": "/Julie-andrews-my-favorite-things-lyrics",
+     "pyongs_count": 10,
+     "song_art_image_thumbnail_url": "https://images.genius.com/27bdc89cdecdd9979e6bb09dcec225fb.300x300x1.jpg",
+     "song_art_image_url": "https://images.genius.com/27bdc89cdecdd9979e6bb09dcec225fb.1000x1000x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 0,
+      "concurrents": 3,
+      "hot": false,
+      "pageviews": 177546
+     },
+     "title": "My Favorite Things",
+     "title_with_featured": "My Favorite Things",
+     "url": "https://genius.com/Julie-andrews-my-favorite-things-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/32811",
+      "header_image_url": "https://images.genius.com/94c579cfab755a7856b72fbcf66ceb42.1000x1000x1.jpg",
+      "id": 32811,
+      "image_url": "https://images.genius.com/94c579cfab755a7856b72fbcf66ceb42.1000x1000x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Julie Andrews",
+      "url": "https://genius.com/artists/Julie-andrews"
+     }
+    },
+    {
+     "annotation_count": 46,
+     "api_path": "/songs/175",
+     "full_title": "Gimme the Loot by\u00a0The\u00a0Notorious B.I.G.",
+     "header_image_thumbnail_url": "https://images.genius.com/e6cce6ad5c26175653cd5e5590b6e235.300x300x1.jpg",
+     "header_image_url": "https://images.genius.com/e6cce6ad5c26175653cd5e5590b6e235.1000x1000x1.jpg",
+     "id": 175,
+     "lyrics_owner_id": 17,
+     "lyrics_state": "complete",
+     "path": "/The-notorious-big-gimme-the-loot-lyrics",
+     "pyongs_count": 85,
+     "song_art_image_thumbnail_url": "https://images.genius.com/e6cce6ad5c26175653cd5e5590b6e235.300x300x1.jpg",
+     "song_art_image_url": "https://images.genius.com/e6cce6ad5c26175653cd5e5590b6e235.1000x1000x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 4,
+      "concurrents": 2,
+      "hot": false,
+      "pageviews": 705051
+     },
+     "title": "Gimme the Loot",
+     "title_with_featured": "Gimme the Loot",
+     "url": "https://genius.com/The-notorious-big-gimme-the-loot-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/22",
+      "header_image_url": "https://images.genius.com/b15b4fb3953bd065ea88fdd1a4747f52.578x346x1.jpg",
+      "id": 22,
+      "image_url": "https://images.genius.com/3730243d65a78c4dc61158e23cf23dec.870x870x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "The Notorious B.I.G.",
+      "url": "https://genius.com/artists/The-notorious-big"
+     }
+    }
+   ]
+  },
+  {
+   "relationship_type": "interpolated_by",
+   "type": "interpolated_by",
+   "songs": [
+    {
+     "annotation_count": 8,
+     "api_path": "/songs/4273353",
+     "full_title": "4 Million Subscribers (7 rings Parody) by\u00a0Merrell\u00a0Twins",
+     "header_image_thumbnail_url": "https://images.genius.com/fd937c0106f07ab05a4d892cdbe881d1.300x169x1.jpg",
+     "header_image_url": "https://images.genius.com/fd937c0106f07ab05a4d892cdbe881d1.1000x563x1.jpg",
+     "id": 4273353,
+     "lyrics_owner_id": 7074143,
+     "lyrics_state": "complete",
+     "path": "/Merrell-twins-4-million-subscribers-7-rings-parody-lyrics",
+     "pyongs_count": null,
+     "song_art_image_thumbnail_url": "https://images.genius.com/fd937c0106f07ab05a4d892cdbe881d1.300x169x1.jpg",
+     "song_art_image_url": "https://images.genius.com/fd937c0106f07ab05a4d892cdbe881d1.1000x563x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 8,
+      "hot": false,
+      "pageviews": 7065
+     },
+     "title": "4 Million Subscribers (7 rings Parody)",
+     "title_with_featured": "4 Million Subscribers (7 rings Parody)",
+     "url": "https://genius.com/Merrell-twins-4-million-subscribers-7-rings-parody-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/1025546",
+      "header_image_url": "https://images.genius.com/93710f306018b831a5fcee09a2639adc.768x768x1.jpg",
+      "id": 1025546,
+      "image_url": "https://images.genius.com/985017bffb05de1a604bed5dabf5e83f.900x900x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Merrell Twins",
+      "url": "https://genius.com/artists/Merrell-twins"
+     }
+    },
+    {
+     "annotation_count": 1,
+     "api_path": "/songs/4345446",
+     "full_title": "7 rings but on a budget by\u00a0Natalia\u00a0Taylor",
+     "header_image_thumbnail_url": "https://images.genius.com/9d8a6c30d29f0cff4e03ad682651c74c.300x169x1.jpg",
+     "header_image_url": "https://images.genius.com/9d8a6c30d29f0cff4e03ad682651c74c.1000x563x1.jpg",
+     "id": 4345446,
+     "lyrics_owner_id": 6815146,
+     "lyrics_state": "complete",
+     "path": "/Natalia-taylor-7-rings-but-on-a-budget-lyrics",
+     "pyongs_count": 1,
+     "song_art_image_thumbnail_url": "https://images.genius.com/9d8a6c30d29f0cff4e03ad682651c74c.300x169x1.jpg",
+     "song_art_image_url": "https://images.genius.com/9d8a6c30d29f0cff4e03ad682651c74c.1000x563x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 1,
+      "hot": false
+     },
+     "title": "7 rings but on a budget",
+     "title_with_featured": "7 rings but on a budget",
+     "url": "https://genius.com/Natalia-taylor-7-rings-but-on-a-budget-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/1742170",
+      "header_image_url": "https://images.genius.com/8feecc2bb54ec23e5947d97b7a47b43a.438x438x1.jpg",
+      "id": 1742170,
+      "image_url": "https://images.genius.com/8feecc2bb54ec23e5947d97b7a47b43a.438x438x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Natalia Taylor",
+      "url": "https://genius.com/artists/Natalia-taylor"
+     }
+    },
+    {
+     "annotation_count": 0,
+     "api_path": "/songs/4540189",
+     "full_title": "I re-wrote 7 rings to be more accurate by\u00a0Elise\u00a0Ecklund",
+     "header_image_thumbnail_url": "https://images.genius.com/d410ec0115d5f4ff6742639252787c13.246x138x1.jpg",
+     "header_image_url": "https://images.genius.com/d410ec0115d5f4ff6742639252787c13.246x138x1.jpg",
+     "id": 4540189,
+     "lyrics_owner_id": 6935453,
+     "lyrics_state": "complete",
+     "path": "/Elise-ecklund-i-re-wrote-7-rings-to-be-more-accurate-lyrics",
+     "pyongs_count": null,
+     "song_art_image_thumbnail_url": "https://images.genius.com/d410ec0115d5f4ff6742639252787c13.246x138x1.jpg",
+     "song_art_image_url": "https://images.genius.com/d410ec0115d5f4ff6742639252787c13.246x138x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 0,
+      "hot": false
+     },
+     "title": "I re-wrote 7 rings to be more accurate",
+     "title_with_featured": "I re-wrote 7 rings to be more accurate",
+     "url": "https://genius.com/Elise-ecklund-i-re-wrote-7-rings-to-be-more-accurate-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/1440643",
+      "header_image_url": "https://images.genius.com/e0948949c4928065c3078b8eaab76d72.900x900x1.jpg",
+      "id": 1440643,
+      "image_url": "https://images.genius.com/e0948949c4928065c3078b8eaab76d72.900x900x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Elise Ecklund",
+      "url": "https://genius.com/artists/Elise-ecklund"
+     }
+    },
+    {
+     "annotation_count": 0,
+     "api_path": "/songs/4599922",
+     "full_title": "7 rings (Spanish version) by\u00a0Giorgio",
+     "header_image_thumbnail_url": "https://images.genius.com/aeee36145cfb6926a7d5ced29e431f05.300x225x1.jpg",
+     "header_image_url": "https://images.genius.com/aeee36145cfb6926a7d5ced29e431f05.480x360x1.jpg",
+     "id": 4599922,
+     "lyrics_owner_id": 7019031,
+     "lyrics_state": "complete",
+     "path": "/Giorgio-7-rings-spanish-version-lyrics",
+     "pyongs_count": null,
+     "song_art_image_thumbnail_url": "https://images.genius.com/aeee36145cfb6926a7d5ced29e431f05.300x225x1.jpg",
+     "song_art_image_url": "https://images.genius.com/aeee36145cfb6926a7d5ced29e431f05.480x360x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 0,
+      "hot": false
+     },
+     "title": "7 rings (Spanish version)",
+     "title_with_featured": "7 rings (Spanish version)",
+     "url": "https://genius.com/Giorgio-7-rings-spanish-version-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/997846",
+      "header_image_url": "https://images.genius.com/f6b18ca098a143e106cdeca1f2c29cd6.1000x563x1.jpg",
+      "id": 997846,
+      "image_url": "https://images.genius.com/7b4772e8d457fcb73d81613f90551eb2.288x288x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": true,
+      "name": "Giorgio",
+      "url": "https://genius.com/artists/Giorgio",
+      "iq": 266
+     }
+    },
+    {
+     "annotation_count": 4,
+     "api_path": "/songs/4715142",
+     "full_title": "Mano N\u00e3o Toca Na Lace by\u00a0Azzy\u00a0& M\u00e3olee",
+     "header_image_thumbnail_url": "https://images.genius.com/525a0df66e8e92434fb8cea6d1d1ed81.300x300x1.jpg",
+     "header_image_url": "https://images.genius.com/525a0df66e8e92434fb8cea6d1d1ed81.768x768x1.jpg",
+     "id": 4715142,
+     "lyrics_owner_id": 4212581,
+     "lyrics_state": "complete",
+     "path": "/Azzy-and-maolee-mano-nao-toca-na-lace-lyrics",
+     "pyongs_count": null,
+     "song_art_image_thumbnail_url": "https://images.genius.com/525a0df66e8e92434fb8cea6d1d1ed81.300x300x1.jpg",
+     "song_art_image_url": "https://images.genius.com/525a0df66e8e92434fb8cea6d1d1ed81.768x768x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 0,
+      "hot": false
+     },
+     "title": "Mano N\u00e3o Toca Na Lace",
+     "title_with_featured": "Mano N\u00e3o Toca Na Lace",
+     "url": "https://genius.com/Azzy-and-maolee-mano-nao-toca-na-lace-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/1977188",
+      "header_image_url": "https://images.genius.com/4175bfdc45cef5161d3782a90fe443ef.758x424x1.jpg",
+      "id": 1977188,
+      "image_url": "https://images.genius.com/c068ccd487de9df7de65beb0986f4dba.1000x1000x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Azzy & M\u00e3olee",
+      "url": "https://genius.com/artists/Azzy-and-maolee"
+     }
+    },
+    {
+     "annotation_count": 1,
+     "api_path": "/songs/4743795",
+     "full_title": "Summer 2019 by\u00a0L.E.J",
+     "header_image_thumbnail_url": "https://images.genius.com/46cb4b6db6cd7af94b7886f8c47ff5d9.300x169x1.jpg",
+     "header_image_url": "https://images.genius.com/46cb4b6db6cd7af94b7886f8c47ff5d9.1000x563x1.jpg",
+     "id": 4743795,
+     "lyrics_owner_id": 5236580,
+     "lyrics_state": "complete",
+     "path": "/Lej-summer-2019-lyrics",
+     "pyongs_count": null,
+     "song_art_image_thumbnail_url": "https://images.genius.com/46cb4b6db6cd7af94b7886f8c47ff5d9.300x169x1.jpg",
+     "song_art_image_url": "https://images.genius.com/46cb4b6db6cd7af94b7886f8c47ff5d9.1000x563x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 1,
+      "hot": false
+     },
+     "title": "Summer 2019",
+     "title_with_featured": "Summer 2019",
+     "url": "https://genius.com/Lej-summer-2019-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/555771",
+      "header_image_url": "https://images.genius.com/e3a0ae249d5bc4ae0ef7f4ff118e746b.1000x749x1.jpg",
+      "id": 555771,
+      "image_url": "https://images.genius.com/7421cc0ac5db1a0b07b66ed1ebc183de.334x334x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": true,
+      "name": "L.E.J",
+      "url": "https://genius.com/artists/Lej",
+      "iq": 377
+     }
+    },
+    {
+     "annotation_count": 0,
+     "api_path": "/songs/4911414",
+     "full_title": "Destroyed With Facts & Logic by\u00a0Rucka\u00a0Rucka Ali",
+     "header_image_thumbnail_url": "https://images.genius.com/16b257a0a559cd9a6169f7298bbb96b4.300x300x1.jpg",
+     "header_image_url": "https://images.genius.com/16b257a0a559cd9a6169f7298bbb96b4.1000x1000x1.jpg",
+     "id": 4911414,
+     "lyrics_owner_id": 84485,
+     "lyrics_state": "complete",
+     "path": "/Rucka-rucka-ali-destroyed-with-facts-and-logic-lyrics",
+     "pyongs_count": null,
+     "song_art_image_thumbnail_url": "https://images.genius.com/16b257a0a559cd9a6169f7298bbb96b4.300x300x1.jpg",
+     "song_art_image_url": "https://images.genius.com/16b257a0a559cd9a6169f7298bbb96b4.1000x1000x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 0,
+      "hot": false
+     },
+     "title": "Destroyed With Facts & Logic",
+     "title_with_featured": "Destroyed With Facts & Logic",
+     "url": "https://genius.com/Rucka-rucka-ali-destroyed-with-facts-and-logic-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/1552",
+      "header_image_url": "https://images.genius.com/50c638e6b4019ff0c268d82da96e960c.500x500x1.png",
+      "id": 1552,
+      "image_url": "https://images.genius.com/9aed2d09e0d4f47746ba63860eb59d89.337x337x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Rucka Rucka Ali",
+      "url": "https://genius.com/artists/Rucka-rucka-ali"
+     }
+    },
+    {
+     "annotation_count": 4,
+     "api_path": "/songs/5214724",
+     "full_title": "Burn by\u00a0Juice\u00a0WRLD",
+     "header_image_thumbnail_url": "https://images.genius.com/64ef66721c07dcaf49f1baffd194d833.300x300x1.png",
+     "header_image_url": "https://images.genius.com/64ef66721c07dcaf49f1baffd194d833.670x670x1.png",
+     "id": 5214724,
+     "lyrics_owner_id": 7935517,
+     "lyrics_state": "complete",
+     "path": "/Juice-wrld-burn-lyrics",
+     "pyongs_count": 10,
+     "song_art_image_thumbnail_url": "https://images.genius.com/64ef66721c07dcaf49f1baffd194d833.300x300x1.png",
+     "song_art_image_url": "https://images.genius.com/64ef66721c07dcaf49f1baffd194d833.670x670x1.png",
+     "stats": {
+      "unreviewed_annotations": 0,
+      "concurrents": 2,
+      "hot": false,
+      "pageviews": 80564
+     },
+     "title": "Burn",
+     "title_with_featured": "Burn",
+     "url": "https://genius.com/Juice-wrld-burn-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/1237094",
+      "header_image_url": "https://images.genius.com/87c55e8a5b91902ea6686d98b5b3bb3d.1000x563x1.png",
+      "id": 1237094,
+      "image_url": "https://images.genius.com/caf49d8580b6a845d19ad256b79509e1.1000x1000x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": true,
+      "name": "Juice WRLD",
+      "url": "https://genius.com/artists/Juice-wrld",
+      "iq": 9904
+     }
+    },
+    {
+     "annotation_count": 0,
+     "api_path": "/songs/5437808",
+     "full_title": "Pop Out by\u00a022Gz",
+     "header_image_thumbnail_url": "https://images.genius.com/f969ed8154ff993757abbbd59a0026ee.300x300x1.jpg",
+     "header_image_url": "https://images.genius.com/f969ed8154ff993757abbbd59a0026ee.1000x1000x1.jpg",
+     "id": 5437808,
+     "lyrics_owner_id": 4564616,
+     "lyrics_state": "complete",
+     "path": "/22gz-pop-out-lyrics",
+     "pyongs_count": null,
+     "song_art_image_thumbnail_url": "https://images.genius.com/f969ed8154ff993757abbbd59a0026ee.300x300x1.jpg",
+     "song_art_image_url": "https://images.genius.com/f969ed8154ff993757abbbd59a0026ee.1000x1000x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 0,
+      "hot": false
+     },
+     "title": "Pop Out",
+     "title_with_featured": "Pop Out",
+     "url": "https://genius.com/22gz-pop-out-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/1037102",
+      "header_image_url": "https://images.genius.com/7855eabe44fec0d4f2cd88ad610d9a49.800x1000x1.jpg",
+      "id": 1037102,
+      "image_url": "https://images.genius.com/ff07f4a8bc30b9c09673ea6d5de0bb5d.630x630x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": true,
+      "name": "22Gz",
+      "url": "https://genius.com/artists/22gz",
+      "iq": 1157
+     }
+    },
+    {
+     "annotation_count": 15,
+     "api_path": "/songs/5500166",
+     "full_title": "Gimme More (Remix) by\u00a0Slayyyter",
+     "header_image_thumbnail_url": "https://images.genius.com/ad38757b22b261a084efb4a20bd08910.300x300x1.jpg",
+     "header_image_url": "https://images.genius.com/ad38757b22b261a084efb4a20bd08910.999x1000x1.jpg",
+     "id": 5500166,
+     "lyrics_owner_id": 1687624,
+     "lyrics_state": "complete",
+     "path": "/Slayyyter-gimme-more-remix-lyrics",
+     "pyongs_count": null,
+     "song_art_image_thumbnail_url": "https://images.genius.com/ad38757b22b261a084efb4a20bd08910.300x300x1.jpg",
+     "song_art_image_url": "https://images.genius.com/ad38757b22b261a084efb4a20bd08910.999x1000x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 15,
+      "concurrents": 2,
+      "hot": false,
+      "pageviews": 25719
+     },
+     "title": "Gimme More (Remix)",
+     "title_with_featured": "Gimme More (Remix)",
+     "url": "https://genius.com/Slayyyter-gimme-more-remix-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/1554051",
+      "header_image_url": "https://images.genius.com/a5748b2cf06ad2a600dc7a6563e520a3.1000x216x1.png",
+      "id": 1554051,
+      "image_url": "https://images.genius.com/e613766e30f4a56deaa54907eb0f5f5b.558x558x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Slayyyter",
+      "url": "https://genius.com/artists/Slayyyter"
+     }
+    },
+    {
+     "annotation_count": 0,
+     "api_path": "/songs/5683968",
+     "full_title": "Bodyguard by\u00a0Dessy",
+     "header_image_thumbnail_url": "https://images.genius.com/0649666d3f9feb6077e6ca950221354e.300x300x1.jpg",
+     "header_image_url": "https://images.genius.com/0649666d3f9feb6077e6ca950221354e.1000x1000x1.jpg",
+     "id": 5683968,
+     "lyrics_owner_id": 2171344,
+     "lyrics_state": "complete",
+     "path": "/Dessy-bodyguard-lyrics",
+     "pyongs_count": null,
+     "song_art_image_thumbnail_url": "https://images.genius.com/0649666d3f9feb6077e6ca950221354e.300x300x1.jpg",
+     "song_art_image_url": "https://images.genius.com/0649666d3f9feb6077e6ca950221354e.1000x1000x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 0,
+      "hot": false
+     },
+     "title": "Bodyguard",
+     "title_with_featured": "Bodyguard",
+     "url": "https://genius.com/Dessy-bodyguard-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/2288204",
+      "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+      "id": 2288204,
+      "image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Dessy",
+      "url": "https://genius.com/artists/Dessy"
+     }
+    },
+    {
+     "annotation_count": 0,
+     "api_path": "/songs/6054889",
+     "full_title": "Frieza Sample (Interlude) by\u00a0BigAntDog\u00a0(Raps)",
+     "header_image_thumbnail_url": "https://images.genius.com/d061db1d63d3509e9e2d52f4cf09d46f.300x300x1.jpg",
+     "header_image_url": "https://images.genius.com/d061db1d63d3509e9e2d52f4cf09d46f.1000x1000x1.jpg",
+     "id": 6054889,
+     "lyrics_owner_id": 11012669,
+     "lyrics_state": "complete",
+     "path": "/Bigantdog-raps-frieza-sample-interlude-lyrics",
+     "pyongs_count": null,
+     "song_art_image_thumbnail_url": "https://images.genius.com/d061db1d63d3509e9e2d52f4cf09d46f.300x300x1.jpg",
+     "song_art_image_url": "https://images.genius.com/d061db1d63d3509e9e2d52f4cf09d46f.1000x1000x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 0,
+      "hot": false
+     },
+     "title": "Frieza Sample (Interlude)",
+     "title_with_featured": "Frieza Sample (Interlude)",
+     "url": "https://genius.com/Bigantdog-raps-frieza-sample-interlude-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/2098010",
+      "header_image_url": "https://images.genius.com/1fa121cadda27ff2f237f88735696405.1000x1000x1.jpg",
+      "id": 2098010,
+      "image_url": "https://images.genius.com/e39ee8d935e15030ed25d1ab3dc98bb2.422x422x1.png",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "BigAntDog (Raps)",
+      "url": "https://genius.com/artists/Bigantdog-raps"
+     }
+    }
+   ]
+  },
+  {
+   "relationship_type": "cover_of",
+   "type": "cover_of",
+   "songs": []
+  },
+  {
+   "relationship_type": "covered_by",
+   "type": "covered_by",
+   "songs": [
+    {
+     "annotation_count": 0,
+     "api_path": "/songs/4260166",
+     "full_title": "7 Rings, Heartless by\u00a0Alex\u00a0Aiono",
+     "header_image_thumbnail_url": "https://images.genius.com/08c0709c5e74bf549df90d34a77756ab.300x300x1.jpg",
+     "header_image_url": "https://images.genius.com/08c0709c5e74bf549df90d34a77756ab.781x781x1.jpg",
+     "id": 4260166,
+     "lyrics_owner_id": 7314334,
+     "lyrics_state": "complete",
+     "path": "/Alex-aiono-7-rings-heartless-lyrics",
+     "pyongs_count": null,
+     "song_art_image_thumbnail_url": "https://images.genius.com/08c0709c5e74bf549df90d34a77756ab.300x300x1.jpg",
+     "song_art_image_url": "https://images.genius.com/08c0709c5e74bf549df90d34a77756ab.781x781x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 0,
+      "hot": false
+     },
+     "title": "7 Rings, Heartless",
+     "title_with_featured": "7 Rings, Heartless",
+     "url": "https://genius.com/Alex-aiono-7-rings-heartless-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/384022",
+      "header_image_url": "https://images.genius.com/99bc0c742b200fbf6158afe661ee22d6.1000x563x1.jpg",
+      "id": 384022,
+      "image_url": "https://images.genius.com/08c0709c5e74bf549df90d34a77756ab.781x781x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": true,
+      "name": "Alex Aiono",
+      "url": "https://genius.com/artists/Alex-aiono",
+      "iq": 420
+     }
+    },
+    {
+     "annotation_count": 1,
+     "api_path": "/songs/4264066",
+     "full_title": "7 rings by\u00a0Emery\u00a0Bingham",
+     "header_image_thumbnail_url": "https://images.genius.com/ce3a66e8a02206294e4a9b610c8cee5a.300x300x1.jpg",
+     "header_image_url": "https://images.genius.com/ce3a66e8a02206294e4a9b610c8cee5a.975x975x1.jpg",
+     "id": 4264066,
+     "lyrics_owner_id": 7779095,
+     "lyrics_state": "complete",
+     "path": "/Emery-bingham-7-rings-lyrics",
+     "pyongs_count": null,
+     "song_art_image_thumbnail_url": "https://images.genius.com/ce3a66e8a02206294e4a9b610c8cee5a.300x300x1.jpg",
+     "song_art_image_url": "https://images.genius.com/ce3a66e8a02206294e4a9b610c8cee5a.975x975x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 1,
+      "hot": false
+     },
+     "title": "7 rings",
+     "title_with_featured": "7 rings",
+     "url": "https://genius.com/Emery-bingham-7-rings-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/1578977",
+      "header_image_url": "https://images.genius.com/0ddae32b9d76cd4d6fc79cd8495d2434.480x360x1.jpg",
+      "id": 1578977,
+      "image_url": "https://images.genius.com/ce3a66e8a02206294e4a9b610c8cee5a.975x975x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Emery Bingham",
+      "url": "https://genius.com/artists/Emery-bingham"
+     }
+    },
+    {
+     "annotation_count": 0,
+     "api_path": "/songs/4342838",
+     "full_title": "7 Rings by\u00a0Kurt\u00a0Hugo Schneider",
+     "header_image_thumbnail_url": "https://images.genius.com/d564cf2e99ba0f8e088f35e5e9b52356.300x300x1.jpg",
+     "header_image_url": "https://images.genius.com/d564cf2e99ba0f8e088f35e5e9b52356.612x612x1.jpg",
+     "id": 4342838,
+     "lyrics_owner_id": 4801273,
+     "lyrics_state": "complete",
+     "path": "/Kurt-hugo-schneider-7-rings-lyrics",
+     "pyongs_count": null,
+     "song_art_image_thumbnail_url": "https://images.genius.com/d564cf2e99ba0f8e088f35e5e9b52356.300x300x1.jpg",
+     "song_art_image_url": "https://images.genius.com/d564cf2e99ba0f8e088f35e5e9b52356.612x612x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 0,
+      "hot": false
+     },
+     "title": "7 Rings",
+     "title_with_featured": "7 Rings",
+     "url": "https://genius.com/Kurt-hugo-schneider-7-rings-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/993071",
+      "header_image_url": "https://images.genius.com/0fe17d80d2ece0daab3ad617cc6d77b5.1000x667x1.jpg",
+      "id": 993071,
+      "image_url": "https://images.genius.com/d564cf2e99ba0f8e088f35e5e9b52356.612x612x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Kurt Hugo Schneider",
+      "url": "https://genius.com/artists/Kurt-hugo-schneider"
+     }
+    },
+    {
+     "annotation_count": 0,
+     "api_path": "/songs/4409333",
+     "full_title": "7 Rings by\u00a0Hans\u00a0Vito",
+     "header_image_thumbnail_url": "https://images.genius.com/22948447d736b216e75bff3a3092b371.300x169x1.jpg",
+     "header_image_url": "https://images.genius.com/22948447d736b216e75bff3a3092b371.1000x563x1.jpg",
+     "id": 4409333,
+     "lyrics_owner_id": 6970877,
+     "lyrics_state": "complete",
+     "path": "/Hans-vito-7-rings-lyrics",
+     "pyongs_count": null,
+     "song_art_image_thumbnail_url": "https://images.genius.com/22948447d736b216e75bff3a3092b371.300x169x1.jpg",
+     "song_art_image_url": "https://images.genius.com/22948447d736b216e75bff3a3092b371.1000x563x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 0,
+      "hot": false
+     },
+     "title": "7 Rings",
+     "title_with_featured": "7 Rings",
+     "url": "https://genius.com/Hans-vito-7-rings-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/1765523",
+      "header_image_url": "https://images.genius.com/098006f7c9ece5b4c9a39b01ff75a6ec.900x900x1.jpg",
+      "id": 1765523,
+      "image_url": "https://images.genius.com/098006f7c9ece5b4c9a39b01ff75a6ec.900x900x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Hans Vito",
+      "url": "https://genius.com/artists/Hans-vito"
+     }
+    },
+    {
+     "annotation_count": 0,
+     "api_path": "/songs/4423467",
+     "full_title": "7 Rings by\u00a0Our\u00a0Last Night (Ft.\u00a0Derek\u00a0DiScanio)",
+     "header_image_thumbnail_url": "https://images.genius.com/69550a16d9ef230e6a916e15f845bdd8.300x169x1.jpg",
+     "header_image_url": "https://images.genius.com/69550a16d9ef230e6a916e15f845bdd8.1000x563x1.jpg",
+     "id": 4423467,
+     "lyrics_owner_id": 1006749,
+     "lyrics_state": "complete",
+     "path": "/Our-last-night-7-rings-lyrics",
+     "pyongs_count": 1,
+     "song_art_image_thumbnail_url": "https://images.genius.com/ab9448a58fb6ae7326d0a3e6c5e28efe.300x298x1.png",
+     "song_art_image_url": "https://images.genius.com/ab9448a58fb6ae7326d0a3e6c5e28efe.310x308x1.png",
+     "stats": {
+      "unreviewed_annotations": 0,
+      "hot": false
+     },
+     "title": "7 Rings",
+     "title_with_featured": "7 Rings (Ft.\u00a0Derek\u00a0DiScanio)",
+     "url": "https://genius.com/Our-last-night-7-rings-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/126411",
+      "header_image_url": "https://images.genius.com/d3cb631f2f8b1b8f4b48d0472bc2aef4.1000x370x1.jpg",
+      "id": 126411,
+      "image_url": "https://images.genius.com/03627944481dcdb782595e9d3e351853.959x959x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Our Last Night",
+      "url": "https://genius.com/artists/Our-last-night"
+     }
+    },
+    {
+     "annotation_count": 0,
+     "api_path": "/songs/4460710",
+     "full_title": "7 Rings by\u00a0KIDZ\u00a0BOP Kids",
+     "header_image_thumbnail_url": "https://images.genius.com/f8ed9f2c867a969a4d43f601610b106e.300x300x1.jpg",
+     "header_image_url": "https://images.genius.com/f8ed9f2c867a969a4d43f601610b106e.1000x1000x1.jpg",
+     "id": 4460710,
+     "lyrics_owner_id": 6837137,
+     "lyrics_state": "complete",
+     "path": "/Kidz-bop-kids-7-rings-lyrics",
+     "pyongs_count": null,
+     "song_art_image_thumbnail_url": "https://images.genius.com/13b76ab037fbdd99bc02f12b7ecf15f5.300x300x1.jpg",
+     "song_art_image_url": "https://images.genius.com/13b76ab037fbdd99bc02f12b7ecf15f5.1000x1000x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 0,
+      "hot": false,
+      "pageviews": 13708
+     },
+     "title": "7 Rings",
+     "title_with_featured": "7 Rings",
+     "url": "https://genius.com/Kidz-bop-kids-7-rings-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/353676",
+      "header_image_url": "https://images.genius.com/81148118fdd0003f338c75fbe39c2a2c.828x360x1.jpg",
+      "id": 353676,
+      "image_url": "https://images.genius.com/5ad86ea95a2d5e8165ed3f4c9f1c9f86.960x960x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "KIDZ BOP Kids",
+      "url": "https://genius.com/artists/Kidz-bop-kids"
+     }
+    },
+    {
+     "annotation_count": 0,
+     "api_path": "/songs/4473725",
+     "full_title": "7 Rings (Hard Rock Cover) by\u00a0The\u00a0Animal In Me",
+     "header_image_thumbnail_url": "https://images.genius.com/f850f9609ac37d3f8b877804976ad655.300x300x1.jpg",
+     "header_image_url": "https://images.genius.com/f850f9609ac37d3f8b877804976ad655.900x900x1.jpg",
+     "id": 4473725,
+     "lyrics_owner_id": 6932502,
+     "lyrics_state": "complete",
+     "path": "/The-animal-in-me-7-rings-hard-rock-cover-lyrics",
+     "pyongs_count": null,
+     "song_art_image_thumbnail_url": "https://images.genius.com/f850f9609ac37d3f8b877804976ad655.300x300x1.jpg",
+     "song_art_image_url": "https://images.genius.com/f850f9609ac37d3f8b877804976ad655.900x900x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 0,
+      "hot": false
+     },
+     "title": "7 Rings (Hard Rock Cover)",
+     "title_with_featured": "7 Rings (Hard Rock Cover)",
+     "url": "https://genius.com/The-animal-in-me-7-rings-hard-rock-cover-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/405883",
+      "header_image_url": "https://images.genius.com/782cc091357e9cf7346d8195d324b438.960x640x1.jpg",
+      "id": 405883,
+      "image_url": "https://images.genius.com/f850f9609ac37d3f8b877804976ad655.900x900x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "The Animal In Me",
+      "url": "https://genius.com/artists/The-animal-in-me"
+     }
+    },
+    {
+     "annotation_count": 0,
+     "api_path": "/songs/4489482",
+     "full_title": "7 Rings (Instrumental) by\u00a0Molotov\u00a0Cocktail Piano",
+     "header_image_thumbnail_url": "https://images.genius.com/9076e3c66801434398d505548853ec64.300x300x1.jpg",
+     "header_image_url": "https://images.genius.com/9076e3c66801434398d505548853ec64.1000x1000x1.jpg",
+     "id": 4489482,
+     "lyrics_owner_id": 5182512,
+     "lyrics_state": "complete",
+     "path": "/Molotov-cocktail-piano-7-rings-instrumental-lyrics",
+     "pyongs_count": null,
+     "song_art_image_thumbnail_url": "https://images.genius.com/9076e3c66801434398d505548853ec64.300x300x1.jpg",
+     "song_art_image_url": "https://images.genius.com/9076e3c66801434398d505548853ec64.1000x1000x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 0,
+      "hot": false
+     },
+     "title": "7 Rings (Instrumental)",
+     "title_with_featured": "7 Rings (Instrumental)",
+     "url": "https://genius.com/Molotov-cocktail-piano-7-rings-instrumental-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/458802",
+      "header_image_url": "https://images.genius.com/1d0d3b05b8dca09ba15aca90912364c0.900x900x1.jpg",
+      "id": 458802,
+      "image_url": "https://images.genius.com/1d0d3b05b8dca09ba15aca90912364c0.900x900x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Molotov Cocktail Piano",
+      "url": "https://genius.com/artists/Molotov-cocktail-piano"
+     }
+    },
+    {
+     "annotation_count": 1,
+     "api_path": "/songs/4686254",
+     "full_title": "7 BURPS by\u00a0Samantha\u00a0Knows Best",
+     "header_image_thumbnail_url": "https://images.genius.com/efcf48d3e66cd84c511e46b294ca420a.300x301x1.jpg",
+     "header_image_url": "https://images.genius.com/efcf48d3e66cd84c511e46b294ca420a.591x592x1.jpg",
+     "id": 4686254,
+     "lyrics_owner_id": 8883718,
+     "lyrics_state": "complete",
+     "path": "/Samantha-knows-best-7-burps-lyrics",
+     "pyongs_count": null,
+     "song_art_image_thumbnail_url": "https://images.genius.com/efcf48d3e66cd84c511e46b294ca420a.300x301x1.jpg",
+     "song_art_image_url": "https://images.genius.com/efcf48d3e66cd84c511e46b294ca420a.591x592x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 1,
+      "hot": false
+     },
+     "title": "7 BURPS",
+     "title_with_featured": "7 BURPS",
+     "url": "https://genius.com/Samantha-knows-best-7-burps-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/1879951",
+      "header_image_url": "https://images.genius.com/bd2c027b634bf433501f159c3c4d182d.1000x1000x1.png",
+      "id": 1879951,
+      "image_url": "https://images.genius.com/c417d0ca219c6aa0203b8692bef6ef43.1000x1000x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Samantha Knows Best",
+      "url": "https://genius.com/artists/Samantha-knows-best",
+      "iq": 4421
+     }
+    },
+    {
+     "annotation_count": 0,
+     "api_path": "/songs/4858401",
+     "full_title": "7 rings by\u00a0Emma\u00a0Heesters",
+     "header_image_thumbnail_url": "https://images.genius.com/8a67902a7b8aa55475f27dac9011176b.300x300x1.jpg",
+     "header_image_url": "https://images.genius.com/8a67902a7b8aa55475f27dac9011176b.640x640x1.jpg",
+     "id": 4858401,
+     "lyrics_owner_id": 8664184,
+     "lyrics_state": "complete",
+     "path": "/Emma-heesters-7-rings-lyrics",
+     "pyongs_count": null,
+     "song_art_image_thumbnail_url": "https://images.genius.com/8a67902a7b8aa55475f27dac9011176b.300x300x1.jpg",
+     "song_art_image_url": "https://images.genius.com/8a67902a7b8aa55475f27dac9011176b.640x640x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 0,
+      "hot": false
+     },
+     "title": "7 rings",
+     "title_with_featured": "7 rings",
+     "url": "https://genius.com/Emma-heesters-7-rings-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/1296227",
+      "header_image_url": "https://images.genius.com/d4ed0906c4b0abe0cdd567ae660fa8a6.225x225x1.jpg",
+      "id": 1296227,
+      "image_url": "https://images.genius.com/d4ed0906c4b0abe0cdd567ae660fa8a6.225x225x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Emma Heesters",
+      "url": "https://genius.com/artists/Emma-heesters"
+     }
+    },
+    {
+     "annotation_count": 1,
+     "api_path": "/songs/5007743",
+     "full_title": "7 rings by\u00a0Sierra\u00a0Romana",
+     "header_image_thumbnail_url": "https://images.genius.com/bd5748d35d0b3356d4bef048bc0d95de.224x224x1.jpg",
+     "header_image_url": "https://images.genius.com/bd5748d35d0b3356d4bef048bc0d95de.224x224x1.jpg",
+     "id": 5007743,
+     "lyrics_owner_id": 8513019,
+     "lyrics_state": "complete",
+     "path": "/Sierra-romana-7-rings-lyrics",
+     "pyongs_count": 2,
+     "song_art_image_thumbnail_url": "https://images.genius.com/bd5748d35d0b3356d4bef048bc0d95de.224x224x1.jpg",
+     "song_art_image_url": "https://images.genius.com/bd5748d35d0b3356d4bef048bc0d95de.224x224x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 1,
+      "hot": false
+     },
+     "title": "7 rings",
+     "title_with_featured": "7 rings",
+     "url": "https://genius.com/Sierra-romana-7-rings-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/1007111",
+      "header_image_url": "https://images.genius.com/1ffdd428c312f1af139307e631dc6819.1000x193x1.jpg",
+      "id": 1007111,
+      "image_url": "https://images.genius.com/66b2ccaf42b6072d3f1416c5778b8664.960x960x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Sierra Romana",
+      "url": "https://genius.com/artists/Sierra-romana"
+     }
+    },
+    {
+     "annotation_count": 3,
+     "api_path": "/songs/5132728",
+     "full_title": "Every Hit Song From 2019 IN 3 MINUTES by\u00a0Kurt\u00a0Hugo Schneider (Ft.\u00a0Sam\u00a0Tsui)",
+     "header_image_thumbnail_url": "https://images.genius.com/d564cf2e99ba0f8e088f35e5e9b52356.300x300x1.jpg",
+     "header_image_url": "https://images.genius.com/d564cf2e99ba0f8e088f35e5e9b52356.612x612x1.jpg",
+     "id": 5132728,
+     "lyrics_owner_id": 9050530,
+     "lyrics_state": "complete",
+     "path": "/Kurt-hugo-schneider-every-hit-song-from-2019-in-3-minutes-lyrics",
+     "pyongs_count": null,
+     "song_art_image_thumbnail_url": "https://images.genius.com/d564cf2e99ba0f8e088f35e5e9b52356.300x300x1.jpg",
+     "song_art_image_url": "https://images.genius.com/d564cf2e99ba0f8e088f35e5e9b52356.612x612x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 3,
+      "hot": false
+     },
+     "title": "Every Hit Song From 2019 IN 3 MINUTES",
+     "title_with_featured": "Every Hit Song From 2019 IN 3 MINUTES (Ft.\u00a0Sam\u00a0Tsui)",
+     "url": "https://genius.com/Kurt-hugo-schneider-every-hit-song-from-2019-in-3-minutes-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/993071",
+      "header_image_url": "https://images.genius.com/0fe17d80d2ece0daab3ad617cc6d77b5.1000x667x1.jpg",
+      "id": 993071,
+      "image_url": "https://images.genius.com/d564cf2e99ba0f8e088f35e5e9b52356.612x612x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Kurt Hugo Schneider",
+      "url": "https://genius.com/artists/Kurt-hugo-schneider"
+     }
+    },
+    {
+     "annotation_count": 0,
+     "api_path": "/songs/5637044",
+     "full_title": "7 rings by\u00a0Operaci\u00f3n\u00a0Triunfo 2020 (Ft.\u00a0Anaju)",
+     "header_image_thumbnail_url": "https://images.genius.com/8a776ae612daf9b18769baa4c2b4078a.300x300x1.jpg",
+     "header_image_url": "https://images.genius.com/8a776ae612daf9b18769baa4c2b4078a.1000x1000x1.jpg",
+     "id": 5637044,
+     "lyrics_owner_id": 7062311,
+     "lyrics_state": "complete",
+     "path": "/Operacion-triunfo-2020-7-rings-lyrics",
+     "pyongs_count": null,
+     "song_art_image_thumbnail_url": "https://images.genius.com/8a776ae612daf9b18769baa4c2b4078a.300x300x1.jpg",
+     "song_art_image_url": "https://images.genius.com/8a776ae612daf9b18769baa4c2b4078a.1000x1000x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 0,
+      "hot": false
+     },
+     "title": "7 rings",
+     "title_with_featured": "7 rings (Ft.\u00a0Anaju)",
+     "url": "https://genius.com/Operacion-triunfo-2020-7-rings-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/2074357",
+      "header_image_url": "https://images.genius.com/91a6ad3cda5bd42b495825bb8f1b34c2.620x349x1.jpg",
+      "id": 2074357,
+      "image_url": "https://images.genius.com/f3dd2b5bdb90732115147c52976c96a7.480x480x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Operaci\u00f3n Triunfo 2020",
+      "url": "https://genius.com/artists/Operacion-triunfo-2020"
+     }
+    },
+    {
+     "annotation_count": 0,
+     "api_path": "/songs/5734649",
+     "full_title": "7 rings by\u00a0Alaina\u00a0Castillo",
+     "header_image_thumbnail_url": "https://images.genius.com/44f5bf3136b8bbcd8f0250c7d8aa3161.300x300x1.png",
+     "header_image_url": "https://images.genius.com/44f5bf3136b8bbcd8f0250c7d8aa3161.1000x1000x1.png",
+     "id": 5734649,
+     "lyrics_owner_id": 5904133,
+     "lyrics_state": "complete",
+     "path": "/Alaina-castillo-7-rings-lyrics",
+     "pyongs_count": null,
+     "song_art_image_thumbnail_url": "https://images.genius.com/44f5bf3136b8bbcd8f0250c7d8aa3161.300x300x1.png",
+     "song_art_image_url": "https://images.genius.com/44f5bf3136b8bbcd8f0250c7d8aa3161.1000x1000x1.png",
+     "stats": {
+      "unreviewed_annotations": 0,
+      "hot": false
+     },
+     "title": "7 rings",
+     "title_with_featured": "7 rings",
+     "url": "https://genius.com/Alaina-castillo-7-rings-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/1594212",
+      "header_image_url": "https://images.genius.com/eec286d8ede6834354d777eeb9727001.696x442x1.jpg",
+      "id": 1594212,
+      "image_url": "https://images.genius.com/09c3557311166f59313daea4189782c4.399x399x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": true,
+      "name": "Alaina Castillo",
+      "url": "https://genius.com/artists/Alaina-castillo",
+      "iq": 447
+     }
+    },
+    {
+     "annotation_count": 0,
+     "api_path": "/songs/6049005",
+     "full_title": "7 Rings by\u00a0Matt\u00a0Bennett",
+     "header_image_thumbnail_url": "https://images.genius.com/cf9517891a0989043dfb4f4daf1cdb9d.300x300x1.jpg",
+     "header_image_url": "https://images.genius.com/cf9517891a0989043dfb4f4daf1cdb9d.535x535x1.jpg",
+     "id": 6049005,
+     "lyrics_owner_id": 7547105,
+     "lyrics_state": "complete",
+     "path": "/Matt-bennett-7-rings-lyrics",
+     "pyongs_count": null,
+     "song_art_image_thumbnail_url": "https://images.genius.com/cf9517891a0989043dfb4f4daf1cdb9d.300x300x1.jpg",
+     "song_art_image_url": "https://images.genius.com/cf9517891a0989043dfb4f4daf1cdb9d.535x535x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 0,
+      "hot": false
+     },
+     "title": "7 Rings",
+     "title_with_featured": "7 Rings",
+     "url": "https://genius.com/Matt-bennett-7-rings-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/260148",
+      "header_image_url": "https://images.genius.com/5aecd822dda42a5011dc4abf486e11af.442x442x1.jpg",
+      "id": 260148,
+      "image_url": "https://images.genius.com/5aecd822dda42a5011dc4abf486e11af.442x442x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Matt Bennett",
+      "url": "https://genius.com/artists/Matt-bennett"
+     }
+    }
+   ]
+  },
+  {
+   "relationship_type": "remix_of",
+   "type": "remix_of",
+   "songs": []
+  },
+  {
+   "relationship_type": "remixed_by",
+   "type": "remixed_by",
+   "songs": [
+    {
+     "annotation_count": 0,
+     "api_path": "/songs/4253107",
+     "full_title": "Ariana Grande - 7 Rings  [MASHUP] by\u00a0HNM\u00a0Magazine",
+     "header_image_thumbnail_url": "https://images.genius.com/68da646f9d81f19093cf1dc7a5703942.164x164x1.jpg",
+     "header_image_url": "https://images.genius.com/68da646f9d81f19093cf1dc7a5703942.164x164x1.jpg",
+     "id": 4253107,
+     "lyrics_owner_id": 7805870,
+     "lyrics_state": "complete",
+     "path": "/Hnm-magazine-ariana-grande-7-rings-mashup-lyrics",
+     "pyongs_count": null,
+     "song_art_image_thumbnail_url": "https://images.genius.com/68da646f9d81f19093cf1dc7a5703942.164x164x1.jpg",
+     "song_art_image_url": "https://images.genius.com/68da646f9d81f19093cf1dc7a5703942.164x164x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 0,
+      "hot": false
+     },
+     "title": "Ariana Grande - 7 Rings  [MASHUP]",
+     "title_with_featured": "Ariana Grande - 7 Rings  [MASHUP]",
+     "url": "https://genius.com/Hnm-magazine-ariana-grande-7-rings-mashup-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/1619288",
+      "header_image_url": "https://images.genius.com/68da646f9d81f19093cf1dc7a5703942.164x164x1.jpg",
+      "id": 1619288,
+      "image_url": "https://images.genius.com/68da646f9d81f19093cf1dc7a5703942.164x164x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "HNM Magazine",
+      "url": "https://genius.com/artists/Hnm-magazine"
+     }
+    },
+    {
+     "annotation_count": 1,
+     "api_path": "/songs/4260606",
+     "full_title": "7 RINGS OF GOD (God is a woman/7 rings) by\u00a0Adamusic",
+     "header_image_thumbnail_url": "https://images.genius.com/062b20f3a2637dcc02a73bf1603f19e9.300x169x1.jpg",
+     "header_image_url": "https://images.genius.com/062b20f3a2637dcc02a73bf1603f19e9.1000x563x1.jpg",
+     "id": 4260606,
+     "lyrics_owner_id": 4951385,
+     "lyrics_state": "complete",
+     "path": "/Adamusic-7-rings-of-god-god-is-a-woman-7-rings-lyrics",
+     "pyongs_count": null,
+     "song_art_image_thumbnail_url": "https://images.genius.com/062b20f3a2637dcc02a73bf1603f19e9.300x169x1.jpg",
+     "song_art_image_url": "https://images.genius.com/062b20f3a2637dcc02a73bf1603f19e9.1000x563x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 1,
+      "hot": false
+     },
+     "title": "7 RINGS OF GOD (God is a woman/7 rings)",
+     "title_with_featured": "7 RINGS OF GOD (God is a woman/7 rings)",
+     "url": "https://genius.com/Adamusic-7-rings-of-god-god-is-a-woman-7-rings-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/1428183",
+      "header_image_url": "https://images.genius.com/fe9e7240c28b1ee29bad5efeab4f9f3e.1000x1000x1.jpg",
+      "id": 1428183,
+      "image_url": "https://images.genius.com/fe9e7240c28b1ee29bad5efeab4f9f3e.1000x1000x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Adamusic",
+      "url": "https://genius.com/artists/Adamusic"
+     }
+    },
+    {
+     "annotation_count": 17,
+     "api_path": "/songs/4276139",
+     "full_title": "7 rings (Remix) by\u00a0Ariana\u00a0Grande (Ft.\u00a02\u00a0Chainz)",
+     "header_image_thumbnail_url": "https://images.genius.com/e933c8e159ac387e4c21cd02063ea30f.300x300x1.jpg",
+     "header_image_url": "https://images.genius.com/e933c8e159ac387e4c21cd02063ea30f.1000x1000x1.jpg",
+     "id": 4276139,
+     "lyrics_owner_id": 93685,
+     "lyrics_state": "complete",
+     "path": "/Ariana-grande-7-rings-remix-lyrics",
+     "pyongs_count": 10,
+     "song_art_image_thumbnail_url": "https://images.genius.com/e933c8e159ac387e4c21cd02063ea30f.300x300x1.jpg",
+     "song_art_image_url": "https://images.genius.com/e933c8e159ac387e4c21cd02063ea30f.1000x1000x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 1,
+      "hot": false,
+      "pageviews": 93878
+     },
+     "title": "7 rings (Remix)",
+     "title_with_featured": "7 rings (Remix) (Ft.\u00a02\u00a0Chainz)",
+     "url": "https://genius.com/Ariana-grande-7-rings-remix-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/26507",
+      "header_image_url": "https://images.genius.com/0b63409589894fbd955a658fc89f08dd.1000x429x1.jpg",
+      "id": 26507,
+      "image_url": "https://images.genius.com/d36a47955ac0ddb12748c5e7c2bd4b4b.640x640x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": true,
+      "name": "Ariana Grande",
+      "url": "https://genius.com/artists/Ariana-grande",
+      "iq": 2260
+     }
+    },
+    {
+     "annotation_count": 0,
+     "api_path": "/songs/4285674",
+     "full_title": "7 Rings Remix by\u00a0Klumzy",
+     "header_image_thumbnail_url": "https://assets.genius.com/images/default_cover_image.png?1606943206",
+     "header_image_url": "https://assets.genius.com/images/default_cover_image.png?1606943206",
+     "id": 4285674,
+     "lyrics_owner_id": 7872148,
+     "lyrics_state": "complete",
+     "path": "/Klumzy-7-rings-remix-lyrics",
+     "pyongs_count": null,
+     "song_art_image_thumbnail_url": "https://assets.genius.com/images/default_cover_image.png?1606943206",
+     "song_art_image_url": "https://assets.genius.com/images/default_cover_image.png?1606943206",
+     "stats": {
+      "unreviewed_annotations": 0,
+      "hot": false
+     },
+     "title": "7 Rings Remix",
+     "title_with_featured": "7 Rings Remix",
+     "url": "https://genius.com/Klumzy-7-rings-remix-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/631693",
+      "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+      "id": 631693,
+      "image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Klumzy",
+      "url": "https://genius.com/artists/Klumzy"
+     }
+    },
+    {
+     "annotation_count": 0,
+     "api_path": "/songs/5096549",
+     "full_title": "United State of Pop 2019 (Run Away) by\u00a0DJ\u00a0Earworm",
+     "header_image_thumbnail_url": "https://images.genius.com/e7338e00480aa715afe5a411ce00cdfa.300x300x1.jpg",
+     "header_image_url": "https://images.genius.com/e7338e00480aa715afe5a411ce00cdfa.720x720x1.jpg",
+     "id": 5096549,
+     "lyrics_owner_id": 6526685,
+     "lyrics_state": "complete",
+     "path": "/Dj-earworm-united-state-of-pop-2019-run-away-lyrics",
+     "pyongs_count": null,
+     "song_art_image_thumbnail_url": "https://images.genius.com/e7338e00480aa715afe5a411ce00cdfa.300x300x1.jpg",
+     "song_art_image_url": "https://images.genius.com/e7338e00480aa715afe5a411ce00cdfa.720x720x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 0,
+      "hot": false
+     },
+     "title": "United State of Pop 2019 (Run Away)",
+     "title_with_featured": "United State of Pop 2019 (Run Away)",
+     "url": "https://genius.com/Dj-earworm-united-state-of-pop-2019-run-away-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/190620",
+      "header_image_url": "https://images.genius.com/e46eb8327e3ea450b0ba0e15bcd0af6a.642x642x1.jpg",
+      "id": 190620,
+      "image_url": "https://images.genius.com/e46eb8327e3ea450b0ba0e15bcd0af6a.642x642x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "DJ Earworm",
+      "url": "https://genius.com/artists/Dj-earworm"
+     }
+    },
+    {
+     "annotation_count": 0,
+     "api_path": "/songs/5854825",
+     "full_title": "7 Rings Remix by\u00a0Nino\u00a0Blu",
+     "header_image_thumbnail_url": "https://images.genius.com/e28fb2f11468b959da4a0b394847f239.300x300x1.jpg",
+     "header_image_url": "https://images.genius.com/e28fb2f11468b959da4a0b394847f239.640x640x1.jpg",
+     "id": 5854825,
+     "lyrics_owner_id": 6039353,
+     "lyrics_state": "complete",
+     "path": "/Nino-blu-7-rings-remix-lyrics",
+     "pyongs_count": null,
+     "song_art_image_thumbnail_url": "https://images.genius.com/e28fb2f11468b959da4a0b394847f239.300x300x1.jpg",
+     "song_art_image_url": "https://images.genius.com/e28fb2f11468b959da4a0b394847f239.640x640x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 0,
+      "hot": false
+     },
+     "title": "7 Rings Remix",
+     "title_with_featured": "7 Rings Remix",
+     "url": "https://genius.com/Nino-blu-7-rings-remix-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/2337497",
+      "header_image_url": "https://images.genius.com/e85e74f2be9fcbb22dbb13d59c7fd801.1000x1000x1.jpg",
+      "id": 2337497,
+      "image_url": "https://images.genius.com/beb47e3d97e0e476aa158e7945ac6830.1000x1000x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Nino Blu",
+      "url": "https://genius.com/artists/Nino-blu"
+     }
+    }
+   ]
+  },
+  {
+   "relationship_type": "live_version_of",
+   "type": "live_version_of",
+   "songs": []
+  },
+  {
+   "relationship_type": "performed_live_as",
+   "type": "performed_live_as",
+   "songs": [
+    {
+     "annotation_count": 4,
+     "api_path": "/songs/5121283",
+     "full_title": "7 rings (live)\u200b by\u00a0Ariana\u00a0Grande",
+     "header_image_thumbnail_url": "https://images.genius.com/6f8876485f00c82c541aaadd66406599.300x300x1.jpg",
+     "header_image_url": "https://images.genius.com/6f8876485f00c82c541aaadd66406599.1000x1000x1.jpg",
+     "id": 5121283,
+     "lyrics_owner_id": 93685,
+     "lyrics_state": "complete",
+     "path": "/Ariana-grande-7-rings-live-lyrics",
+     "pyongs_count": null,
+     "song_art_image_thumbnail_url": "https://images.genius.com/6f8876485f00c82c541aaadd66406599.300x300x1.jpg",
+     "song_art_image_url": "https://images.genius.com/6f8876485f00c82c541aaadd66406599.1000x1000x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 0,
+      "hot": false,
+      "pageviews": 5141
+     },
+     "title": "7 rings (live)\u200b",
+     "title_with_featured": "7 rings (live)\u200b",
+     "url": "https://genius.com/Ariana-grande-7-rings-live-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/26507",
+      "header_image_url": "https://images.genius.com/0b63409589894fbd955a658fc89f08dd.1000x429x1.jpg",
+      "id": 26507,
+      "image_url": "https://images.genius.com/d36a47955ac0ddb12748c5e7c2bd4b4b.640x640x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": true,
+      "name": "Ariana Grande",
+      "url": "https://genius.com/artists/Ariana-grande",
+      "iq": 2260
+     }
+    },
+    {
+     "annotation_count": 0,
+     "api_path": "/songs/5244848",
+     "full_title": "\u200bimagine / My Favorite Things / 7 rings / thank u, next (Live at the 62nd Grammy Awards) by\u00a0Ariana\u00a0Grande",
+     "header_image_thumbnail_url": "https://images.genius.com/23cbc963947b85c53243632fce911720.300x169x1.jpg",
+     "header_image_url": "https://images.genius.com/23cbc963947b85c53243632fce911720.780x440x1.jpg",
+     "id": 5244848,
+     "lyrics_owner_id": 7074143,
+     "lyrics_state": "complete",
+     "path": "/Ariana-grande-imagine-my-favorite-things-7-rings-thank-u-next-live-at-the-62nd-grammy-awards-lyrics",
+     "pyongs_count": null,
+     "song_art_image_thumbnail_url": "https://images.genius.com/8d9c4bbcd0f6e643f07d8fd7805fc8e3.300x300x1.jpg",
+     "song_art_image_url": "https://images.genius.com/8d9c4bbcd0f6e643f07d8fd7805fc8e3.1000x1000x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 0,
+      "hot": false
+     },
+     "title": "\u200bimagine / My Favorite Things / 7 rings / thank u, next (Live at the 62nd Grammy Awards)",
+     "title_with_featured": "\u200bimagine / My Favorite Things / 7 rings / thank u, next (Live at the 62nd Grammy Awards)",
+     "url": "https://genius.com/Ariana-grande-imagine-my-favorite-things-7-rings-thank-u-next-live-at-the-62nd-grammy-awards-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/26507",
+      "header_image_url": "https://images.genius.com/0b63409589894fbd955a658fc89f08dd.1000x429x1.jpg",
+      "id": 26507,
+      "image_url": "https://images.genius.com/d36a47955ac0ddb12748c5e7c2bd4b4b.640x640x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": true,
+      "name": "Ariana Grande",
+      "url": "https://genius.com/artists/Ariana-grande",
+      "iq": 2260
+     }
+    }
+   ]
+  }
+ ],
+ "verified_annotations_by": [],
+ "verified_contributors": [],
+ "verified_lyrics_by": [],
+ "writer_artists": [
+  {
+   "api_path": "/artists/26507",
+   "header_image_url": "https://images.genius.com/0b63409589894fbd955a658fc89f08dd.1000x429x1.jpg",
+   "id": 26507,
+   "image_url": "https://images.genius.com/d36a47955ac0ddb12748c5e7c2bd4b4b.640x640x1.jpg",
+   "is_meme_verified": false,
+   "is_verified": true,
+   "name": "Ariana Grande",
+   "url": "https://genius.com/artists/Ariana-grande",
+   "iq": 2260
+  },
+  {
+   "api_path": "/artists/323660",
+   "header_image_url": "https://images.genius.com/183a5aef90f3703149150139ef3d8ae7.1000x563x1.jpg",
+   "id": 323660,
+   "image_url": "https://images.genius.com/6dbee2538aa9402a9014f258d958e0b4.472x472x1.jpg",
+   "is_meme_verified": false,
+   "is_verified": false,
+   "name": "Richard Rodgers",
+   "url": "https://genius.com/artists/Richard-rodgers"
+  },
+  {
+   "api_path": "/artists/27643",
+   "header_image_url": "https://images.genius.com/2bc5f766cb17d893e3a5f7b7762f8a94.1000x749x1.jpg",
+   "id": 27643,
+   "image_url": "https://images.genius.com/70f77d1ccd2ec84ca54c00ee78ef4cd3.748x748x1.jpg",
+   "is_meme_verified": false,
+   "is_verified": false,
+   "name": "TBHits",
+   "url": "https://genius.com/artists/Tbhits"
+  },
+  {
+   "api_path": "/artists/44037",
+   "header_image_url": "https://images.genius.com/e68db9a73e796e0d2dbe5ddadbb21f5f.1000x393x1.jpg",
+   "id": 44037,
+   "image_url": "https://images.genius.com/3c726420095703fd14cdf9a98d74ca8a.400x400x1.jpg",
+   "is_meme_verified": false,
+   "is_verified": true,
+   "name": "Njomza",
+   "url": "https://genius.com/artists/Njomza",
+   "iq": 534
+  },
+  {
+   "api_path": "/artists/1667483",
+   "header_image_url": "https://images.genius.com/a3e99d3f224803132e4d6e21a1c110df.800x1000x1.jpg",
+   "id": 1667483,
+   "image_url": "https://images.genius.com/dce3a20a2723de915023157d7b1861fa.640x640x1.jpg",
+   "is_meme_verified": false,
+   "is_verified": false,
+   "name": "Michael \u201cMikey\u201d Foster",
+   "url": "https://genius.com/artists/Michael-mikey-foster"
+  },
+  {
+   "api_path": "/artists/37797",
+   "header_image_url": "https://images.genius.com/10376502e9c8eed47da1d7d65e0c71d8.1000x1000x1.jpg",
+   "id": 37797,
+   "image_url": "https://images.genius.com/10376502e9c8eed47da1d7d65e0c71d8.1000x1000x1.jpg",
+   "is_meme_verified": false,
+   "is_verified": false,
+   "name": "Kaydence",
+   "url": "https://genius.com/artists/Kaydence"
+  },
+  {
+   "api_path": "/artists/615916",
+   "header_image_url": "https://images.genius.com/8846f528c30187b805c80d140f7c0d8c.360x331x1.jpg",
+   "id": 615916,
+   "image_url": "https://images.genius.com/d4e913ee4f3372c3a10537b53501c76e.407x407x1.jpg",
+   "is_meme_verified": false,
+   "is_verified": true,
+   "name": "Tayla Parx",
+   "url": "https://genius.com/artists/Tayla-parx",
+   "iq": 1399
+  },
+  {
+   "api_path": "/artists/1052387",
+   "header_image_url": "https://images.genius.com/47a742e588f71dea6396281ed892b44f.1000x618x1.jpg",
+   "id": 1052387,
+   "image_url": "https://images.genius.com/440d223d8d42c4ff0fb6b75a242006ca.749x749x1.jpg",
+   "is_meme_verified": false,
+   "is_verified": false,
+   "name": "Scootie",
+   "url": "https://genius.com/artists/Scootie"
+  },
+  {
+   "api_path": "/artists/323659",
+   "header_image_url": "https://images.genius.com/2f2a9f29d39a6c2d44e9547fb2f15d18.1000x1000x1.jpg",
+   "id": 323659,
+   "image_url": "https://images.genius.com/2f2a9f29d39a6c2d44e9547fb2f15d18.1000x1000x1.jpg",
+   "is_meme_verified": false,
+   "is_verified": false,
+   "name": "Oscar Hammerstein II",
+   "url": "https://genius.com/artists/Oscar-hammerstein-ii"
+  },
+  {
+   "api_path": "/artists/21798",
+   "header_image_url": "https://images.genius.com/34d32769a3820191fc2c948685b76abf.600x200x1.jpg",
+   "id": 21798,
+   "image_url": "https://images.genius.com/052deadafdc023b54cb55cf1d02a18fd.399x399x1.jpg",
+   "is_meme_verified": false,
+   "is_verified": true,
+   "name": "Victoria Mon\u00e9t",
+   "url": "https://genius.com/artists/Victoria-monet",
+   "iq": 920
+  }
+ ],
+ "lyrics": "Yeah, breakfast at Tiffany's and bottles of bubbles\nGirls with tattoos who like getting in trouble\nLashes and diamonds, ATM machines\nBuy myself all of my favorite things (Yeah)\nBeen through some bad shit, I should be a sad bitch\nWho woulda thought it'd turn me to a savage?\nRather be tied up with calls and not strings\nWrite my own checks like I write what I sing, yeah (Yeah)\n\nMy wrist, stop watchin', my neck is flossy\nMake big deposits, my gloss is poppin'\nYou like my hair? Gee, thanks, just bought it\nI see it, I like it, I want it, I got it (Yeah)\n\nI want it, I got it, I want it, I got it\nI want it, I got it, I want it, I got it\nYou like my hair? Gee, thanks, just bought it\nI see it, I like it, I want it, I got it (Yep)\n\nWearing a ring, but ain't gon' be no \"Mrs.\"\nBought matching diamonds for six of my bitches\nI'd rather spoil all my friends with my riches\nThink retail therapy my new addiction\nWhoever said money can't solve your problems\nMust not have had enough money to solve 'em\nThey say, \"Which one?\" I say, \"Nah, I want all of 'em\"\nHappiness is the same price as red-bottoms\n\nMy smile is beamin' (Yeah), my skin is gleamin' (Is gleamin')\nThe way it shine, I know you've seen it (You've seen it)\nI bought a crib just for (Just for) the closet (Closet)\nBoth his and hers, I want it, I got it, yeah\n\nI want it, I got it, I want it, I got it\nI want it, I got it, I want it, I got it (Baby)\nYou like my hair? Gee, thanks, just bought it (Oh yeah)\nI see it, I like it, I want it, I got it (Yep)\n\nYeah, my receipts be lookin' like phone numbers\nIf it ain't money, then wrong number\nBlack card is my business card\nThe way it be settin' the tone for me\nI don't mean to brag, but I be like, \"Put it in the bag,\" yeah\nWhen you see them racks, they stacked up like my ass, yeah\nShoot, go from the store to the booth\nMake it all back in one loop, gimme the loot\nNever mind, I got the juice\nNothing but net when we shoot\nLook at my neck, look at my jet\nAin't got enough money to pay me respect\nAin't no budget when I'm on the set\nIf I like it, then that's what I get, yeah\n\nI want it, I got it, I want it, I got it (Oh yeah)\nI want it, I got it, I want it, I got it (Oh yeah, yeah)\nYou like my hair? Gee, thanks, just bought it\nI see it, I like it, I want it, I got it (I see, yep)"
+}

@@ -1,0 +1,1760 @@
+{
+ "_type": "song",
+ "annotation_count": 6,
+ "api_path": "/songs/2353006",
+ "full_title": "Star Shopping by\u00a0Lil\u00a0Peep",
+ "header_image_thumbnail_url": "https://images.genius.com/a3231190b8a7702110cff5590705a66f.300x169x1.jpg",
+ "header_image_url": "https://images.genius.com/a3231190b8a7702110cff5590705a66f.1000x563x1.jpg",
+ "id": 2353006,
+ "instrumental": false,
+ "lyrics_owner_id": 2447522,
+ "lyrics_state": "complete",
+ "lyrics_updated_at": 1605699924,
+ "path": "/Lil-peep-star-shopping-lyrics",
+ "pyongs_count": 931,
+ "song_art_image_thumbnail_url": "https://images.genius.com/189dcc196b379d60d407afeabb301c35.300x300x1.png",
+ "song_art_image_url": "https://images.genius.com/189dcc196b379d60d407afeabb301c35.1000x1000x1.png",
+ "stats": {
+  "accepted_annotations": 5,
+  "contributors": 278,
+  "iq_earners": 278,
+  "transcribers": 4,
+  "unreviewed_annotations": 0,
+  "verified_annotations": 0,
+  "concurrents": 8,
+  "hot": false,
+  "pageviews": 3808859
+ },
+ "title": "Star Shopping",
+ "title_with_featured": "Star Shopping",
+ "updated_by_human_at": 1605699924,
+ "url": "https://genius.com/Lil-peep-star-shopping-lyrics",
+ "primary_artist": {
+  "api_path": "/artists/569922",
+  "header_image_url": "https://images.genius.com/7112ed6b0b4f0d3b7bb90fcd2b15d383.1000x563x1.jpg",
+  "id": 569922,
+  "image_url": "https://images.genius.com/c8db5e24b1949dcac7e2642db4f0236d.500x500x1.jpg",
+  "is_meme_verified": false,
+  "is_verified": true,
+  "name": "Lil Peep",
+  "url": "https://genius.com/artists/Lil-peep",
+  "iq": 2037
+ },
+ "apple_music_id": "1459244459",
+ "apple_music_player_url": "https://genius.com/songs/2353006/apple_music_player",
+ "description": {
+  "plain": "On \u201cStar Shopping,\u201d Lil Peep talks about his feelings towards his relationship with Emma Harris who is slowly starting to become impatient with him. He understands why she feels this way and is attempting to let her know how much he cares for her. He informs her that he just needs some time to get everything sorted out.\n\nThe song features Peep\u2019s melancholy vocals over a sad, guitar-centered beat by Kryptik that samples \u201cNever Mess With Sunday\u201d by Yppah.\n\nThe song was unavailable on most streaming services due to a copyright issue with the sample, however on April 19, 2019, it was officially uploaded (presumably after negotiation and clearances).\n\nThe re-release of the song caused a resurgence in interest and the song\u2019s popularity boosted. It re-entered and climbed the Genius Top 20 Hot Songs chart."
+ },
+ "embed_content": "<div id='rg_embed_link_2353006' class='rg_embed_link' data-song-id='2353006'>Read <a href='https://genius.com/Lil-peep-star-shopping-lyrics'>\u201cStar Shopping\u201d by Lil\u00a0Peep</a> on Genius</div> <script crossorigin src='//genius.com/songs/2353006/embed.js'></script>",
+ "featured_video": false,
+ "lyrics_placeholder_reason": null,
+ "recording_location": "East Walnut Street, Long Beach, NY",
+ "release_date": "2015-08-17",
+ "release_date_for_display": "August 17, 2015",
+ "current_user_metadata": {
+  "permissions": [
+   "see_pageviews",
+   "view_apple_music_player",
+   "create_comment",
+   "view_song_story_gallery"
+  ],
+  "excluded_permissions": [
+   "follow",
+   "award_transcription_iq",
+   "remove_transcription_iq",
+   "pyong",
+   "edit_lyrics",
+   "view_annotation_engagement_data",
+   "publish",
+   "unpublish",
+   "edit_spotify_details",
+   "hide",
+   "unhide",
+   "toggle_featured_video",
+   "add_pinned_annotation_to",
+   "add_community_annotation_to",
+   "destroy",
+   "mark_as_not_spam",
+   "edit_spotify_annotations_for",
+   "verify_lyrics",
+   "unverify_lyrics",
+   "edit_anything",
+   "edit_any_media",
+   "edit",
+   "rename",
+   "edit_tags",
+   "watch_fact_track",
+   "reindex",
+   "view_lyrics_synchronization",
+   "enable_media",
+   "disable_media",
+   "edit_lyrics_or_annotation_brackets",
+   "see_editorial_indicators",
+   "view_attribution_visualization",
+   "edit_annotation_brackets",
+   "preview_lyrics_for_export",
+   "hide_apple_player",
+   "unhide_apple_player",
+   "trigger_apple_match",
+   "mark_lyrics_evaluation_as_approved",
+   "mark_lyrics_evaluation_as_staff_approved",
+   "mark_lyrics_evaluation_as_unapproved",
+   "mark_lyrics_evaluation_as_un_staff_approved",
+   "view_transcriber_media_player",
+   "override_apple_match",
+   "edit_youtube_url",
+   "edit_soundcloud_url",
+   "edit_spotify_uuid",
+   "edit_vevo_url",
+   "moderate_annotations",
+   "create_annotation",
+   "see_short_id",
+   "manage_chart_item",
+   "create_tag",
+   "propose_lyrics_edit",
+   "moderate_lyrics_edit_proposals",
+   "preview_react_song_page"
+  ],
+  "interactions": {
+   "pyong": false,
+   "following": false
+  },
+  "relationships": {},
+  "iq_by_action": {}
+ },
+ "album": null,
+ "custom_performances": [
+  {
+   "label": "Licensing",
+   "artists": [
+    {
+     "api_path": "/artists/1841906",
+     "header_image_url": "https://images.genius.com/b6fda1a148751b7050ba758c8ca9031e.277x142x1.jpg",
+     "id": 1841906,
+     "image_url": "https://images.genius.com/bfbb70c766a5ae53d98ffa7dc2574bec.70x39x1.gif",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "SODRAC",
+     "url": "https://genius.com/artists/Sodrac"
+    },
+    {
+     "api_path": "/artists/1138091",
+     "header_image_url": "https://images.genius.com/5b84dbf7ba86e59c297143f076a56c9a.1000x1000x1.jpg",
+     "id": 1138091,
+     "image_url": "https://images.genius.com/051b0a6beabf8a9eb8768e9f874a542f.1000x1000x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "BMI",
+     "url": "https://genius.com/artists/Bmi"
+    },
+    {
+     "api_path": "/artists/1584321",
+     "header_image_url": "https://images.genius.com/f4d4f3e328ed0036cea6e1692950272f.200x200x1.jpg",
+     "id": 1584321,
+     "image_url": "https://images.genius.com/f4d4f3e328ed0036cea6e1692950272f.200x200x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Audiam",
+     "url": "https://genius.com/artists/Audiam"
+    },
+    {
+     "api_path": "/artists/1725513",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+     "id": 1725513,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "LatinAutor",
+     "url": "https://genius.com/artists/Latinautor"
+    },
+    {
+     "api_path": "/artists/551598",
+     "header_image_url": "https://images.genius.com/067d9bccf2ab6e5eded129861b73d9dc.851x315x1.jpg",
+     "id": 551598,
+     "image_url": "https://images.genius.com/5f24e8e67904faef419d736f2ade3f78.1000x1000x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "ASCAP",
+     "url": "https://genius.com/artists/Ascap"
+    },
+    {
+     "api_path": "/artists/1179023",
+     "header_image_url": "https://images.genius.com/92e4ea9ba616ee53bae21dc2e037a1e2.1000x1000x1.jpg",
+     "id": 1179023,
+     "image_url": "https://images.genius.com/f19c358ac9db989328ffc9a3de85bbd4.1000x1000x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Kobalt Music",
+     "url": "https://genius.com/artists/Kobalt-music"
+    },
+    {
+     "api_path": "/artists/1651911",
+     "header_image_url": "https://images.genius.com/73b11f1ff0d11de0a499cb81cbb4cb4b.1000x1000x1.png",
+     "id": 1651911,
+     "image_url": "https://images.genius.com/73b11f1ff0d11de0a499cb81cbb4cb4b.1000x1000x1.png",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "ABRAMUS",
+     "url": "https://genius.com/artists/Abramus"
+    }
+   ]
+  },
+  {
+   "label": "Tribute To",
+   "artists": [
+    {
+     "api_path": "/artists/1692725",
+     "header_image_url": "https://images.genius.com/8fd2d60adac2cfd84112df227d8a2664.1000x1000x1.jpg",
+     "id": 1692725,
+     "image_url": "https://images.genius.com/8fd2d60adac2cfd84112df227d8a2664.1000x1000x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Emma Harris",
+     "url": "https://genius.com/artists/Emma-harris"
+    }
+   ]
+  },
+  {
+   "label": "Performance Rights",
+   "artists": [
+    {
+     "api_path": "/artists/551598",
+     "header_image_url": "https://images.genius.com/067d9bccf2ab6e5eded129861b73d9dc.851x315x1.jpg",
+     "id": 551598,
+     "image_url": "https://images.genius.com/5f24e8e67904faef419d736f2ade3f78.1000x1000x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "ASCAP",
+     "url": "https://genius.com/artists/Ascap"
+    },
+    {
+     "api_path": "/artists/1138091",
+     "header_image_url": "https://images.genius.com/5b84dbf7ba86e59c297143f076a56c9a.1000x1000x1.jpg",
+     "id": 1138091,
+     "image_url": "https://images.genius.com/051b0a6beabf8a9eb8768e9f874a542f.1000x1000x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "BMI",
+     "url": "https://genius.com/artists/Bmi"
+    }
+   ]
+  },
+  {
+   "label": "Publisher",
+   "artists": [
+    {
+     "api_path": "/artists/2235073",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+     "id": 2235073,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Third Side Music",
+     "url": "https://genius.com/artists/Third-side-music"
+    },
+    {
+     "api_path": "/artists/1179023",
+     "header_image_url": "https://images.genius.com/92e4ea9ba616ee53bae21dc2e037a1e2.1000x1000x1.jpg",
+     "id": 1179023,
+     "image_url": "https://images.genius.com/f19c358ac9db989328ffc9a3de85bbd4.1000x1000x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Kobalt Music",
+     "url": "https://genius.com/artists/Kobalt-music"
+    },
+    {
+     "api_path": "/artists/664365",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+     "id": 664365,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Just Isn\u2019t Music",
+     "url": "https://genius.com/artists/Just-isnt-music"
+    },
+    {
+     "api_path": "/artists/2265944",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+     "id": 2265944,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Lil Peep Music",
+     "url": "https://genius.com/artists/Lil-peep-music"
+    }
+   ]
+  },
+  {
+   "label": "Distributor",
+   "artists": [
+    {
+     "api_path": "/artists/1059079",
+     "header_image_url": "https://images.genius.com/acd4eda7b407ce34efb14ec506536236.750x400x1.png",
+     "id": 1059079,
+     "image_url": "https://images.genius.com/2dd23c27aa0a806d3dc36ed379b9fc21.440x440x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "AWAL",
+     "url": "https://genius.com/artists/Awal"
+    }
+   ]
+  },
+  {
+   "label": "Phonographic Copyright \u2117",
+   "artists": [
+    {
+     "api_path": "/artists/569922",
+     "header_image_url": "https://images.genius.com/7112ed6b0b4f0d3b7bb90fcd2b15d383.1000x563x1.jpg",
+     "id": 569922,
+     "image_url": "https://images.genius.com/c8db5e24b1949dcac7e2642db4f0236d.500x500x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "Lil Peep",
+     "url": "https://genius.com/artists/Lil-peep",
+     "iq": 2037
+    }
+   ]
+  },
+  {
+   "label": "Artwork",
+   "artists": [
+    {
+     "api_path": "/artists/1783498",
+     "header_image_url": "https://images.genius.com/6e0256b234485800d3103f0a4e6b11ed.200x200x1.jpg",
+     "id": 1783498,
+     "image_url": "https://images.genius.com/6e0256b234485800d3103f0a4e6b11ed.200x200x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "ArtByChase",
+     "url": "https://genius.com/artists/Artbychase",
+     "iq": 144
+    }
+   ]
+  }
+ ],
+ "description_annotation": {
+  "_type": "referent",
+  "annotator_id": 2404191,
+  "annotator_login": "Tvmblvze",
+  "api_path": "/referents/8133267",
+  "classification": "accepted",
+  "fragment": "Star Shopping",
+  "id": 8133267,
+  "is_description": true,
+  "path": "/8133267/Lil-peep-star-shopping/Star-shopping",
+  "range": {
+   "content": "Star Shopping"
+  },
+  "song_id": 2353006,
+  "url": "https://genius.com/8133267/Lil-peep-star-shopping/Star-shopping",
+  "verified_annotator_ids": [],
+  "annotatable": {
+   "api_path": "/songs/2353006",
+   "client_timestamps": {
+    "updated_by_human_at": 1605699924,
+    "lyrics_updated_at": 1605699924
+   },
+   "context": "Lil Peep",
+   "id": 2353006,
+   "image_url": "https://images.genius.com/189dcc196b379d60d407afeabb301c35.1000x1000x1.png",
+   "link_title": "Star Shopping by\u00a0Lil\u00a0Peep",
+   "title": "Star Shopping",
+   "type": "Song",
+   "url": "https://genius.com/Lil-peep-star-shopping-lyrics"
+  },
+  "annotations": [
+   {
+    "api_path": "/annotations/8133267",
+    "body": {
+     "plain": "On \u201cStar Shopping,\u201d Lil Peep talks about his feelings towards his relationship with Emma Harris who is slowly starting to become impatient with him. He understands why she feels this way and is attempting to let her know how much he cares for her. He informs her that he just needs some time to get everything sorted out.\n\nThe song features Peep\u2019s melancholy vocals over a sad, guitar-centered beat by Kryptik that samples \u201cNever Mess With Sunday\u201d by Yppah.\n\nThe song was unavailable on most streaming services due to a copyright issue with the sample, however on April 19, 2019, it was officially uploaded (presumably after negotiation and clearances).\n\nThe re-release of the song caused a resurgence in interest and the song\u2019s popularity boosted. It re-entered and climbed the Genius Top 20 Hot Songs chart."
+    },
+    "comment_count": 1,
+    "community": true,
+    "custom_preview": null,
+    "has_voters": true,
+    "id": 8133267,
+    "pinned": false,
+    "share_url": "https://genius.com/8133267",
+    "source": null,
+    "state": "accepted",
+    "url": "https://genius.com/8133267/Lil-peep-star-shopping/Star-shopping",
+    "verified": false,
+    "votes_total": 1036,
+    "current_user_metadata": {
+     "permissions": [
+      "create_comment"
+     ],
+     "excluded_permissions": [
+      "vote",
+      "edit",
+      "cosign",
+      "uncosign",
+      "destroy",
+      "accept",
+      "reject",
+      "see_unreviewed",
+      "clear_votes",
+      "propose_edit_to",
+      "pin_to_profile",
+      "unpin_from_profile",
+      "update_source",
+      "edit_custom_preview"
+     ],
+     "interactions": {
+      "cosign": false,
+      "pyong": false,
+      "vote": null
+     },
+     "iq_by_action": {}
+    },
+    "authors": [
+     {
+      "attribution": 0.3037037037037037,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/3421180",
+       "avatar": {
+        "tiny": {
+         "url": "https://images.genius.com/avatars/tiny/a7c06462f8d774041a849ad1eb55c497",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://images.genius.com/avatars/thumb/a7c06462f8d774041a849ad1eb55c497",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://images.genius.com/avatars/small/a7c06462f8d774041a849ad1eb55c497",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://images.genius.com/avatars/medium/a7c06462f8d774041a849ad1eb55c497",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://images.genius.com/avatars/medium/a7c06462f8d774041a849ad1eb55c497",
+       "human_readable_role_for_display": "Contributor",
+       "id": 3421180,
+       "iq": 1146,
+       "login": "CesarGutierrez",
+       "name": "CesarGutierrez",
+       "role_for_display": "contributor",
+       "url": "https://genius.com/CesarGutierrez",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     },
+     {
+      "attribution": 0.3037037037037037,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/3774744",
+       "avatar": {
+        "tiny": {
+         "url": "https://images.genius.com/avatars/tiny/19ba616138b76d7d5ec61d51b18bad15",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://images.genius.com/avatars/thumb/19ba616138b76d7d5ec61d51b18bad15",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://images.genius.com/avatars/small/19ba616138b76d7d5ec61d51b18bad15",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://images.genius.com/avatars/medium/19ba616138b76d7d5ec61d51b18bad15",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://images.genius.com/bc380761ff85d225fd20ef5dcc00b3e4.480x270x50.gif",
+       "human_readable_role_for_display": "Editor",
+       "id": 3774744,
+       "iq": 67534,
+       "login": "Lxgan",
+       "name": "Lxgan",
+       "role_for_display": "editor",
+       "url": "https://genius.com/Lxgan",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     },
+     {
+      "attribution": 0.17777777777777778,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/6139655",
+       "avatar": {
+        "tiny": {
+         "url": "https://images.genius.com/avatars/tiny/e3aa0c75b7154b718dbea1a69db7436d",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://images.genius.com/avatars/thumb/e3aa0c75b7154b718dbea1a69db7436d",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://images.genius.com/avatars/small/e3aa0c75b7154b718dbea1a69db7436d",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://images.genius.com/avatars/medium/e3aa0c75b7154b718dbea1a69db7436d",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/sx4qv60f178",
+       "human_readable_role_for_display": "Editor",
+       "id": 6139655,
+       "iq": 154578,
+       "login": "birdsofprey",
+       "name": "birdsofprey",
+       "role_for_display": "editor",
+       "url": "https://genius.com/birdsofprey",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     },
+     {
+      "attribution": 0.08888888888888889,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/1579021",
+       "avatar": {
+        "tiny": {
+         "url": "https://images.genius.com/avatars/tiny/8f29a68ce7c661229862e05b0415b67d",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://images.genius.com/avatars/thumb/8f29a68ce7c661229862e05b0415b67d",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://images.genius.com/avatars/small/8f29a68ce7c661229862e05b0415b67d",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://images.genius.com/avatars/medium/8f29a68ce7c661229862e05b0415b67d",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/os1cfjjr4vhv",
+       "human_readable_role_for_display": "Contributor",
+       "id": 1579021,
+       "iq": 792,
+       "login": "Aerials",
+       "name": "Aerials",
+       "role_for_display": "contributor",
+       "url": "https://genius.com/Aerials",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     },
+     {
+      "attribution": 0.037037037037037035,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/2404191",
+       "avatar": {
+        "tiny": {
+         "url": "https://assets.genius.com/images/default_avatar_16.png?1606943206",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://assets.genius.com/images/default_avatar_32.png?1606943206",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://assets.genius.com/images/default_avatar_100.png?1606943206",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+       "human_readable_role_for_display": null,
+       "id": 2404191,
+       "iq": 275,
+       "login": "Tvmblvze",
+       "name": "Tvmblvze",
+       "role_for_display": null,
+       "url": "https://genius.com/Tvmblvze",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     },
+     {
+      "attribution": 0.029629629629629627,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/8234820",
+       "avatar": {
+        "tiny": {
+         "url": "https://images.genius.com/avatars/tiny/dd301e3a3a620ad6893a1f6add95e945",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://images.genius.com/avatars/thumb/dd301e3a3a620ad6893a1f6add95e945",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://images.genius.com/avatars/small/dd301e3a3a620ad6893a1f6add95e945",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://images.genius.com/avatars/medium/dd301e3a3a620ad6893a1f6add95e945",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://images.genius.com/avatars/medium/dd301e3a3a620ad6893a1f6add95e945",
+       "human_readable_role_for_display": null,
+       "id": 8234820,
+       "iq": 144,
+       "login": "ArtByChase",
+       "name": "ArtByChase",
+       "role_for_display": null,
+       "url": "https://genius.com/ArtByChase",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     },
+     {
+      "attribution": 0.022222222222222223,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/5417881",
+       "avatar": {
+        "tiny": {
+         "url": "https://images.genius.com/avatars/tiny/13bf3d95241bfc19a5f4eaaaa2cc1ef9",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://images.genius.com/avatars/thumb/13bf3d95241bfc19a5f4eaaaa2cc1ef9",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://images.genius.com/avatars/small/13bf3d95241bfc19a5f4eaaaa2cc1ef9",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://images.genius.com/avatars/medium/13bf3d95241bfc19a5f4eaaaa2cc1ef9",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/qk7ztfv7xeh",
+       "human_readable_role_for_display": "Contributor",
+       "id": 5417881,
+       "iq": 3339,
+       "login": "magnuuus",
+       "name": "magnuuus",
+       "role_for_display": "contributor",
+       "url": "https://genius.com/magnuuus",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     },
+     {
+      "attribution": 0.022222222222222223,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/7479475",
+       "avatar": {
+        "tiny": {
+         "url": "https://images.genius.com/avatars/tiny/4965e22a3223059d7a5863a93db36312",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://images.genius.com/avatars/thumb/4965e22a3223059d7a5863a93db36312",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://images.genius.com/avatars/small/4965e22a3223059d7a5863a93db36312",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://images.genius.com/avatars/medium/4965e22a3223059d7a5863a93db36312",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/51szf5y7okc",
+       "human_readable_role_for_display": "Contributor",
+       "id": 7479475,
+       "iq": 34729,
+       "login": "taifrasier",
+       "name": "taifrasier",
+       "role_for_display": "contributor",
+       "url": "https://genius.com/taifrasier",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     },
+     {
+      "attribution": 0.007407407407407407,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/8353115",
+       "avatar": {
+        "tiny": {
+         "url": "https://images.genius.com/avatars/tiny/dbd760db1dfc518319b5526facec9713",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://images.genius.com/avatars/thumb/dbd760db1dfc518319b5526facec9713",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://images.genius.com/avatars/small/dbd760db1dfc518319b5526facec9713",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://images.genius.com/avatars/medium/dbd760db1dfc518319b5526facec9713",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://images.genius.com/2b6b484c8a8037ab4acc27e260289a28.1000x210x1.jpg",
+       "human_readable_role_for_display": "Verified Artist",
+       "id": 8353115,
+       "iq": 121,
+       "login": "kryptikbeats",
+       "name": "Kryptik",
+       "role_for_display": "verified_artist",
+       "url": "https://genius.com/kryptikbeats",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     },
+     {
+      "attribution": 0.007407407407407407,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/11645619",
+       "avatar": {
+        "tiny": {
+         "url": "https://images.genius.com/avatars/tiny/b9c4ed719cc3ea4670d00668dd4b5c24",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://images.genius.com/avatars/thumb/b9c4ed719cc3ea4670d00668dd4b5c24",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://images.genius.com/avatars/small/b9c4ed719cc3ea4670d00668dd4b5c24",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://images.genius.com/avatars/medium/b9c4ed719cc3ea4670d00668dd4b5c24",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/gg8kyargkot",
+       "human_readable_role_for_display": "Contributor",
+       "id": 11645619,
+       "iq": 647,
+       "login": "RealDG",
+       "name": "RealDG",
+       "role_for_display": "contributor",
+       "url": "https://genius.com/RealDG",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     }
+    ],
+    "cosigned_by": [],
+    "rejection_comment": null,
+    "verified_by": null
+   }
+  ]
+ },
+ "featured_artists": [],
+ "lyrics_marked_complete_by": {
+  "api_path": "/users/104344",
+  "avatar": {
+   "tiny": {
+    "url": "https://images.genius.com/avatars/tiny/a1485559b7dd9463752d984ecd3dbeae",
+    "bounding_box": {
+     "width": 16,
+     "height": 16
+    }
+   },
+   "thumb": {
+    "url": "https://images.genius.com/avatars/thumb/a1485559b7dd9463752d984ecd3dbeae",
+    "bounding_box": {
+     "width": 32,
+     "height": 32
+    }
+   },
+   "small": {
+    "url": "https://images.genius.com/avatars/small/a1485559b7dd9463752d984ecd3dbeae",
+    "bounding_box": {
+     "width": 100,
+     "height": 100
+    }
+   },
+   "medium": {
+    "url": "https://images.genius.com/avatars/medium/a1485559b7dd9463752d984ecd3dbeae",
+    "bounding_box": {
+     "width": 300,
+     "height": 400
+    }
+   }
+  },
+  "header_image_url": "https://images.genius.com/f29273e26956c1f6c8d004d1e4533c2e.1000x1000x1.jpg",
+  "human_readable_role_for_display": "Staff",
+  "id": 104344,
+  "iq": 2663123,
+  "login": "streetlights",
+  "name": "\u200bstreetlights",
+  "role_for_display": "staff",
+  "url": "https://genius.com/streetlights",
+  "current_user_metadata": {
+   "permissions": [],
+   "excluded_permissions": [
+    "follow"
+   ],
+   "interactions": {
+    "following": false
+   }
+  }
+ },
+ "media": [
+  {
+   "attribution": "lil_peep",
+   "provider": "soundcloud",
+   "type": "audio",
+   "url": "https://soundcloud.com/lil_peep/star-shopping-prod-kryptik"
+  },
+  {
+   "provider": "youtube",
+   "start": 0,
+   "type": "video",
+   "url": "http://www.youtube.com/watch?v=nMJIBrcBgCc"
+  }
+ ],
+ "producer_artists": [
+  {
+   "api_path": "/artists/36116",
+   "header_image_url": "https://images.genius.com/2b6b484c8a8037ab4acc27e260289a28.1000x210x1.jpg",
+   "id": 36116,
+   "image_url": "https://images.genius.com/de460af3a2905de2ea60ba75e648babb.500x500x1.jpg",
+   "is_meme_verified": false,
+   "is_verified": true,
+   "name": "Kryptik",
+   "url": "https://genius.com/artists/Kryptik",
+   "iq": 121
+  }
+ ],
+ "song_relationships": [
+  {
+   "relationship_type": "samples",
+   "type": "samples",
+   "songs": [
+    {
+     "annotation_count": 0,
+     "api_path": "/songs/2468566",
+     "full_title": "Never Mess With Sunday by\u00a0Yppah",
+     "header_image_thumbnail_url": "https://images.genius.com/8ffe2d44e7cda80c86a3308e85c6ca03.300x300x1.jpg",
+     "header_image_url": "https://images.genius.com/8ffe2d44e7cda80c86a3308e85c6ca03.1000x1000x1.jpg",
+     "id": 2468566,
+     "lyrics_owner_id": 2334743,
+     "lyrics_state": "complete",
+     "path": "/Yppah-never-mess-with-sunday-lyrics",
+     "pyongs_count": 1,
+     "song_art_image_thumbnail_url": "https://images.genius.com/8ffe2d44e7cda80c86a3308e85c6ca03.300x300x1.jpg",
+     "song_art_image_url": "https://images.genius.com/8ffe2d44e7cda80c86a3308e85c6ca03.1000x1000x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 0,
+      "hot": false,
+      "pageviews": 6789
+     },
+     "title": "Never Mess With Sunday",
+     "title_with_featured": "Never Mess With Sunday",
+     "url": "https://genius.com/Yppah-never-mess-with-sunday-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/457712",
+      "header_image_url": "https://images.genius.com/136751dbec199e064672de68f24ecc7d.1000x1000x1.jpg",
+      "id": 457712,
+      "image_url": "https://images.genius.com/136751dbec199e064672de68f24ecc7d.1000x1000x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Yppah",
+      "url": "https://genius.com/artists/Yppah"
+     }
+    }
+   ]
+  },
+  {
+   "relationship_type": "sampled_in",
+   "type": "sampled_in",
+   "songs": [
+    {
+     "annotation_count": 0,
+     "api_path": "/songs/3450858",
+     "full_title": "Centerpiece by\u00a0DD\u00a0Caine",
+     "header_image_thumbnail_url": "https://images.genius.com/fb7285afe371049aeb164f5018219f65.300x300x1.jpg",
+     "header_image_url": "https://images.genius.com/fb7285afe371049aeb164f5018219f65.712x712x1.jpg",
+     "id": 3450858,
+     "lyrics_owner_id": 1726058,
+     "lyrics_state": "complete",
+     "path": "/Dd-caine-centerpiece-lyrics",
+     "pyongs_count": null,
+     "song_art_image_thumbnail_url": "https://images.genius.com/fb7285afe371049aeb164f5018219f65.300x300x1.jpg",
+     "song_art_image_url": "https://images.genius.com/fb7285afe371049aeb164f5018219f65.712x712x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 0,
+      "hot": false
+     },
+     "title": "Centerpiece",
+     "title_with_featured": "Centerpiece",
+     "url": "https://genius.com/Dd-caine-centerpiece-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/337641",
+      "header_image_url": "https://images.genius.com/6d7ed605b913eec49640bd68a68c6271.1000x1000x1.jpg",
+      "id": 337641,
+      "image_url": "https://images.genius.com/11a7fe63178d760d4c1bca569ccaf590.1000x1000x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "DD Caine",
+      "url": "https://genius.com/artists/Dd-caine"
+     }
+    },
+    {
+     "annotation_count": 0,
+     "api_path": "/songs/3968530",
+     "full_title": "EFEITO DO LEAN by\u00a0Lil\u00a0Kale",
+     "header_image_thumbnail_url": "https://images.genius.com/e265752d26c4ec3c085e0f804bb01bce.300x164x1.png",
+     "header_image_url": "https://images.genius.com/e265752d26c4ec3c085e0f804bb01bce.960x524x1.png",
+     "id": 3968530,
+     "lyrics_owner_id": 6740234,
+     "lyrics_state": "complete",
+     "path": "/Lil-kale-efeito-do-lean-lyrics",
+     "pyongs_count": 1,
+     "song_art_image_thumbnail_url": "https://images.genius.com/e265752d26c4ec3c085e0f804bb01bce.300x164x1.png",
+     "song_art_image_url": "https://images.genius.com/e265752d26c4ec3c085e0f804bb01bce.960x524x1.png",
+     "stats": {
+      "unreviewed_annotations": 0,
+      "hot": false
+     },
+     "title": "EFEITO DO LEAN",
+     "title_with_featured": "EFEITO DO LEAN",
+     "url": "https://genius.com/Lil-kale-efeito-do-lean-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/1535074",
+      "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+      "id": 1535074,
+      "image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Lil Kale",
+      "url": "https://genius.com/artists/Lil-kale"
+     }
+    },
+    {
+     "annotation_count": 0,
+     "api_path": "/songs/4340776",
+     "full_title": "Remember me in the night sky when im gone (Unreleased) by\u00a0Smallwasabi",
+     "header_image_thumbnail_url": "https://images.genius.com/9377217ed4ac6dfdc3419eb1a6505d1a.300x300x1.jpg",
+     "header_image_url": "https://images.genius.com/9377217ed4ac6dfdc3419eb1a6505d1a.420x420x1.jpg",
+     "id": 4340776,
+     "lyrics_owner_id": 8001740,
+     "lyrics_state": "complete",
+     "path": "/Smallwasabi-remember-me-in-the-night-sky-when-im-gone-unreleased-lyrics",
+     "pyongs_count": null,
+     "song_art_image_thumbnail_url": "https://images.genius.com/9377217ed4ac6dfdc3419eb1a6505d1a.300x300x1.jpg",
+     "song_art_image_url": "https://images.genius.com/9377217ed4ac6dfdc3419eb1a6505d1a.420x420x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 0,
+      "hot": false
+     },
+     "title": "Remember me in the night sky when im gone (Unreleased)",
+     "title_with_featured": "Remember me in the night sky when im gone (Unreleased)",
+     "url": "https://genius.com/Smallwasabi-remember-me-in-the-night-sky-when-im-gone-unreleased-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/1740223",
+      "header_image_url": "https://images.genius.com/94bcc6220ff24152a4b48543871bf84f.1000x667x1.jpg",
+      "id": 1740223,
+      "image_url": "https://images.genius.com/9377217ed4ac6dfdc3419eb1a6505d1a.420x420x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Smallwasabi",
+      "url": "https://genius.com/artists/Smallwasabi"
+     }
+    },
+    {
+     "annotation_count": 0,
+     "api_path": "/songs/4879339",
+     "full_title": "Voices by\u00a012AM",
+     "header_image_thumbnail_url": "https://images.genius.com/a084f2a474fb251faa25c683c61b0549.300x300x1.jpg",
+     "header_image_url": "https://images.genius.com/a084f2a474fb251faa25c683c61b0549.500x500x1.jpg",
+     "id": 4879339,
+     "lyrics_owner_id": 5771184,
+     "lyrics_state": "complete",
+     "path": "/12am-voices-lyrics",
+     "pyongs_count": null,
+     "song_art_image_thumbnail_url": "https://images.genius.com/a084f2a474fb251faa25c683c61b0549.300x300x1.jpg",
+     "song_art_image_url": "https://images.genius.com/a084f2a474fb251faa25c683c61b0549.500x500x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 0,
+      "hot": false
+     },
+     "title": "Voices",
+     "title_with_featured": "Voices",
+     "url": "https://genius.com/12am-voices-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/235204",
+      "header_image_url": "https://images.genius.com/2b6d0391fe1cad9236136271406b2518.500x500x1.jpg",
+      "id": 235204,
+      "image_url": "https://images.genius.com/41160980a18e5a870fb8077cb35cabac.499x499x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "12AM",
+      "url": "https://genius.com/artists/12am"
+     }
+    },
+    {
+     "annotation_count": 1,
+     "api_path": "/songs/5166110",
+     "full_title": "\u0421\u043b\u043e\u043c\u043b\u0435\u043d\u043d\u044b\u0439 (Broken) by\u00a0\u0428\u0438\u043d\u043a\u0430\u043a\u0443\u00a0(Shinkaku)",
+     "header_image_thumbnail_url": "https://images.genius.com/c9beb8e6cfde90549b12a49c0a874c46.300x300x1.jpg",
+     "header_image_url": "https://images.genius.com/c9beb8e6cfde90549b12a49c0a874c46.1000x1000x1.jpg",
+     "id": 5166110,
+     "lyrics_owner_id": 8567517,
+     "lyrics_state": "complete",
+     "path": "/Shinkaku-broken-lyrics",
+     "pyongs_count": null,
+     "song_art_image_thumbnail_url": "https://images.genius.com/c9beb8e6cfde90549b12a49c0a874c46.300x300x1.jpg",
+     "song_art_image_url": "https://images.genius.com/c9beb8e6cfde90549b12a49c0a874c46.1000x1000x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 0,
+      "hot": false
+     },
+     "title": "\u0421\u043b\u043e\u043c\u043b\u0435\u043d\u043d\u044b\u0439 (Broken)",
+     "title_with_featured": "\u0421\u043b\u043e\u043c\u043b\u0435\u043d\u043d\u044b\u0439 (Broken)",
+     "url": "https://genius.com/Shinkaku-broken-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/2017064",
+      "header_image_url": "https://images.genius.com/0d9cb661440b25bcd5bed4b3f07eaddf.900x900x1.jpg",
+      "id": 2017064,
+      "image_url": "https://images.genius.com/cc93eaac831c2717e45946fe7e213b93.885x885x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "\u0428\u0438\u043d\u043a\u0430\u043a\u0443 (Shinkaku)",
+      "url": "https://genius.com/artists/Shinkaku",
+      "iq": 45629
+     }
+    },
+    {
+     "annotation_count": 0,
+     "api_path": "/songs/5294007",
+     "full_title": "Cancer by\u00a0Bernard\u00a0Jabs",
+     "header_image_thumbnail_url": "https://images.genius.com/ace200b8988a4979511234980335ba76.300x300x1.jpg",
+     "header_image_url": "https://images.genius.com/ace200b8988a4979511234980335ba76.1000x1000x1.jpg",
+     "id": 5294007,
+     "lyrics_owner_id": 498964,
+     "lyrics_state": "unreleased",
+     "path": "/Bernard-jabs-cancer-lyrics",
+     "pyongs_count": null,
+     "song_art_image_thumbnail_url": "https://images.genius.com/ace200b8988a4979511234980335ba76.300x300x1.jpg",
+     "song_art_image_url": "https://images.genius.com/ace200b8988a4979511234980335ba76.1000x1000x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 0,
+      "hot": false
+     },
+     "title": "Cancer",
+     "title_with_featured": "Cancer",
+     "url": "https://genius.com/Bernard-jabs-cancer-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/407353",
+      "header_image_url": "https://images.genius.com/1c987cd3fb396154fee657ab216bf757.499x499x1.jpg",
+      "id": 407353,
+      "image_url": "https://images.genius.com/1c987cd3fb396154fee657ab216bf757.499x499x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Bernard Jabs",
+      "url": "https://genius.com/artists/Bernard-jabs"
+     }
+    }
+   ]
+  },
+  {
+   "relationship_type": "interpolates",
+   "type": "interpolates",
+   "songs": []
+  },
+  {
+   "relationship_type": "interpolated_by",
+   "type": "interpolated_by",
+   "songs": []
+  },
+  {
+   "relationship_type": "cover_of",
+   "type": "cover_of",
+   "songs": []
+  },
+  {
+   "relationship_type": "covered_by",
+   "type": "covered_by",
+   "songs": [
+    {
+     "annotation_count": 1,
+     "api_path": "/songs/4153710",
+     "full_title": "Star Shopping (Cover) by\u00a0Jackson\u00a0Sadinsky",
+     "header_image_thumbnail_url": "https://images.genius.com/04bf836d463abb0e19a53eeb15357651.300x300x1.jpg",
+     "header_image_url": "https://images.genius.com/04bf836d463abb0e19a53eeb15357651.500x500x1.jpg",
+     "id": 4153710,
+     "lyrics_owner_id": 1100390,
+     "lyrics_state": "complete",
+     "path": "/Jackson-sadinsky-star-shopping-cover-lyrics",
+     "pyongs_count": null,
+     "song_art_image_thumbnail_url": "https://images.genius.com/04bf836d463abb0e19a53eeb15357651.300x300x1.jpg",
+     "song_art_image_url": "https://images.genius.com/04bf836d463abb0e19a53eeb15357651.500x500x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 1,
+      "hot": false
+     },
+     "title": "Star Shopping (Cover)",
+     "title_with_featured": "Star Shopping (Cover)",
+     "url": "https://genius.com/Jackson-sadinsky-star-shopping-cover-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/1665355",
+      "header_image_url": "https://images.genius.com/74ddcbe521a7287159123a68470d38b2.500x500x1.jpg",
+      "id": 1665355,
+      "image_url": "https://images.genius.com/74ddcbe521a7287159123a68470d38b2.500x500x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Jackson Sadinsky",
+      "url": "https://genius.com/artists/Jackson-sadinsky"
+     }
+    },
+    {
+     "annotation_count": 0,
+     "api_path": "/songs/4268509",
+     "full_title": "Star Shopping by\u00a0Zachariah\u00a0Ka1ne",
+     "header_image_thumbnail_url": "https://images.genius.com/04e74cf5838d18ea36c94afbdc0ff308.300x300x1.png",
+     "header_image_url": "https://images.genius.com/04e74cf5838d18ea36c94afbdc0ff308.600x600x1.png",
+     "id": 4268509,
+     "lyrics_owner_id": 4295053,
+     "lyrics_state": "complete",
+     "path": "/Zachariah-ka1ne-star-shopping-lyrics",
+     "pyongs_count": null,
+     "song_art_image_thumbnail_url": "https://images.genius.com/04e74cf5838d18ea36c94afbdc0ff308.300x300x1.png",
+     "song_art_image_url": "https://images.genius.com/04e74cf5838d18ea36c94afbdc0ff308.600x600x1.png",
+     "stats": {
+      "unreviewed_annotations": 0,
+      "hot": false
+     },
+     "title": "Star Shopping",
+     "title_with_featured": "Star Shopping",
+     "url": "https://genius.com/Zachariah-ka1ne-star-shopping-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/1624848",
+      "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+      "id": 1624848,
+      "image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Zachariah Ka1ne",
+      "url": "https://genius.com/artists/Zachariah-ka1ne"
+     }
+    },
+    {
+     "annotation_count": 0,
+     "api_path": "/songs/5407586",
+     "full_title": "Star Shopping by\u00a0COSMO\u00a0(SE)",
+     "header_image_thumbnail_url": "https://images.genius.com/1e0e2ed2e53a18698ae269fa654a9cec.300x300x1.jpg",
+     "header_image_url": "https://images.genius.com/1e0e2ed2e53a18698ae269fa654a9cec.500x500x1.jpg",
+     "id": 5407586,
+     "lyrics_owner_id": 10432306,
+     "lyrics_state": "complete",
+     "path": "/Cosmo-se-star-shopping-lyrics",
+     "pyongs_count": 1,
+     "song_art_image_thumbnail_url": "https://images.genius.com/1e0e2ed2e53a18698ae269fa654a9cec.300x300x1.jpg",
+     "song_art_image_url": "https://images.genius.com/1e0e2ed2e53a18698ae269fa654a9cec.500x500x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 0,
+      "hot": false
+     },
+     "title": "Star Shopping",
+     "title_with_featured": "Star Shopping",
+     "url": "https://genius.com/Cosmo-se-star-shopping-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/2075327",
+      "header_image_url": "https://images.genius.com/c8f4ce052d889c3161ff5520c94d0029.1000x1000x1.jpg",
+      "id": 2075327,
+      "image_url": "https://images.genius.com/c8f4ce052d889c3161ff5520c94d0029.1000x1000x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "COSMO (SE)",
+      "url": "https://genius.com/artists/Cosmo-se"
+     }
+    },
+    {
+     "annotation_count": 1,
+     "api_path": "/songs/5555301",
+     "full_title": "Star Shopping (DobleL Spanish Remix) by\u00a0DobleL",
+     "header_image_thumbnail_url": "https://images.genius.com/459b7d93b03d742e12f67970883454fc.300x169x1.png",
+     "header_image_url": "https://images.genius.com/459b7d93b03d742e12f67970883454fc.1000x563x1.png",
+     "id": 5555301,
+     "lyrics_owner_id": 10854884,
+     "lyrics_state": "complete",
+     "path": "/Doblel-star-shopping-doblel-spanish-remix-lyrics",
+     "pyongs_count": null,
+     "song_art_image_thumbnail_url": "https://images.genius.com/14219a6e4ad667b7a6a9aed41896463d.300x300x1.png",
+     "song_art_image_url": "https://images.genius.com/14219a6e4ad667b7a6a9aed41896463d.700x700x1.png",
+     "stats": {
+      "unreviewed_annotations": 1,
+      "hot": false
+     },
+     "title": "Star Shopping (DobleL Spanish Remix)",
+     "title_with_featured": "Star Shopping (DobleL Spanish Remix)",
+     "url": "https://genius.com/Doblel-star-shopping-doblel-spanish-remix-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/2231794",
+      "header_image_url": "https://images.genius.com/b129732637a19b131bd0cb1c699c4a4f.1000x333x1.jpg",
+      "id": 2231794,
+      "image_url": "https://images.genius.com/fd36caedc6527b4df449d8e61bea1a18.512x512x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "DobleL",
+      "url": "https://genius.com/artists/Doblel"
+     }
+    }
+   ]
+  },
+  {
+   "relationship_type": "remix_of",
+   "type": "remix_of",
+   "songs": []
+  },
+  {
+   "relationship_type": "remixed_by",
+   "type": "remixed_by",
+   "songs": [
+    {
+     "annotation_count": 4,
+     "api_path": "/songs/3163752",
+     "full_title": "Star Shopping by\u00a0HVRVEST",
+     "header_image_thumbnail_url": "https://images.genius.com/f24a183ddfa4d0fd960bdc9996951fb3.300x300x1.jpg",
+     "header_image_url": "https://images.genius.com/f24a183ddfa4d0fd960bdc9996951fb3.500x500x1.jpg",
+     "id": 3163752,
+     "lyrics_owner_id": 3427051,
+     "lyrics_state": "complete",
+     "path": "/Hvrvest-star-shopping-lyrics",
+     "pyongs_count": null,
+     "song_art_image_thumbnail_url": "https://images.genius.com/f24a183ddfa4d0fd960bdc9996951fb3.300x300x1.jpg",
+     "song_art_image_url": "https://images.genius.com/f24a183ddfa4d0fd960bdc9996951fb3.500x500x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 4,
+      "hot": false,
+      "pageviews": 13120
+     },
+     "title": "Star Shopping",
+     "title_with_featured": "Star Shopping",
+     "url": "https://genius.com/Hvrvest-star-shopping-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/985433",
+      "header_image_url": "https://images.genius.com/272644feb3b75d642027c5967ced069d.1000x582x1.jpg",
+      "id": 985433,
+      "image_url": "https://images.genius.com/c3b71f85217dc3a60445348a7a8c9998.500x500x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "HVRVEST",
+      "url": "https://genius.com/artists/Hvrvest"
+     }
+    },
+    {
+     "annotation_count": 0,
+     "api_path": "/songs/3330900",
+     "full_title": "Remember the First Time (Star Shopping) by\u00a0Grim\u00a0Sickers",
+     "header_image_thumbnail_url": "https://images.genius.com/44b5fef12830f1580f361e8e2f9dc919.300x300x1.jpg",
+     "header_image_url": "https://images.genius.com/44b5fef12830f1580f361e8e2f9dc919.1000x1000x1.jpg",
+     "id": 3330900,
+     "lyrics_owner_id": 321196,
+     "lyrics_state": "complete",
+     "path": "/Grim-sickers-remember-the-first-time-star-shopping-lyrics",
+     "pyongs_count": null,
+     "song_art_image_thumbnail_url": "https://images.genius.com/44b5fef12830f1580f361e8e2f9dc919.300x300x1.jpg",
+     "song_art_image_url": "https://images.genius.com/44b5fef12830f1580f361e8e2f9dc919.1000x1000x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 0,
+      "hot": false
+     },
+     "title": "Remember the First Time (Star Shopping)",
+     "title_with_featured": "Remember the First Time (Star Shopping)",
+     "url": "https://genius.com/Grim-sickers-remember-the-first-time-star-shopping-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/265150",
+      "header_image_url": "https://images.genius.com/1ea6669bb439c9e99ab5336d27299bff.400x400x1.jpg",
+      "id": 265150,
+      "image_url": "https://images.genius.com/1ea6669bb439c9e99ab5336d27299bff.400x400x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Grim Sickers",
+      "url": "https://genius.com/artists/Grim-sickers"
+     }
+    },
+    {
+     "annotation_count": 0,
+     "api_path": "/songs/3925762",
+     "full_title": "Star Shopping (Lil Peep Remix) by\u00a0Wlex",
+     "header_image_thumbnail_url": "https://images.genius.com/332dadc049d5f059eff94c60221643a6.300x168x1.jpg",
+     "header_image_url": "https://images.genius.com/332dadc049d5f059eff94c60221643a6.474x266x1.jpg",
+     "id": 3925762,
+     "lyrics_owner_id": 4002647,
+     "lyrics_state": "complete",
+     "path": "/Wlex-star-shopping-lil-peep-remix-lyrics",
+     "pyongs_count": null,
+     "song_art_image_thumbnail_url": "https://images.genius.com/332dadc049d5f059eff94c60221643a6.300x168x1.jpg",
+     "song_art_image_url": "https://images.genius.com/332dadc049d5f059eff94c60221643a6.474x266x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 0,
+      "hot": false
+     },
+     "title": "Star Shopping (Lil Peep Remix)",
+     "title_with_featured": "Star Shopping (Lil Peep Remix)",
+     "url": "https://genius.com/Wlex-star-shopping-lil-peep-remix-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/1153941",
+      "header_image_url": "https://images.genius.com/74e6d99d10341f8276490e6259cbcc37.1000x563x1.png",
+      "id": 1153941,
+      "image_url": "https://images.genius.com/6389bd8d4d7333812ad5da6e6a4ddb52.1000x1000x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": true,
+      "name": "Wlex",
+      "url": "https://genius.com/artists/Wlex",
+      "iq": 2186
+     }
+    },
+    {
+     "annotation_count": 2,
+     "api_path": "/songs/4364417",
+     "full_title": "Tu Tu Tu by\u00a0Massimo\u00a0Pericolo",
+     "header_image_thumbnail_url": "https://images.genius.com/5cdc98a248adc7cfac39a9ab3b65e218.300x300x1.png",
+     "header_image_url": "https://images.genius.com/5cdc98a248adc7cfac39a9ab3b65e218.680x680x1.png",
+     "id": 4364417,
+     "lyrics_owner_id": 1668382,
+     "lyrics_state": "complete",
+     "path": "/Massimo-pericolo-tu-tu-tu-lyrics",
+     "pyongs_count": 1,
+     "song_art_image_thumbnail_url": "https://images.genius.com/5cdc98a248adc7cfac39a9ab3b65e218.300x300x1.png",
+     "song_art_image_url": "https://images.genius.com/5cdc98a248adc7cfac39a9ab3b65e218.680x680x1.png",
+     "stats": {
+      "unreviewed_annotations": 1,
+      "hot": false,
+      "pageviews": 5812
+     },
+     "title": "Tu Tu Tu",
+     "title_with_featured": "Tu Tu Tu",
+     "url": "https://genius.com/Massimo-pericolo-tu-tu-tu-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/1634956",
+      "header_image_url": "https://images.genius.com/bd5fe6465656acc4bb1550dd89be6f08.1000x668x1.jpg",
+      "id": 1634956,
+      "image_url": "https://images.genius.com/820a451c571bee128512672caa8afe42.1000x1000x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Massimo Pericolo",
+      "url": "https://genius.com/artists/Massimo-pericolo"
+     }
+    },
+    {
+     "annotation_count": 1,
+     "api_path": "/songs/5555301",
+     "full_title": "Star Shopping (DobleL Spanish Remix) by\u00a0DobleL",
+     "header_image_thumbnail_url": "https://images.genius.com/459b7d93b03d742e12f67970883454fc.300x169x1.png",
+     "header_image_url": "https://images.genius.com/459b7d93b03d742e12f67970883454fc.1000x563x1.png",
+     "id": 5555301,
+     "lyrics_owner_id": 10854884,
+     "lyrics_state": "complete",
+     "path": "/Doblel-star-shopping-doblel-spanish-remix-lyrics",
+     "pyongs_count": null,
+     "song_art_image_thumbnail_url": "https://images.genius.com/14219a6e4ad667b7a6a9aed41896463d.300x300x1.png",
+     "song_art_image_url": "https://images.genius.com/14219a6e4ad667b7a6a9aed41896463d.700x700x1.png",
+     "stats": {
+      "unreviewed_annotations": 1,
+      "hot": false
+     },
+     "title": "Star Shopping (DobleL Spanish Remix)",
+     "title_with_featured": "Star Shopping (DobleL Spanish Remix)",
+     "url": "https://genius.com/Doblel-star-shopping-doblel-spanish-remix-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/2231794",
+      "header_image_url": "https://images.genius.com/b129732637a19b131bd0cb1c699c4a4f.1000x333x1.jpg",
+      "id": 2231794,
+      "image_url": "https://images.genius.com/fd36caedc6527b4df449d8e61bea1a18.512x512x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "DobleL",
+      "url": "https://genius.com/artists/Doblel"
+     }
+    },
+    {
+     "annotation_count": 0,
+     "api_path": "/songs/5656883",
+     "full_title": "Saghar by\u00a0Arshia\u00a0(IRN)",
+     "header_image_thumbnail_url": "https://images.genius.com/ca3c39aaf7cb1e2adefa70915cfc3ea0.300x300x1.jpg",
+     "header_image_url": "https://images.genius.com/ca3c39aaf7cb1e2adefa70915cfc3ea0.1000x1000x1.jpg",
+     "id": 5656883,
+     "lyrics_owner_id": 11073611,
+     "lyrics_state": "complete",
+     "path": "/Arshia-irn-saghar-lyrics",
+     "pyongs_count": null,
+     "song_art_image_thumbnail_url": "https://images.genius.com/ca3c39aaf7cb1e2adefa70915cfc3ea0.300x300x1.jpg",
+     "song_art_image_url": "https://images.genius.com/ca3c39aaf7cb1e2adefa70915cfc3ea0.1000x1000x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 0,
+      "hot": false
+     },
+     "title": "Saghar",
+     "title_with_featured": "Saghar",
+     "url": "https://genius.com/Arshia-irn-saghar-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/2166908",
+      "header_image_url": "https://images.genius.com/55b76c7c2d35c4acd46abbd1edf94121.1000x462x1.png",
+      "id": 2166908,
+      "image_url": "https://images.genius.com/2592de7fb657277cbeed78dc09ead3e0.856x856x1.png",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Arshia (IRN)",
+      "url": "https://genius.com/artists/Arshia-irn"
+     }
+    },
+    {
+     "annotation_count": 2,
+     "api_path": "/songs/5799276",
+     "full_title": "Star Shopping (Remix) by\u00a0Slum\u00a0Dum Rebel (Ft.\u00a0O\u2019scar\u00a0(Rap))",
+     "header_image_thumbnail_url": "https://images.genius.com/ce0db335e9cdb2a3634df854df85be78.300x225x1.jpg",
+     "header_image_url": "https://images.genius.com/ce0db335e9cdb2a3634df854df85be78.480x360x1.jpg",
+     "id": 5799276,
+     "lyrics_owner_id": 11250102,
+     "lyrics_state": "complete",
+     "path": "/Slum-dum-rebel-star-shopping-remix-lyrics",
+     "pyongs_count": null,
+     "song_art_image_thumbnail_url": "https://images.genius.com/ce0db335e9cdb2a3634df854df85be78.300x225x1.jpg",
+     "song_art_image_url": "https://images.genius.com/ce0db335e9cdb2a3634df854df85be78.480x360x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 0,
+      "hot": false
+     },
+     "title": "Star Shopping (Remix)",
+     "title_with_featured": "Star Shopping (Remix) (Ft.\u00a0O\u2019scar\u00a0(Rap))",
+     "url": "https://genius.com/Slum-dum-rebel-star-shopping-remix-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/2308216",
+      "header_image_url": "https://images.genius.com/16e52d64c1cdc2a0b49e07626be40dd7.720x720x1.jpg",
+      "id": 2308216,
+      "image_url": "https://images.genius.com/16e52d64c1cdc2a0b49e07626be40dd7.720x720x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Slum Dum Rebel",
+      "url": "https://genius.com/artists/Slum-dum-rebel"
+     }
+    }
+   ]
+  },
+  {
+   "relationship_type": "live_version_of",
+   "type": "live_version_of",
+   "songs": []
+  },
+  {
+   "relationship_type": "performed_live_as",
+   "type": "performed_live_as",
+   "songs": []
+  }
+ ],
+ "verified_annotations_by": [],
+ "verified_contributors": [
+  {
+   "contributions": [
+    "answers"
+   ],
+   "artist": {
+    "api_path": "/artists/569922",
+    "header_image_url": "https://images.genius.com/7112ed6b0b4f0d3b7bb90fcd2b15d383.1000x563x1.jpg",
+    "id": 569922,
+    "image_url": "https://images.genius.com/c8db5e24b1949dcac7e2642db4f0236d.500x500x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": true,
+    "name": "Lil Peep",
+    "url": "https://genius.com/artists/Lil-peep",
+    "iq": 2037
+   },
+   "user": {
+    "api_path": "/users/4784650",
+    "avatar": {
+     "tiny": {
+      "url": "https://images.genius.com/avatars/tiny/3557543b3340dde052dc91e0c82555bc",
+      "bounding_box": {
+       "width": 16,
+       "height": 16
+      }
+     },
+     "thumb": {
+      "url": "https://images.genius.com/avatars/thumb/3557543b3340dde052dc91e0c82555bc",
+      "bounding_box": {
+       "width": 32,
+       "height": 32
+      }
+     },
+     "small": {
+      "url": "https://images.genius.com/avatars/small/3557543b3340dde052dc91e0c82555bc",
+      "bounding_box": {
+       "width": 100,
+       "height": 100
+      }
+     },
+     "medium": {
+      "url": "https://images.genius.com/avatars/medium/3557543b3340dde052dc91e0c82555bc",
+      "bounding_box": {
+       "width": 300,
+       "height": 400
+      }
+     }
+    },
+    "header_image_url": "https://images.genius.com/7112ed6b0b4f0d3b7bb90fcd2b15d383.1000x563x1.jpg",
+    "human_readable_role_for_display": "Verified Artist",
+    "id": 4784650,
+    "iq": 2037,
+    "login": "LilPeep",
+    "name": "Lil Peep",
+    "role_for_display": "verified_artist",
+    "url": "https://genius.com/LilPeep",
+    "current_user_metadata": {
+     "permissions": [],
+     "excluded_permissions": [
+      "follow"
+     ],
+     "interactions": {
+      "following": false
+     }
+    }
+   }
+  }
+ ],
+ "verified_lyrics_by": [],
+ "writer_artists": [
+  {
+   "api_path": "/artists/36116",
+   "header_image_url": "https://images.genius.com/2b6b484c8a8037ab4acc27e260289a28.1000x210x1.jpg",
+   "id": 36116,
+   "image_url": "https://images.genius.com/de460af3a2905de2ea60ba75e648babb.500x500x1.jpg",
+   "is_meme_verified": false,
+   "is_verified": true,
+   "name": "Kryptik",
+   "url": "https://genius.com/artists/Kryptik",
+   "iq": 121
+  },
+  {
+   "api_path": "/artists/457712",
+   "header_image_url": "https://images.genius.com/136751dbec199e064672de68f24ecc7d.1000x1000x1.jpg",
+   "id": 457712,
+   "image_url": "https://images.genius.com/136751dbec199e064672de68f24ecc7d.1000x1000x1.jpg",
+   "is_meme_verified": false,
+   "is_verified": false,
+   "name": "Yppah",
+   "url": "https://genius.com/artists/Yppah"
+  },
+  {
+   "api_path": "/artists/569922",
+   "header_image_url": "https://images.genius.com/7112ed6b0b4f0d3b7bb90fcd2b15d383.1000x563x1.jpg",
+   "id": 569922,
+   "image_url": "https://images.genius.com/c8db5e24b1949dcac7e2642db4f0236d.500x500x1.jpg",
+   "is_meme_verified": false,
+   "is_verified": true,
+   "name": "Lil Peep",
+   "url": "https://genius.com/artists/Lil-peep",
+   "iq": 2037
+  }
+ ],
+ "lyrics": "Wait right here\nI'll be back in the mornin'\nI know that I'm not that important to you\nBut to me, girl, you're so much more than gorgeous (Yeah)\nSo much more than perfect (Yeah)\nRight now I know that I'm not really worth it\nIf you give me time, I could work on it\nGive me some time while I work on it\nLosin' your patience, and, girl, I don't blame you\nThe Earth's in rotation, you're waitin' for me (Yeah)\nLook at my face when I fuck on your waist\n'Cause we only have one conversation a week\nThat's why your friends always hatin' on me\nFuck 'em though, I did this all by myself\nMatter fact, I ain't never asked no one for help\nAnd that's why I don't pick up my phone when it rings\nNone of my exes is over Lil Peep\nNobody flexin' as much as I be\nThat's why she text me and tell me she love me\nShe know that someday I'll be over the sea\nMakin' my money and smokin' my weed\nI think it's funny, she open up to me, get comfortable with me\nOnce I got it comin', I love her, she love me\nI know that I'm nothing like someone her family want me to be\nIf I find a way, would you walk it with me?\nLook at my face while you talkin' to me\n'Cause we only have one conversation a week\nCan I get one conversation at least?\nShout out to everyone makin' my beats, you helpin' me preach\nThis music's the only thing keepin' the peace when I'm fallin' to pieces\n\nLook at the sky tonight, all of the stars have a reason\nA reason to shine, a reason like mine and I'm fallin' to pieces\nLook at the sky tonight, all of the stars have a reason"
+}

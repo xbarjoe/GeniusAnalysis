@@ -1,0 +1,1885 @@
+{
+ "_type": "song",
+ "annotation_count": 22,
+ "api_path": "/songs/3106424",
+ "full_title": "It's Everyday Bro by\u00a0Jake\u00a0Paul (Ft.\u00a0Team\u00a010)",
+ "header_image_thumbnail_url": "https://images.genius.com/f3c90a6d35042cf5cdf936534408f3ba.300x300x1.png",
+ "header_image_url": "https://images.genius.com/f3c90a6d35042cf5cdf936534408f3ba.1000x1000x1.png",
+ "id": 3106424,
+ "instrumental": false,
+ "lyrics_owner_id": 4712640,
+ "lyrics_state": "complete",
+ "lyrics_updated_at": 1607035532,
+ "path": "/Jake-paul-its-everyday-bro-lyrics",
+ "pyongs_count": 141,
+ "song_art_image_thumbnail_url": "https://images.genius.com/f3c90a6d35042cf5cdf936534408f3ba.300x300x1.png",
+ "song_art_image_url": "https://images.genius.com/f3c90a6d35042cf5cdf936534408f3ba.1000x1000x1.png",
+ "stats": {
+  "accepted_annotations": 21,
+  "contributors": 603,
+  "iq_earners": 603,
+  "transcribers": 5,
+  "unreviewed_annotations": 0,
+  "verified_annotations": 0,
+  "concurrents": 2,
+  "hot": false,
+  "pageviews": 4940298
+ },
+ "title": "It\u2019s Everyday Bro",
+ "title_with_featured": "It's Everyday Bro (Ft.\u00a0Team\u00a010)",
+ "updated_by_human_at": 1607035532,
+ "url": "https://genius.com/Jake-paul-its-everyday-bro-lyrics",
+ "primary_artist": {
+  "api_path": "/artists/1147604",
+  "header_image_url": "https://images.genius.com/6db219f88cf333985d08811719d20834.1000x1000x1.jpg",
+  "id": 1147604,
+  "image_url": "https://images.genius.com/f4c76a2c556c80933b964761ecbfbf3a.640x640x1.jpg",
+  "is_meme_verified": false,
+  "is_verified": false,
+  "name": "Jake Paul",
+  "url": "https://genius.com/artists/Jake-paul"
+ },
+ "apple_music_id": "1242491917",
+ "apple_music_player_url": "https://genius.com/songs/3106424/apple_music_player",
+ "description": {
+  "plain": "\u201cIt\u2019s Everyday Bro\u201d is Jake Paul\u2019s debut single, released on May 30, 2017 as a music video on YouTube. Jake, along with his crew Team 10, rap about their recent success as a group. Along with the music video and the editing, the song took only one day to write and was entirely produced by Jake himself.\n\nThe YouTube star PewDiePie has created doubt around the supposedly self-made beat in his reaction video by pointing out an alleged watermark audible in the beat.\n\nBesides YouTube, it was also self-released through Spotify and Apple Music. Jake repeatedly urged his fans on Twitter to bump the song up to #1 on iTunes, and it peaked at #3 on May 31st.\n\nhttps://twitter.com/jakepaul/status/870334288914399232\n\nJake also sent a tweet towards Kendrick Lamar in regards to this said spot being taken by the former, this comparison being made due to some of the songs on the latter\u2019s most recent album DAMN, which is still in the top 100 chart.\n\nhttps://twitter.com/jakepaul/status/869758850932498432\n\nThis song received heavy negative reception with a large amount of dislikes on the music video, most criticizing it for the lyrics and the influx of YouTubers becoming involved in the music industry. It was released two weeks after his older brother Logan Paul, also a YouTube personality, released his first viral hit \u201cHelp Me Help You.\u201d"
+ },
+ "embed_content": "<div id='rg_embed_link_3106424' class='rg_embed_link' data-song-id='3106424'>Read <a href='https://genius.com/Jake-paul-its-everyday-bro-lyrics'>\u201cIt's Everyday Bro\u201d by Jake\u00a0Paul</a> on Genius</div> <script crossorigin src='//genius.com/songs/3106424/embed.js'></script>",
+ "featured_video": false,
+ "lyrics_placeholder_reason": null,
+ "recording_location": "Epic Records",
+ "release_date": "2017-05-30",
+ "release_date_for_display": "May 30, 2017",
+ "current_user_metadata": {
+  "permissions": [
+   "see_pageviews",
+   "view_apple_music_player",
+   "create_comment",
+   "view_song_story_gallery"
+  ],
+  "excluded_permissions": [
+   "follow",
+   "award_transcription_iq",
+   "remove_transcription_iq",
+   "pyong",
+   "edit_lyrics",
+   "view_annotation_engagement_data",
+   "publish",
+   "unpublish",
+   "edit_spotify_details",
+   "hide",
+   "unhide",
+   "toggle_featured_video",
+   "add_pinned_annotation_to",
+   "add_community_annotation_to",
+   "destroy",
+   "mark_as_not_spam",
+   "edit_spotify_annotations_for",
+   "verify_lyrics",
+   "unverify_lyrics",
+   "edit_anything",
+   "edit_any_media",
+   "edit",
+   "rename",
+   "edit_tags",
+   "watch_fact_track",
+   "reindex",
+   "view_lyrics_synchronization",
+   "enable_media",
+   "disable_media",
+   "edit_lyrics_or_annotation_brackets",
+   "see_editorial_indicators",
+   "view_attribution_visualization",
+   "edit_annotation_brackets",
+   "preview_lyrics_for_export",
+   "hide_apple_player",
+   "unhide_apple_player",
+   "trigger_apple_match",
+   "mark_lyrics_evaluation_as_approved",
+   "mark_lyrics_evaluation_as_staff_approved",
+   "mark_lyrics_evaluation_as_unapproved",
+   "mark_lyrics_evaluation_as_un_staff_approved",
+   "view_transcriber_media_player",
+   "override_apple_match",
+   "edit_youtube_url",
+   "edit_soundcloud_url",
+   "edit_spotify_uuid",
+   "edit_vevo_url",
+   "moderate_annotations",
+   "create_annotation",
+   "see_short_id",
+   "manage_chart_item",
+   "create_tag",
+   "propose_lyrics_edit",
+   "moderate_lyrics_edit_proposals",
+   "preview_react_song_page"
+  ],
+  "interactions": {
+   "pyong": false,
+   "following": false
+  },
+  "relationships": {},
+  "iq_by_action": {}
+ },
+ "album": {
+  "api_path": "/albums/432603",
+  "cover_art_url": "https://images.genius.com/165173c8119c50a9170df1f0c7685e4d.480x480x1.jpg",
+  "full_title": "Set List by Team 10",
+  "id": 432603,
+  "name": "Set List",
+  "url": "https://genius.com/albums/Team-10/Set-list",
+  "artist": {
+   "api_path": "/artists/1147603",
+   "header_image_url": "https://images.genius.com/5fe5cf58ebc5639e3f4de5560f913a33.1000x614x1.jpg",
+   "id": 1147603,
+   "image_url": "https://images.genius.com/b8fa8b5d0d3f2f765974831f4cac748b.168x168x1.jpg",
+   "is_meme_verified": false,
+   "is_verified": false,
+   "name": "Team 10",
+   "url": "https://genius.com/artists/Team-10"
+  }
+ },
+ "custom_performances": [
+  {
+   "label": "Copyright \u00a9",
+   "artists": [
+    {
+     "api_path": "/artists/1147603",
+     "header_image_url": "https://images.genius.com/5fe5cf58ebc5639e3f4de5560f913a33.1000x614x1.jpg",
+     "id": 1147603,
+     "image_url": "https://images.genius.com/b8fa8b5d0d3f2f765974831f4cac748b.168x168x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Team 10",
+     "url": "https://genius.com/artists/Team-10"
+    }
+   ]
+  },
+  {
+   "label": "Phonographic Copyright \u2117",
+   "artists": [
+    {
+     "api_path": "/artists/1147603",
+     "header_image_url": "https://images.genius.com/5fe5cf58ebc5639e3f4de5560f913a33.1000x614x1.jpg",
+     "id": 1147603,
+     "image_url": "https://images.genius.com/b8fa8b5d0d3f2f765974831f4cac748b.168x168x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Team 10",
+     "url": "https://genius.com/artists/Team-10"
+    }
+   ]
+  },
+  {
+   "label": "Performance Rights",
+   "artists": [
+    {
+     "api_path": "/artists/1138091",
+     "header_image_url": "https://images.genius.com/5b84dbf7ba86e59c297143f076a56c9a.1000x1000x1.jpg",
+     "id": 1138091,
+     "image_url": "https://images.genius.com/051b0a6beabf8a9eb8768e9f874a542f.1000x1000x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "BMI",
+     "url": "https://genius.com/artists/Bmi"
+    }
+   ]
+  },
+  {
+   "label": "Publisher",
+   "artists": [
+    {
+     "api_path": "/artists/1452979",
+     "header_image_url": "https://images.genius.com/976a7925b25dca6eab7bfc32d49a5224.1000x661x1.jpg",
+     "id": 1452979,
+     "image_url": "https://images.genius.com/67d1aa36b923c4f8640d2ff11a6f8734.225x225x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "TuneCore",
+     "url": "https://genius.com/artists/Tunecore"
+    }
+   ]
+  },
+  {
+   "label": "Vocals",
+   "artists": [
+    {
+     "api_path": "/artists/1147604",
+     "header_image_url": "https://images.genius.com/6db219f88cf333985d08811719d20834.1000x1000x1.jpg",
+     "id": 1147604,
+     "image_url": "https://images.genius.com/f4c76a2c556c80933b964761ecbfbf3a.640x640x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Jake Paul",
+     "url": "https://genius.com/artists/Jake-paul"
+    },
+    {
+     "api_path": "/artists/1202436",
+     "header_image_url": "https://images.genius.com/af16aa19d45bbf8944af5dc9c1717b5a.288x288x1.jpg",
+     "id": 1202436,
+     "image_url": "https://images.genius.com/af16aa19d45bbf8944af5dc9c1717b5a.288x288x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Nick Crompton",
+     "url": "https://genius.com/artists/Nick-crompton"
+    },
+    {
+     "api_path": "/artists/1156373",
+     "header_image_url": "https://images.genius.com/ee32b6e82d95bea7c5421247babf4f0a.1000x667x1.jpg",
+     "id": 1156373,
+     "image_url": "https://images.genius.com/223057ef4fbe4bffe49b505ba5dc6709.288x288x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Chance Sutton",
+     "url": "https://genius.com/artists/Chance-sutton"
+    },
+    {
+     "api_path": "/artists/1202435",
+     "header_image_url": "https://images.genius.com/db605b76edfdec4cd670bff9781b3150.409x346x1.jpg",
+     "id": 1202435,
+     "image_url": "https://images.genius.com/2a5c52b09de02b7c12bdc723635ce09e.150x150x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Emilio Martinez",
+     "url": "https://genius.com/artists/Emilio-martinez"
+    },
+    {
+     "api_path": "/artists/1202434",
+     "header_image_url": "https://images.genius.com/db605b76edfdec4cd670bff9781b3150.409x346x1.jpg",
+     "id": 1202434,
+     "image_url": "https://images.genius.com/69f061ff4acda8327c85b576ae9c2bee.320x320x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Ivan Martinez",
+     "url": "https://genius.com/artists/Ivan-martinez"
+    },
+    {
+     "api_path": "/artists/1156371",
+     "header_image_url": "https://images.genius.com/7d4f46a7b51c04504c05be6bb6678194.446x299x1.jpg",
+     "id": 1156371,
+     "image_url": "https://images.genius.com/3dde3310f90f79550876a3d143d29c01.956x956x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Tessa Brooks",
+     "url": "https://genius.com/artists/Tessa-brooks"
+    }
+   ]
+  }
+ ],
+ "description_annotation": {
+  "_type": "referent",
+  "annotator_id": 4011542,
+  "annotator_login": "Pinkos1",
+  "api_path": "/referents/11968054",
+  "classification": "accepted",
+  "fragment": "It\u2019s Everyday Bro",
+  "id": 11968054,
+  "is_description": true,
+  "path": "/11968054/Jake-paul-its-everyday-bro/Its-everyday-bro",
+  "range": {
+   "content": "It's Everyday Bro"
+  },
+  "song_id": 3106424,
+  "url": "https://genius.com/11968054/Jake-paul-its-everyday-bro/Its-everyday-bro",
+  "verified_annotator_ids": [],
+  "annotatable": {
+   "api_path": "/songs/3106424",
+   "client_timestamps": {
+    "updated_by_human_at": 1607035532,
+    "lyrics_updated_at": 1607035532
+   },
+   "context": "Jake Paul",
+   "id": 3106424,
+   "image_url": "https://images.genius.com/f3c90a6d35042cf5cdf936534408f3ba.1000x1000x1.png",
+   "link_title": "It\u2019s Everyday Bro by\u00a0Jake\u00a0Paul (Ft.\u00a0Team\u00a010)",
+   "title": "It's Everyday Bro",
+   "type": "Song",
+   "url": "https://genius.com/Jake-paul-its-everyday-bro-lyrics"
+  },
+  "annotations": [
+   {
+    "api_path": "/annotations/11968054",
+    "body": {
+     "plain": "\u201cIt\u2019s Everyday Bro\u201d is Jake Paul\u2019s debut single, released on May 30, 2017 as a music video on YouTube. Jake, along with his crew Team 10, rap about their recent success as a group. Along with the music video and the editing, the song took only one day to write and was entirely produced by Jake himself.\n\nThe YouTube star PewDiePie has created doubt around the supposedly self-made beat in his reaction video by pointing out an alleged watermark audible in the beat.\n\nBesides YouTube, it was also self-released through Spotify and Apple Music. Jake repeatedly urged his fans on Twitter to bump the song up to #1 on iTunes, and it peaked at #3 on May 31st.\n\nhttps://twitter.com/jakepaul/status/870334288914399232\n\nJake also sent a tweet towards Kendrick Lamar in regards to this said spot being taken by the former, this comparison being made due to some of the songs on the latter\u2019s most recent album DAMN, which is still in the top 100 chart.\n\nhttps://twitter.com/jakepaul/status/869758850932498432\n\nThis song received heavy negative reception with a large amount of dislikes on the music video, most criticizing it for the lyrics and the influx of YouTubers becoming involved in the music industry. It was released two weeks after his older brother Logan Paul, also a YouTube personality, released his first viral hit \u201cHelp Me Help You.\u201d"
+    },
+    "comment_count": 0,
+    "community": true,
+    "custom_preview": null,
+    "has_voters": true,
+    "id": 11968054,
+    "pinned": false,
+    "share_url": "https://genius.com/11968054",
+    "source": null,
+    "state": "accepted",
+    "url": "https://genius.com/11968054/Jake-paul-its-everyday-bro/Its-everyday-bro",
+    "verified": false,
+    "votes_total": 175,
+    "current_user_metadata": {
+     "permissions": [
+      "create_comment"
+     ],
+     "excluded_permissions": [
+      "vote",
+      "edit",
+      "cosign",
+      "uncosign",
+      "destroy",
+      "accept",
+      "reject",
+      "see_unreviewed",
+      "clear_votes",
+      "propose_edit_to",
+      "pin_to_profile",
+      "unpin_from_profile",
+      "update_source",
+      "edit_custom_preview"
+     ],
+     "interactions": {
+      "cosign": false,
+      "pyong": false,
+      "vote": null
+     },
+     "iq_by_action": {}
+    },
+    "authors": [
+     {
+      "attribution": 0.676056338028169,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/3857024",
+       "avatar": {
+        "tiny": {
+         "url": "https://images.genius.com/avatars/tiny/b69b689fec3260847efeed6c899f6d78",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://images.genius.com/avatars/thumb/b69b689fec3260847efeed6c899f6d78",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://images.genius.com/avatars/small/b69b689fec3260847efeed6c899f6d78",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://images.genius.com/avatars/medium/b69b689fec3260847efeed6c899f6d78",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://images.genius.com/c225a16891464a0eb5f6cbc4575607e8.550x458x1.jpg",
+       "human_readable_role_for_display": "Editor",
+       "id": 3857024,
+       "iq": 39212,
+       "login": "igotmoneyinthebank",
+       "name": "Igotmoneyinthebank",
+       "role_for_display": "editor",
+       "url": "https://genius.com/igotmoneyinthebank",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     },
+     {
+      "attribution": 0.19718309859154928,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/4011542",
+       "avatar": {
+        "tiny": {
+         "url": "https://images.genius.com/avatars/tiny/3fb49e48c694cde46a6c83df825ca239",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://images.genius.com/avatars/thumb/3fb49e48c694cde46a6c83df825ca239",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://images.genius.com/avatars/small/3fb49e48c694cde46a6c83df825ca239",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://images.genius.com/avatars/medium/3fb49e48c694cde46a6c83df825ca239",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/E85Kh25oRXyunsTykeFN_1494352770413065733_641713001.jpg",
+       "human_readable_role_for_display": "Editor",
+       "id": 4011542,
+       "iq": 11695,
+       "login": "Pinkos1",
+       "name": "Pinkos1",
+       "role_for_display": "editor",
+       "url": "https://genius.com/Pinkos1",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     },
+     {
+      "attribution": 0.08450704225352113,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/1743222",
+       "avatar": {
+        "tiny": {
+         "url": "https://assets.genius.com/images/default_avatar_16.png?1606943206",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://assets.genius.com/images/default_avatar_32.png?1606943206",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://assets.genius.com/images/default_avatar_100.png?1606943206",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+       "human_readable_role_for_display": "Contributor",
+       "id": 1743222,
+       "iq": 52007,
+       "login": "gone_11d2u_aa7b",
+       "name": "gone_11d2u_aa7b",
+       "role_for_display": "contributor",
+       "url": "https://genius.com/gone_11d2u_aa7b",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     },
+     {
+      "attribution": 0.02816901408450704,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/4264070",
+       "avatar": {
+        "tiny": {
+         "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/ceyfky8jcvv",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/ceyfky8jcvv",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/ceyfky8jcvv",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/ceyfky8jcvv",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/8yzxvjgqgpp",
+       "human_readable_role_for_display": "Contributor",
+       "id": 4264070,
+       "iq": 2084,
+       "login": "sonnysonem",
+       "name": "sonnysonem",
+       "role_for_display": "contributor",
+       "url": "https://genius.com/sonnysonem",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     },
+     {
+      "attribution": 0.01056338028169014,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/7043292",
+       "avatar": {
+        "tiny": {
+         "url": "https://images.genius.com/avatars/tiny/1afbef2f878b6b39057e1a824c889290",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://images.genius.com/avatars/thumb/1afbef2f878b6b39057e1a824c889290",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://images.genius.com/avatars/small/1afbef2f878b6b39057e1a824c889290",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://images.genius.com/avatars/medium/1afbef2f878b6b39057e1a824c889290",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://images.genius.com/6e5f27d6a047292a9111b9f8d1702f96.1000x391x1.png",
+       "human_readable_role_for_display": "Editor",
+       "id": 7043292,
+       "iq": 37816,
+       "login": "TheYoshiPhase",
+       "name": "MBJ",
+       "role_for_display": "editor",
+       "url": "https://genius.com/TheYoshiPhase",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     },
+     {
+      "attribution": 0.00352112676056338,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/7498925",
+       "avatar": {
+        "tiny": {
+         "url": "https://images.genius.com/07ae7ac4bb6ca2b4de952136e8f0d526.539x539x1.jpg",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://images.genius.com/07ae7ac4bb6ca2b4de952136e8f0d526.539x539x1.jpg",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://images.genius.com/07ae7ac4bb6ca2b4de952136e8f0d526.539x539x1.jpg",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://images.genius.com/07ae7ac4bb6ca2b4de952136e8f0d526.539x539x1.jpg",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://images.genius.com/a4541645194321fc1d8024dca37b8538.800x450x1.jpg",
+       "human_readable_role_for_display": "Moderator",
+       "id": 7498925,
+       "iq": 154152,
+       "login": "blazifyy",
+       "name": "\u200bblazifyy",
+       "role_for_display": "moderator",
+       "url": "https://genius.com/blazifyy",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     }
+    ],
+    "cosigned_by": [],
+    "rejection_comment": null,
+    "verified_by": null
+   }
+  ]
+ },
+ "featured_artists": [
+  {
+   "api_path": "/artists/1147603",
+   "header_image_url": "https://images.genius.com/5fe5cf58ebc5639e3f4de5560f913a33.1000x614x1.jpg",
+   "id": 1147603,
+   "image_url": "https://images.genius.com/b8fa8b5d0d3f2f765974831f4cac748b.168x168x1.jpg",
+   "is_meme_verified": false,
+   "is_verified": false,
+   "name": "Team 10",
+   "url": "https://genius.com/artists/Team-10"
+  }
+ ],
+ "lyrics_marked_complete_by": null,
+ "media": [
+  {
+   "attribution": "user 992017774",
+   "provider": "soundcloud",
+   "type": "audio",
+   "url": "https://soundcloud.com/user-992017774/its-everyday-bro-song"
+  },
+  {
+   "provider": "youtube",
+   "start": 0,
+   "type": "video",
+   "url": "http://www.youtube.com/watch?v=hSlb1ezRqfA"
+  }
+ ],
+ "producer_artists": [
+  {
+   "api_path": "/artists/1432830",
+   "header_image_url": "https://images.genius.com/b277f5e6c564e64b1d5b8b1c441e0f2f.745x492x1.jpg",
+   "id": 1432830,
+   "image_url": "https://images.genius.com/ea1d8e5c2967db4fac49241096502358.1000x1000x1.jpg",
+   "is_meme_verified": false,
+   "is_verified": false,
+   "name": "YAYGO",
+   "url": "https://genius.com/artists/Yaygo"
+  },
+  {
+   "api_path": "/artists/549556",
+   "header_image_url": "https://images.genius.com/350d58964b085b323a97c0f462174b3c.1000x333x1.jpg",
+   "id": 549556,
+   "image_url": "https://images.genius.com/bd66fcff18381fa3bbc18de77c2de44b.400x400x1.jpg",
+   "is_meme_verified": false,
+   "is_verified": false,
+   "name": "Sleep Deez",
+   "url": "https://genius.com/artists/Sleep-deez"
+  },
+  {
+   "api_path": "/artists/1147604",
+   "header_image_url": "https://images.genius.com/6db219f88cf333985d08811719d20834.1000x1000x1.jpg",
+   "id": 1147604,
+   "image_url": "https://images.genius.com/f4c76a2c556c80933b964761ecbfbf3a.640x640x1.jpg",
+   "is_meme_verified": false,
+   "is_verified": false,
+   "name": "Jake Paul",
+   "url": "https://genius.com/artists/Jake-paul"
+  },
+  {
+   "api_path": "/artists/1203602",
+   "header_image_url": "https://images.genius.com/f45d208e91567542c9defa0fe6313144.300x300x1.png",
+   "id": 1203602,
+   "image_url": "https://images.genius.com/f45d208e91567542c9defa0fe6313144.300x300x1.png",
+   "is_meme_verified": false,
+   "is_verified": false,
+   "name": "AudioJungle",
+   "url": "https://genius.com/artists/Audiojungle"
+  }
+ ],
+ "song_relationships": [
+  {
+   "relationship_type": "samples",
+   "type": "samples",
+   "songs": []
+  },
+  {
+   "relationship_type": "sampled_in",
+   "type": "sampled_in",
+   "songs": [
+    {
+     "annotation_count": 3,
+     "api_path": "/songs/3122034",
+     "full_title": "Vsauce on the Sense of Smell by\u00a0\u200bgrandayy (Ft.\u00a0Tessa\u00a0Brooks & VSauce)",
+     "header_image_thumbnail_url": "https://images.genius.com/87af7415f4950c15b4563196c88213e2.288x288x1.jpg",
+     "header_image_url": "https://images.genius.com/87af7415f4950c15b4563196c88213e2.288x288x1.jpg",
+     "id": 3122034,
+     "lyrics_owner_id": 1632070,
+     "lyrics_state": "complete",
+     "path": "/Grandayy-vsauce-on-the-sense-of-smell-annotated",
+     "pyongs_count": 3,
+     "song_art_image_thumbnail_url": "https://images.genius.com/87af7415f4950c15b4563196c88213e2.288x288x1.jpg",
+     "song_art_image_url": "https://images.genius.com/87af7415f4950c15b4563196c88213e2.288x288x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 3,
+      "hot": false
+     },
+     "title": "Vsauce on the Sense of Smell",
+     "title_with_featured": "Vsauce on the Sense of Smell (Ft.\u00a0Tessa\u00a0Brooks & VSauce)",
+     "url": "https://genius.com/Grandayy-vsauce-on-the-sense-of-smell-annotated",
+     "primary_artist": {
+      "api_path": "/artists/1168522",
+      "header_image_url": "https://images.genius.com/c740a5c365e1460b2dad95f205e1c4b8.1000x210x1.jpg",
+      "id": 1168522,
+      "image_url": "https://images.genius.com/3b6937f96fd394a676d2e99d60443ecf.1000x1000x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "\u200bgrandayy",
+      "url": "https://genius.com/artists/Grandayy"
+     }
+    },
+    {
+     "annotation_count": 1,
+     "api_path": "/songs/3149831",
+     "full_title": "We Are Digital Nomads by\u00a0\u200bgrandayy (Ft.\u00a0Chance\u00a0Sutton)",
+     "header_image_thumbnail_url": "https://images.genius.com/cf3e00742ac7ebd12a990de8e345ea9c.100x100x1.jpg",
+     "header_image_url": "https://images.genius.com/cf3e00742ac7ebd12a990de8e345ea9c.100x100x1.jpg",
+     "id": 3149831,
+     "lyrics_owner_id": 1632070,
+     "lyrics_state": "complete",
+     "path": "/Grandayy-we-are-digital-nomads-annotated",
+     "pyongs_count": null,
+     "song_art_image_thumbnail_url": "https://images.genius.com/cf3e00742ac7ebd12a990de8e345ea9c.100x100x1.jpg",
+     "song_art_image_url": "https://images.genius.com/cf3e00742ac7ebd12a990de8e345ea9c.100x100x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 1,
+      "hot": false
+     },
+     "title": "We Are Digital Nomads",
+     "title_with_featured": "We Are Digital Nomads (Ft.\u00a0Chance\u00a0Sutton)",
+     "url": "https://genius.com/Grandayy-we-are-digital-nomads-annotated",
+     "primary_artist": {
+      "api_path": "/artists/1168522",
+      "header_image_url": "https://images.genius.com/c740a5c365e1460b2dad95f205e1c4b8.1000x210x1.jpg",
+      "id": 1168522,
+      "image_url": "https://images.genius.com/3b6937f96fd394a676d2e99d60443ecf.1000x1000x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "\u200bgrandayy",
+      "url": "https://genius.com/artists/Grandayy"
+     }
+    },
+    {
+     "annotation_count": 2,
+     "api_path": "/songs/3183162",
+     "full_title": "Redbone (Megamix) 2 by\u00a0Finny\u00a0Music",
+     "header_image_thumbnail_url": "https://images.genius.com/af27a95db715a0cded0d8bf1b0178150.300x300x1.jpg",
+     "header_image_url": "https://images.genius.com/af27a95db715a0cded0d8bf1b0178150.1000x1000x1.jpg",
+     "id": 3183162,
+     "lyrics_owner_id": 3633135,
+     "lyrics_state": "complete",
+     "path": "/Finny-music-redbone-megamix-2-annotated",
+     "pyongs_count": null,
+     "song_art_image_thumbnail_url": "https://images.genius.com/af27a95db715a0cded0d8bf1b0178150.300x300x1.jpg",
+     "song_art_image_url": "https://images.genius.com/af27a95db715a0cded0d8bf1b0178150.1000x1000x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 0,
+      "hot": false
+     },
+     "title": "Redbone (Megamix) 2",
+     "title_with_featured": "Redbone (Megamix) 2",
+     "url": "https://genius.com/Finny-music-redbone-megamix-2-annotated",
+     "primary_artist": {
+      "api_path": "/artists/1217243",
+      "header_image_url": "https://images.genius.com/db5ac2642addfacef9347cd42a92c6ac.1000x1000x1.jpg",
+      "id": 1217243,
+      "image_url": "https://images.genius.com/5c9a93a85be50855286b414f66cb8d34.882x882x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Finny Music",
+      "url": "https://genius.com/artists/Finny-music"
+     }
+    },
+    {
+     "annotation_count": 5,
+     "api_path": "/songs/3250105",
+     "full_title": "Hostile by\u00a0Fried\u00a0Rice (Ft.\u00a0NIKHEDONIA)",
+     "header_image_thumbnail_url": "https://images.genius.com/b0c23491406710251f909bba18710b9f.300x300x1.png",
+     "header_image_url": "https://images.genius.com/b0c23491406710251f909bba18710b9f.1000x1000x1.png",
+     "id": 3250105,
+     "lyrics_owner_id": 4544245,
+     "lyrics_state": "complete",
+     "path": "/Fried-rice-hostile-lyrics",
+     "pyongs_count": null,
+     "song_art_image_thumbnail_url": "https://images.genius.com/b0c23491406710251f909bba18710b9f.300x300x1.png",
+     "song_art_image_url": "https://images.genius.com/b0c23491406710251f909bba18710b9f.1000x1000x1.png",
+     "stats": {
+      "unreviewed_annotations": 0,
+      "hot": false
+     },
+     "title": "Hostile",
+     "title_with_featured": "Hostile (Ft.\u00a0NIKHEDONIA)",
+     "url": "https://genius.com/Fried-rice-hostile-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/1275450",
+      "header_image_url": "https://images.genius.com/533944867812a2027d79a11f9b554c73.558x558x1.png",
+      "id": 1275450,
+      "image_url": "https://images.genius.com/533944867812a2027d79a11f9b554c73.558x558x1.png",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Fried Rice",
+      "url": "https://genius.com/artists/Fried-rice"
+     }
+    },
+    {
+     "annotation_count": 10,
+     "api_path": "/songs/3642042",
+     "full_title": "Hitorigoto Is My City (Miraie Bass Boosted Cover) by\u00a0Miraie",
+     "header_image_thumbnail_url": "https://images.genius.com/453d5c2f189ace4ae1293f28b5e4d3ff.300x169x1.jpg",
+     "header_image_url": "https://images.genius.com/453d5c2f189ace4ae1293f28b5e4d3ff.1000x563x1.jpg",
+     "id": 3642042,
+     "lyrics_owner_id": 6044554,
+     "lyrics_state": "complete",
+     "path": "/Miraie-hitorigoto-is-my-city-miraie-bass-boosted-cover-lyrics",
+     "pyongs_count": 1,
+     "song_art_image_thumbnail_url": "https://images.genius.com/d730761540ad72bddfdd798bc164b41a.300x169x1.jpg",
+     "song_art_image_url": "https://images.genius.com/d730761540ad72bddfdd798bc164b41a.1000x563x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 0,
+      "hot": false
+     },
+     "title": "Hitorigoto Is My City (Miraie Bass Boosted Cover)",
+     "title_with_featured": "Hitorigoto Is My City (Miraie Bass Boosted Cover)",
+     "url": "https://genius.com/Miraie-hitorigoto-is-my-city-miraie-bass-boosted-cover-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/1424436",
+      "header_image_url": "https://images.genius.com/03397920f07ae7a039b771b7501bb18a.1000x594x1.jpg",
+      "id": 1424436,
+      "image_url": "https://images.genius.com/a13f7c1d380ccdb253b255473b31bf93.1000x1000x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": true,
+      "name": "Miraie",
+      "url": "https://genius.com/artists/Miraie",
+      "iq": 3303
+     }
+    },
+    {
+     "annotation_count": 1,
+     "api_path": "/songs/3654162",
+     "full_title": "EXTREME MEME MUSIC MEGAMASHUP 2 by\u00a0DaymanOurSavior",
+     "header_image_thumbnail_url": "https://images.genius.com/bf6b12c34611232c4dbf9ef6c6fec89c.300x300x1.jpg",
+     "header_image_url": "https://images.genius.com/bf6b12c34611232c4dbf9ef6c6fec89c.700x700x1.jpg",
+     "id": 3654162,
+     "lyrics_owner_id": 5182512,
+     "lyrics_state": "complete",
+     "path": "/Daymanoursavior-extreme-meme-music-megamashup-2-lyrics",
+     "pyongs_count": 4,
+     "song_art_image_thumbnail_url": "https://images.genius.com/bf6b12c34611232c4dbf9ef6c6fec89c.300x300x1.jpg",
+     "song_art_image_url": "https://images.genius.com/bf6b12c34611232c4dbf9ef6c6fec89c.700x700x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 0,
+      "hot": false,
+      "pageviews": 5512
+     },
+     "title": "EXTREME MEME MUSIC MEGAMASHUP 2",
+     "title_with_featured": "EXTREME MEME MUSIC MEGAMASHUP 2",
+     "url": "https://genius.com/Daymanoursavior-extreme-meme-music-megamashup-2-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/1409018",
+      "header_image_url": "https://images.genius.com/fcf684aa4aff28f816cd334216be8377.200x200x1.jpg",
+      "id": 1409018,
+      "image_url": "https://images.genius.com/fcf684aa4aff28f816cd334216be8377.200x200x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "DaymanOurSavior",
+      "url": "https://genius.com/artists/Daymanoursavior"
+     }
+    },
+    {
+     "annotation_count": 1,
+     "api_path": "/songs/3699067",
+     "full_title": "Grapefruit by\u00a0MAGMA\u00a0MARSHEZ (Ft.\u00a0ThaiPee)",
+     "header_image_thumbnail_url": "https://images.genius.com/a72d47809114d21c77758e482163f9fe.300x300x1.jpg",
+     "header_image_url": "https://images.genius.com/a72d47809114d21c77758e482163f9fe.1000x999x1.jpg",
+     "id": 3699067,
+     "lyrics_owner_id": 5862180,
+     "lyrics_state": "complete",
+     "path": "/Magma-marshez-grapefruit-lyrics",
+     "pyongs_count": null,
+     "song_art_image_thumbnail_url": "https://images.genius.com/a72d47809114d21c77758e482163f9fe.300x300x1.jpg",
+     "song_art_image_url": "https://images.genius.com/a72d47809114d21c77758e482163f9fe.1000x999x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 0,
+      "hot": false
+     },
+     "title": "Grapefruit",
+     "title_with_featured": "Grapefruit (Ft.\u00a0ThaiPee)",
+     "url": "https://genius.com/Magma-marshez-grapefruit-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/1344755",
+      "header_image_url": "https://images.genius.com/7f3d5f3703ab1385b4463d3e2f43656f.1000x667x1.jpg",
+      "id": 1344755,
+      "image_url": "https://images.genius.com/57fe92769f795e5520163546a42338e5.1000x1000x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": true,
+      "name": "MAGMA MARSHEZ",
+      "url": "https://genius.com/artists/Magma-marshez",
+      "iq": 648
+     }
+    },
+    {
+     "annotation_count": 0,
+     "api_path": "/songs/4871147",
+     "full_title": "SUPER MEME MEGAMIX ULTIMATE by\u00a0Vincent\u00a0Mashups",
+     "header_image_thumbnail_url": "https://images.genius.com/b5c6d19072efb5bf08cf280cb10276cc.224x224x1.jpg",
+     "header_image_url": "https://images.genius.com/b5c6d19072efb5bf08cf280cb10276cc.224x224x1.jpg",
+     "id": 4871147,
+     "lyrics_owner_id": 8942631,
+     "lyrics_state": "complete",
+     "path": "/Vincent-mashups-super-meme-megamix-ultimate-lyrics",
+     "pyongs_count": 1,
+     "song_art_image_thumbnail_url": "https://images.genius.com/b5c6d19072efb5bf08cf280cb10276cc.224x224x1.jpg",
+     "song_art_image_url": "https://images.genius.com/b5c6d19072efb5bf08cf280cb10276cc.224x224x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 0,
+      "hot": false
+     },
+     "title": "SUPER MEME MEGAMIX ULTIMATE",
+     "title_with_featured": "SUPER MEME MEGAMIX ULTIMATE",
+     "url": "https://genius.com/Vincent-mashups-super-meme-megamix-ultimate-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/1950550",
+      "header_image_url": "https://images.genius.com/b5c6d19072efb5bf08cf280cb10276cc.224x224x1.jpg",
+      "id": 1950550,
+      "image_url": "https://images.genius.com/b5c6d19072efb5bf08cf280cb10276cc.224x224x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Vincent Mashups",
+      "url": "https://genius.com/artists/Vincent-mashups"
+     }
+    },
+    {
+     "annotation_count": 0,
+     "api_path": "/songs/5202353",
+     "full_title": "Jake Paul Halation by\u00a0Lil\u00a0Squint",
+     "header_image_thumbnail_url": "https://images.genius.com/3856b7eb1c62b5243844b1d73130c1d7.300x225x1.png",
+     "header_image_url": "https://images.genius.com/3856b7eb1c62b5243844b1d73130c1d7.713x535x1.png",
+     "id": 5202353,
+     "lyrics_owner_id": 4453581,
+     "lyrics_state": "complete",
+     "path": "/Lil-squint-jake-paul-halation-lyrics",
+     "pyongs_count": null,
+     "song_art_image_thumbnail_url": "https://images.genius.com/59774ec7e2ac5c55c0550d5a8cfde80c.300x300x1.png",
+     "song_art_image_url": "https://images.genius.com/59774ec7e2ac5c55c0550d5a8cfde80c.623x622x1.png",
+     "stats": {
+      "unreviewed_annotations": 0,
+      "hot": false
+     },
+     "title": "Jake Paul Halation",
+     "title_with_featured": "Jake Paul Halation",
+     "url": "https://genius.com/Lil-squint-jake-paul-halation-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/1411484",
+      "header_image_url": "https://images.genius.com/fdb81d52957ef922e9601657afd3160c.813x603x1.png",
+      "id": 1411484,
+      "image_url": "https://images.genius.com/5568da2157656ec5d22b2bb1ab925780.365x365x1.png",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Lil Squint",
+      "url": "https://genius.com/artists/Lil-squint"
+     }
+    },
+    {
+     "annotation_count": 45,
+     "api_path": "/songs/6194150",
+     "full_title": "6 FEET by\u00a0Hamzah\u00a0The Fantastic (Ft.\u00a0Freddie\u00a0Dredd)",
+     "header_image_thumbnail_url": "https://images.genius.com/f924ae47c1b6b14ac10085a41a23e61a.300x398x1.jpg",
+     "header_image_url": "https://images.genius.com/f924ae47c1b6b14ac10085a41a23e61a.753x1000x1.jpg",
+     "id": 6194150,
+     "lyrics_owner_id": 7376992,
+     "lyrics_state": "complete",
+     "path": "/Hamzah-the-fantastic-6-feet-lyrics",
+     "pyongs_count": null,
+     "song_art_image_thumbnail_url": "https://images.genius.com/f924ae47c1b6b14ac10085a41a23e61a.300x398x1.jpg",
+     "song_art_image_url": "https://images.genius.com/f924ae47c1b6b14ac10085a41a23e61a.753x1000x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 45,
+      "hot": false,
+      "pageviews": 10955
+     },
+     "title": "6 FEET",
+     "title_with_featured": "6 FEET (Ft.\u00a0Freddie\u00a0Dredd)",
+     "url": "https://genius.com/Hamzah-the-fantastic-6-feet-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/2380106",
+      "header_image_url": "https://images.genius.com/c54673cded3a62773f16a4cbfdc0b366.1000x1000x1.jpg",
+      "id": 2380106,
+      "image_url": "https://images.genius.com/c54673cded3a62773f16a4cbfdc0b366.1000x1000x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Hamzah The Fantastic",
+      "url": "https://genius.com/artists/Hamzah-the-fantastic"
+     }
+    }
+   ]
+  },
+  {
+   "relationship_type": "interpolates",
+   "type": "interpolates",
+   "songs": []
+  },
+  {
+   "relationship_type": "interpolated_by",
+   "type": "interpolated_by",
+   "songs": [
+    {
+     "annotation_count": 0,
+     "api_path": "/songs/3107506",
+     "full_title": "God Chruch Freestyle by\u00a0Keemstar",
+     "header_image_thumbnail_url": "https://images.genius.com/63976ffa026ed0cf6861a76d84bb4ccb.300x300x1.jpg",
+     "header_image_url": "https://images.genius.com/63976ffa026ed0cf6861a76d84bb4ccb.1000x1000x1.jpg",
+     "id": 3107506,
+     "lyrics_owner_id": 2976280,
+     "lyrics_state": "complete",
+     "path": "/Keemstar-god-chruch-freestyle-lyrics",
+     "pyongs_count": null,
+     "song_art_image_thumbnail_url": "https://images.genius.com/63976ffa026ed0cf6861a76d84bb4ccb.300x300x1.jpg",
+     "song_art_image_url": "https://images.genius.com/63976ffa026ed0cf6861a76d84bb4ccb.1000x1000x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 0,
+      "hot": false
+     },
+     "title": "God Chruch Freestyle",
+     "title_with_featured": "God Chruch Freestyle",
+     "url": "https://genius.com/Keemstar-god-chruch-freestyle-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/664679",
+      "header_image_url": "https://images.genius.com/107bfe2e71f124f9b3a6ad9264657395.400x400x1.jpg",
+      "id": 664679,
+      "image_url": "https://images.genius.com/63976ffa026ed0cf6861a76d84bb4ccb.1000x1000x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Keemstar",
+      "url": "https://genius.com/artists/Keemstar"
+     }
+    },
+    {
+     "annotation_count": 11,
+     "api_path": "/songs/3109028",
+     "full_title": "Logang Sucks by\u00a0Jake\u00a0Paul",
+     "header_image_thumbnail_url": "https://images.genius.com/d672ba4f91199448b29f97bf93ab4a2e.300x169x1.jpg",
+     "header_image_url": "https://images.genius.com/d672ba4f91199448b29f97bf93ab4a2e.1000x563x1.jpg",
+     "id": 3109028,
+     "lyrics_owner_id": 4712640,
+     "lyrics_state": "complete",
+     "path": "/Jake-paul-logang-sucks-lyrics",
+     "pyongs_count": 11,
+     "song_art_image_thumbnail_url": "https://images.genius.com/d672ba4f91199448b29f97bf93ab4a2e.300x169x1.jpg",
+     "song_art_image_url": "https://images.genius.com/d672ba4f91199448b29f97bf93ab4a2e.1000x563x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 0,
+      "hot": false,
+      "pageviews": 78308
+     },
+     "title": "Logang Sucks",
+     "title_with_featured": "Logang Sucks",
+     "url": "https://genius.com/Jake-paul-logang-sucks-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/1147604",
+      "header_image_url": "https://images.genius.com/6db219f88cf333985d08811719d20834.1000x1000x1.jpg",
+      "id": 1147604,
+      "image_url": "https://images.genius.com/f4c76a2c556c80933b964761ecbfbf3a.640x640x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Jake Paul",
+      "url": "https://genius.com/artists/Jake-paul"
+     }
+    },
+    {
+     "annotation_count": 15,
+     "api_path": "/songs/3111779",
+     "full_title": "The Fall of Jake Paul by\u00a0Logan\u00a0Paul (Ft.\u00a0Why\u00a0Don't We)",
+     "header_image_thumbnail_url": "https://images.genius.com/93aff7bca1664e614c597a54b69b0137.300x169x1.jpg",
+     "header_image_url": "https://images.genius.com/93aff7bca1664e614c597a54b69b0137.1000x563x1.jpg",
+     "id": 3111779,
+     "lyrics_owner_id": 4522053,
+     "lyrics_state": "complete",
+     "path": "/Logan-paul-the-fall-of-jake-paul-lyrics",
+     "pyongs_count": 73,
+     "song_art_image_thumbnail_url": "https://images.genius.com/a42905baef98703d4e41eb9420a78ddb.300x169x1.jpg",
+     "song_art_image_url": "https://images.genius.com/a42905baef98703d4e41eb9420a78ddb.1000x563x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 0,
+      "concurrents": 2,
+      "hot": false,
+      "pageviews": 1390687
+     },
+     "title": "The Fall of Jake Paul",
+     "title_with_featured": "The Fall of Jake Paul (Ft.\u00a0Why\u00a0Don't We)",
+     "url": "https://genius.com/Logan-paul-the-fall-of-jake-paul-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/1054263",
+      "header_image_url": "https://images.genius.com/8525372712c63b871e284aaab59c9c3d.1000x165x1.jpg",
+      "id": 1054263,
+      "image_url": "https://images.genius.com/ba61e168276725eb0351b2d0a0dd7546.1000x1000x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Logan Paul",
+      "url": "https://genius.com/artists/Logan-paul"
+     }
+    },
+    {
+     "annotation_count": 32,
+     "api_path": "/songs/3114661",
+     "full_title": "It's Every Night Sis by\u00a0RiceGum (Ft.\u00a0Alissa\u00a0Violet)",
+     "header_image_thumbnail_url": "https://images.genius.com/928aa79a54b05eb7871c3b0f582d75de.300x300x1.jpg",
+     "header_image_url": "https://images.genius.com/928aa79a54b05eb7871c3b0f582d75de.1000x1000x1.jpg",
+     "id": 3114661,
+     "lyrics_owner_id": 4081126,
+     "lyrics_state": "complete",
+     "path": "/Ricegum-its-every-night-sis-lyrics",
+     "pyongs_count": 63,
+     "song_art_image_thumbnail_url": "https://images.genius.com/928aa79a54b05eb7871c3b0f582d75de.300x300x1.jpg",
+     "song_art_image_url": "https://images.genius.com/928aa79a54b05eb7871c3b0f582d75de.1000x1000x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 0,
+      "hot": false,
+      "pageviews": 1146063
+     },
+     "title": "It\u2019s Every Night Sis",
+     "title_with_featured": "It's Every Night Sis (Ft.\u00a0Alissa\u00a0Violet)",
+     "url": "https://genius.com/Ricegum-its-every-night-sis-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/658406",
+      "header_image_url": "https://images.genius.com/20565655eb7327a6ac20513b556e4170.1000x333x1.jpg",
+      "id": 658406,
+      "image_url": "https://images.genius.com/4f7d11312fc368fe8d5daca2b01c7d7b.777x777x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "RiceGum",
+      "url": "https://genius.com/artists/Ricegum"
+     }
+    },
+    {
+     "annotation_count": 12,
+     "api_path": "/songs/3132882",
+     "full_title": "It's Everyday Bro (Parody) by\u00a0Bart\u00a0Baker",
+     "header_image_thumbnail_url": "https://images.genius.com/f81ced4f2267ef1e1494583e8d19ab13.300x300x1.jpg",
+     "header_image_url": "https://images.genius.com/f81ced4f2267ef1e1494583e8d19ab13.750x750x1.jpg",
+     "id": 3132882,
+     "lyrics_owner_id": 3641394,
+     "lyrics_state": "complete",
+     "path": "/Bart-baker-its-everyday-bro-parody-lyrics",
+     "pyongs_count": 5,
+     "song_art_image_thumbnail_url": "https://images.genius.com/f81ced4f2267ef1e1494583e8d19ab13.300x300x1.jpg",
+     "song_art_image_url": "https://images.genius.com/f81ced4f2267ef1e1494583e8d19ab13.750x750x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 2,
+      "hot": false,
+      "pageviews": 34631
+     },
+     "title": "It\u2019s Everyday Bro (Parody)",
+     "title_with_featured": "It's Everyday Bro (Parody)",
+     "url": "https://genius.com/Bart-baker-its-everyday-bro-parody-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/20551",
+      "header_image_url": "https://images.genius.com/f5500ee87c9330c39b9a83793c29a830.1000x563x1.jpg",
+      "id": 20551,
+      "image_url": "https://images.genius.com/f81ced4f2267ef1e1494583e8d19ab13.750x750x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Bart Baker",
+      "url": "https://genius.com/artists/Bart-baker"
+     }
+    },
+    {
+     "annotation_count": 28,
+     "api_path": "/songs/3191906",
+     "full_title": "No Option by\u00a0Chance\u00a0Sutton & Anthony Trujillo (Ft.\u00a0Landon)",
+     "header_image_thumbnail_url": "https://images.genius.com/b455b91e9138b7fb33fe493dfcb3f61b.300x300x1.jpg",
+     "header_image_url": "https://images.genius.com/b455b91e9138b7fb33fe493dfcb3f61b.1000x1000x1.jpg",
+     "id": 3191906,
+     "lyrics_owner_id": 3641394,
+     "lyrics_state": "complete",
+     "path": "/Chance-sutton-and-anthony-trujillo-no-option-lyrics",
+     "pyongs_count": 6,
+     "song_art_image_thumbnail_url": "https://images.genius.com/b455b91e9138b7fb33fe493dfcb3f61b.300x300x1.jpg",
+     "song_art_image_url": "https://images.genius.com/b455b91e9138b7fb33fe493dfcb3f61b.1000x1000x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 27,
+      "hot": false,
+      "pageviews": 22360
+     },
+     "title": "No Option",
+     "title_with_featured": "No Option (Ft.\u00a0Landon)",
+     "url": "https://genius.com/Chance-sutton-and-anthony-trujillo-no-option-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/1193342",
+      "header_image_url": "https://images.genius.com/48d04fc690cfc38555390f840eacd440.100x100x1.jpg",
+      "id": 1193342,
+      "image_url": "https://images.genius.com/48d04fc690cfc38555390f840eacd440.100x100x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Chance Sutton & Anthony Trujillo",
+      "url": "https://genius.com/artists/Chance-sutton-and-anthony-trujillo"
+     }
+    },
+    {
+     "annotation_count": 0,
+     "api_path": "/songs/3229643",
+     "full_title": "Jake Paulers by\u00a0Jake\u00a0Paul",
+     "header_image_thumbnail_url": "https://images.genius.com/630673579b3258a1ab65625382703944.300x300x1.jpg",
+     "header_image_url": "https://images.genius.com/630673579b3258a1ab65625382703944.640x640x1.jpg",
+     "id": 3229643,
+     "lyrics_owner_id": 4081126,
+     "lyrics_state": "complete",
+     "path": "/Jake-paul-jake-paulers-lyrics",
+     "pyongs_count": 4,
+     "song_art_image_thumbnail_url": "https://images.genius.com/630673579b3258a1ab65625382703944.300x300x1.jpg",
+     "song_art_image_url": "https://images.genius.com/630673579b3258a1ab65625382703944.640x640x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 0,
+      "hot": false,
+      "pageviews": 13204
+     },
+     "title": "Jake Paulers",
+     "title_with_featured": "Jake Paulers",
+     "url": "https://genius.com/Jake-paul-jake-paulers-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/1147604",
+      "header_image_url": "https://images.genius.com/6db219f88cf333985d08811719d20834.1000x1000x1.jpg",
+      "id": 1147604,
+      "image_url": "https://images.genius.com/f4c76a2c556c80933b964761ecbfbf3a.640x640x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Jake Paul",
+      "url": "https://genius.com/artists/Jake-paul"
+     }
+    },
+    {
+     "annotation_count": 2,
+     "api_path": "/songs/3377043",
+     "full_title": "Flamewar by\u00a0AKLF",
+     "header_image_thumbnail_url": "https://images.genius.com/482cc3b735e70ea6be62ac3c2fcd0ac1.300x300x1.jpg",
+     "header_image_url": "https://images.genius.com/482cc3b735e70ea6be62ac3c2fcd0ac1.1000x1000x1.jpg",
+     "id": 3377043,
+     "lyrics_owner_id": 355760,
+     "lyrics_state": "complete",
+     "path": "/Aklf-flamewar-lyrics",
+     "pyongs_count": null,
+     "song_art_image_thumbnail_url": "https://images.genius.com/482cc3b735e70ea6be62ac3c2fcd0ac1.300x300x1.jpg",
+     "song_art_image_url": "https://images.genius.com/482cc3b735e70ea6be62ac3c2fcd0ac1.1000x1000x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 2,
+      "hot": false
+     },
+     "title": "Flamewar",
+     "title_with_featured": "Flamewar",
+     "url": "https://genius.com/Aklf-flamewar-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/609475",
+      "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+      "id": 609475,
+      "image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "AKLF",
+      "url": "https://genius.com/artists/Aklf"
+     }
+    },
+    {
+     "annotation_count": 2,
+     "api_path": "/songs/3681314",
+     "full_title": "Malibu by\u00a0Chad\u00a0Tepper & Jake Paul",
+     "header_image_thumbnail_url": "https://images.genius.com/e471ba60ba34cef9f2d603b24f27d9fc.300x300x1.jpg",
+     "header_image_url": "https://images.genius.com/e471ba60ba34cef9f2d603b24f27d9fc.313x313x1.jpg",
+     "id": 3681314,
+     "lyrics_owner_id": 6057438,
+     "lyrics_state": "complete",
+     "path": "/Chad-tepper-and-jake-paul-malibu-lyrics",
+     "pyongs_count": null,
+     "song_art_image_thumbnail_url": "https://images.genius.com/e471ba60ba34cef9f2d603b24f27d9fc.300x300x1.jpg",
+     "song_art_image_url": "https://images.genius.com/e471ba60ba34cef9f2d603b24f27d9fc.313x313x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 2,
+      "hot": false,
+      "pageviews": 10590
+     },
+     "title": "Malibu",
+     "title_with_featured": "Malibu",
+     "url": "https://genius.com/Chad-tepper-and-jake-paul-malibu-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/1459271",
+      "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+      "id": 1459271,
+      "image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Chad Tepper & Jake Paul",
+      "url": "https://genius.com/artists/Chad-tepper-and-jake-paul"
+     }
+    },
+    {
+     "annotation_count": 1,
+     "api_path": "/songs/4895259",
+     "full_title": "Dime by\u00a0Keifer",
+     "header_image_thumbnail_url": "https://images.genius.com/38172c03100be361a6f3443bffc4f3cd.300x300x1.jpg",
+     "header_image_url": "https://images.genius.com/38172c03100be361a6f3443bffc4f3cd.636x636x1.jpg",
+     "id": 4895259,
+     "lyrics_owner_id": 7874436,
+     "lyrics_state": "complete",
+     "path": "/Keifer-dime-lyrics",
+     "pyongs_count": null,
+     "song_art_image_thumbnail_url": "https://images.genius.com/38172c03100be361a6f3443bffc4f3cd.300x300x1.jpg",
+     "song_art_image_url": "https://images.genius.com/38172c03100be361a6f3443bffc4f3cd.636x636x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 1,
+      "hot": false
+     },
+     "title": "Dime",
+     "title_with_featured": "Dime",
+     "url": "https://genius.com/Keifer-dime-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/1719169",
+      "header_image_url": "https://images.genius.com/7e34b8d771e70330baf921dd7141bbed.478x598x1.jpg",
+      "id": 1719169,
+      "image_url": "https://images.genius.com/7c3af1d1adf0c0ab7d01fa7adda75410.500x500x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Keifer",
+      "url": "https://genius.com/artists/Keifer"
+     }
+    },
+    {
+     "annotation_count": 0,
+     "api_path": "/songs/5485237",
+     "full_title": "\"It's Everyday Bro\" but it's in Russian (Romanized) by\u00a0NFKRZ",
+     "header_image_thumbnail_url": "https://images.genius.com/4c89b43207c0a0ec468969577e9d31f6.300x169x1.jpg",
+     "header_image_url": "https://images.genius.com/4c89b43207c0a0ec468969577e9d31f6.1000x563x1.jpg",
+     "id": 5485237,
+     "lyrics_owner_id": 6924593,
+     "lyrics_state": "complete",
+     "path": "/Nfkrz-its-everyday-bro-but-its-in-russian-romanized-lyrics",
+     "pyongs_count": null,
+     "song_art_image_thumbnail_url": "https://images.genius.com/4c89b43207c0a0ec468969577e9d31f6.300x169x1.jpg",
+     "song_art_image_url": "https://images.genius.com/4c89b43207c0a0ec468969577e9d31f6.1000x563x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 0,
+      "hot": false
+     },
+     "title": "\u201cIt\u2019s Everyday Bro\u201d but it\u2019s in Russian (Romanized)",
+     "title_with_featured": "\"It's Everyday Bro\" but it's in Russian (Romanized)",
+     "url": "https://genius.com/Nfkrz-its-everyday-bro-but-its-in-russian-romanized-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/624632",
+      "header_image_url": "https://images.genius.com/42cc2c3efc81e9a0b9e0eafc1ba4b011.500x500x1.jpg",
+      "id": 624632,
+      "image_url": "https://images.genius.com/279708ecb0b686b2fe5dbadb3e01d30f.500x500x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "NFKRZ",
+      "url": "https://genius.com/artists/Nfkrz"
+     }
+    },
+    {
+     "annotation_count": 0,
+     "api_path": "/songs/5485297",
+     "full_title": "\u201cIt\u2019s Everyday Bro\u201d but it\u2019s in Russian by\u00a0NFKRZ",
+     "header_image_thumbnail_url": "https://images.genius.com/4c89b43207c0a0ec468969577e9d31f6.300x169x1.jpg",
+     "header_image_url": "https://images.genius.com/4c89b43207c0a0ec468969577e9d31f6.1000x563x1.jpg",
+     "id": 5485297,
+     "lyrics_owner_id": 6924593,
+     "lyrics_state": "complete",
+     "path": "/Nfkrz-its-everyday-bro-but-its-in-russian-lyrics",
+     "pyongs_count": null,
+     "song_art_image_thumbnail_url": "https://images.genius.com/4c89b43207c0a0ec468969577e9d31f6.300x169x1.jpg",
+     "song_art_image_url": "https://images.genius.com/4c89b43207c0a0ec468969577e9d31f6.1000x563x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 0,
+      "hot": false
+     },
+     "title": "\u201cIt\u2019s Everyday Bro\u201d but it\u2019s in Russian",
+     "title_with_featured": "\u201cIt\u2019s Everyday Bro\u201d but it\u2019s in Russian",
+     "url": "https://genius.com/Nfkrz-its-everyday-bro-but-its-in-russian-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/624632",
+      "header_image_url": "https://images.genius.com/42cc2c3efc81e9a0b9e0eafc1ba4b011.500x500x1.jpg",
+      "id": 624632,
+      "image_url": "https://images.genius.com/279708ecb0b686b2fe5dbadb3e01d30f.500x500x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "NFKRZ",
+      "url": "https://genius.com/artists/Nfkrz"
+     }
+    },
+    {
+     "annotation_count": 0,
+     "api_path": "/songs/5531750",
+     "full_title": "It\u2019s Not Everyday Bro (Jake Paul Diss Track) by\u00a0JMX\u00a0(Youtuber) (Ft.\u00a0Monstah & Quadeca)",
+     "header_image_thumbnail_url": "https://images.genius.com/7c707b51526527d1518c3d265568c77d.300x169x1.jpg",
+     "header_image_url": "https://images.genius.com/7c707b51526527d1518c3d265568c77d.1000x563x1.jpg",
+     "id": 5531750,
+     "lyrics_owner_id": 7841129,
+     "lyrics_state": "complete",
+     "path": "/Jmx-youtuber-its-not-everyday-bro-jake-paul-diss-track-lyrics",
+     "pyongs_count": null,
+     "song_art_image_thumbnail_url": "https://images.genius.com/7c707b51526527d1518c3d265568c77d.300x169x1.jpg",
+     "song_art_image_url": "https://images.genius.com/7c707b51526527d1518c3d265568c77d.1000x563x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 0,
+      "hot": false
+     },
+     "title": "It\u2019s Not Everyday Bro (Jake Paul Diss Track)",
+     "title_with_featured": "It\u2019s Not Everyday Bro (Jake Paul Diss Track) (Ft.\u00a0Monstah & Quadeca)",
+     "url": "https://genius.com/Jmx-youtuber-its-not-everyday-bro-jake-paul-diss-track-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/1256739",
+      "header_image_url": "https://images.genius.com/1bf87fb947f3b76bb6d354a180089351.490x490x1.png",
+      "id": 1256739,
+      "image_url": "https://images.genius.com/1bf87fb947f3b76bb6d354a180089351.490x490x1.png",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "JMX (Youtuber)",
+      "url": "https://genius.com/artists/Jmx-youtuber"
+     }
+    }
+   ]
+  },
+  {
+   "relationship_type": "cover_of",
+   "type": "cover_of",
+   "songs": []
+  },
+  {
+   "relationship_type": "covered_by",
+   "type": "covered_by",
+   "songs": []
+  },
+  {
+   "relationship_type": "remix_of",
+   "type": "remix_of",
+   "songs": []
+  },
+  {
+   "relationship_type": "remixed_by",
+   "type": "remixed_by",
+   "songs": [
+    {
+     "annotation_count": 7,
+     "api_path": "/songs/3118789",
+     "full_title": "It's Everyday Bro (Remix) by\u00a0Timothy\u00a0DelaGhetto",
+     "header_image_thumbnail_url": "https://images.genius.com/67c02b4128ec2cc3e13d8e8dd4f06ecd.300x300x1.jpg",
+     "header_image_url": "https://images.genius.com/67c02b4128ec2cc3e13d8e8dd4f06ecd.900x900x1.jpg",
+     "id": 3118789,
+     "lyrics_owner_id": 1434108,
+     "lyrics_state": "complete",
+     "path": "/Timothy-delaghetto-its-everyday-bro-remix-lyrics",
+     "pyongs_count": null,
+     "song_art_image_thumbnail_url": "https://images.genius.com/67c02b4128ec2cc3e13d8e8dd4f06ecd.300x300x1.jpg",
+     "song_art_image_url": "https://images.genius.com/67c02b4128ec2cc3e13d8e8dd4f06ecd.900x900x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 6,
+      "hot": false,
+      "pageviews": 7617
+     },
+     "title": "It\u2019s Everyday Bro (Remix)",
+     "title_with_featured": "It's Everyday Bro (Remix)",
+     "url": "https://genius.com/Timothy-delaghetto-its-everyday-bro-remix-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/18693",
+      "header_image_url": "https://images.genius.com/67c02b4128ec2cc3e13d8e8dd4f06ecd.900x900x1.jpg",
+      "id": 18693,
+      "image_url": "https://images.genius.com/67c02b4128ec2cc3e13d8e8dd4f06ecd.900x900x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Timothy DelaGhetto",
+      "url": "https://genius.com/artists/Timothy-delaghetto"
+     }
+    },
+    {
+     "annotation_count": 0,
+     "api_path": "/songs/3193729",
+     "full_title": "It's Everyday Bro (Megamix) by\u00a0FinnyFromFlickr",
+     "header_image_thumbnail_url": "https://images.genius.com/d064fa6fa5465dea5e106dbad0741903.300x300x1.png",
+     "header_image_url": "https://images.genius.com/d064fa6fa5465dea5e106dbad0741903.944x944x1.png",
+     "id": 3193729,
+     "lyrics_owner_id": 3633135,
+     "lyrics_state": "unreleased",
+     "path": "/Finnyfromflickr-its-everyday-bro-megamix-lyrics",
+     "pyongs_count": null,
+     "song_art_image_thumbnail_url": "https://images.genius.com/d064fa6fa5465dea5e106dbad0741903.300x300x1.png",
+     "song_art_image_url": "https://images.genius.com/d064fa6fa5465dea5e106dbad0741903.944x944x1.png",
+     "stats": {
+      "unreviewed_annotations": 0,
+      "hot": false
+     },
+     "title": "It\u2019s Everyday Bro (Megamix)",
+     "title_with_featured": "It's Everyday Bro (Megamix)",
+     "url": "https://genius.com/Finnyfromflickr-its-everyday-bro-megamix-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/1045050",
+      "header_image_url": "https://images.genius.com/49a58edb419abd021e055887312f2028.767x1000x1.jpg",
+      "id": 1045050,
+      "image_url": "https://images.genius.com/d064fa6fa5465dea5e106dbad0741903.944x944x1.png",
+      "is_meme_verified": false,
+      "is_verified": true,
+      "name": "FinnyFromFlickr",
+      "url": "https://genius.com/artists/Finnyfromflickr",
+      "iq": 18950
+     }
+    },
+    {
+     "annotation_count": 5,
+     "api_path": "/songs/3203829",
+     "full_title": "It\u2019s Everyday BrOOOHHH by\u00a0Big\u00a0Smoke (Ft.\u00a0Big\u00a0Smokton, Carl\u00a0Johnson & OG\u00a0Loc)",
+     "header_image_thumbnail_url": "https://images.genius.com/498cdef3a3615acc64ade47c604e03ee.300x300x1.jpg",
+     "header_image_url": "https://images.genius.com/498cdef3a3615acc64ade47c604e03ee.1000x1000x1.jpg",
+     "id": 3203829,
+     "lyrics_owner_id": 5041744,
+     "lyrics_state": "complete",
+     "path": "/Big-smoke-its-everyday-brooohhh-lyrics",
+     "pyongs_count": null,
+     "song_art_image_thumbnail_url": "https://images.genius.com/498cdef3a3615acc64ade47c604e03ee.300x300x1.jpg",
+     "song_art_image_url": "https://images.genius.com/498cdef3a3615acc64ade47c604e03ee.1000x1000x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 5,
+      "hot": false
+     },
+     "title": "It\u2019s Everyday BrOOOHHH",
+     "title_with_featured": "It\u2019s Everyday BrOOOHHH (Ft.\u00a0Big\u00a0Smokton, Carl\u00a0Johnson & OG\u00a0Loc)",
+     "url": "https://genius.com/Big-smoke-its-everyday-brooohhh-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/336219",
+      "header_image_url": "https://images.genius.com/de87159f2728ab3ed3f6245417f2eaf6.291x291x1.jpg",
+      "id": 336219,
+      "image_url": "https://images.genius.com/de87159f2728ab3ed3f6245417f2eaf6.291x291x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Big Smoke",
+      "url": "https://genius.com/artists/Big-smoke"
+     }
+    },
+    {
+     "annotation_count": 21,
+     "api_path": "/songs/3280922",
+     "full_title": "It's Everyday Bro (YBC Diss Track) by\u00a0MightyLaos",
+     "header_image_thumbnail_url": "https://images.genius.com/1b9c4740fe8e35b2a5bb8de5fb72d3b2.300x300x1.jpg",
+     "header_image_url": "https://images.genius.com/1b9c4740fe8e35b2a5bb8de5fb72d3b2.500x500x1.jpg",
+     "id": 3280922,
+     "lyrics_owner_id": 4025637,
+     "lyrics_state": "complete",
+     "path": "/Mightylaos-its-everyday-bro-ybc-diss-track-lyrics",
+     "pyongs_count": 1,
+     "song_art_image_thumbnail_url": "https://images.genius.com/1b9c4740fe8e35b2a5bb8de5fb72d3b2.300x300x1.jpg",
+     "song_art_image_url": "https://images.genius.com/1b9c4740fe8e35b2a5bb8de5fb72d3b2.500x500x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 21,
+      "hot": false
+     },
+     "title": "It\u2019s Everyday Bro (YBC Diss Track)",
+     "title_with_featured": "It's Everyday Bro (YBC Diss Track)",
+     "url": "https://genius.com/Mightylaos-its-everyday-bro-ybc-diss-track-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/1242338",
+      "header_image_url": "https://images.genius.com/e0a3ce1ccd9f5347e1531008488c553b.1000x1000x1.png",
+      "id": 1242338,
+      "image_url": "https://images.genius.com/637fc11f321a7cfb8170df82b6ac03a9.1000x1000x1.png",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "MightyLaos",
+      "url": "https://genius.com/artists/Mightylaos"
+     }
+    },
+    {
+     "annotation_count": 19,
+     "api_path": "/songs/3329906",
+     "full_title": "It's Everyday Bro (Remix) by\u00a0Jake\u00a0Paul (Ft.\u00a0Gucci\u00a0Mane)",
+     "header_image_thumbnail_url": "https://images.genius.com/375b72e81a43a4ac1b33a90bbf58b68c.300x300x1.jpg",
+     "header_image_url": "https://images.genius.com/375b72e81a43a4ac1b33a90bbf58b68c.1000x1000x1.jpg",
+     "id": 3329906,
+     "lyrics_owner_id": 2747527,
+     "lyrics_state": "complete",
+     "path": "/Jake-paul-its-everyday-bro-remix-lyrics",
+     "pyongs_count": 18,
+     "song_art_image_thumbnail_url": "https://images.genius.com/375b72e81a43a4ac1b33a90bbf58b68c.300x300x1.jpg",
+     "song_art_image_url": "https://images.genius.com/375b72e81a43a4ac1b33a90bbf58b68c.1000x1000x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 4,
+      "hot": false,
+      "pageviews": 121791
+     },
+     "title": "It\u2019s Everyday Bro (Remix)",
+     "title_with_featured": "It's Everyday Bro (Remix) (Ft.\u00a0Gucci\u00a0Mane)",
+     "url": "https://genius.com/Jake-paul-its-everyday-bro-remix-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/1147604",
+      "header_image_url": "https://images.genius.com/6db219f88cf333985d08811719d20834.1000x1000x1.jpg",
+      "id": 1147604,
+      "image_url": "https://images.genius.com/f4c76a2c556c80933b964761ecbfbf3a.640x640x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Jake Paul",
+      "url": "https://genius.com/artists/Jake-paul"
+     }
+    },
+    {
+     "annotation_count": 6,
+     "api_path": "/songs/3342316",
+     "full_title": "It's Christmas Day Bro by\u00a0Jake\u00a0Paul, Team 10 & Jerry Purpdrank (Ft.\u00a0Anthony\u00a0Trujillo, Chance\u00a0Sutton, Erika\u00a0Costell & Nick\u00a0Crompton)",
+     "header_image_thumbnail_url": "https://images.genius.com/5896f8b1071c6289598c771bc317c7e7.300x300x1.jpg",
+     "header_image_url": "https://images.genius.com/5896f8b1071c6289598c771bc317c7e7.630x630x1.jpg",
+     "id": 3342316,
+     "lyrics_owner_id": 2034060,
+     "lyrics_state": "complete",
+     "path": "/Jake-paul-team-10-and-jerry-purpdrank-its-christmas-day-bro-lyrics",
+     "pyongs_count": null,
+     "song_art_image_thumbnail_url": "https://images.genius.com/5896f8b1071c6289598c771bc317c7e7.300x300x1.jpg",
+     "song_art_image_url": "https://images.genius.com/5896f8b1071c6289598c771bc317c7e7.630x630x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 2,
+      "hot": false,
+      "pageviews": 41497
+     },
+     "title": "It\u2019s Christmas Day Bro",
+     "title_with_featured": "It's Christmas Day Bro (Ft.\u00a0Anthony\u00a0Trujillo, Chance\u00a0Sutton, Erika\u00a0Costell & Nick\u00a0Crompton)",
+     "url": "https://genius.com/Jake-paul-team-10-and-jerry-purpdrank-its-christmas-day-bro-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/1876478",
+      "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+      "id": 1876478,
+      "image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Jake Paul, Team 10 & Jerry Purpdrank",
+      "url": "https://genius.com/artists/Jake-paul-team-10-and-jerry-purpdrank"
+     }
+    },
+    {
+     "annotation_count": 2,
+     "api_path": "/songs/3394873",
+     "full_title": "It's Everyday Bro by\u00a0Lil'\u00a0Grymp",
+     "header_image_thumbnail_url": "https://images.genius.com/61518cc6b3e5f4632f5a53f42064f1d6.300x300x1.png",
+     "header_image_url": "https://images.genius.com/61518cc6b3e5f4632f5a53f42064f1d6.488x488x1.png",
+     "id": 3394873,
+     "lyrics_owner_id": 1505217,
+     "lyrics_state": "complete",
+     "path": "/Lil-grymp-its-everyday-bro-lyrics",
+     "pyongs_count": null,
+     "song_art_image_thumbnail_url": "https://images.genius.com/61518cc6b3e5f4632f5a53f42064f1d6.300x300x1.png",
+     "song_art_image_url": "https://images.genius.com/61518cc6b3e5f4632f5a53f42064f1d6.488x488x1.png",
+     "stats": {
+      "unreviewed_annotations": 2,
+      "hot": false
+     },
+     "title": "It\u2019s Everyday Bro",
+     "title_with_featured": "It's Everyday Bro",
+     "url": "https://genius.com/Lil-grymp-its-everyday-bro-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/1298783",
+      "header_image_url": "https://images.genius.com/37f28db917cc797664051d79fed36f3f.680x680x1.png",
+      "id": 1298783,
+      "image_url": "https://images.genius.com/37f28db917cc797664051d79fed36f3f.680x680x1.png",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Lil\u2019 Grymp",
+      "url": "https://genius.com/artists/Lil-grymp"
+     }
+    },
+    {
+     "annotation_count": 0,
+     "api_path": "/songs/4425631",
+     "full_title": "ITS EVERY WEEK BRO by\u00a0ReptileLegit",
+     "header_image_thumbnail_url": "https://images.genius.com/b67fb262b651ef6d3e14aa50922c62e0.300x300x1.jpg",
+     "header_image_url": "https://images.genius.com/b67fb262b651ef6d3e14aa50922c62e0.640x640x1.jpg",
+     "id": 4425631,
+     "lyrics_owner_id": 8196791,
+     "lyrics_state": "complete",
+     "path": "/Reptilelegit-its-every-week-bro-lyrics",
+     "pyongs_count": null,
+     "song_art_image_thumbnail_url": "https://images.genius.com/b67fb262b651ef6d3e14aa50922c62e0.300x300x1.jpg",
+     "song_art_image_url": "https://images.genius.com/b67fb262b651ef6d3e14aa50922c62e0.640x640x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 0,
+      "hot": false
+     },
+     "title": "ITS EVERY WEEK BRO",
+     "title_with_featured": "ITS EVERY WEEK BRO",
+     "url": "https://genius.com/Reptilelegit-its-every-week-bro-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/1457302",
+      "header_image_url": "https://images.genius.com/46c1ec551f71f8f52f4c33e01c438428.900x900x1.jpg",
+      "id": 1457302,
+      "image_url": "https://images.genius.com/b67fb262b651ef6d3e14aa50922c62e0.640x640x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": true,
+      "name": "ReptileLegit",
+      "url": "https://genius.com/artists/Reptilelegit",
+      "iq": 1862
+     }
+    },
+    {
+     "annotation_count": 0,
+     "api_path": "/songs/4738627",
+     "full_title": "It's Everyday Hoe* by\u00a0Tana\u00a0Mongeau",
+     "header_image_thumbnail_url": "https://images.genius.com/851519362f24ee4d77f001a5df9e26b2.300x300x1.jpg",
+     "header_image_url": "https://images.genius.com/851519362f24ee4d77f001a5df9e26b2.1000x1000x1.jpg",
+     "id": 4738627,
+     "lyrics_owner_id": 4328501,
+     "lyrics_state": "complete",
+     "path": "/Tana-mongeau-its-everyday-hoe-lyrics",
+     "pyongs_count": null,
+     "song_art_image_thumbnail_url": "https://images.genius.com/851519362f24ee4d77f001a5df9e26b2.300x300x1.jpg",
+     "song_art_image_url": "https://images.genius.com/851519362f24ee4d77f001a5df9e26b2.1000x1000x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 0,
+      "hot": false
+     },
+     "title": "It\u2019s Everyday Hoe*",
+     "title_with_featured": "It's Everyday Hoe*",
+     "url": "https://genius.com/Tana-mongeau-its-everyday-hoe-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/1054901",
+      "header_image_url": "https://images.genius.com/55dea9f636e70af26b7a219eeddf6067.1000x378x1.jpg",
+      "id": 1054901,
+      "image_url": "https://images.genius.com/851519362f24ee4d77f001a5df9e26b2.1000x1000x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Tana Mongeau",
+      "url": "https://genius.com/artists/Tana-mongeau"
+     }
+    }
+   ]
+  },
+  {
+   "relationship_type": "live_version_of",
+   "type": "live_version_of",
+   "songs": []
+  },
+  {
+   "relationship_type": "performed_live_as",
+   "type": "performed_live_as",
+   "songs": []
+  }
+ ],
+ "verified_annotations_by": [],
+ "verified_contributors": [],
+ "verified_lyrics_by": [],
+ "writer_artists": [
+  {
+   "api_path": "/artists/1432830",
+   "header_image_url": "https://images.genius.com/b277f5e6c564e64b1d5b8b1c441e0f2f.745x492x1.jpg",
+   "id": 1432830,
+   "image_url": "https://images.genius.com/ea1d8e5c2967db4fac49241096502358.1000x1000x1.jpg",
+   "is_meme_verified": false,
+   "is_verified": false,
+   "name": "YAYGO",
+   "url": "https://genius.com/artists/Yaygo"
+  },
+  {
+   "api_path": "/artists/1147604",
+   "header_image_url": "https://images.genius.com/6db219f88cf333985d08811719d20834.1000x1000x1.jpg",
+   "id": 1147604,
+   "image_url": "https://images.genius.com/f4c76a2c556c80933b964761ecbfbf3a.640x640x1.jpg",
+   "is_meme_verified": false,
+   "is_verified": false,
+   "name": "Jake Paul",
+   "url": "https://genius.com/artists/Jake-paul"
+  },
+  {
+   "api_path": "/artists/1202436",
+   "header_image_url": "https://images.genius.com/af16aa19d45bbf8944af5dc9c1717b5a.288x288x1.jpg",
+   "id": 1202436,
+   "image_url": "https://images.genius.com/af16aa19d45bbf8944af5dc9c1717b5a.288x288x1.jpg",
+   "is_meme_verified": false,
+   "is_verified": false,
+   "name": "Nick Crompton",
+   "url": "https://genius.com/artists/Nick-crompton"
+  },
+  {
+   "api_path": "/artists/1156373",
+   "header_image_url": "https://images.genius.com/ee32b6e82d95bea7c5421247babf4f0a.1000x667x1.jpg",
+   "id": 1156373,
+   "image_url": "https://images.genius.com/223057ef4fbe4bffe49b505ba5dc6709.288x288x1.jpg",
+   "is_meme_verified": false,
+   "is_verified": false,
+   "name": "Chance Sutton",
+   "url": "https://genius.com/artists/Chance-sutton"
+  },
+  {
+   "api_path": "/artists/1202434",
+   "header_image_url": "https://images.genius.com/db605b76edfdec4cd670bff9781b3150.409x346x1.jpg",
+   "id": 1202434,
+   "image_url": "https://images.genius.com/69f061ff4acda8327c85b576ae9c2bee.320x320x1.jpg",
+   "is_meme_verified": false,
+   "is_verified": false,
+   "name": "Ivan Martinez",
+   "url": "https://genius.com/artists/Ivan-martinez"
+  },
+  {
+   "api_path": "/artists/1202435",
+   "header_image_url": "https://images.genius.com/db605b76edfdec4cd670bff9781b3150.409x346x1.jpg",
+   "id": 1202435,
+   "image_url": "https://images.genius.com/2a5c52b09de02b7c12bdc723635ce09e.150x150x1.jpg",
+   "is_meme_verified": false,
+   "is_verified": false,
+   "name": "Emilio Martinez",
+   "url": "https://genius.com/artists/Emilio-martinez"
+  },
+  {
+   "api_path": "/artists/1156371",
+   "header_image_url": "https://images.genius.com/7d4f46a7b51c04504c05be6bb6678194.446x299x1.jpg",
+   "id": 1156371,
+   "image_url": "https://images.genius.com/3dde3310f90f79550876a3d143d29c01.956x956x1.jpg",
+   "is_meme_verified": false,
+   "is_verified": false,
+   "name": "Tessa Brooks",
+   "url": "https://genius.com/artists/Tessa-brooks"
+  }
+ ],
+ "lyrics": "Yah\nY'all can't handle this\nY'all don't know what's about to happen, baby\nTeam 10\nLos Angeles, Cali boy\nBut I'm from Ohio though, white boy\n\nIt's everyday bro, with the Disney Channel flow\nFive mill on YouTube in six months, never done before\nPassed all the competition, man, PewDiePie is next\nMan I'm poppin' all these checks, got the brand new Rolex\nAnd it match the Lambo too and I'm coming with the crew\nThis is Team 10, bitch, who the hell are flippin' you?\nAnd you know I kick them out if they ain't with the crew\nYeah, I'm talking about you, you beggin' for attention\nTalking shit on Twitter too but you still hit my phone last night\nIt was 4:52 and I got the text to prove\nAnd all the recordings too, don't make me tell them the truth\nAnd I just dropped some new merch, and it's selling like a god, church\nOhio's where I'm from, we chew 'em like it's gum\nWe shooting with a gun, the tattoo just for fun\nI Usain Bolt and run, catch me at game one\nI cannot be outdone, Jake Paul is number one\n\nIt's everyday bro\nIt's everyday bro\nIt's everyday bro\nI said it's everyday bro!\n\nYou know it's Nick Crompton and my collar stay poppin'\nYes, I can rap and no, I'm not from Compton\nEngland is my city\nAnd if it weren't for Team 10, then the US would be shitty\nI'll pass it to Chance 'cause you know he stay litty\n\nTwo months ago you didn't know my name\nAnd now you want my fame?\nBitch I'm blowin' up, I'm only going up\nNow I'm going off, I'm never fallin' off\nLike Mag, who? Digi who? Who are you?\nAll these beefs I just ran through, hit a milli in a month\nWhere were you? Hatin' on me back in West Fake\nThink you need to get your shit straight\nJakey brought me to the top, now we really poppin' off\nNumber one and number four, that's why these fans all at our door\nIt's lonely at the top so we all going\nWe left Ohio, now the trio is all rollin'\nIt's Team 10, bitch\nWe back again, always first, never last\nWe the future, we'll see you in the past\n\nIt's everyday bro\nIt's everyday bro\nIt's everyday bro\nI said it's everyday bro!\n\nHold on, hold on, hold on (Espera)\nCan we switch the language? (Ha, ya t\u00fa sabe')\nWe 'bout to hit it (Dale)\n\nS\u00ed, lo \u00fanico que quiero es dinero\nTrabajando en YouTube todo el d\u00eda entero (Dale)\nViviendo en U.S.A, el sue\u00f1o de cualquiera (Ha)\nEnviando d\u00f3lares a mi familia entera (Pasta)\nTenemos una persona por encima\nSe llama Donald Trump y est\u00e1 en la cima\nDesde aqu\u00ed te cantamos, can I get my VISA?\nMartinez Twins, representando Espa\u00f1a\nDesde la pobreza a la fama\n\nIt's everyday bro\nIt's everyday bro\nIt's everyday bro\nI said it's everyday bro!\n\nYo, it's Tessa Brooks\nThe competition shook\nThese guys up on me\nI got 'em with the hook\nLemme educate ya\nAnd I ain't talking book\nPanera is your home?\nSo, stop calling my phone\nI'm flyin' like a drone\nThey buying like a loan\nYeah, I smell good\nIs that your boy's cologne?\n\nIs that your boy's cologne?\nStarted balling', Quicken Loans\nNow I'm in my flippin' zone\nYes, they all copy me\nBut, that's some shitty clones\nStay in all designer clothes\nAnd they ask me what I make\nI said it's 10 with six zeros\nAlways plug, merch link in bio\nAnd I will see you tomorrow 'cause\nIt's everyday bro\nPeace"
+}

@@ -1,0 +1,3454 @@
+{
+ "_type": "song",
+ "annotation_count": 38,
+ "api_path": "/songs/207",
+ "full_title": "Lose Yourself by\u00a0Eminem",
+ "header_image_thumbnail_url": "https://images.genius.com/1bacb1a461026f4308a2c20fb9163abe.300x169x1.jpg",
+ "header_image_url": "https://images.genius.com/1bacb1a461026f4308a2c20fb9163abe.1000x563x1.jpg",
+ "id": 207,
+ "instrumental": false,
+ "lyrics_owner_id": 8,
+ "lyrics_state": "complete",
+ "lyrics_updated_at": 1604305442,
+ "path": "/Eminem-lose-yourself-lyrics",
+ "pyongs_count": 1345,
+ "song_art_image_thumbnail_url": "https://images.genius.com/ce61c1b2664c5952984e30f9b59f1346.300x300x1.png",
+ "song_art_image_url": "https://images.genius.com/ce61c1b2664c5952984e30f9b59f1346.1000x1000x1.png",
+ "stats": {
+  "accepted_annotations": 33,
+  "contributors": 571,
+  "iq_earners": 571,
+  "transcribers": 0,
+  "unreviewed_annotations": 0,
+  "verified_annotations": 4,
+  "concurrents": 8,
+  "hot": false,
+  "pageviews": 5103560
+ },
+ "title": "Lose Yourself",
+ "title_with_featured": "Lose Yourself",
+ "updated_by_human_at": 1606359465,
+ "url": "https://genius.com/Eminem-lose-yourself-lyrics",
+ "primary_artist": {
+  "api_path": "/artists/45",
+  "header_image_url": "https://images.genius.com/a9f98b20f8aa7a32650a1dfa5f3de088.1000x445x1.jpg",
+  "id": 45,
+  "image_url": "https://images.genius.com/f300798551b97fe030876123afb8c33a.805x805x1.jpg",
+  "is_meme_verified": true,
+  "is_verified": true,
+  "name": "Eminem",
+  "url": "https://genius.com/artists/Eminem",
+  "iq": 214212
+ },
+ "apple_music_id": "1445727316",
+ "apple_music_player_url": "https://genius.com/songs/207/apple_music_player",
+ "description": {
+  "plain": "\u201cLose Yourself\u201d is the theme song from Eminem\u2019s semi-biographical movie 8 Mile. It\u2019s considered one of Eminem\u2019s best songs\u2014if not his best song\u2014and is also his biggest hit to date.\n\nWritten between breaks on the set of 8 Mile, engineer Steven King claimed all three verses were rapped \u201cin one take\"\u2014but Eminem has since shed doubt on that claim. The beat was older than the song though\u2014Em actually recorded a completely different version of the song over the beat. The demo was eventually released in 2014, dubbed \u201cOriginal Demo Version,\u201d as part of the SHADY XV compilation album\u2014but that version was more like a dance song.\n\n\u201cLose Yourself\u201d reached #1 in 20 countries \u2013 Eminem\u2019s first in the US, holding the top position for 12 weeks, making it become the third-longest chart topper from a movie soundtrack (behind \u201cI Will Always Love You\u201d and \u201cEnd Of The Road\u201d). It became the first rap song to win the Academy Award for Best Original Song, won two Grammys (Best Male Rap Solo Performance & Best Rap Song), and has since been certified Diamond (10x Multi-Platinum) in the United States.\n\nThe song was used in an iconic Apple iPod commercial and an instrumental version was used in a Chrysler Super Bowl ad that featured Em. It was also performed at the 2020 Academy Awards.\n\nThe entire rhyme scheme of this song can be found here."
+ },
+ "embed_content": "<div id='rg_embed_link_207' class='rg_embed_link' data-song-id='207'>Read <a href='https://genius.com/Eminem-lose-yourself-lyrics'>\u201cLose Yourself\u201d by Eminem</a> on Genius</div> <script crossorigin src='//genius.com/songs/207/embed.js'></script>",
+ "fact_track": {
+  "provider": "spotify",
+  "external_url": "https://open.spotify.com/track/7w9bgPAmPTtrkt2v16QWvQ",
+  "button_text": "Behind the Lyrics in Spotify",
+  "help_link_text": "What's a Fact Track?",
+  "help_link_url": "https://genius.com/a/genius-and-spotify-together"
+ },
+ "featured_video": true,
+ "lyrics_placeholder_reason": null,
+ "recording_location": "Detroit, Michigan",
+ "release_date": "2002-10-28",
+ "release_date_for_display": "October 28, 2002",
+ "current_user_metadata": {
+  "permissions": [
+   "see_pageviews",
+   "watch_fact_track",
+   "view_apple_music_player",
+   "create_comment",
+   "view_song_story_gallery"
+  ],
+  "excluded_permissions": [
+   "follow",
+   "award_transcription_iq",
+   "remove_transcription_iq",
+   "pyong",
+   "edit_lyrics",
+   "view_annotation_engagement_data",
+   "publish",
+   "unpublish",
+   "edit_spotify_details",
+   "hide",
+   "unhide",
+   "toggle_featured_video",
+   "add_pinned_annotation_to",
+   "add_community_annotation_to",
+   "destroy",
+   "mark_as_not_spam",
+   "edit_spotify_annotations_for",
+   "verify_lyrics",
+   "unverify_lyrics",
+   "edit_anything",
+   "edit_any_media",
+   "edit",
+   "rename",
+   "edit_tags",
+   "reindex",
+   "view_lyrics_synchronization",
+   "enable_media",
+   "disable_media",
+   "edit_lyrics_or_annotation_brackets",
+   "see_editorial_indicators",
+   "view_attribution_visualization",
+   "edit_annotation_brackets",
+   "preview_lyrics_for_export",
+   "hide_apple_player",
+   "unhide_apple_player",
+   "trigger_apple_match",
+   "mark_lyrics_evaluation_as_approved",
+   "mark_lyrics_evaluation_as_staff_approved",
+   "mark_lyrics_evaluation_as_unapproved",
+   "mark_lyrics_evaluation_as_un_staff_approved",
+   "view_transcriber_media_player",
+   "override_apple_match",
+   "edit_youtube_url",
+   "edit_soundcloud_url",
+   "edit_spotify_uuid",
+   "edit_vevo_url",
+   "moderate_annotations",
+   "create_annotation",
+   "see_short_id",
+   "manage_chart_item",
+   "create_tag",
+   "propose_lyrics_edit",
+   "moderate_lyrics_edit_proposals",
+   "preview_react_song_page"
+  ],
+  "interactions": {
+   "pyong": false,
+   "following": false
+  },
+  "relationships": {},
+  "iq_by_action": {}
+ },
+ "album": {
+  "api_path": "/albums/452012",
+  "cover_art_url": "https://images.genius.com/40ebb43e7d534ce34282bdc8027ea273.1000x1000x1.png",
+  "full_title": "The Singles by Eminem",
+  "id": 452012,
+  "name": "The Singles",
+  "url": "https://genius.com/albums/Eminem/The-singles",
+  "artist": {
+   "api_path": "/artists/45",
+   "header_image_url": "https://images.genius.com/a9f98b20f8aa7a32650a1dfa5f3de088.1000x445x1.jpg",
+   "id": 45,
+   "image_url": "https://images.genius.com/f300798551b97fe030876123afb8c33a.805x805x1.jpg",
+   "is_meme_verified": true,
+   "is_verified": true,
+   "name": "Eminem",
+   "url": "https://genius.com/artists/Eminem",
+   "iq": 214212
+  }
+ },
+ "custom_performances": [
+  {
+   "label": "Performance Rights",
+   "artists": [
+    {
+     "api_path": "/artists/1138091",
+     "header_image_url": "https://images.genius.com/5b84dbf7ba86e59c297143f076a56c9a.1000x1000x1.jpg",
+     "id": 1138091,
+     "image_url": "https://images.genius.com/051b0a6beabf8a9eb8768e9f874a542f.1000x1000x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "BMI",
+     "url": "https://genius.com/artists/Bmi"
+    },
+    {
+     "api_path": "/artists/551598",
+     "header_image_url": "https://images.genius.com/067d9bccf2ab6e5eded129861b73d9dc.851x315x1.jpg",
+     "id": 551598,
+     "image_url": "https://images.genius.com/5f24e8e67904faef419d736f2ade3f78.1000x1000x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "ASCAP",
+     "url": "https://genius.com/artists/Ascap"
+    }
+   ]
+  },
+  {
+   "label": "Publisher",
+   "artists": [
+    {
+     "api_path": "/artists/650213",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+     "id": 650213,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Resto World Music",
+     "url": "https://genius.com/artists/Resto-world-music"
+    },
+    {
+     "api_path": "/artists/1179023",
+     "header_image_url": "https://images.genius.com/92e4ea9ba616ee53bae21dc2e037a1e2.1000x1000x1.jpg",
+     "id": 1179023,
+     "image_url": "https://images.genius.com/f19c358ac9db989328ffc9a3de85bbd4.1000x1000x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Kobalt Music",
+     "url": "https://genius.com/artists/Kobalt-music"
+    },
+    {
+     "api_path": "/artists/645760",
+     "header_image_url": "https://images.genius.com/9df8a021a47a9fd63fe60f6310e65588.900x900x1.jpg",
+     "id": 645760,
+     "image_url": "https://images.genius.com/9df8a021a47a9fd63fe60f6310e65588.900x900x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Eight Mile Style",
+     "url": "https://genius.com/artists/Eight-mile-style"
+    }
+   ]
+  },
+  {
+   "label": "Label",
+   "artists": [
+    {
+     "api_path": "/artists/1136259",
+     "header_image_url": "https://images.genius.com/0cdf9c00e6a53abaf3ecffbf77c4e04e.1000x500x1.jpg",
+     "id": 1136259,
+     "image_url": "https://images.genius.com/ce0ff7521d657a567e4d76a5bb6f4508.304x304x1.png",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Aftermath Entertainment",
+     "url": "https://genius.com/artists/Aftermath-entertainment"
+    },
+    {
+     "api_path": "/artists/143985",
+     "header_image_url": "https://images.genius.com/c7a691a6809b3cce9022619f4d3747ca.1000x688x1.jpg",
+     "id": 143985,
+     "image_url": "https://images.genius.com/daaa59b352d3a7851989c290cd5d0b2e.667x667x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Shady Records",
+     "url": "https://genius.com/artists/Shady-records"
+    },
+    {
+     "api_path": "/artists/143490",
+     "header_image_url": "https://images.genius.com/20ee0dc07918a750d532b2316361d3a2.1000x333x1.jpg",
+     "id": 143490,
+     "image_url": "https://images.genius.com/f28d415a7f5f966f5814e7c07cf8dc23.271x271x1.jpg",
+     "is_meme_verified": true,
+     "is_verified": true,
+     "name": "Interscope Records",
+     "url": "https://genius.com/artists/Interscope-records",
+     "iq": 175
+    }
+   ]
+  },
+  {
+   "label": "Keyboard",
+   "artists": [
+    {
+     "api_path": "/artists/33782",
+     "header_image_url": "https://images.genius.com/b11dcb349ce12ee3fb1e6ac903756351.1000x698x1.jpg",
+     "id": 33782,
+     "image_url": "https://images.genius.com/93b6573df63cc5675a8273d131b00b1f.1000x1000x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Luis Resto",
+     "url": "https://genius.com/artists/Luis-resto"
+    },
+    {
+     "api_path": "/artists/14558",
+     "header_image_url": "https://s3.amazonaws.com/rapgenius/1362081103_2391707.jpg",
+     "id": 14558,
+     "image_url": "https://s3.amazonaws.com/rapgenius/1362081103_2391707.jpg",
+     "is_meme_verified": true,
+     "is_verified": true,
+     "name": "Jeff Bass",
+     "url": "https://genius.com/artists/Jeff-bass",
+     "iq": 100
+    }
+   ]
+  },
+  {
+   "label": "Programmer",
+   "artists": [
+    {
+     "api_path": "/artists/33782",
+     "header_image_url": "https://images.genius.com/b11dcb349ce12ee3fb1e6ac903756351.1000x698x1.jpg",
+     "id": 33782,
+     "image_url": "https://images.genius.com/93b6573df63cc5675a8273d131b00b1f.1000x1000x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Luis Resto",
+     "url": "https://genius.com/artists/Luis-resto"
+    }
+   ]
+  },
+  {
+   "label": "Co-Producer",
+   "artists": [
+    {
+     "api_path": "/artists/14558",
+     "header_image_url": "https://s3.amazonaws.com/rapgenius/1362081103_2391707.jpg",
+     "id": 14558,
+     "image_url": "https://s3.amazonaws.com/rapgenius/1362081103_2391707.jpg",
+     "is_meme_verified": true,
+     "is_verified": true,
+     "name": "Jeff Bass",
+     "url": "https://genius.com/artists/Jeff-bass",
+     "iq": 100
+    }
+   ]
+  },
+  {
+   "label": "Drum Programmer",
+   "artists": [
+    {
+     "api_path": "/artists/45",
+     "header_image_url": "https://images.genius.com/a9f98b20f8aa7a32650a1dfa5f3de088.1000x445x1.jpg",
+     "id": 45,
+     "image_url": "https://images.genius.com/f300798551b97fe030876123afb8c33a.805x805x1.jpg",
+     "is_meme_verified": true,
+     "is_verified": true,
+     "name": "Eminem",
+     "url": "https://genius.com/artists/Eminem",
+     "iq": 214212
+    }
+   ]
+  },
+  {
+   "label": "Mixing Engineer",
+   "artists": [
+    {
+     "api_path": "/artists/45",
+     "header_image_url": "https://images.genius.com/a9f98b20f8aa7a32650a1dfa5f3de088.1000x445x1.jpg",
+     "id": 45,
+     "image_url": "https://images.genius.com/f300798551b97fe030876123afb8c33a.805x805x1.jpg",
+     "is_meme_verified": true,
+     "is_verified": true,
+     "name": "Eminem",
+     "url": "https://genius.com/artists/Eminem",
+     "iq": 214212
+    },
+    {
+     "api_path": "/artists/558736",
+     "header_image_url": "https://images.genius.com/8d9c7bbd872cb0a5714f436da23f9df0.267x267x1.jpg",
+     "id": 558736,
+     "image_url": "https://images.genius.com/8d9c7bbd872cb0a5714f436da23f9df0.267x267x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Steve King",
+     "url": "https://genius.com/artists/Steve-king"
+    }
+   ]
+  },
+  {
+   "label": "Recording Engineer",
+   "artists": [
+    {
+     "api_path": "/artists/644202",
+     "header_image_url": "https://images.genius.com/101f253fca546d742a5a4e5299d1b06b.300x300x1.jpg",
+     "id": 644202,
+     "image_url": "https://images.genius.com/101f253fca546d742a5a4e5299d1b06b.300x300x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Mike Strange",
+     "url": "https://genius.com/artists/Mike-strange"
+    },
+    {
+     "api_path": "/artists/558736",
+     "header_image_url": "https://images.genius.com/8d9c7bbd872cb0a5714f436da23f9df0.267x267x1.jpg",
+     "id": 558736,
+     "image_url": "https://images.genius.com/8d9c7bbd872cb0a5714f436da23f9df0.267x267x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Steve King",
+     "url": "https://genius.com/artists/Steve-king"
+    }
+   ]
+  },
+  {
+   "label": "Mastering Engineer",
+   "artists": [
+    {
+     "api_path": "/artists/637914",
+     "header_image_url": "https://images.genius.com/9ed2a5315fe0d92d7047de8f72fc66ff.508x800x1.jpg",
+     "id": 637914,
+     "image_url": "https://images.genius.com/83484709e5b3cacf10774eb0639fcc7d.508x508x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Brian Gardner",
+     "url": "https://genius.com/artists/Brian-gardner"
+    }
+   ]
+  },
+  {
+   "label": "Mastered at",
+   "artists": [
+    {
+     "api_path": "/artists/1411469",
+     "header_image_url": "https://images.genius.com/3b7ebc0fda29a016e0dfb0fc34a0026a.300x143x1.jpg",
+     "id": 1411469,
+     "image_url": "https://images.genius.com/2cdc1acdfc0bf916b34883c32c1ce5eb.150x150x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Bernie Grundman Mastering",
+     "url": "https://genius.com/artists/Bernie-grundman-mastering"
+    }
+   ]
+  },
+  {
+   "label": "Mixed At",
+   "artists": [
+    {
+     "api_path": "/artists/670058",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+     "id": 670058,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "54 Sound",
+     "url": "https://genius.com/artists/54-sound"
+    }
+   ]
+  },
+  {
+   "label": "Bass",
+   "artists": [
+    {
+     "api_path": "/artists/14558",
+     "header_image_url": "https://s3.amazonaws.com/rapgenius/1362081103_2391707.jpg",
+     "id": 14558,
+     "image_url": "https://s3.amazonaws.com/rapgenius/1362081103_2391707.jpg",
+     "is_meme_verified": true,
+     "is_verified": true,
+     "name": "Jeff Bass",
+     "url": "https://genius.com/artists/Jeff-bass",
+     "iq": 100
+    }
+   ]
+  },
+  {
+   "label": "Guitar",
+   "artists": [
+    {
+     "api_path": "/artists/14558",
+     "header_image_url": "https://s3.amazonaws.com/rapgenius/1362081103_2391707.jpg",
+     "id": 14558,
+     "image_url": "https://s3.amazonaws.com/rapgenius/1362081103_2391707.jpg",
+     "is_meme_verified": true,
+     "is_verified": true,
+     "name": "Jeff Bass",
+     "url": "https://genius.com/artists/Jeff-bass",
+     "iq": 100
+    }
+   ]
+  }
+ ],
+ "description_annotation": {
+  "_type": "referent",
+  "annotator_id": 8,
+  "annotator_login": "BergmanSenior",
+  "api_path": "/referents/3489948",
+  "classification": "accepted",
+  "fragment": "Lose Yourself",
+  "id": 3489948,
+  "is_description": true,
+  "path": "/3489948/Eminem-lose-yourself/Lose-yourself",
+  "range": {
+   "content": "Lose Yourself"
+  },
+  "song_id": 207,
+  "url": "https://genius.com/3489948/Eminem-lose-yourself/Lose-yourself",
+  "verified_annotator_ids": [],
+  "annotatable": {
+   "api_path": "/songs/207",
+   "client_timestamps": {
+    "updated_by_human_at": 1606359465,
+    "lyrics_updated_at": 1604305442
+   },
+   "context": "Eminem",
+   "id": 207,
+   "image_url": "https://images.genius.com/ce61c1b2664c5952984e30f9b59f1346.1000x1000x1.png",
+   "link_title": "Lose Yourself by\u00a0Eminem",
+   "title": "Lose Yourself",
+   "type": "Song",
+   "url": "https://genius.com/Eminem-lose-yourself-lyrics"
+  },
+  "annotations": [
+   {
+    "api_path": "/annotations/3489948",
+    "body": {
+     "plain": "\u201cLose Yourself\u201d is the theme song from Eminem\u2019s semi-biographical movie 8 Mile. It\u2019s considered one of Eminem\u2019s best songs\u2014if not his best song\u2014and is also his biggest hit to date.\n\nWritten between breaks on the set of 8 Mile, engineer Steven King claimed all three verses were rapped \u201cin one take\"\u2014but Eminem has since shed doubt on that claim. The beat was older than the song though\u2014Em actually recorded a completely different version of the song over the beat. The demo was eventually released in 2014, dubbed \u201cOriginal Demo Version,\u201d as part of the SHADY XV compilation album\u2014but that version was more like a dance song.\n\n\u201cLose Yourself\u201d reached #1 in 20 countries \u2013 Eminem\u2019s first in the US, holding the top position for 12 weeks, making it become the third-longest chart topper from a movie soundtrack (behind \u201cI Will Always Love You\u201d and \u201cEnd Of The Road\u201d). It became the first rap song to win the Academy Award for Best Original Song, won two Grammys (Best Male Rap Solo Performance & Best Rap Song), and has since been certified Diamond (10x Multi-Platinum) in the United States.\n\nThe song was used in an iconic Apple iPod commercial and an instrumental version was used in a Chrysler Super Bowl ad that featured Em. It was also performed at the 2020 Academy Awards.\n\nThe entire rhyme scheme of this song can be found here."
+    },
+    "comment_count": 3,
+    "community": true,
+    "custom_preview": null,
+    "has_voters": true,
+    "id": 3489948,
+    "pinned": false,
+    "share_url": "https://genius.com/3489948",
+    "source": null,
+    "state": "accepted",
+    "url": "https://genius.com/3489948/Eminem-lose-yourself/Lose-yourself",
+    "verified": false,
+    "votes_total": 631,
+    "current_user_metadata": {
+     "permissions": [
+      "create_comment"
+     ],
+     "excluded_permissions": [
+      "vote",
+      "edit",
+      "cosign",
+      "uncosign",
+      "destroy",
+      "accept",
+      "reject",
+      "see_unreviewed",
+      "clear_votes",
+      "propose_edit_to",
+      "pin_to_profile",
+      "unpin_from_profile",
+      "update_source",
+      "edit_custom_preview"
+     ],
+     "interactions": {
+      "cosign": false,
+      "pyong": false,
+      "vote": null
+     },
+     "iq_by_action": {}
+    },
+    "authors": [
+     {
+      "attribution": 0.2571428571428572,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/325189",
+       "avatar": {
+        "tiny": {
+         "url": "https://images.genius.com/avatars/tiny/e4c300054daec5c64f107d687e2b5648",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://images.genius.com/avatars/thumb/e4c300054daec5c64f107d687e2b5648",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://images.genius.com/avatars/small/e4c300054daec5c64f107d687e2b5648",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://images.genius.com/avatars/medium/e4c300054daec5c64f107d687e2b5648",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://images.genius.com/avatars/medium/e4c300054daec5c64f107d687e2b5648",
+       "human_readable_role_for_display": "Staff",
+       "id": 325189,
+       "iq": 77083,
+       "login": "Incilin",
+       "name": "Insanul Ahmed",
+       "role_for_display": "staff",
+       "url": "https://genius.com/Incilin",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     },
+     {
+      "attribution": 0.14285714285714288,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/205320",
+       "avatar": {
+        "tiny": {
+         "url": "https://images.genius.com/avatars/tiny/a6daec522ab67899dd7624783d02d9e4",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://images.genius.com/avatars/thumb/a6daec522ab67899dd7624783d02d9e4",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://images.genius.com/avatars/small/a6daec522ab67899dd7624783d02d9e4",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://images.genius.com/avatars/medium/a6daec522ab67899dd7624783d02d9e4",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/o9GtkFnLTxm0NuxhJbog_wallace-sky080905.jpg",
+       "human_readable_role_for_display": "Contributor",
+       "id": 205320,
+       "iq": 87370,
+       "login": "2Gatz",
+       "name": "2Gatz",
+       "role_for_display": "contributor",
+       "url": "https://genius.com/2Gatz",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     },
+     {
+      "attribution": 0.1306122448979592,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/1884245",
+       "avatar": {
+        "tiny": {
+         "url": "https://images.genius.com/avatars/tiny/580d4987e62dee3e3a7586f787d7e655",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://images.genius.com/avatars/thumb/580d4987e62dee3e3a7586f787d7e655",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://images.genius.com/avatars/small/580d4987e62dee3e3a7586f787d7e655",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://images.genius.com/avatars/medium/580d4987e62dee3e3a7586f787d7e655",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://images.genius.com/a50b2b29a755904448140c3e47aa0c04.1000x554x1.jpg",
+       "human_readable_role_for_display": "Editor",
+       "id": 1884245,
+       "iq": 115836,
+       "login": "sadchild",
+       "name": "Sadchild",
+       "role_for_display": "editor",
+       "url": "https://genius.com/sadchild",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     },
+     {
+      "attribution": 0.10612244897959183,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/458792",
+       "avatar": {
+        "tiny": {
+         "url": "https://images.genius.com/avatars/tiny/e2bd00d48b48b2489eb3f2a969dd1ed3",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://images.genius.com/avatars/thumb/e2bd00d48b48b2489eb3f2a969dd1ed3",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://images.genius.com/avatars/small/e2bd00d48b48b2489eb3f2a969dd1ed3",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://images.genius.com/avatars/medium/e2bd00d48b48b2489eb3f2a969dd1ed3",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://images.genius.com/e8a303ab79861711fb6aa79f1e231f90.960x617x1.jpg",
+       "human_readable_role_for_display": "Moderator",
+       "id": 458792,
+       "iq": 335865,
+       "login": "Skhills",
+       "name": "Skhills #BlackLivesMatter",
+       "role_for_display": "moderator",
+       "url": "https://genius.com/Skhills",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     },
+     {
+      "attribution": 0.0653061224489796,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/8",
+       "avatar": {
+        "tiny": {
+         "url": "https://s3.amazonaws.com/rapgenius/avatars/tiny/8_profile%20photo.jpg",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://s3.amazonaws.com/rapgenius/avatars/thumb/1358288275_8_profile%20photo.jpg",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://s3.amazonaws.com/rapgenius/avatars/small/1358288275_8_profile%20photo.jpg",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://s3.amazonaws.com/rapgenius/avatars/medium/1358288274_8_profile%20photo.jpg",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://s3.amazonaws.com/rapgenius/avatars/medium/1358288274_8_profile%20photo.jpg",
+       "human_readable_role_for_display": "Contributor",
+       "id": 8,
+       "iq": 12447,
+       "login": "BergmanSenior",
+       "name": "BergmanSenior",
+       "role_for_display": "contributor",
+       "url": "https://genius.com/BergmanSenior",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     },
+     {
+      "attribution": 0.05714285714285714,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/1267225",
+       "avatar": {
+        "tiny": {
+         "url": "https://images.rapgenius.com/avatars/tiny/c85ea0ddfc4de23e2ab28b3599a84053",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://images.rapgenius.com/avatars/thumb/c85ea0ddfc4de23e2ab28b3599a84053",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://images.rapgenius.com/avatars/small/c85ea0ddfc4de23e2ab28b3599a84053",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://images.rapgenius.com/avatars/medium/c85ea0ddfc4de23e2ab28b3599a84053",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://images.rapgenius.com/avatars/medium/c85ea0ddfc4de23e2ab28b3599a84053",
+       "human_readable_role_for_display": "Contributor",
+       "id": 1267225,
+       "iq": 2518,
+       "login": "Intruder",
+       "name": "Intruder",
+       "role_for_display": "contributor",
+       "url": "https://genius.com/Intruder",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     },
+     {
+      "attribution": 0.05714285714285714,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/1186848",
+       "avatar": {
+        "tiny": {
+         "url": "https://images.genius.com/avatars/tiny/ea7a2ef3b7d159455cc9ff13abc2c674",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://images.genius.com/avatars/thumb/ea7a2ef3b7d159455cc9ff13abc2c674",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://images.genius.com/avatars/small/ea7a2ef3b7d159455cc9ff13abc2c674",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://images.genius.com/avatars/medium/ea7a2ef3b7d159455cc9ff13abc2c674",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://images.genius.com/ae151e16213edfb900e791d4e4b1b14a.750x1000x1.jpg",
+       "human_readable_role_for_display": "Editor",
+       "id": 1186848,
+       "iq": 53387,
+       "login": "Stereochrome",
+       "name": "VideoKilledTheStereochrome",
+       "role_for_display": "editor",
+       "url": "https://genius.com/Stereochrome",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     },
+     {
+      "attribution": 0.05714285714285714,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/50988",
+       "avatar": {
+        "tiny": {
+         "url": "https://images.rapgenius.com/avatars/tiny/8bccae9a677b2659c31cc151b5e4bfd8",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://images.rapgenius.com/avatars/thumb/8bccae9a677b2659c31cc151b5e4bfd8",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://images.rapgenius.com/avatars/small/8bccae9a677b2659c31cc151b5e4bfd8",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://images.rapgenius.com/avatars/medium/8bccae9a677b2659c31cc151b5e4bfd8",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://images.rapgenius.com/avatars/medium/8bccae9a677b2659c31cc151b5e4bfd8",
+       "human_readable_role_for_display": "Editor",
+       "id": 50988,
+       "iq": 164540,
+       "login": "nietzsche",
+       "name": "Briansusername",
+       "role_for_display": "editor",
+       "url": "https://genius.com/nietzsche",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     },
+     {
+      "attribution": 0.053061224489795916,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/346807",
+       "avatar": {
+        "tiny": {
+         "url": "https://images.rapgenius.com/avatars/tiny/4f4ebb1b7ec8c9c1423dd9d456c4e2c0",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://images.rapgenius.com/avatars/thumb/4f4ebb1b7ec8c9c1423dd9d456c4e2c0",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://images.rapgenius.com/avatars/small/4f4ebb1b7ec8c9c1423dd9d456c4e2c0",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://images.rapgenius.com/avatars/medium/4f4ebb1b7ec8c9c1423dd9d456c4e2c0",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://images.rapgenius.com/avatars/medium/4f4ebb1b7ec8c9c1423dd9d456c4e2c0",
+       "human_readable_role_for_display": "Contributor",
+       "id": 346807,
+       "iq": 2970,
+       "login": "EasYak",
+       "name": "EasYak the Revealer",
+       "role_for_display": "contributor",
+       "url": "https://genius.com/EasYak",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     },
+     {
+      "attribution": 0.02857142857142857,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/7995859",
+       "avatar": {
+        "tiny": {
+         "url": "https://images.genius.com/avatars/tiny/4ca948d5544c6a6f73efed64ad49d2e2",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://images.genius.com/avatars/thumb/4ca948d5544c6a6f73efed64ad49d2e2",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://images.genius.com/avatars/small/4ca948d5544c6a6f73efed64ad49d2e2",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://images.genius.com/avatars/medium/4ca948d5544c6a6f73efed64ad49d2e2",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://images.genius.com/avatars/medium/4ca948d5544c6a6f73efed64ad49d2e2",
+       "human_readable_role_for_display": "Contributor",
+       "id": 7995859,
+       "iq": 9958,
+       "login": "TorranceOnGenius",
+       "name": "TV Torrance",
+       "role_for_display": "contributor",
+       "url": "https://genius.com/TorranceOnGenius",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     },
+     {
+      "attribution": 0.02448979591836735,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/127862",
+       "avatar": {
+        "tiny": {
+         "url": "https://images.genius.com/avatars/tiny/97fd2a04f49a3707f9efe1c76cd3b292",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://images.genius.com/avatars/thumb/97fd2a04f49a3707f9efe1c76cd3b292",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://images.genius.com/avatars/small/97fd2a04f49a3707f9efe1c76cd3b292",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://images.genius.com/avatars/medium/97fd2a04f49a3707f9efe1c76cd3b292",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://images.genius.com/006697c6143f33d06ebbd245ff9d268d.1000x1000x1.jpg",
+       "human_readable_role_for_display": "Staff",
+       "id": 127862,
+       "iq": 527377,
+       "login": "Michael",
+       "name": "Michael Heal",
+       "role_for_display": "staff",
+       "url": "https://genius.com/Michael",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     },
+     {
+      "attribution": 0.020408163265306124,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/1490398",
+       "avatar": {
+        "tiny": {
+         "url": "https://images.genius.com/avatars/tiny/b0d392fd278025a288fe57cccce86290",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://images.genius.com/avatars/thumb/b0d392fd278025a288fe57cccce86290",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://images.genius.com/avatars/small/b0d392fd278025a288fe57cccce86290",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://images.genius.com/avatars/medium/b0d392fd278025a288fe57cccce86290",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://images.genius.com/2cb0d7224b88865c19b2afe4fb5b30bc.640x427x1.jpg",
+       "human_readable_role_for_display": "Editor",
+       "id": 1490398,
+       "iq": 121224,
+       "login": "angelated",
+       "name": "Angela D",
+       "role_for_display": "editor",
+       "url": "https://genius.com/angelated",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     }
+    ],
+    "cosigned_by": [],
+    "rejection_comment": null,
+    "verified_by": null
+   }
+  ]
+ },
+ "featured_artists": [],
+ "lyrics_marked_complete_by": {
+  "api_path": "/users/2976672",
+  "avatar": {
+   "tiny": {
+    "url": "https://i.genius.com/de04298412fbfab0ac172efc5ac153ae40a00ca1?url=https%3A%2F%2Fwww.filepicker.io%2Fapi%2Ffile%2FZaAj5CES1GN39GENWgiz%3Fpolicy%3DeyJleHBpcnkiOjIzNTEwOTE1NTgsImNhbGwiOlsicGljayIsInJlYWQiLCJzdG9yZSIsInN0YXQiLCJjb252ZXJ0Il19%26signature%3D68597b455e6c09bce0bfd73f758e299c95d49a5d5c8e808aaf4877da7801c4da",
+    "bounding_box": {
+     "width": 16,
+     "height": 16
+    }
+   },
+   "thumb": {
+    "url": "https://i.genius.com/de04298412fbfab0ac172efc5ac153ae40a00ca1?url=https%3A%2F%2Fwww.filepicker.io%2Fapi%2Ffile%2FZaAj5CES1GN39GENWgiz%3Fpolicy%3DeyJleHBpcnkiOjIzNTEwOTE1NTgsImNhbGwiOlsicGljayIsInJlYWQiLCJzdG9yZSIsInN0YXQiLCJjb252ZXJ0Il19%26signature%3D68597b455e6c09bce0bfd73f758e299c95d49a5d5c8e808aaf4877da7801c4da",
+    "bounding_box": {
+     "width": 32,
+     "height": 32
+    }
+   },
+   "small": {
+    "url": "https://i.genius.com/de04298412fbfab0ac172efc5ac153ae40a00ca1?url=https%3A%2F%2Fwww.filepicker.io%2Fapi%2Ffile%2FZaAj5CES1GN39GENWgiz%3Fpolicy%3DeyJleHBpcnkiOjIzNTEwOTE1NTgsImNhbGwiOlsicGljayIsInJlYWQiLCJzdG9yZSIsInN0YXQiLCJjb252ZXJ0Il19%26signature%3D68597b455e6c09bce0bfd73f758e299c95d49a5d5c8e808aaf4877da7801c4da",
+    "bounding_box": {
+     "width": 100,
+     "height": 100
+    }
+   },
+   "medium": {
+    "url": "https://i.genius.com/de04298412fbfab0ac172efc5ac153ae40a00ca1?url=https%3A%2F%2Fwww.filepicker.io%2Fapi%2Ffile%2FZaAj5CES1GN39GENWgiz%3Fpolicy%3DeyJleHBpcnkiOjIzNTEwOTE1NTgsImNhbGwiOlsicGljayIsInJlYWQiLCJzdG9yZSIsInN0YXQiLCJjb252ZXJ0Il19%26signature%3D68597b455e6c09bce0bfd73f758e299c95d49a5d5c8e808aaf4877da7801c4da",
+    "bounding_box": {
+     "width": 300,
+     "height": 400
+    }
+   }
+  },
+  "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/gjw8z3svfg",
+  "human_readable_role_for_display": "Staff",
+  "id": 2976672,
+  "iq": 146364,
+  "login": "GaryTheJerk",
+  "name": "GaryTheJerk",
+  "role_for_display": "staff",
+  "url": "https://genius.com/GaryTheJerk",
+  "current_user_metadata": {
+   "permissions": [],
+   "excluded_permissions": [
+    "follow"
+   ],
+   "interactions": {
+    "following": false
+   }
+  }
+ },
+ "media": [
+  {
+   "provider": "youtube",
+   "start": 0,
+   "type": "video",
+   "url": "http://www.youtube.com/watch?v=ZjB-sz62tJ8"
+  },
+  {
+   "native_uri": "spotify:track:7w9bgPAmPTtrkt2v16QWvQ",
+   "provider": "spotify",
+   "type": "audio",
+   "url": "https://open.spotify.com/track/7w9bgPAmPTtrkt2v16QWvQ"
+  },
+  {
+   "attribution": "eminemofficial",
+   "provider": "soundcloud",
+   "type": "audio",
+   "url": "https://soundcloud.com/eminemofficial/lose-yourself"
+  }
+ ],
+ "producer_artists": [
+  {
+   "api_path": "/artists/45",
+   "header_image_url": "https://images.genius.com/a9f98b20f8aa7a32650a1dfa5f3de088.1000x445x1.jpg",
+   "id": 45,
+   "image_url": "https://images.genius.com/f300798551b97fe030876123afb8c33a.805x805x1.jpg",
+   "is_meme_verified": true,
+   "is_verified": true,
+   "name": "Eminem",
+   "url": "https://genius.com/artists/Eminem",
+   "iq": 214212
+  },
+  {
+   "api_path": "/artists/33782",
+   "header_image_url": "https://images.genius.com/b11dcb349ce12ee3fb1e6ac903756351.1000x698x1.jpg",
+   "id": 33782,
+   "image_url": "https://images.genius.com/93b6573df63cc5675a8273d131b00b1f.1000x1000x1.jpg",
+   "is_meme_verified": false,
+   "is_verified": false,
+   "name": "Luis Resto",
+   "url": "https://genius.com/artists/Luis-resto"
+  },
+  {
+   "api_path": "/artists/14558",
+   "header_image_url": "https://s3.amazonaws.com/rapgenius/1362081103_2391707.jpg",
+   "id": 14558,
+   "image_url": "https://s3.amazonaws.com/rapgenius/1362081103_2391707.jpg",
+   "is_meme_verified": true,
+   "is_verified": true,
+   "name": "Jeff Bass",
+   "url": "https://genius.com/artists/Jeff-bass",
+   "iq": 100
+  }
+ ],
+ "song_relationships": [
+  {
+   "relationship_type": "samples",
+   "type": "samples",
+   "songs": []
+  },
+  {
+   "relationship_type": "sampled_in",
+   "type": "sampled_in",
+   "songs": [
+    {
+     "annotation_count": 27,
+     "api_path": "/songs/129840",
+     "full_title": "History of Rap 4 by\u00a0Jimmy\u00a0Fallon (Ft.\u00a0Justin\u00a0Timberlake)",
+     "header_image_thumbnail_url": "https://images.genius.com/a99c082cf0cddf765a78f138bea9666c.300x169x1.jpg",
+     "header_image_url": "https://images.genius.com/a99c082cf0cddf765a78f138bea9666c.1000x562x1.jpg",
+     "id": 129840,
+     "lyrics_owner_id": 10380,
+     "lyrics_state": "complete",
+     "path": "/Jimmy-fallon-history-of-rap-4-lyrics",
+     "pyongs_count": 11,
+     "song_art_image_thumbnail_url": "https://images.genius.com/a99c082cf0cddf765a78f138bea9666c.300x169x1.jpg",
+     "song_art_image_url": "https://images.genius.com/a99c082cf0cddf765a78f138bea9666c.1000x562x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 1,
+      "hot": false,
+      "pageviews": 47784
+     },
+     "title": "History of Rap 4",
+     "title_with_featured": "History of Rap 4 (Ft.\u00a0Justin\u00a0Timberlake)",
+     "url": "https://genius.com/Jimmy-fallon-history-of-rap-4-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/41925",
+      "header_image_url": "https://images.genius.com/d4ed528c80bfe1b6d2e040d9573cd558.1000x563x1.jpg",
+      "id": 41925,
+      "image_url": "https://images.genius.com/ac567e710bd8a256e5c82907ae451ed7.563x563x1.png",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Jimmy Fallon",
+      "url": "https://genius.com/artists/Jimmy-fallon"
+     }
+    },
+    {
+     "annotation_count": 7,
+     "api_path": "/songs/2732524",
+     "full_title": "National Threat by\u00a0DC\u00a0the Midi Alien (Ft.\u00a0East\u00a0Coast Avengers)",
+     "header_image_thumbnail_url": "https://images.genius.com/5323f03fe978f5991bca71a8dfd84326.296x296x1.jpg",
+     "header_image_url": "https://images.genius.com/5323f03fe978f5991bca71a8dfd84326.296x296x1.jpg",
+     "id": 2732524,
+     "lyrics_owner_id": 545945,
+     "lyrics_state": "complete",
+     "path": "/Dc-the-midi-alien-national-threat-lyrics",
+     "pyongs_count": 1,
+     "song_art_image_thumbnail_url": "https://images.genius.com/5323f03fe978f5991bca71a8dfd84326.296x296x1.jpg",
+     "song_art_image_url": "https://images.genius.com/5323f03fe978f5991bca71a8dfd84326.296x296x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 7,
+      "hot": false
+     },
+     "title": "National Threat",
+     "title_with_featured": "National Threat (Ft.\u00a0East\u00a0Coast Avengers)",
+     "url": "https://genius.com/Dc-the-midi-alien-national-threat-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/28396",
+      "header_image_url": "https://images.genius.com/5e93f09676e15c20d8fbe845368a1a5f.375x394x1.jpg",
+      "id": 28396,
+      "image_url": "https://images.genius.com/5e93f09676e15c20d8fbe845368a1a5f.375x394x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "DC the Midi Alien",
+      "url": "https://genius.com/artists/Dc-the-midi-alien"
+     }
+    },
+    {
+     "annotation_count": 3,
+     "api_path": "/songs/2908795",
+     "full_title": "The Real by\u00a0Illy (Ft.\u00a0Grey\u00a0Ghost & MC\u00a0Mantra)",
+     "header_image_thumbnail_url": "https://images.genius.com/020f1e8dc6effff61d653c816b112f2a.300x300x1.jpg",
+     "header_image_url": "https://images.genius.com/020f1e8dc6effff61d653c816b112f2a.640x640x1.jpg",
+     "id": 2908795,
+     "lyrics_owner_id": 3017322,
+     "lyrics_state": "complete",
+     "path": "/Illy-the-real-lyrics",
+     "pyongs_count": null,
+     "song_art_image_thumbnail_url": "https://images.genius.com/020f1e8dc6effff61d653c816b112f2a.300x300x1.jpg",
+     "song_art_image_url": "https://images.genius.com/020f1e8dc6effff61d653c816b112f2a.640x640x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 2,
+      "hot": false
+     },
+     "title": "The Real",
+     "title_with_featured": "The Real (Ft.\u00a0Grey\u00a0Ghost & MC\u00a0Mantra)",
+     "url": "https://genius.com/Illy-the-real-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/6644",
+      "header_image_url": "https://images.genius.com/9597ae3e76ac2519dfd93274676de285.666x666x1.jpg",
+      "id": 6644,
+      "image_url": "https://images.genius.com/9597ae3e76ac2519dfd93274676de285.666x666x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": true,
+      "name": "Illy",
+      "url": "https://genius.com/artists/Illy",
+      "iq": 100
+     }
+    },
+    {
+     "annotation_count": 29,
+     "api_path": "/songs/2922326",
+     "full_title": "\u042f \u043c\u0435\u0447\u0442\u0430\u044e (I'm Dreaming) [Oxxxymiron Diss] by\u00a0\u0421\u043b\u0430\u0432\u0430\u00a0\u041a\u041f\u0421\u0421 (Slava KPSS)",
+     "header_image_thumbnail_url": "https://images.genius.com/6b6eec672339226bd531b3a3d4879ff4.300x300x1.jpg",
+     "header_image_url": "https://images.genius.com/6b6eec672339226bd531b3a3d4879ff4.1000x1000x1.jpg",
+     "id": 2922326,
+     "lyrics_owner_id": 670,
+     "lyrics_state": "complete",
+     "path": "/Slava-kpss-im-dreaming-oxxxymiron-diss-lyrics",
+     "pyongs_count": 15,
+     "song_art_image_thumbnail_url": "https://images.genius.com/4a10fb0373d6ca988d63b4146d5b523e.300x300x1.jpg",
+     "song_art_image_url": "https://images.genius.com/4a10fb0373d6ca988d63b4146d5b523e.1000x1000x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 0,
+      "hot": false,
+      "pageviews": 75750
+     },
+     "title": "\u042f \u043c\u0435\u0447\u0442\u0430\u044e (I\u2019m Dreaming) [Oxxxymiron Diss]",
+     "title_with_featured": "\u042f \u043c\u0435\u0447\u0442\u0430\u044e (I'm Dreaming) [Oxxxymiron Diss]",
+     "url": "https://genius.com/Slava-kpss-im-dreaming-oxxxymiron-diss-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/993773",
+      "header_image_url": "https://images.genius.com/24d53756f0941ffb8a60f9408406062c.1000x228x1.jpg",
+      "id": 993773,
+      "image_url": "https://images.genius.com/f5071345a960d9d1d193b12fabd9f236.465x465x1.png",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "\u0421\u043b\u0430\u0432\u0430 \u041a\u041f\u0421\u0421 (Slava KPSS)",
+      "url": "https://genius.com/artists/Slava-kpss"
+     }
+    },
+    {
+     "annotation_count": 27,
+     "api_path": "/songs/3091711",
+     "full_title": "Sodom und Gomorrha by\u00a0Bushido",
+     "header_image_thumbnail_url": "https://images.genius.com/625d8692501cf1f69d5fbbfde4f4137f.300x300x1.jpg",
+     "header_image_url": "https://images.genius.com/625d8692501cf1f69d5fbbfde4f4137f.1000x1000x1.jpg",
+     "id": 3091711,
+     "lyrics_owner_id": 2171344,
+     "lyrics_state": "complete",
+     "path": "/Bushido-sodom-und-gomorrha-lyrics",
+     "pyongs_count": 2,
+     "song_art_image_thumbnail_url": "https://images.genius.com/625d8692501cf1f69d5fbbfde4f4137f.300x300x1.jpg",
+     "song_art_image_url": "https://images.genius.com/625d8692501cf1f69d5fbbfde4f4137f.1000x1000x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 7,
+      "hot": false,
+      "pageviews": 84003
+     },
+     "title": "Sodom und Gomorrha",
+     "title_with_featured": "Sodom und Gomorrha",
+     "url": "https://genius.com/Bushido-sodom-und-gomorrha-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/12338",
+      "header_image_url": "https://images.genius.com/e9a1ae6647b52413d4b7c63b8be5e6ee.597x596x1.jpg",
+      "id": 12338,
+      "image_url": "https://images.genius.com/8111c333e9c20c52e14c67978eb1130e.406x406x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Bushido",
+      "url": "https://genius.com/artists/Bushido"
+     }
+    },
+    {
+     "annotation_count": 7,
+     "api_path": "/songs/3105781",
+     "full_title": "\u0416\u0435\u0440\u0442\u0432\u0430 (Sacrifice) by\u00a0Walkie (Ft.\u00a0\u2063\u0428\u0423\u041c\u041c\u00a0(SHUMM))",
+     "header_image_thumbnail_url": "https://images.genius.com/9124e892d454323deeb392e3b7d34d37.300x300x1.jpg",
+     "header_image_url": "https://images.genius.com/9124e892d454323deeb392e3b7d34d37.1000x1000x1.jpg",
+     "id": 3105781,
+     "lyrics_owner_id": 2500070,
+     "lyrics_state": "complete",
+     "path": "/Walkie-sacrifice-lyrics",
+     "pyongs_count": null,
+     "song_art_image_thumbnail_url": "https://images.genius.com/c192f0201e50bb7038513679a21eceb8.300x300x1.jpg",
+     "song_art_image_url": "https://images.genius.com/c192f0201e50bb7038513679a21eceb8.1000x1000x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 0,
+      "hot": false,
+      "pageviews": 5473
+     },
+     "title": "\u0416\u0435\u0440\u0442\u0432\u0430 (Sacrifice)",
+     "title_with_featured": "\u0416\u0435\u0440\u0442\u0432\u0430 (Sacrifice) (Ft.\u00a0\u2063\u0428\u0423\u041c\u041c\u00a0(SHUMM))",
+     "url": "https://genius.com/Walkie-sacrifice-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/292750",
+      "header_image_url": "https://images.genius.com/138e2f836b14d0b48e0f9c56372133a8.1000x563x1.jpg",
+      "id": 292750,
+      "image_url": "https://images.genius.com/3dfa8a8887e26dd0b1dc7ce8823b1eaa.853x853x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": true,
+      "name": "Walkie",
+      "url": "https://genius.com/artists/Walkie",
+      "iq": 7124
+     }
+    },
+    {
+     "annotation_count": 1,
+     "api_path": "/songs/3214108",
+     "full_title": "Vezi by\u00a0Specii",
+     "header_image_thumbnail_url": "https://images.genius.com/041d3d0c4e6e839341e310f009eb9091.300x300x1.jpg",
+     "header_image_url": "https://images.genius.com/041d3d0c4e6e839341e310f009eb9091.700x700x1.jpg",
+     "id": 3214108,
+     "lyrics_owner_id": 2668976,
+     "lyrics_state": "complete",
+     "path": "/Specii-vezi-lyrics",
+     "pyongs_count": 2,
+     "song_art_image_thumbnail_url": "https://images.genius.com/041d3d0c4e6e839341e310f009eb9091.300x300x1.jpg",
+     "song_art_image_url": "https://images.genius.com/041d3d0c4e6e839341e310f009eb9091.700x700x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 1,
+      "hot": false
+     },
+     "title": "Vezi",
+     "title_with_featured": "Vezi",
+     "url": "https://genius.com/Specii-vezi-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/70093",
+      "header_image_url": "https://images.genius.com/350a71a2d0c1ce4651398e96de6f9084.960x480x1.jpg",
+      "id": 70093,
+      "image_url": "https://images.genius.com/67fb6aedd5709666c5f2d02c5b66f147.407x407x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Specii",
+      "url": "https://genius.com/artists/Specii"
+     }
+    },
+    {
+     "annotation_count": 0,
+     "api_path": "/songs/3264616",
+     "full_title": "Thrift Shop/$ave Dat Money (Megamix) by\u00a0Finny\u00a0Music",
+     "header_image_thumbnail_url": "https://images.genius.com/4ff8b9940761f78ce1fa43839798a632.299x299x1.jpg",
+     "header_image_url": "https://images.genius.com/4ff8b9940761f78ce1fa43839798a632.299x299x1.jpg",
+     "id": 3264616,
+     "lyrics_owner_id": 3633135,
+     "lyrics_state": "complete",
+     "path": "/Finny-music-thrift-shop-ave-dat-money-megamix-lyrics",
+     "pyongs_count": null,
+     "song_art_image_thumbnail_url": "https://images.genius.com/4ff8b9940761f78ce1fa43839798a632.299x299x1.jpg",
+     "song_art_image_url": "https://images.genius.com/4ff8b9940761f78ce1fa43839798a632.299x299x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 0,
+      "hot": false
+     },
+     "title": "Thrift Shop/$ave Dat Money (Megamix)",
+     "title_with_featured": "Thrift Shop/$ave Dat Money (Megamix)",
+     "url": "https://genius.com/Finny-music-thrift-shop-ave-dat-money-megamix-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/1217243",
+      "header_image_url": "https://images.genius.com/db5ac2642addfacef9347cd42a92c6ac.1000x1000x1.jpg",
+      "id": 1217243,
+      "image_url": "https://images.genius.com/5c9a93a85be50855286b414f66cb8d34.882x882x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Finny Music",
+      "url": "https://genius.com/artists/Finny-music"
+     }
+    },
+    {
+     "annotation_count": 0,
+     "api_path": "/songs/3302742",
+     "full_title": "Out To Win by\u00a0Cuzoh",
+     "header_image_thumbnail_url": "https://images.genius.com/80638c4d47c172c4f3a557827fbe1e56.300x300x1.jpg",
+     "header_image_url": "https://images.genius.com/80638c4d47c172c4f3a557827fbe1e56.640x640x1.jpg",
+     "id": 3302742,
+     "lyrics_owner_id": 5414612,
+     "lyrics_state": "complete",
+     "path": "/Cuzoh-out-to-win-lyrics",
+     "pyongs_count": null,
+     "song_art_image_thumbnail_url": "https://images.genius.com/80638c4d47c172c4f3a557827fbe1e56.300x300x1.jpg",
+     "song_art_image_url": "https://images.genius.com/80638c4d47c172c4f3a557827fbe1e56.640x640x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 0,
+      "hot": false
+     },
+     "title": "Out To Win",
+     "title_with_featured": "Out To Win",
+     "url": "https://genius.com/Cuzoh-out-to-win-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/658488",
+      "header_image_url": "https://images.genius.com/6e58dc699513b085e968bb267e7a3d9b.1000x563x1.jpg",
+      "id": 658488,
+      "image_url": "https://images.genius.com/01a6b7f66c39a9f4899c3602fe7d8e79.607x607x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": true,
+      "name": "Cuzoh",
+      "url": "https://genius.com/artists/Cuzoh",
+      "iq": 1407
+     }
+    },
+    {
+     "annotation_count": 3,
+     "api_path": "/songs/3559910",
+     "full_title": "EXTREME MEME MUSIC MEGAMASHUP by\u00a0DaymanOurSavior",
+     "header_image_thumbnail_url": "https://images.genius.com/175457acc7f993fae1d5fedda4d8df30.300x300x1.jpg",
+     "header_image_url": "https://images.genius.com/175457acc7f993fae1d5fedda4d8df30.500x500x1.jpg",
+     "id": 3559910,
+     "lyrics_owner_id": 5182512,
+     "lyrics_state": "complete",
+     "path": "/Daymanoursavior-extreme-meme-music-megamashup-lyrics",
+     "pyongs_count": 3,
+     "song_art_image_thumbnail_url": "https://images.genius.com/175457acc7f993fae1d5fedda4d8df30.300x300x1.jpg",
+     "song_art_image_url": "https://images.genius.com/175457acc7f993fae1d5fedda4d8df30.500x500x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 3,
+      "hot": false,
+      "pageviews": 9363
+     },
+     "title": "EXTREME MEME MUSIC MEGAMASHUP",
+     "title_with_featured": "EXTREME MEME MUSIC MEGAMASHUP",
+     "url": "https://genius.com/Daymanoursavior-extreme-meme-music-megamashup-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/1409018",
+      "header_image_url": "https://images.genius.com/fcf684aa4aff28f816cd334216be8377.200x200x1.jpg",
+      "id": 1409018,
+      "image_url": "https://images.genius.com/fcf684aa4aff28f816cd334216be8377.200x200x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "DaymanOurSavior",
+      "url": "https://genius.com/artists/Daymanoursavior"
+     }
+    },
+    {
+     "annotation_count": 0,
+     "api_path": "/songs/3819710",
+     "full_title": "Spaghetti by\u00a0Renard",
+     "header_image_thumbnail_url": "https://images.genius.com/fdc0c53ebf7167fb99802ae9c2eac3ff.300x300x1.png",
+     "header_image_url": "https://images.genius.com/fdc0c53ebf7167fb99802ae9c2eac3ff.350x350x1.png",
+     "id": 3819710,
+     "lyrics_owner_id": 6653298,
+     "lyrics_state": "complete",
+     "path": "/Renard-spaghetti-lyrics",
+     "pyongs_count": null,
+     "song_art_image_thumbnail_url": "https://images.genius.com/fdc0c53ebf7167fb99802ae9c2eac3ff.300x300x1.png",
+     "song_art_image_url": "https://images.genius.com/fdc0c53ebf7167fb99802ae9c2eac3ff.350x350x1.png",
+     "stats": {
+      "unreviewed_annotations": 0,
+      "hot": false
+     },
+     "title": "Spaghetti",
+     "title_with_featured": "Spaghetti",
+     "url": "https://genius.com/Renard-spaghetti-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/3593",
+      "header_image_url": "https://images.genius.com/6f758f42df191d99a4bae2725295f845.600x600x1.jpg",
+      "id": 3593,
+      "image_url": "https://images.genius.com/6f758f42df191d99a4bae2725295f845.600x600x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Renard",
+      "url": "https://genius.com/artists/Renard"
+     }
+    },
+    {
+     "annotation_count": 0,
+     "api_path": "/songs/3861791",
+     "full_title": "Pangs of loneliness by\u00a0Nagangsta (Ft.\u00a0Jose\u00a0\"Blocc\" DeLeon)",
+     "header_image_thumbnail_url": "https://images.genius.com/fa2ca1bf6ceb1bc7590f488eae330ffd.300x300x1.jpg",
+     "header_image_url": "https://images.genius.com/fa2ca1bf6ceb1bc7590f488eae330ffd.1000x1000x1.jpg",
+     "id": 3861791,
+     "lyrics_owner_id": 6693254,
+     "lyrics_state": "complete",
+     "path": "/Nagangsta-pangs-of-loneliness-lyrics",
+     "pyongs_count": null,
+     "song_art_image_thumbnail_url": "https://images.genius.com/fa2ca1bf6ceb1bc7590f488eae330ffd.300x300x1.jpg",
+     "song_art_image_url": "https://images.genius.com/fa2ca1bf6ceb1bc7590f488eae330ffd.1000x1000x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 0,
+      "hot": false
+     },
+     "title": "Pangs of loneliness",
+     "title_with_featured": "Pangs of loneliness (Ft.\u00a0Jose\u00a0\"Blocc\" DeLeon)",
+     "url": "https://genius.com/Nagangsta-pangs-of-loneliness-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/1525835",
+      "header_image_url": "https://images.genius.com/651e6d06302b067170a9a4624c9924df.1000x861x1.jpg",
+      "id": 1525835,
+      "image_url": "https://images.genius.com/2eee4ead125cbfa22bf27f040e5eb475.1000x1000x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Nagangsta",
+      "url": "https://genius.com/artists/Nagangsta"
+     }
+    },
+    {
+     "annotation_count": 109,
+     "api_path": "/songs/4011764",
+     "full_title": "Juice WRLD Hour Freestyle of Fire Over Eminem Beats by\u00a0Juice\u00a0WRLD",
+     "header_image_thumbnail_url": "https://images.genius.com/18251b1b9616abad7fd1b3d35bef35e5.300x169x1.jpg",
+     "header_image_url": "https://images.genius.com/18251b1b9616abad7fd1b3d35bef35e5.1000x563x1.jpg",
+     "id": 4011764,
+     "lyrics_owner_id": 4305077,
+     "lyrics_state": "complete",
+     "path": "/Juice-wrld-juice-wrld-hour-freestyle-of-fire-over-eminem-beats-lyrics",
+     "pyongs_count": 10,
+     "song_art_image_thumbnail_url": "https://images.genius.com/18251b1b9616abad7fd1b3d35bef35e5.300x169x1.jpg",
+     "song_art_image_url": "https://images.genius.com/18251b1b9616abad7fd1b3d35bef35e5.1000x563x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 5,
+      "concurrents": 5,
+      "hot": false,
+      "pageviews": 144524
+     },
+     "title": "Juice WRLD Hour Freestyle of Fire Over Eminem Beats",
+     "title_with_featured": "Juice WRLD Hour Freestyle of Fire Over Eminem Beats",
+     "url": "https://genius.com/Juice-wrld-juice-wrld-hour-freestyle-of-fire-over-eminem-beats-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/1237094",
+      "header_image_url": "https://images.genius.com/87c55e8a5b91902ea6686d98b5b3bb3d.1000x563x1.png",
+      "id": 1237094,
+      "image_url": "https://images.genius.com/caf49d8580b6a845d19ad256b79509e1.1000x1000x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": true,
+      "name": "Juice WRLD",
+      "url": "https://genius.com/artists/Juice-wrld",
+      "iq": 9908
+     }
+    },
+    {
+     "annotation_count": 3,
+     "api_path": "/songs/4283094",
+     "full_title": "Through the Tables and Memes by\u00a0PhucYoou",
+     "header_image_thumbnail_url": "https://assets.genius.com/images/default_cover_image.png?1606943206",
+     "header_image_url": "https://assets.genius.com/images/default_cover_image.png?1606943206",
+     "id": 4283094,
+     "lyrics_owner_id": 7093499,
+     "lyrics_state": "complete",
+     "path": "/Phucyoou-through-the-tables-and-memes-lyrics",
+     "pyongs_count": 1,
+     "song_art_image_thumbnail_url": "https://assets.genius.com/images/default_cover_image.png?1606943206",
+     "song_art_image_url": "https://assets.genius.com/images/default_cover_image.png?1606943206",
+     "stats": {
+      "unreviewed_annotations": 3,
+      "hot": false
+     },
+     "title": "Through the Tables and Memes",
+     "title_with_featured": "Through the Tables and Memes",
+     "url": "https://genius.com/Phucyoou-through-the-tables-and-memes-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/2330698",
+      "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+      "id": 2330698,
+      "image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "PhucYoou",
+      "url": "https://genius.com/artists/Phucyoou"
+     }
+    },
+    {
+     "annotation_count": 1,
+     "api_path": "/songs/4290723",
+     "full_title": "Lose Yourself by\u00a0Keifer",
+     "header_image_thumbnail_url": "https://images.genius.com/5269306d482837a1a89cf8376dc12851.300x300x1.jpg",
+     "header_image_url": "https://images.genius.com/5269306d482837a1a89cf8376dc12851.631x631x1.jpg",
+     "id": 4290723,
+     "lyrics_owner_id": 7874436,
+     "lyrics_state": "complete",
+     "path": "/Keifer-lose-yourself-lyrics",
+     "pyongs_count": null,
+     "song_art_image_thumbnail_url": "https://images.genius.com/5269306d482837a1a89cf8376dc12851.300x300x1.jpg",
+     "song_art_image_url": "https://images.genius.com/5269306d482837a1a89cf8376dc12851.631x631x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 1,
+      "hot": false
+     },
+     "title": "Lose Yourself",
+     "title_with_featured": "Lose Yourself",
+     "url": "https://genius.com/Keifer-lose-yourself-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/1719169",
+      "header_image_url": "https://images.genius.com/7e34b8d771e70330baf921dd7141bbed.478x598x1.jpg",
+      "id": 1719169,
+      "image_url": "https://images.genius.com/7c3af1d1adf0c0ab7d01fa7adda75410.500x500x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Keifer",
+      "url": "https://genius.com/artists/Keifer"
+     }
+    },
+    {
+     "annotation_count": 0,
+     "api_path": "/songs/4842737",
+     "full_title": "NEW MEME TIME MEGAMIX V: EVERYONE'S FINAL SOUNDCLOWN MASHUP by\u00a0Maniac\u00a0Pop",
+     "header_image_thumbnail_url": "https://assets.genius.com/images/default_cover_image.png?1606943206",
+     "header_image_url": "https://assets.genius.com/images/default_cover_image.png?1606943206",
+     "id": 4842737,
+     "lyrics_owner_id": 8942631,
+     "lyrics_state": "complete",
+     "path": "/Maniac-pop-new-meme-time-megamix-v-everyones-final-soundclown-mashup-lyrics",
+     "pyongs_count": null,
+     "song_art_image_thumbnail_url": "https://assets.genius.com/images/default_cover_image.png?1606943206",
+     "song_art_image_url": "https://assets.genius.com/images/default_cover_image.png?1606943206",
+     "stats": {
+      "unreviewed_annotations": 0,
+      "hot": false
+     },
+     "title": "NEW MEME TIME MEGAMIX V: EVERYONE\u2019S FINAL SOUNDCLOWN MASHUP",
+     "title_with_featured": "NEW MEME TIME MEGAMIX V: EVERYONE'S FINAL SOUNDCLOWN MASHUP",
+     "url": "https://genius.com/Maniac-pop-new-meme-time-megamix-v-everyones-final-soundclown-mashup-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/1940188",
+      "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+      "id": 1940188,
+      "image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Maniac Pop",
+      "url": "https://genius.com/artists/Maniac-pop"
+     }
+    },
+    {
+     "annotation_count": 0,
+     "api_path": "/songs/5807056",
+     "full_title": "Tribute To Eminem by\u00a0Emiway\u00a0Bantai",
+     "header_image_thumbnail_url": "https://images.genius.com/8332932c14e4fe9d3eb6d190c6fd96e3.250x250x1.jpg",
+     "header_image_url": "https://images.genius.com/8332932c14e4fe9d3eb6d190c6fd96e3.250x250x1.jpg",
+     "id": 5807056,
+     "lyrics_owner_id": 11475047,
+     "lyrics_state": "complete",
+     "path": "/Emiway-bantai-tribute-to-eminem-lyrics",
+     "pyongs_count": null,
+     "song_art_image_thumbnail_url": "https://images.genius.com/8332932c14e4fe9d3eb6d190c6fd96e3.250x250x1.jpg",
+     "song_art_image_url": "https://images.genius.com/8332932c14e4fe9d3eb6d190c6fd96e3.250x250x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 0,
+      "hot": false
+     },
+     "title": "Tribute To Eminem",
+     "title_with_featured": "Tribute To Eminem",
+     "url": "https://genius.com/Emiway-bantai-tribute-to-eminem-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/1439953",
+      "header_image_url": "https://images.genius.com/f455a9a932515aaef7677da1bde261c6.960x640x1.jpg",
+      "id": 1439953,
+      "image_url": "https://images.genius.com/86885b70318bc06ba277becf0345cb04.239x239x1.png",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Emiway Bantai",
+      "url": "https://genius.com/artists/Emiway-bantai"
+     }
+    },
+    {
+     "annotation_count": 2,
+     "api_path": "/songs/5846331",
+     "full_title": "Zappzarapp by\u00a0Zensery",
+     "header_image_thumbnail_url": "https://images.genius.com/164d3aff9fb9956c8d3cb924a5d8741c.300x300x1.jpg",
+     "header_image_url": "https://images.genius.com/164d3aff9fb9956c8d3cb924a5d8741c.300x300x1.jpg",
+     "id": 5846331,
+     "lyrics_owner_id": 11018698,
+     "lyrics_state": "complete",
+     "path": "/Zensery-zappzarapp-lyrics",
+     "pyongs_count": null,
+     "song_art_image_thumbnail_url": "https://images.genius.com/164d3aff9fb9956c8d3cb924a5d8741c.300x300x1.jpg",
+     "song_art_image_url": "https://images.genius.com/164d3aff9fb9956c8d3cb924a5d8741c.300x300x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 1,
+      "hot": false
+     },
+     "title": "Zappzarapp",
+     "title_with_featured": "Zappzarapp",
+     "url": "https://genius.com/Zensery-zappzarapp-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/1775488",
+      "header_image_url": "https://images.genius.com/0d1928e9616f5c8c7ec9cf988922f835.1000x160x1.png",
+      "id": 1775488,
+      "image_url": "https://images.genius.com/aa0accbc90333f7c4e1fa987889046ad.727x727x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Zensery",
+      "url": "https://genius.com/artists/Zensery"
+     }
+    },
+    {
+     "annotation_count": 0,
+     "api_path": "/songs/5900563",
+     "full_title": "Lose Yourself by\u00a0Zachy\u00a0BeanPole",
+     "header_image_thumbnail_url": "https://images.genius.com/47f5f5c7a7ce60755ca932c71be976d7.300x300x1.jpg",
+     "header_image_url": "https://images.genius.com/47f5f5c7a7ce60755ca932c71be976d7.720x720x1.jpg",
+     "id": 5900563,
+     "lyrics_owner_id": 10815431,
+     "lyrics_state": "complete",
+     "path": "/Zachy-beanpole-lose-yourself-lyrics",
+     "pyongs_count": null,
+     "song_art_image_thumbnail_url": "https://images.genius.com/47f5f5c7a7ce60755ca932c71be976d7.300x300x1.jpg",
+     "song_art_image_url": "https://images.genius.com/47f5f5c7a7ce60755ca932c71be976d7.720x720x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 0,
+      "hot": false
+     },
+     "title": "Lose Yourself",
+     "title_with_featured": "Lose Yourself",
+     "url": "https://genius.com/Zachy-beanpole-lose-yourself-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/1974973",
+      "header_image_url": "https://images.genius.com/e6808ee586b278f1087e13f14eb96266.720x720x1.jpg",
+      "id": 1974973,
+      "image_url": "https://images.genius.com/47f5f5c7a7ce60755ca932c71be976d7.720x720x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Zachy BeanPole",
+      "url": "https://genius.com/artists/Zachy-beanpole",
+      "iq": 11855
+     }
+    },
+    {
+     "annotation_count": 0,
+     "api_path": "/songs/5951898",
+     "full_title": "Hello, I Ruined Music by\u00a0Patricia\u00a0Taxxon",
+     "header_image_thumbnail_url": "https://images.genius.com/088e8ca6e9b89a60fe175c8533c6442f.300x300x1.jpg",
+     "header_image_url": "https://images.genius.com/088e8ca6e9b89a60fe175c8533c6442f.765x765x1.jpg",
+     "id": 5951898,
+     "lyrics_owner_id": 8505279,
+     "lyrics_state": "complete",
+     "path": "/Patricia-taxxon-hello-i-ruined-music-lyrics",
+     "pyongs_count": null,
+     "song_art_image_thumbnail_url": "https://images.genius.com/088e8ca6e9b89a60fe175c8533c6442f.300x300x1.jpg",
+     "song_art_image_url": "https://images.genius.com/088e8ca6e9b89a60fe175c8533c6442f.765x765x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 0,
+      "hot": false
+     },
+     "title": "Hello, I Ruined Music",
+     "title_with_featured": "Hello, I Ruined Music",
+     "url": "https://genius.com/Patricia-taxxon-hello-i-ruined-music-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/1480872",
+      "header_image_url": "https://images.genius.com/152eb280f982aaab4abe43c52f070ec2.1000x750x1.jpg",
+      "id": 1480872,
+      "image_url": "https://images.genius.com/088e8ca6e9b89a60fe175c8533c6442f.765x765x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Patricia Taxxon",
+      "url": "https://genius.com/artists/Patricia-taxxon"
+     }
+    },
+    {
+     "annotation_count": 1,
+     "api_path": "/songs/5979089",
+     "full_title": "Was ihr redet by\u00a0MiZeb",
+     "header_image_thumbnail_url": "https://images.genius.com/b72a4cf01d093089c38490b0a8e0c545.300x300x1.jpg",
+     "header_image_url": "https://images.genius.com/b72a4cf01d093089c38490b0a8e0c545.1000x1000x1.jpg",
+     "id": 5979089,
+     "lyrics_owner_id": 10728222,
+     "lyrics_state": "complete",
+     "path": "/Mizeb-was-ihr-redet-lyrics",
+     "pyongs_count": null,
+     "song_art_image_thumbnail_url": "https://images.genius.com/b72a4cf01d093089c38490b0a8e0c545.300x300x1.jpg",
+     "song_art_image_url": "https://images.genius.com/b72a4cf01d093089c38490b0a8e0c545.1000x1000x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 0,
+      "hot": false
+     },
+     "title": "Was ihr redet",
+     "title_with_featured": "Was ihr redet",
+     "url": "https://genius.com/Mizeb-was-ihr-redet-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/661790",
+      "header_image_url": "https://images.genius.com/1dfdc4c828bf6be91eed4b6b1d0b797c.800x450x1.jpg",
+      "id": 661790,
+      "image_url": "https://images.genius.com/1d522ec611c367eecaa7ee9ffe1f2d6f.639x639x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "MiZeb",
+      "url": "https://genius.com/artists/Mizeb"
+     }
+    },
+    {
+     "annotation_count": 0,
+     "api_path": "/songs/6242660",
+     "full_title": "Everything by\u00a0Kids\u00a0& Explosion (Ft.\u00a0Bryan\u00a0Adams, Eminem, Guns\u00a0N\u2019 Roses, Kanye\u00a0West, The\u00a0Notorious B.I.G. & Queen)",
+     "header_image_thumbnail_url": "https://images.genius.com/e089dc515afdead232d3f6ed9a2c53c2.300x300x1.jpg",
+     "header_image_url": "https://images.genius.com/e089dc515afdead232d3f6ed9a2c53c2.536x536x1.jpg",
+     "id": 6242660,
+     "lyrics_owner_id": 11681773,
+     "lyrics_state": "complete",
+     "path": "/Kids-and-explosion-everything-lyrics",
+     "pyongs_count": null,
+     "song_art_image_thumbnail_url": "https://images.genius.com/e089dc515afdead232d3f6ed9a2c53c2.300x300x1.jpg",
+     "song_art_image_url": "https://images.genius.com/e089dc515afdead232d3f6ed9a2c53c2.536x536x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 0,
+      "hot": false
+     },
+     "title": "Everything",
+     "title_with_featured": "Everything (Ft.\u00a0Bryan\u00a0Adams, Eminem, Guns\u00a0N\u2019 Roses, Kanye\u00a0West, The\u00a0Notorious B.I.G. & Queen)",
+     "url": "https://genius.com/Kids-and-explosion-everything-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/2506838",
+      "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+      "id": 2506838,
+      "image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Kids & Explosion",
+      "url": "https://genius.com/artists/Kids-and-explosion"
+     }
+    }
+   ]
+  },
+  {
+   "relationship_type": "interpolates",
+   "type": "interpolates",
+   "songs": [
+    {
+     "annotation_count": 47,
+     "api_path": "/songs/440",
+     "full_title": "'Till I Collapse by\u00a0Eminem (Ft.\u00a0Nate\u00a0Dogg)",
+     "header_image_thumbnail_url": "https://images.genius.com/c43578375ef2ac32c140cc35dfe2fef1.300x300x1.png",
+     "header_image_url": "https://images.genius.com/c43578375ef2ac32c140cc35dfe2fef1.1000x1000x1.png",
+     "id": 440,
+     "lyrics_owner_id": 17,
+     "lyrics_state": "complete",
+     "path": "/Eminem-till-i-collapse-lyrics",
+     "pyongs_count": 481,
+     "song_art_image_thumbnail_url": "https://images.genius.com/c43578375ef2ac32c140cc35dfe2fef1.300x300x1.png",
+     "song_art_image_url": "https://images.genius.com/c43578375ef2ac32c140cc35dfe2fef1.1000x1000x1.png",
+     "stats": {
+      "unreviewed_annotations": 0,
+      "concurrents": 2,
+      "hot": false,
+      "pageviews": 2111128
+     },
+     "title": "\u2019Till I Collapse",
+     "title_with_featured": "'Till I Collapse (Ft.\u00a0Nate\u00a0Dogg)",
+     "url": "https://genius.com/Eminem-till-i-collapse-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/45",
+      "header_image_url": "https://images.genius.com/a9f98b20f8aa7a32650a1dfa5f3de088.1000x445x1.jpg",
+      "id": 45,
+      "image_url": "https://images.genius.com/f300798551b97fe030876123afb8c33a.805x805x1.jpg",
+      "is_meme_verified": true,
+      "is_verified": true,
+      "name": "Eminem",
+      "url": "https://genius.com/artists/Eminem",
+      "iq": 214212
+     }
+    }
+   ]
+  },
+  {
+   "relationship_type": "interpolated_by",
+   "type": "interpolated_by",
+   "songs": [
+    {
+     "annotation_count": 23,
+     "api_path": "/songs/1171",
+     "full_title": "Just Lose It by\u00a0Eminem",
+     "header_image_thumbnail_url": "https://images.genius.com/f1955468f27f52ebab882ea438c00bd1.300x300x1.png",
+     "header_image_url": "https://images.genius.com/f1955468f27f52ebab882ea438c00bd1.1000x1000x1.png",
+     "id": 1171,
+     "lyrics_owner_id": 982,
+     "lyrics_state": "complete",
+     "path": "/Eminem-just-lose-it-lyrics",
+     "pyongs_count": 81,
+     "song_art_image_thumbnail_url": "https://images.genius.com/f1955468f27f52ebab882ea438c00bd1.300x300x1.png",
+     "song_art_image_url": "https://images.genius.com/f1955468f27f52ebab882ea438c00bd1.1000x1000x1.png",
+     "stats": {
+      "unreviewed_annotations": 2,
+      "hot": false,
+      "pageviews": 482462
+     },
+     "title": "Just Lose It",
+     "title_with_featured": "Just Lose It",
+     "url": "https://genius.com/Eminem-just-lose-it-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/45",
+      "header_image_url": "https://images.genius.com/a9f98b20f8aa7a32650a1dfa5f3de088.1000x445x1.jpg",
+      "id": 45,
+      "image_url": "https://images.genius.com/f300798551b97fe030876123afb8c33a.805x805x1.jpg",
+      "is_meme_verified": true,
+      "is_verified": true,
+      "name": "Eminem",
+      "url": "https://genius.com/artists/Eminem",
+      "iq": 214212
+     }
+    },
+    {
+     "annotation_count": 6,
+     "api_path": "/songs/4900",
+     "full_title": "Regardless by\u00a0Royce\u00a0da 5'9\"",
+     "header_image_thumbnail_url": "https://images.genius.com/2e15d971471dc5a14cf09f1d638b3456.300x300x1.jpg",
+     "header_image_url": "https://images.genius.com/2e15d971471dc5a14cf09f1d638b3456.1000x1000x1.jpg",
+     "id": 4900,
+     "lyrics_owner_id": 3997,
+     "lyrics_state": "complete",
+     "path": "/Royce-da-59-regardless-lyrics",
+     "pyongs_count": 3,
+     "song_art_image_thumbnail_url": "https://images.genius.com/2e15d971471dc5a14cf09f1d638b3456.300x300x1.jpg",
+     "song_art_image_url": "https://images.genius.com/2e15d971471dc5a14cf09f1d638b3456.1000x1000x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 1,
+      "hot": false
+     },
+     "title": "Regardless",
+     "title_with_featured": "Regardless",
+     "url": "https://genius.com/Royce-da-59-regardless-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/471",
+      "header_image_url": "https://images.genius.com/fcc76a7f58081f4c6dc1b7f837843f49.988x988x1.png",
+      "id": 471,
+      "image_url": "https://images.genius.com/892233b049a8da052593a9b4030be708.988x988x1.png",
+      "is_meme_verified": true,
+      "is_verified": true,
+      "name": "Royce da 5'9\"",
+      "url": "https://genius.com/artists/Royce-da-59",
+      "iq": 15774
+     }
+    },
+    {
+     "annotation_count": 72,
+     "api_path": "/songs/31910",
+     "full_title": "Couch Potato by\u00a0\"Weird\u00a0Al\" Yankovic",
+     "header_image_thumbnail_url": "https://images.genius.com/a3d84d5666bf6e92e9b9aa715e9325bb.300x300x1.jpg",
+     "header_image_url": "https://images.genius.com/a3d84d5666bf6e92e9b9aa715e9325bb.500x500x1.jpg",
+     "id": 31910,
+     "lyrics_owner_id": 50,
+     "lyrics_state": "complete",
+     "path": "/Weird-al-yankovic-couch-potato-lyrics",
+     "pyongs_count": 6,
+     "song_art_image_thumbnail_url": "https://images.genius.com/7dc3cb160fe061ed08eee395a49c6452.300x439x1.jpg",
+     "song_art_image_url": "https://images.genius.com/7dc3cb160fe061ed08eee395a49c6452.342x500x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 40,
+      "hot": false,
+      "pageviews": 20868
+     },
+     "title": "Couch Potato",
+     "title_with_featured": "Couch Potato",
+     "url": "https://genius.com/Weird-al-yankovic-couch-potato-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/899",
+      "header_image_url": "https://images.genius.com/9ffdfd9ca31f58113bd3c669bf695c67.400x274x25.gif",
+      "id": 899,
+      "image_url": "https://images.genius.com/dc6eddd157ff9fc8146b4bde4bb4c0a3.1000x1000x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "\u201cWeird Al\u201d Yankovic",
+      "url": "https://genius.com/artists/Weird-al-yankovic"
+     }
+    },
+    {
+     "annotation_count": 31,
+     "api_path": "/songs/68897",
+     "full_title": "Richard by\u00a0Obie\u00a0Trice (Ft.\u00a0Eminem)",
+     "header_image_thumbnail_url": "https://images.genius.com/c62da61e11d81df4d761a4e4d1a89dc6.300x300x1.jpg",
+     "header_image_url": "https://images.genius.com/c62da61e11d81df4d761a4e4d1a89dc6.500x500x1.jpg",
+     "id": 68897,
+     "lyrics_owner_id": 11095,
+     "lyrics_state": "complete",
+     "path": "/Obie-trice-richard-lyrics",
+     "pyongs_count": 7,
+     "song_art_image_thumbnail_url": "https://images.genius.com/c62da61e11d81df4d761a4e4d1a89dc6.300x300x1.jpg",
+     "song_art_image_url": "https://images.genius.com/c62da61e11d81df4d761a4e4d1a89dc6.500x500x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 4,
+      "hot": false,
+      "pageviews": 43742
+     },
+     "title": "Richard",
+     "title_with_featured": "Richard (Ft.\u00a0Eminem)",
+     "url": "https://genius.com/Obie-trice-richard-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/810",
+      "header_image_url": "https://images.genius.com/01da2c3ebb553385499a2e5c222dee0c.500x500x1.jpg",
+      "id": 810,
+      "image_url": "https://images.genius.com/01da2c3ebb553385499a2e5c222dee0c.500x500x1.jpg",
+      "is_meme_verified": true,
+      "is_verified": true,
+      "name": "Obie Trice",
+      "url": "https://genius.com/artists/Obie-trice",
+      "iq": 1286
+     }
+    },
+    {
+     "annotation_count": 2,
+     "api_path": "/songs/72842",
+     "full_title": "Dear Slim Pt. 2 by\u00a0KJ-52",
+     "header_image_thumbnail_url": "https://images.genius.com/ac60efef8cca00a893f65b5ddd7347d1.300x300x1.jpg",
+     "header_image_url": "https://images.genius.com/ac60efef8cca00a893f65b5ddd7347d1.640x640x1.jpg",
+     "id": 72842,
+     "lyrics_owner_id": 98246,
+     "lyrics_state": "complete",
+     "path": "/Kj-52-dear-slim-pt-2-lyrics",
+     "pyongs_count": null,
+     "song_art_image_thumbnail_url": "https://images.genius.com/ac60efef8cca00a893f65b5ddd7347d1.300x300x1.jpg",
+     "song_art_image_url": "https://images.genius.com/ac60efef8cca00a893f65b5ddd7347d1.640x640x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 0,
+      "hot": false
+     },
+     "title": "Dear Slim Pt. 2",
+     "title_with_featured": "Dear Slim Pt. 2",
+     "url": "https://genius.com/Kj-52-dear-slim-pt-2-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/7184",
+      "header_image_url": "https://images.genius.com/04e9a3c3e7398dfe261f8f345b73d0fb.1000x667x1.jpg",
+      "id": 7184,
+      "image_url": "https://images.genius.com/ee48edb7d205895392bbf636ad4893a1.1000x1000x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": true,
+      "name": "KJ-52",
+      "url": "https://genius.com/artists/Kj-52",
+      "iq": 351
+     }
+    },
+    {
+     "annotation_count": 37,
+     "api_path": "/songs/235728",
+     "full_title": "Asshole by\u00a0Eminem (Ft.\u00a0Skylar\u00a0Grey)",
+     "header_image_thumbnail_url": "https://images.genius.com/932e1696fc6fa7e6d63e61a9735c640d.300x300x1.jpg",
+     "header_image_url": "https://images.genius.com/932e1696fc6fa7e6d63e61a9735c640d.1000x1000x1.jpg",
+     "id": 235728,
+     "lyrics_owner_id": 27018,
+     "lyrics_state": "complete",
+     "path": "/Eminem-asshole-lyrics",
+     "pyongs_count": 115,
+     "song_art_image_thumbnail_url": "https://images.genius.com/932e1696fc6fa7e6d63e61a9735c640d.300x300x1.jpg",
+     "song_art_image_url": "https://images.genius.com/932e1696fc6fa7e6d63e61a9735c640d.1000x1000x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 1,
+      "hot": false,
+      "pageviews": 682560
+     },
+     "title": "Asshole",
+     "title_with_featured": "Asshole (Ft.\u00a0Skylar\u00a0Grey)",
+     "url": "https://genius.com/Eminem-asshole-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/45",
+      "header_image_url": "https://images.genius.com/a9f98b20f8aa7a32650a1dfa5f3de088.1000x445x1.jpg",
+      "id": 45,
+      "image_url": "https://images.genius.com/f300798551b97fe030876123afb8c33a.805x805x1.jpg",
+      "is_meme_verified": true,
+      "is_verified": true,
+      "name": "Eminem",
+      "url": "https://genius.com/artists/Eminem",
+      "iq": 214212
+     }
+    },
+    {
+     "annotation_count": 11,
+     "api_path": "/songs/707990",
+     "full_title": "Whatever Dude by\u00a0Injury\u00a0Reserve",
+     "header_image_thumbnail_url": "https://images.genius.com/bb33d58dd936554c6cd07c07227a217c.300x20x1.png",
+     "header_image_url": "https://images.genius.com/bb33d58dd936554c6cd07c07227a217c.974x64x1.png",
+     "id": 707990,
+     "lyrics_owner_id": 1535773,
+     "lyrics_state": "complete",
+     "path": "/Injury-reserve-whatever-dude-lyrics",
+     "pyongs_count": 5,
+     "song_art_image_thumbnail_url": "https://images.genius.com/48180d50daa0299ecab0c2993e418019.300x300x1.jpg",
+     "song_art_image_url": "https://images.genius.com/48180d50daa0299ecab0c2993e418019.1000x1000x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 2,
+      "hot": false,
+      "pageviews": 9487
+     },
+     "title": "Whatever Dude",
+     "title_with_featured": "Whatever Dude",
+     "url": "https://genius.com/Injury-reserve-whatever-dude-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/35334",
+      "header_image_url": "https://images.genius.com/9c63ecfe2769aacd87565cbc2a947eea.1000x382x1.jpg",
+      "id": 35334,
+      "image_url": "https://images.genius.com/c2e8eb7c4d12def9513a664f4df2e8da.1000x1000x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": true,
+      "name": "Injury Reserve",
+      "url": "https://genius.com/artists/Injury-reserve",
+      "iq": 827
+     }
+    },
+    {
+     "annotation_count": 1,
+     "api_path": "/songs/856677",
+     "full_title": "Look Yourself (Parody of \"Lose Yourself\") by\u00a0ApologetiX",
+     "header_image_thumbnail_url": "https://images.genius.com/31dbec0f517b8b7f470e9176639e7252.300x300x1.jpg",
+     "header_image_url": "https://images.genius.com/31dbec0f517b8b7f470e9176639e7252.500x500x1.jpg",
+     "id": 856677,
+     "lyrics_owner_id": 5416205,
+     "lyrics_state": "complete",
+     "path": "/Apologetix-look-yourself-parody-of-lose-yourself-lyrics",
+     "pyongs_count": null,
+     "song_art_image_thumbnail_url": "https://images.genius.com/31dbec0f517b8b7f470e9176639e7252.300x300x1.jpg",
+     "song_art_image_url": "https://images.genius.com/31dbec0f517b8b7f470e9176639e7252.500x500x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 1,
+      "hot": false
+     },
+     "title": "Look Yourself (Parody of \u201dLose Yourself\u201d)",
+     "title_with_featured": "Look Yourself (Parody of \"Lose Yourself\")",
+     "url": "https://genius.com/Apologetix-look-yourself-parody-of-lose-yourself-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/98974",
+      "header_image_url": "https://images.genius.com/35954c7e560038d6e7df8cbb55bc7124.1000x333x1.jpg",
+      "id": 98974,
+      "image_url": "https://images.genius.com/eb2f26bf56cfc9adc247aca9a86e8f02.1000x1000x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "ApologetiX",
+      "url": "https://genius.com/artists/Apologetix"
+     }
+    },
+    {
+     "annotation_count": 0,
+     "api_path": "/songs/2492024",
+     "full_title": "One Punch Man by\u00a0Nonelikejoshua (Ft.\u00a0Tyler\u00a0Clark)",
+     "header_image_thumbnail_url": "https://images.genius.com/2f2726340082226385d1ab1082519290.300x300x1.jpg",
+     "header_image_url": "https://images.genius.com/2f2726340082226385d1ab1082519290.1000x1000x1.jpg",
+     "id": 2492024,
+     "lyrics_owner_id": 3223685,
+     "lyrics_state": "complete",
+     "path": "/Nonelikejoshua-one-punch-man-lyrics",
+     "pyongs_count": null,
+     "song_art_image_thumbnail_url": "https://images.genius.com/2f2726340082226385d1ab1082519290.300x300x1.jpg",
+     "song_art_image_url": "https://images.genius.com/2f2726340082226385d1ab1082519290.1000x1000x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 0,
+      "hot": false
+     },
+     "title": "One Punch Man",
+     "title_with_featured": "One Punch Man (Ft.\u00a0Tyler\u00a0Clark)",
+     "url": "https://genius.com/Nonelikejoshua-one-punch-man-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/60578",
+      "header_image_url": "https://images.genius.com/43ee5078d77ff1835d3ae3ac5e8e43ce.1000x250x1.jpg",
+      "id": 60578,
+      "image_url": "https://images.genius.com/f7695977c2879b3aca8c0d9daf593dc0.1000x1000x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Nonelikejoshua",
+      "url": "https://genius.com/artists/Nonelikejoshua",
+      "iq": 671
+     }
+    },
+    {
+     "annotation_count": 23,
+     "api_path": "/songs/3192262",
+     "full_title": "Crime Is Us by\u00a0ShredGang\u00a0Mone (Ft.\u00a0BandGang\u00a0Masoe)",
+     "header_image_thumbnail_url": "https://images.genius.com/76f25c6feace38a8e874b0400acb12b8.300x300x1.jpg",
+     "header_image_url": "https://images.genius.com/76f25c6feace38a8e874b0400acb12b8.500x500x1.jpg",
+     "id": 3192262,
+     "lyrics_owner_id": 2665809,
+     "lyrics_state": "complete",
+     "path": "/Shredgang-mone-crime-is-us-lyrics",
+     "pyongs_count": null,
+     "song_art_image_thumbnail_url": "https://images.genius.com/76f25c6feace38a8e874b0400acb12b8.300x300x1.jpg",
+     "song_art_image_url": "https://images.genius.com/76f25c6feace38a8e874b0400acb12b8.500x500x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 23,
+      "hot": false
+     },
+     "title": "Crime Is Us",
+     "title_with_featured": "Crime Is Us (Ft.\u00a0BandGang\u00a0Masoe)",
+     "url": "https://genius.com/Shredgang-mone-crime-is-us-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/977741",
+      "header_image_url": "https://images.genius.com/52b2e813edc04a11c530d9f920145eff.800x1000x1.jpg",
+      "id": 977741,
+      "image_url": "https://images.genius.com/ead020a90d47764dec618e7fcefb39e5.755x755x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "ShredGang Mone",
+      "url": "https://genius.com/artists/Shredgang-mone"
+     }
+    },
+    {
+     "annotation_count": 54,
+     "api_path": "/songs/3937522",
+     "full_title": "RAP DEVIL by\u00a0Machine\u00a0Gun Kelly",
+     "header_image_thumbnail_url": "https://images.genius.com/8765217c229721a0b0171d51ac17fa69.300x300x1.jpg",
+     "header_image_url": "https://images.genius.com/8765217c229721a0b0171d51ac17fa69.1000x1000x1.jpg",
+     "id": 3937522,
+     "lyrics_owner_id": 321054,
+     "lyrics_state": "complete",
+     "path": "/Machine-gun-kelly-rap-devil-lyrics",
+     "pyongs_count": 320,
+     "song_art_image_thumbnail_url": "https://images.genius.com/1ccf68009ff3f3cd5a6af61ff1de55c6.300x300x1.png",
+     "song_art_image_url": "https://images.genius.com/1ccf68009ff3f3cd5a6af61ff1de55c6.1000x1000x1.png",
+     "stats": {
+      "unreviewed_annotations": 1,
+      "hot": false,
+      "pageviews": 3170827
+     },
+     "title": "RAP DEVIL",
+     "title_with_featured": "RAP DEVIL",
+     "url": "https://genius.com/Machine-gun-kelly-rap-devil-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/1665",
+      "header_image_url": "https://images.genius.com/935ea4f4a13ae827738d3892e32d0065.193x93x1.jpg",
+      "id": 1665,
+      "image_url": "https://images.genius.com/be14a038dfe23ecfdc5c5fc7d91cbd5b.1000x1000x1.jpg",
+      "is_meme_verified": true,
+      "is_verified": true,
+      "name": "Machine Gun Kelly",
+      "url": "https://genius.com/artists/Machine-gun-kelly",
+      "iq": 26804
+     }
+    },
+    {
+     "annotation_count": 3,
+     "api_path": "/songs/4618948",
+     "full_title": "Aspect Of The Nightmare by\u00a0Tony\u00a0Davis The Rapper",
+     "header_image_thumbnail_url": "https://images.genius.com/6fceb0dbbf422fd6b9ea400734601203.300x300x1.jpg",
+     "header_image_url": "https://images.genius.com/6fceb0dbbf422fd6b9ea400734601203.1000x1000x1.jpg",
+     "id": 4618948,
+     "lyrics_owner_id": 6212586,
+     "lyrics_state": "complete",
+     "path": "/Tony-davis-the-rapper-aspect-of-the-nightmare-lyrics",
+     "pyongs_count": null,
+     "song_art_image_thumbnail_url": "https://images.genius.com/6fceb0dbbf422fd6b9ea400734601203.300x300x1.jpg",
+     "song_art_image_url": "https://images.genius.com/6fceb0dbbf422fd6b9ea400734601203.1000x1000x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 0,
+      "hot": false
+     },
+     "title": "Aspect Of The Nightmare",
+     "title_with_featured": "Aspect Of The Nightmare",
+     "url": "https://genius.com/Tony-davis-the-rapper-aspect-of-the-nightmare-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/1440667",
+      "header_image_url": "https://images.genius.com/26a76fa17165e54488b416750505f620.1000x562x1.jpg",
+      "id": 1440667,
+      "image_url": "https://images.genius.com/3749026fc31e71ed292694427e1c4d12.1000x1000x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Tony Davis The Rapper",
+      "url": "https://genius.com/artists/Tony-davis-the-rapper",
+      "iq": 1709
+     }
+    },
+    {
+     "annotation_count": 0,
+     "api_path": "/songs/4660919",
+     "full_title": "\u0412\u043b\u044e\u0431\u043b\u0435\u043d\u0430 \u0432 \u041c\u0414\u041a (Fall in love with MDK) by\u00a0\u041a\u043b\u0430\u0432\u0430\u00a0\u041a\u043e\u043a\u0430 (Klava Koka)",
+     "header_image_thumbnail_url": "https://images.genius.com/5301cd6c06918d864d748ffed0e0a36a.300x300x1.jpg",
+     "header_image_url": "https://images.genius.com/5301cd6c06918d864d748ffed0e0a36a.1000x1000x1.jpg",
+     "id": 4660919,
+     "lyrics_owner_id": 7724777,
+     "lyrics_state": "complete",
+     "path": "/Klava-koka-fall-in-love-with-mdk-lyrics",
+     "pyongs_count": 1,
+     "song_art_image_thumbnail_url": "https://images.genius.com/5301cd6c06918d864d748ffed0e0a36a.300x300x1.jpg",
+     "song_art_image_url": "https://images.genius.com/5301cd6c06918d864d748ffed0e0a36a.1000x1000x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 0,
+      "hot": false,
+      "pageviews": 23497
+     },
+     "title": "\u0412\u043b\u044e\u0431\u043b\u0435\u043d\u0430 \u0432 \u041c\u0414\u041a (Fall in love with MDK)",
+     "title_with_featured": "\u0412\u043b\u044e\u0431\u043b\u0435\u043d\u0430 \u0432 \u041c\u0414\u041a (Fall in love with MDK)",
+     "url": "https://genius.com/Klava-koka-fall-in-love-with-mdk-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/1660096",
+      "header_image_url": "https://images.genius.com/5080e1831f1b76c0d20556c7c36cae31.999x999x1.jpg",
+      "id": 1660096,
+      "image_url": "https://images.genius.com/5080e1831f1b76c0d20556c7c36cae31.999x999x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "\u041a\u043b\u0430\u0432\u0430 \u041a\u043e\u043a\u0430 (Klava Koka)",
+      "url": "https://genius.com/artists/Klava-koka"
+     }
+    },
+    {
+     "annotation_count": 0,
+     "api_path": "/songs/5484357",
+     "full_title": "Laugh N Stalk vs. Marv Won by\u00a0IBattle (Ft.\u00a0Laugh\u00a0N Stalk & Marv\u00a0Won)",
+     "header_image_thumbnail_url": "https://images.genius.com/a74ada706789e60a2ec4650265ef5171.300x300x1.jpg",
+     "header_image_url": "https://images.genius.com/a74ada706789e60a2ec4650265ef5171.960x960x1.jpg",
+     "id": 5484357,
+     "lyrics_owner_id": 2894805,
+     "lyrics_state": "complete",
+     "path": "/Ibattle-laugh-n-stalk-vs-marv-won-lyrics",
+     "pyongs_count": null,
+     "song_art_image_thumbnail_url": "https://images.genius.com/a74ada706789e60a2ec4650265ef5171.300x300x1.jpg",
+     "song_art_image_url": "https://images.genius.com/a74ada706789e60a2ec4650265ef5171.960x960x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 0,
+      "hot": false
+     },
+     "title": "Laugh N Stalk vs. Marv Won",
+     "title_with_featured": "Laugh N Stalk vs. Marv Won (Ft.\u00a0Laugh\u00a0N Stalk & Marv\u00a0Won)",
+     "url": "https://genius.com/Ibattle-laugh-n-stalk-vs-marv-won-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/653120",
+      "header_image_url": "https://images.genius.com/684e977b1ecebea45d5442ba2204f417.252x252x1.jpg",
+      "id": 653120,
+      "image_url": "https://images.genius.com/9d611b4063798596827f37c1f5df9c56.632x632x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "IBattle",
+      "url": "https://genius.com/artists/Ibattle"
+     }
+    },
+    {
+     "annotation_count": 3,
+     "api_path": "/songs/5778007",
+     "full_title": "Ready to Serve (Soma Rap) by\u00a0Rustage (Ft.\u00a0Diggz\u00a0The Prophecy)",
+     "header_image_thumbnail_url": "https://images.genius.com/651ae24c882bafb627d2ca68cd6c29b9.300x300x1.jpg",
+     "header_image_url": "https://images.genius.com/651ae24c882bafb627d2ca68cd6c29b9.500x500x1.jpg",
+     "id": 5778007,
+     "lyrics_owner_id": 9918965,
+     "lyrics_state": "complete",
+     "path": "/Rustage-ready-to-serve-soma-rap-lyrics",
+     "pyongs_count": null,
+     "song_art_image_thumbnail_url": "https://images.genius.com/651ae24c882bafb627d2ca68cd6c29b9.300x300x1.jpg",
+     "song_art_image_url": "https://images.genius.com/651ae24c882bafb627d2ca68cd6c29b9.500x500x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 3,
+      "hot": false
+     },
+     "title": "Ready to Serve (Soma Rap)",
+     "title_with_featured": "Ready to Serve (Soma Rap) (Ft.\u00a0Diggz\u00a0The Prophecy)",
+     "url": "https://genius.com/Rustage-ready-to-serve-soma-rap-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/396389",
+      "header_image_url": "https://images.rapgenius.com/avatars/medium/57b2f5adedae6d39eaad74b318d1c139",
+      "id": 396389,
+      "image_url": "https://images.rapgenius.com/avatars/medium/57b2f5adedae6d39eaad74b318d1c139",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Rustage",
+      "url": "https://genius.com/artists/Rustage",
+      "iq": 100
+     }
+    }
+   ]
+  },
+  {
+   "relationship_type": "cover_of",
+   "type": "cover_of",
+   "songs": []
+  },
+  {
+   "relationship_type": "covered_by",
+   "type": "covered_by",
+   "songs": [
+    {
+     "annotation_count": 1,
+     "api_path": "/songs/1628000",
+     "full_title": "Lose Yourself by\u00a0Paul\u00a0Young",
+     "header_image_thumbnail_url": "https://images.genius.com/500bc2ee36eee59292918d8b54a94663.300x293x1.jpg",
+     "header_image_url": "https://images.genius.com/500bc2ee36eee59292918d8b54a94663.1000x975x1.jpg",
+     "id": 1628000,
+     "lyrics_owner_id": 1549345,
+     "lyrics_state": "complete",
+     "path": "/Paul-young-lose-yourself-lyrics",
+     "pyongs_count": null,
+     "song_art_image_thumbnail_url": "https://images.genius.com/500bc2ee36eee59292918d8b54a94663.300x293x1.jpg",
+     "song_art_image_url": "https://images.genius.com/500bc2ee36eee59292918d8b54a94663.1000x975x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 0,
+      "hot": false
+     },
+     "title": "Lose Yourself",
+     "title_with_featured": "Lose Yourself",
+     "url": "https://genius.com/Paul-young-lose-yourself-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/100914",
+      "header_image_url": "https://images.genius.com/3dc50ccadd53e8b1b8d74261905a6c54.223x223x1.jpg",
+      "id": 100914,
+      "image_url": "https://images.genius.com/3dc50ccadd53e8b1b8d74261905a6c54.223x223x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Paul Young",
+      "url": "https://genius.com/artists/Paul-young"
+     }
+    },
+    {
+     "annotation_count": 1,
+     "api_path": "/songs/2075414",
+     "full_title": "Lose Yourself by\u00a0Serianna",
+     "header_image_thumbnail_url": "https://images.genius.com/ffd64f14ea0ffc610c04ac9bcaebbc06.300x300x1.jpg",
+     "header_image_url": "https://images.genius.com/ffd64f14ea0ffc610c04ac9bcaebbc06.1000x1000x1.jpg",
+     "id": 2075414,
+     "lyrics_owner_id": 1549345,
+     "lyrics_state": "complete",
+     "path": "/Serianna-lose-yourself-lyrics",
+     "pyongs_count": null,
+     "song_art_image_thumbnail_url": "https://images.genius.com/ffd64f14ea0ffc610c04ac9bcaebbc06.300x300x1.jpg",
+     "song_art_image_url": "https://images.genius.com/ffd64f14ea0ffc610c04ac9bcaebbc06.1000x1000x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 0,
+      "hot": false
+     },
+     "title": "Lose Yourself",
+     "title_with_featured": "Lose Yourself",
+     "url": "https://genius.com/Serianna-lose-yourself-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/384140",
+      "header_image_url": "https://images.genius.com/773ea572bdaa7871fc299fb58d2bf455.1000x674x1.jpg",
+      "id": 384140,
+      "image_url": "https://images.genius.com/773ea572bdaa7871fc299fb58d2bf455.1000x674x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Serianna",
+      "url": "https://genius.com/artists/Serianna"
+     }
+    },
+    {
+     "annotation_count": 2,
+     "api_path": "/songs/3024500",
+     "full_title": "Lose Yourself / Smile by\u00a0Taylor\u00a0Swift",
+     "header_image_thumbnail_url": "https://images.genius.com/74f1757e4c684d86155c39647ddbac72.300x300x1.jpg",
+     "header_image_url": "https://images.genius.com/74f1757e4c684d86155c39647ddbac72.400x400x1.jpg",
+     "id": 3024500,
+     "lyrics_owner_id": 1873201,
+     "lyrics_state": "complete",
+     "path": "/Taylor-swift-lose-yourself-smile-lyrics",
+     "pyongs_count": null,
+     "song_art_image_thumbnail_url": "https://images.genius.com/74f1757e4c684d86155c39647ddbac72.300x300x1.jpg",
+     "song_art_image_url": "https://images.genius.com/74f1757e4c684d86155c39647ddbac72.400x400x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 0,
+      "hot": false
+     },
+     "title": "Lose Yourself / Smile",
+     "title_with_featured": "Lose Yourself / Smile",
+     "url": "https://genius.com/Taylor-swift-lose-yourself-smile-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/1177",
+      "header_image_url": "https://images.genius.com/4d12c79db36bf4b9e4d6fbd27791ed1a.1000x333x1.jpg",
+      "id": 1177,
+      "image_url": "https://images.genius.com/74f1757e4c684d86155c39647ddbac72.400x400x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": true,
+      "name": "Taylor Swift",
+      "url": "https://genius.com/artists/Taylor-swift",
+      "iq": 1315
+     }
+    },
+    {
+     "annotation_count": 0,
+     "api_path": "/songs/3369839",
+     "full_title": "Lose Yourself by\u00a0Saliva",
+     "header_image_thumbnail_url": "https://images.genius.com/66f18235f9fa2557cb6f31906e671a70.300x300x1.jpg",
+     "header_image_url": "https://images.genius.com/66f18235f9fa2557cb6f31906e671a70.1000x1000x1.jpg",
+     "id": 3369839,
+     "lyrics_owner_id": 2500168,
+     "lyrics_state": "complete",
+     "path": "/Saliva-lose-yourself-lyrics",
+     "pyongs_count": null,
+     "song_art_image_thumbnail_url": "https://images.genius.com/66f18235f9fa2557cb6f31906e671a70.300x300x1.jpg",
+     "song_art_image_url": "https://images.genius.com/66f18235f9fa2557cb6f31906e671a70.1000x1000x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 0,
+      "hot": false,
+      "pageviews": 5233
+     },
+     "title": "Lose Yourself",
+     "title_with_featured": "Lose Yourself",
+     "url": "https://genius.com/Saliva-lose-yourself-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/34397",
+      "header_image_url": "https://images.genius.com/009d5c5a006748c69149118b133a5377.1000x1000x1.jpg",
+      "id": 34397,
+      "image_url": "https://images.genius.com/009d5c5a006748c69149118b133a5377.1000x1000x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Saliva",
+      "url": "https://genius.com/artists/Saliva"
+     }
+    },
+    {
+     "annotation_count": 2,
+     "api_path": "/songs/3391686",
+     "full_title": "Mom's Spagget by\u00a0Filthy\u00a0Frank",
+     "header_image_thumbnail_url": "https://images.genius.com/4c4b17e0f5ea3b5aed98995f5dd12d46.300x300x1.jpg",
+     "header_image_url": "https://images.genius.com/4c4b17e0f5ea3b5aed98995f5dd12d46.360x360x1.jpg",
+     "id": 3391686,
+     "lyrics_owner_id": 5460907,
+     "lyrics_state": "complete",
+     "path": "/Filthy-frank-moms-spagget-lyrics",
+     "pyongs_count": null,
+     "song_art_image_thumbnail_url": "https://images.genius.com/4c4b17e0f5ea3b5aed98995f5dd12d46.300x300x1.jpg",
+     "song_art_image_url": "https://images.genius.com/4c4b17e0f5ea3b5aed98995f5dd12d46.360x360x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 2,
+      "hot": false
+     },
+     "title": "Mom\u2019s Spagget",
+     "title_with_featured": "Mom's Spagget",
+     "url": "https://genius.com/Filthy-frank-moms-spagget-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/48872",
+      "header_image_url": "https://images.genius.com/659e3e8bfee9ecdd96d912025d1d55d0.567x320x1.png",
+      "id": 48872,
+      "image_url": "https://images.genius.com/4c4b17e0f5ea3b5aed98995f5dd12d46.360x360x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Filthy Frank",
+      "url": "https://genius.com/artists/Filthy-frank"
+     }
+    },
+    {
+     "annotation_count": 0,
+     "api_path": "/songs/3920698",
+     "full_title": "Rijbewijs by\u00a0MC\u00a0joel",
+     "header_image_thumbnail_url": "https://images.genius.com/d6474615fdc81756c47ce1d11a8407ab.250x300x1.gif",
+     "header_image_url": "https://images.genius.com/d6474615fdc81756c47ce1d11a8407ab.250x300x1.gif",
+     "id": 3920698,
+     "lyrics_owner_id": 6790675,
+     "lyrics_state": "complete",
+     "path": "/Mc-joel-rijbewijs-lyrics",
+     "pyongs_count": null,
+     "song_art_image_thumbnail_url": "https://images.genius.com/d6474615fdc81756c47ce1d11a8407ab.250x300x1.gif",
+     "song_art_image_url": "https://images.genius.com/d6474615fdc81756c47ce1d11a8407ab.250x300x1.gif",
+     "stats": {
+      "unreviewed_annotations": 0,
+      "hot": false
+     },
+     "title": "Rijbewijs",
+     "title_with_featured": "Rijbewijs",
+     "url": "https://genius.com/Mc-joel-rijbewijs-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/1562894",
+      "header_image_url": "https://images.genius.com/d6474615fdc81756c47ce1d11a8407ab.250x300x1.gif",
+      "id": 1562894,
+      "image_url": "https://images.genius.com/d6474615fdc81756c47ce1d11a8407ab.250x300x1.gif",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "MC joel",
+      "url": "https://genius.com/artists/Mc-joel"
+     }
+    },
+    {
+     "annotation_count": 0,
+     "api_path": "/songs/4262882",
+     "full_title": "Lose Yourself (Live) by\u00a0Louden\u00a0Swain (Ft.\u00a0Osric\u00a0Chau)",
+     "header_image_thumbnail_url": "https://images.genius.com/80286195a98450d05e2cd22602cffd73.300x300x1.jpg",
+     "header_image_url": "https://images.genius.com/80286195a98450d05e2cd22602cffd73.999x999x1.jpg",
+     "id": 4262882,
+     "lyrics_owner_id": 7658168,
+     "lyrics_state": "complete",
+     "path": "/Louden-swain-lose-yourself-live-lyrics",
+     "pyongs_count": null,
+     "song_art_image_thumbnail_url": "https://images.genius.com/80286195a98450d05e2cd22602cffd73.300x300x1.jpg",
+     "song_art_image_url": "https://images.genius.com/80286195a98450d05e2cd22602cffd73.999x999x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 0,
+      "hot": false
+     },
+     "title": "Lose Yourself (Live)",
+     "title_with_featured": "Lose Yourself (Live) (Ft.\u00a0Osric\u00a0Chau)",
+     "url": "https://genius.com/Louden-swain-lose-yourself-live-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/481834",
+      "header_image_url": "https://images.genius.com/79e613591287738fd7b1ea9cefbbe647.1000x625x1.jpg",
+      "id": 481834,
+      "image_url": "https://images.genius.com/21bd2eb27f80bd3d30a43fcd9a948c7d.720x720x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Louden Swain",
+      "url": "https://genius.com/artists/Louden-swain"
+     }
+    },
+    {
+     "annotation_count": 0,
+     "api_path": "/songs/4742327",
+     "full_title": "Lose Yourself (Metal Version) by\u00a0Leo\u00a0Moracchioli",
+     "header_image_thumbnail_url": "https://images.genius.com/f4221289a8d5dadd2436b7cd011f3408.300x300x1.jpg",
+     "header_image_url": "https://images.genius.com/f4221289a8d5dadd2436b7cd011f3408.400x400x1.jpg",
+     "id": 4742327,
+     "lyrics_owner_id": 4666199,
+     "lyrics_state": "complete",
+     "path": "/Leo-moracchioli-lose-yourself-metal-version-lyrics",
+     "pyongs_count": null,
+     "song_art_image_thumbnail_url": "https://images.genius.com/f4221289a8d5dadd2436b7cd011f3408.300x300x1.jpg",
+     "song_art_image_url": "https://images.genius.com/f4221289a8d5dadd2436b7cd011f3408.400x400x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 0,
+      "hot": false
+     },
+     "title": "Lose Yourself (Metal Version)",
+     "title_with_featured": "Lose Yourself (Metal Version)",
+     "url": "https://genius.com/Leo-moracchioli-lose-yourself-metal-version-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/1507508",
+      "header_image_url": "https://images.genius.com/a5fe22662dc4ce1662e1cf1be1129e49.225x225x1.jpg",
+      "id": 1507508,
+      "image_url": "https://images.genius.com/a5fe22662dc4ce1662e1cf1be1129e49.225x225x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Leo Moracchioli",
+      "url": "https://genius.com/artists/Leo-moracchioli"
+     }
+    },
+    {
+     "annotation_count": 0,
+     "api_path": "/songs/5656503",
+     "full_title": "Lose Yourself by\u00a0Ankor",
+     "header_image_thumbnail_url": "https://images.genius.com/7b8145f0ac2b2339125d157da4776164.300x300x1.jpg",
+     "header_image_url": "https://images.genius.com/7b8145f0ac2b2339125d157da4776164.640x640x1.jpg",
+     "id": 5656503,
+     "lyrics_owner_id": 11094853,
+     "lyrics_state": "complete",
+     "path": "/Ankor-lose-yourself-lyrics",
+     "pyongs_count": null,
+     "song_art_image_thumbnail_url": "https://images.genius.com/7b8145f0ac2b2339125d157da4776164.300x300x1.jpg",
+     "song_art_image_url": "https://images.genius.com/7b8145f0ac2b2339125d157da4776164.640x640x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 0,
+      "hot": false
+     },
+     "title": "Lose Yourself",
+     "title_with_featured": "Lose Yourself",
+     "url": "https://genius.com/Ankor-lose-yourself-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/1628717",
+      "header_image_url": "https://images.genius.com/aa9809a1d995f05ed49cbb7ec84b2186.1000x267x1.png",
+      "id": 1628717,
+      "image_url": "https://images.genius.com/24009baac839b08e122cbaa98b3290a9.971x971x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Ankor",
+      "url": "https://genius.com/artists/Ankor"
+     }
+    },
+    {
+     "annotation_count": 0,
+     "api_path": "/songs/5873002",
+     "full_title": "Lose Yourself by\u00a0Imagine\u00a0Dragons",
+     "header_image_thumbnail_url": "https://images.genius.com/a223139e14f93dbe3ca1c1591434583a.300x300x1.jpg",
+     "header_image_url": "https://images.genius.com/a223139e14f93dbe3ca1c1591434583a.500x500x1.jpg",
+     "id": 5873002,
+     "lyrics_owner_id": 7804547,
+     "lyrics_state": "complete",
+     "path": "/Imagine-dragons-lose-yourself-lyrics",
+     "pyongs_count": null,
+     "song_art_image_thumbnail_url": "https://images.genius.com/a223139e14f93dbe3ca1c1591434583a.300x300x1.jpg",
+     "song_art_image_url": "https://images.genius.com/a223139e14f93dbe3ca1c1591434583a.500x500x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 0,
+      "hot": false
+     },
+     "title": "Lose Yourself",
+     "title_with_featured": "Lose Yourself",
+     "url": "https://genius.com/Imagine-dragons-lose-yourself-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/29472",
+      "header_image_url": "https://images.genius.com/17acbc71548ddca04c50c0fcc4ce4b51.1000x333x1.jpg",
+      "id": 29472,
+      "image_url": "https://images.genius.com/68b6779c7bf660f4963dd6fc0db4afd1.1000x1000x1.png",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Imagine Dragons",
+      "url": "https://genius.com/artists/Imagine-dragons"
+     }
+    }
+   ]
+  },
+  {
+   "relationship_type": "remix_of",
+   "type": "remix_of",
+   "songs": [
+    {
+     "annotation_count": 13,
+     "api_path": "/songs/586290",
+     "full_title": "Lose Yourself (Original Demo Version) by\u00a0Eminem",
+     "header_image_thumbnail_url": "https://images.genius.com/acc348ccdf6bd18c7aee7ae7c6c3d865.300x300x1.png",
+     "header_image_url": "https://images.genius.com/acc348ccdf6bd18c7aee7ae7c6c3d865.1000x1000x1.png",
+     "id": 586290,
+     "lyrics_owner_id": 22533,
+     "lyrics_state": "complete",
+     "path": "/Eminem-lose-yourself-original-demo-version-lyrics",
+     "pyongs_count": 75,
+     "song_art_image_thumbnail_url": "https://images.genius.com/acc348ccdf6bd18c7aee7ae7c6c3d865.300x300x1.png",
+     "song_art_image_url": "https://images.genius.com/acc348ccdf6bd18c7aee7ae7c6c3d865.1000x1000x1.png",
+     "stats": {
+      "unreviewed_annotations": 0,
+      "hot": false,
+      "pageviews": 135303
+     },
+     "title": "Lose Yourself (Original Demo Version)",
+     "title_with_featured": "Lose Yourself (Original Demo Version)",
+     "url": "https://genius.com/Eminem-lose-yourself-original-demo-version-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/45",
+      "header_image_url": "https://images.genius.com/a9f98b20f8aa7a32650a1dfa5f3de088.1000x445x1.jpg",
+      "id": 45,
+      "image_url": "https://images.genius.com/f300798551b97fe030876123afb8c33a.805x805x1.jpg",
+      "is_meme_verified": true,
+      "is_verified": true,
+      "name": "Eminem",
+      "url": "https://genius.com/artists/Eminem",
+      "iq": 214212
+     }
+    }
+   ]
+  },
+  {
+   "relationship_type": "remixed_by",
+   "type": "remixed_by",
+   "songs": [
+    {
+     "annotation_count": 1,
+     "api_path": "/songs/2982910",
+     "full_title": "God Is Cleaning Out My Closet by\u00a0Eminem",
+     "header_image_thumbnail_url": "https://images.genius.com/d9dd8d0798772cd995bc73aedf5c835c.300x300x1.png",
+     "header_image_url": "https://images.genius.com/d9dd8d0798772cd995bc73aedf5c835c.440x440x1.png",
+     "id": 2982910,
+     "lyrics_owner_id": 3367419,
+     "lyrics_state": "complete",
+     "path": "/Eminem-god-is-cleaning-out-my-closet-lyrics",
+     "pyongs_count": 2,
+     "song_art_image_thumbnail_url": "https://images.genius.com/d9dd8d0798772cd995bc73aedf5c835c.300x300x1.png",
+     "song_art_image_url": "https://images.genius.com/d9dd8d0798772cd995bc73aedf5c835c.440x440x1.png",
+     "stats": {
+      "unreviewed_annotations": 0,
+      "hot": false,
+      "pageviews": 14304
+     },
+     "title": "God Is Cleaning Out My Closet",
+     "title_with_featured": "God Is Cleaning Out My Closet",
+     "url": "https://genius.com/Eminem-god-is-cleaning-out-my-closet-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/45",
+      "header_image_url": "https://images.genius.com/a9f98b20f8aa7a32650a1dfa5f3de088.1000x445x1.jpg",
+      "id": 45,
+      "image_url": "https://images.genius.com/f300798551b97fe030876123afb8c33a.805x805x1.jpg",
+      "is_meme_verified": true,
+      "is_verified": true,
+      "name": "Eminem",
+      "url": "https://genius.com/artists/Eminem",
+      "iq": 214212
+     }
+    },
+    {
+     "annotation_count": 1,
+     "api_path": "/songs/3115820",
+     "full_title": "Lose Yourself (Minecraft Parody) by\u00a0Galaxy\u00a0Goats",
+     "header_image_thumbnail_url": "https://images.genius.com/ba617abf81fca2057677c098c143348b.300x169x1.jpg",
+     "header_image_url": "https://images.genius.com/ba617abf81fca2057677c098c143348b.1000x563x1.jpg",
+     "id": 3115820,
+     "lyrics_owner_id": 3187955,
+     "lyrics_state": "complete",
+     "path": "/Galaxy-goats-lose-yourself-minecraft-parody-lyrics",
+     "pyongs_count": 2,
+     "song_art_image_thumbnail_url": "https://images.genius.com/ba617abf81fca2057677c098c143348b.300x169x1.jpg",
+     "song_art_image_url": "https://images.genius.com/ba617abf81fca2057677c098c143348b.1000x563x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 0,
+      "hot": false,
+      "pageviews": 6811
+     },
+     "title": "Lose Yourself (Minecraft Parody)",
+     "title_with_featured": "Lose Yourself (Minecraft Parody)",
+     "url": "https://genius.com/Galaxy-goats-lose-yourself-minecraft-parody-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/1100877",
+      "header_image_url": "https://images.genius.com/ed76e95151d2c587847d5856e7df7fa8.500x500x1.jpg",
+      "id": 1100877,
+      "image_url": "https://images.genius.com/ed76e95151d2c587847d5856e7df7fa8.500x500x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Galaxy Goats",
+      "url": "https://genius.com/artists/Galaxy-goats"
+     }
+    },
+    {
+     "annotation_count": 0,
+     "api_path": "/songs/3128988",
+     "full_title": "Lose Yourself (Remix) by\u00a0Teddy\u00a0Cream & Brad O'Neill",
+     "header_image_thumbnail_url": "https://images.genius.com/9ace7f2956ed8dcbb03d8a830bda1b5c.300x300x1.jpg",
+     "header_image_url": "https://images.genius.com/9ace7f2956ed8dcbb03d8a830bda1b5c.500x500x1.jpg",
+     "id": 3128988,
+     "lyrics_owner_id": 2034060,
+     "lyrics_state": "complete",
+     "path": "/Teddy-cream-and-brad-oneill-lose-yourself-remix-lyrics",
+     "pyongs_count": null,
+     "song_art_image_thumbnail_url": "https://images.genius.com/9ace7f2956ed8dcbb03d8a830bda1b5c.300x300x1.jpg",
+     "song_art_image_url": "https://images.genius.com/9ace7f2956ed8dcbb03d8a830bda1b5c.500x500x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 0,
+      "hot": false
+     },
+     "title": "Lose Yourself (Remix)",
+     "title_with_featured": "Lose Yourself (Remix)",
+     "url": "https://genius.com/Teddy-cream-and-brad-oneill-lose-yourself-remix-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/1427995",
+      "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+      "id": 1427995,
+      "image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Teddy Cream & Brad O\u2019Neill",
+      "url": "https://genius.com/artists/Teddy-cream-and-brad-oneill"
+     }
+    },
+    {
+     "annotation_count": 33,
+     "api_path": "/songs/3413337",
+     "full_title": "Lose Yourself (Drum & Bass Remix) by\u00a0Eminem",
+     "header_image_thumbnail_url": "https://images.genius.com/d9dd8d0798772cd995bc73aedf5c835c.300x300x1.png",
+     "header_image_url": "https://images.genius.com/d9dd8d0798772cd995bc73aedf5c835c.440x440x1.png",
+     "id": 3413337,
+     "lyrics_owner_id": 4845993,
+     "lyrics_state": "complete",
+     "path": "/Eminem-lose-yourself-drum-and-bass-remix-lyrics",
+     "pyongs_count": null,
+     "song_art_image_thumbnail_url": "https://images.genius.com/d9dd8d0798772cd995bc73aedf5c835c.300x300x1.png",
+     "song_art_image_url": "https://images.genius.com/d9dd8d0798772cd995bc73aedf5c835c.440x440x1.png",
+     "stats": {
+      "unreviewed_annotations": 0,
+      "hot": false
+     },
+     "title": "Lose Yourself (Drum & Bass Remix)",
+     "title_with_featured": "Lose Yourself (Drum & Bass Remix)",
+     "url": "https://genius.com/Eminem-lose-yourself-drum-and-bass-remix-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/45",
+      "header_image_url": "https://images.genius.com/a9f98b20f8aa7a32650a1dfa5f3de088.1000x445x1.jpg",
+      "id": 45,
+      "image_url": "https://images.genius.com/f300798551b97fe030876123afb8c33a.805x805x1.jpg",
+      "is_meme_verified": true,
+      "is_verified": true,
+      "name": "Eminem",
+      "url": "https://genius.com/artists/Eminem",
+      "iq": 214212
+     }
+    },
+    {
+     "annotation_count": 0,
+     "api_path": "/songs/3819710",
+     "full_title": "Spaghetti by\u00a0Renard",
+     "header_image_thumbnail_url": "https://images.genius.com/fdc0c53ebf7167fb99802ae9c2eac3ff.300x300x1.png",
+     "header_image_url": "https://images.genius.com/fdc0c53ebf7167fb99802ae9c2eac3ff.350x350x1.png",
+     "id": 3819710,
+     "lyrics_owner_id": 6653298,
+     "lyrics_state": "complete",
+     "path": "/Renard-spaghetti-lyrics",
+     "pyongs_count": null,
+     "song_art_image_thumbnail_url": "https://images.genius.com/fdc0c53ebf7167fb99802ae9c2eac3ff.300x300x1.png",
+     "song_art_image_url": "https://images.genius.com/fdc0c53ebf7167fb99802ae9c2eac3ff.350x350x1.png",
+     "stats": {
+      "unreviewed_annotations": 0,
+      "hot": false
+     },
+     "title": "Spaghetti",
+     "title_with_featured": "Spaghetti",
+     "url": "https://genius.com/Renard-spaghetti-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/3593",
+      "header_image_url": "https://images.genius.com/6f758f42df191d99a4bae2725295f845.600x600x1.jpg",
+      "id": 3593,
+      "image_url": "https://images.genius.com/6f758f42df191d99a4bae2725295f845.600x600x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Renard",
+      "url": "https://genius.com/artists/Renard"
+     }
+    },
+    {
+     "annotation_count": 1,
+     "api_path": "/songs/3907686",
+     "full_title": "Home Front by\u00a0Blaze\u00a0Audio",
+     "header_image_thumbnail_url": "https://images.genius.com/dd86412b4f2ccd9cead2d7a066f9aaaf.300x169x1.jpg",
+     "header_image_url": "https://images.genius.com/dd86412b4f2ccd9cead2d7a066f9aaaf.1000x563x1.jpg",
+     "id": 3907686,
+     "lyrics_owner_id": 1458288,
+     "lyrics_state": "complete",
+     "path": "/Blaze-audio-home-front-lyrics",
+     "pyongs_count": null,
+     "song_art_image_thumbnail_url": "https://images.genius.com/dd86412b4f2ccd9cead2d7a066f9aaaf.300x169x1.jpg",
+     "song_art_image_url": "https://images.genius.com/dd86412b4f2ccd9cead2d7a066f9aaaf.1000x563x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 0,
+      "hot": false
+     },
+     "title": "Home Front",
+     "title_with_featured": "Home Front",
+     "url": "https://genius.com/Blaze-audio-home-front-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/1109293",
+      "header_image_url": "https://images.genius.com/3cf0d4edb792f896d5ea1bfe56fe689f.1000x1000x1.jpg",
+      "id": 1109293,
+      "image_url": "https://images.genius.com/6b39bdb0dfcc6334156339246e46b72f.1000x1000x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Blaze Audio",
+      "url": "https://genius.com/artists/Blaze-audio"
+     }
+    },
+    {
+     "annotation_count": 2,
+     "api_path": "/songs/3940174",
+     "full_title": "Lose Yourself (Freestyle) by\u00a06ix9ine",
+     "header_image_thumbnail_url": "https://images.genius.com/67ad97494a807cae1551f2ee8f0009e1.300x300x1.jpg",
+     "header_image_url": "https://images.genius.com/67ad97494a807cae1551f2ee8f0009e1.640x640x1.jpg",
+     "id": 3940174,
+     "lyrics_owner_id": 1505217,
+     "lyrics_state": "complete",
+     "path": "/6ix9ine-lose-yourself-freestyle-lyrics",
+     "pyongs_count": null,
+     "song_art_image_thumbnail_url": "https://images.genius.com/67ad97494a807cae1551f2ee8f0009e1.300x300x1.jpg",
+     "song_art_image_url": "https://images.genius.com/67ad97494a807cae1551f2ee8f0009e1.640x640x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 0,
+      "hot": false
+     },
+     "title": "Lose Yourself (Freestyle)",
+     "title_with_featured": "Lose Yourself (Freestyle)",
+     "url": "https://genius.com/6ix9ine-lose-yourself-freestyle-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/1124097",
+      "header_image_url": "https://images.genius.com/b7220c27ffbaf9bdfd3fb34304cbea4c.1000x1000x1.png",
+      "id": 1124097,
+      "image_url": "https://images.genius.com/67ad97494a807cae1551f2ee8f0009e1.640x640x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "6ix9ine",
+      "url": "https://genius.com/artists/6ix9ine"
+     }
+    },
+    {
+     "annotation_count": 0,
+     "api_path": "/songs/4043601",
+     "full_title": "Watching As I Fall by\u00a0Blaze\u00a0Audio",
+     "header_image_thumbnail_url": "https://images.genius.com/e432aaefaeed1bfb44303340561cfe72.300x300x1.jpg",
+     "header_image_url": "https://images.genius.com/e432aaefaeed1bfb44303340561cfe72.1000x1000x1.jpg",
+     "id": 4043601,
+     "lyrics_owner_id": 1458288,
+     "lyrics_state": "complete",
+     "path": "/Blaze-audio-watching-as-i-fall-lyrics",
+     "pyongs_count": null,
+     "song_art_image_thumbnail_url": "https://images.genius.com/e432aaefaeed1bfb44303340561cfe72.300x300x1.jpg",
+     "song_art_image_url": "https://images.genius.com/e432aaefaeed1bfb44303340561cfe72.1000x1000x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 0,
+      "hot": false
+     },
+     "title": "Watching As I Fall",
+     "title_with_featured": "Watching As I Fall",
+     "url": "https://genius.com/Blaze-audio-watching-as-i-fall-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/1109293",
+      "header_image_url": "https://images.genius.com/3cf0d4edb792f896d5ea1bfe56fe689f.1000x1000x1.jpg",
+      "id": 1109293,
+      "image_url": "https://images.genius.com/6b39bdb0dfcc6334156339246e46b72f.1000x1000x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Blaze Audio",
+      "url": "https://genius.com/artists/Blaze-audio"
+     }
+    },
+    {
+     "annotation_count": 0,
+     "api_path": "/songs/4651352",
+     "full_title": "Motivation by\u00a0Big\u00a0Baller B",
+     "header_image_thumbnail_url": "https://images.genius.com/d13c20464d833a23ae1ccd4094b7110b.300x300x1.png",
+     "header_image_url": "https://images.genius.com/d13c20464d833a23ae1ccd4094b7110b.1000x1000x1.png",
+     "id": 4651352,
+     "lyrics_owner_id": 8307454,
+     "lyrics_state": "complete",
+     "path": "/Big-baller-b-motivation-lyrics",
+     "pyongs_count": null,
+     "song_art_image_thumbnail_url": "https://images.genius.com/d13c20464d833a23ae1ccd4094b7110b.300x300x1.png",
+     "song_art_image_url": "https://images.genius.com/d13c20464d833a23ae1ccd4094b7110b.1000x1000x1.png",
+     "stats": {
+      "unreviewed_annotations": 0,
+      "hot": false
+     },
+     "title": "Motivation",
+     "title_with_featured": "Motivation",
+     "url": "https://genius.com/Big-baller-b-motivation-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/1471902",
+      "header_image_url": "https://images.genius.com/da0365569f6e371bea20ce6fa97e3be4.600x600x1.jpg",
+      "id": 1471902,
+      "image_url": "https://images.genius.com/a0e6193522a17cca57bf0332da8319f0.480x270x61.gif",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Big Baller B",
+      "url": "https://genius.com/artists/Big-baller-b"
+     }
+    },
+    {
+     "annotation_count": 1,
+     "api_path": "/songs/5850005",
+     "full_title": "Hamilton Mashup ('My Shot' vs. EMIN\u018eM and Beastie Boys) by\u00a0Drew\u00a0On The Air (Ft.\u00a0Anthony\u00a0Ramos, Beastie\u00a0Boys, Billy\u00a0Joel, Daveed\u00a0Diggs, Eminem, Leslie\u00a0Odom, Jr., Lin-Manuel\u00a0Miranda & Okieriete\u00a0Onadowan)",
+     "header_image_thumbnail_url": "https://assets.genius.com/images/default_cover_image.png?1606943206",
+     "header_image_url": "https://assets.genius.com/images/default_cover_image.png?1606943206",
+     "id": 5850005,
+     "lyrics_owner_id": 4716593,
+     "lyrics_state": "complete",
+     "path": "/Drew-on-the-air-hamilton-mashup-my-shot-vs-eminm-and-beastie-boys-lyrics",
+     "pyongs_count": null,
+     "song_art_image_thumbnail_url": "https://assets.genius.com/images/default_cover_image.png?1606943206",
+     "song_art_image_url": "https://assets.genius.com/images/default_cover_image.png?1606943206",
+     "stats": {
+      "unreviewed_annotations": 1,
+      "hot": false
+     },
+     "title": "Hamilton Mashup (\u2019My Shot\u2019 vs. EMIN\u018eM and Beastie Boys)",
+     "title_with_featured": "Hamilton Mashup ('My Shot' vs. EMIN\u018eM and Beastie Boys) (Ft.\u00a0Anthony\u00a0Ramos, Beastie\u00a0Boys, Billy\u00a0Joel, Daveed\u00a0Diggs, Eminem, Leslie\u00a0Odom, Jr., Lin-Manuel\u00a0Miranda & Okieriete\u00a0Onadowan)",
+     "url": "https://genius.com/Drew-on-the-air-hamilton-mashup-my-shot-vs-eminm-and-beastie-boys-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/2352311",
+      "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+      "id": 2352311,
+      "image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Drew On The Air",
+      "url": "https://genius.com/artists/Drew-on-the-air"
+     }
+    }
+   ]
+  },
+  {
+   "relationship_type": "live_version_of",
+   "type": "live_version_of",
+   "songs": []
+  },
+  {
+   "relationship_type": "performed_live_as",
+   "type": "performed_live_as",
+   "songs": [
+    {
+     "annotation_count": 0,
+     "api_path": "/songs/5257234",
+     "full_title": "Lose Yourself (Live at the 92nd Academy Awards) by\u00a0Eminem",
+     "header_image_thumbnail_url": "https://images.genius.com/4da12010927fb7eb58fcd4971b764775.300x169x1.jpg",
+     "header_image_url": "https://images.genius.com/4da12010927fb7eb58fcd4971b764775.920x518x1.jpg",
+     "id": 5257234,
+     "lyrics_owner_id": 7646192,
+     "lyrics_state": "complete",
+     "path": "/Eminem-lose-yourself-live-at-the-92nd-academy-awards-lyrics",
+     "pyongs_count": null,
+     "song_art_image_thumbnail_url": "https://images.genius.com/d5d5332db4b0ac7d02ce0b64e2007a0f.300x306x1.png",
+     "song_art_image_url": "https://images.genius.com/d5d5332db4b0ac7d02ce0b64e2007a0f.764x780x1.png",
+     "stats": {
+      "unreviewed_annotations": 0,
+      "hot": false
+     },
+     "title": "Lose Yourself (Live at the 92nd Academy Awards)",
+     "title_with_featured": "Lose Yourself (Live at the 92nd Academy Awards)",
+     "url": "https://genius.com/Eminem-lose-yourself-live-at-the-92nd-academy-awards-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/45",
+      "header_image_url": "https://images.genius.com/a9f98b20f8aa7a32650a1dfa5f3de088.1000x445x1.jpg",
+      "id": 45,
+      "image_url": "https://images.genius.com/f300798551b97fe030876123afb8c33a.805x805x1.jpg",
+      "is_meme_verified": true,
+      "is_verified": true,
+      "name": "Eminem",
+      "url": "https://genius.com/artists/Eminem",
+      "iq": 214212
+     }
+    }
+   ]
+  }
+ ],
+ "verified_annotations_by": [
+  {
+   "api_path": "/users/1628085",
+   "avatar": {
+    "tiny": {
+     "url": "https://images.genius.com/avatars/tiny/ea27079a0ac8266d17c5006936c32f42",
+     "bounding_box": {
+      "width": 16,
+      "height": 16
+     }
+    },
+    "thumb": {
+     "url": "https://images.genius.com/avatars/thumb/ea27079a0ac8266d17c5006936c32f42",
+     "bounding_box": {
+      "width": 32,
+      "height": 32
+     }
+    },
+    "small": {
+     "url": "https://images.genius.com/avatars/small/ea27079a0ac8266d17c5006936c32f42",
+     "bounding_box": {
+      "width": 100,
+      "height": 100
+     }
+    },
+    "medium": {
+     "url": "https://images.genius.com/avatars/medium/ea27079a0ac8266d17c5006936c32f42",
+     "bounding_box": {
+      "width": 300,
+      "height": 400
+     }
+    }
+   },
+   "header_image_url": "https://images.genius.com/a9f98b20f8aa7a32650a1dfa5f3de088.1000x445x1.jpg",
+   "human_readable_role_for_display": "Verified Artist",
+   "id": 1628085,
+   "iq": 214212,
+   "login": "eminem",
+   "name": "Eminem",
+   "role_for_display": "verified_artist",
+   "url": "https://genius.com/eminem",
+   "current_user_metadata": {
+    "permissions": [],
+    "excluded_permissions": [
+     "follow"
+    ],
+    "interactions": {
+     "following": false
+    }
+   }
+  }
+ ],
+ "verified_contributors": [
+  {
+   "contributions": [
+    "annotations",
+    "lyrics"
+   ],
+   "artist": {
+    "api_path": "/artists/45",
+    "header_image_url": "https://images.genius.com/a9f98b20f8aa7a32650a1dfa5f3de088.1000x445x1.jpg",
+    "id": 45,
+    "image_url": "https://images.genius.com/f300798551b97fe030876123afb8c33a.805x805x1.jpg",
+    "is_meme_verified": true,
+    "is_verified": true,
+    "name": "Eminem",
+    "url": "https://genius.com/artists/Eminem",
+    "iq": 214212
+   },
+   "user": {
+    "api_path": "/users/1628085",
+    "avatar": {
+     "tiny": {
+      "url": "https://images.genius.com/avatars/tiny/ea27079a0ac8266d17c5006936c32f42",
+      "bounding_box": {
+       "width": 16,
+       "height": 16
+      }
+     },
+     "thumb": {
+      "url": "https://images.genius.com/avatars/thumb/ea27079a0ac8266d17c5006936c32f42",
+      "bounding_box": {
+       "width": 32,
+       "height": 32
+      }
+     },
+     "small": {
+      "url": "https://images.genius.com/avatars/small/ea27079a0ac8266d17c5006936c32f42",
+      "bounding_box": {
+       "width": 100,
+       "height": 100
+      }
+     },
+     "medium": {
+      "url": "https://images.genius.com/avatars/medium/ea27079a0ac8266d17c5006936c32f42",
+      "bounding_box": {
+       "width": 300,
+       "height": 400
+      }
+     }
+    },
+    "header_image_url": "https://images.genius.com/a9f98b20f8aa7a32650a1dfa5f3de088.1000x445x1.jpg",
+    "human_readable_role_for_display": "Verified Artist",
+    "id": 1628085,
+    "iq": 214212,
+    "login": "eminem",
+    "name": "Eminem",
+    "role_for_display": "verified_artist",
+    "url": "https://genius.com/eminem",
+    "current_user_metadata": {
+     "permissions": [],
+     "excluded_permissions": [
+      "follow"
+     ],
+     "interactions": {
+      "following": false
+     }
+    }
+   }
+  }
+ ],
+ "verified_lyrics_by": [
+  {
+   "api_path": "/users/1628085",
+   "avatar": {
+    "tiny": {
+     "url": "https://images.genius.com/avatars/tiny/ea27079a0ac8266d17c5006936c32f42",
+     "bounding_box": {
+      "width": 16,
+      "height": 16
+     }
+    },
+    "thumb": {
+     "url": "https://images.genius.com/avatars/thumb/ea27079a0ac8266d17c5006936c32f42",
+     "bounding_box": {
+      "width": 32,
+      "height": 32
+     }
+    },
+    "small": {
+     "url": "https://images.genius.com/avatars/small/ea27079a0ac8266d17c5006936c32f42",
+     "bounding_box": {
+      "width": 100,
+      "height": 100
+     }
+    },
+    "medium": {
+     "url": "https://images.genius.com/avatars/medium/ea27079a0ac8266d17c5006936c32f42",
+     "bounding_box": {
+      "width": 300,
+      "height": 400
+     }
+    }
+   },
+   "header_image_url": "https://images.genius.com/a9f98b20f8aa7a32650a1dfa5f3de088.1000x445x1.jpg",
+   "human_readable_role_for_display": "Verified Artist",
+   "id": 1628085,
+   "iq": 214212,
+   "login": "eminem",
+   "name": "Eminem",
+   "role_for_display": "verified_artist",
+   "url": "https://genius.com/eminem",
+   "current_user_metadata": {
+    "permissions": [],
+    "excluded_permissions": [
+     "follow"
+    ],
+    "interactions": {
+     "following": false
+    }
+   }
+  }
+ ],
+ "writer_artists": [
+  {
+   "api_path": "/artists/14558",
+   "header_image_url": "https://s3.amazonaws.com/rapgenius/1362081103_2391707.jpg",
+   "id": 14558,
+   "image_url": "https://s3.amazonaws.com/rapgenius/1362081103_2391707.jpg",
+   "is_meme_verified": true,
+   "is_verified": true,
+   "name": "Jeff Bass",
+   "url": "https://genius.com/artists/Jeff-bass",
+   "iq": 100
+  },
+  {
+   "api_path": "/artists/33782",
+   "header_image_url": "https://images.genius.com/b11dcb349ce12ee3fb1e6ac903756351.1000x698x1.jpg",
+   "id": 33782,
+   "image_url": "https://images.genius.com/93b6573df63cc5675a8273d131b00b1f.1000x1000x1.jpg",
+   "is_meme_verified": false,
+   "is_verified": false,
+   "name": "Luis Resto",
+   "url": "https://genius.com/artists/Luis-resto"
+  },
+  {
+   "api_path": "/artists/45",
+   "header_image_url": "https://images.genius.com/a9f98b20f8aa7a32650a1dfa5f3de088.1000x445x1.jpg",
+   "id": 45,
+   "image_url": "https://images.genius.com/f300798551b97fe030876123afb8c33a.805x805x1.jpg",
+   "is_meme_verified": true,
+   "is_verified": true,
+   "name": "Eminem",
+   "url": "https://genius.com/artists/Eminem",
+   "iq": 214212
+  }
+ ],
+ "lyrics": "Look, if you had one shot or one opportunity\nTo seize everything you ever wanted in one moment\nWould you capture it, or just let it slip? Yo\n\nHis palms are sweaty, knees weak, arms are heavy\nThere's vomit on his sweater already, mom's spaghetti\nHe's nervous, but on the surface he looks calm and ready\nTo drop bombs, but he keeps on forgetting\nWhat he wrote down, the whole crowd goes so loud\nHe opens his mouth, but the words won't come out\nHe's choking, how? Everybody's joking now\nThe clock's run out, time's up, over\u2014blaow!\nSnap back to reality, ope there goes gravity, ope\nThere goes Rabbit, he choked, he's so mad but he won't\nGive up that easy, no, he won't have it, he knows\nHis whole back's to these ropes, it don't matter, he's dope\nHe knows that but he's broke, he's so stagnant, he knows\nWhen he goes back to this mobile home, that's when it's\nBack to the lab again yo, this old rap shit, he\nBetter go capture this moment and hope it don't pass him, and\n\nYou better lose yourself in the music\nThe moment, you own it, you better never let it go (Go!)\nYou only get one shot, do not miss your chance to blow\nThis opportunity comes once in a lifetime, yo\nYou better lose yourself in the music\nThe moment, you own it, you better never let it go (Go!)\nYou only get one shot, do not miss your chance to blow\nThis opportunity comes once in a lifetime, yo\nYou better\u2026\n\nHis soul's escaping through this hole that is gaping\nThis world is mine for the taking, make me king\nAs we move toward a New World Order\nA normal life is boring; but superstardom's\nClose to post-mortem, it only grows harder\nHomie grows hotter, he blows, it's all over\nThese hoes is all on him, coast-to-coast shows\nHe's known as the Globetrotter, lonely roads\nGod only knows, he's grown farther from home, he's no father\nHe goes home and barely knows his own daughter\nBut hold your nose, 'cause here goes the cold water\nThese hoes don't want him no mo', he's cold product\nThey moved on to the next schmoe who flows\nHe nose-dove and sold nada, and so the soap opera\nIs told, it unfolds, I suppose it's old, partner\nBut the beat goes on: da-da-dom, da-dom, dah-dah, dah-dah\n\nYou better lose yourself in the music\nThe moment, you own it, you better never let it go (Go!)\nYou only get one shot, do not miss your chance to blow\nThis opportunity comes once in a lifetime, yo\nYou better lose yourself in the music\nThe moment, you own it, you better never let it go (Go!)\nYou only get one shot, do not miss your chance to blow\nThis opportunity comes once in a lifetime, yo\nYou better\u2026\n\nNo more games, I'ma change what you call rage\nTear this motherfuckin' roof off like two dogs caged\nI was playin' in the beginning, the mood all changed\nI've been chewed up and spit out and booed off stage\nBut I kept rhymin' and stepped right in the next cypher\nBest believe somebody's payin' the Pied Piper\nAll the pain inside amplified by the\nFact that I can't get by with my nine-to-\nFive and I can't provide the right type of life for my family\n'Cause man, these goddamn food stamps don't buy diapers\nAnd there's no movie, there's no Mekhi Phifer, this is my life\nAnd these times are so hard, and it's gettin' even harder\nTryna feed and water my seed, plus teeter-totter\nCaught up between bein' a father and a prima donna\nBaby mama drama, screamin' on her, too much for me to wanna\nStay in one spot, another day of monotony's\nGotten me to the point I'm like a snail, I've got\nTo formulate a plot or end up in jail or shot\nSuccess is my only motherfuckin' option\u2014failure's not\nMom, I love you, but this trailer's got\nTo go; I cannot grow old in Salem's Lot\nSo here I go, it's my shot: feet, fail me not\nThis may be the only opportunity that I got\n\nYou better lose yourself in the music\nThe moment, you own it, you better never let it go (Go!)\nYou only get one shot, do not miss your chance to blow\nThis opportunity comes once in a lifetime, yo\nYou better lose yourself in the music\nThe moment, you own it, you better never let it go (Go!)\nYou only get one shot, do not miss your chance to blow\nThis opportunity comes once in a lifetime, yo\nYou better\u2026\n\nYou can do anything you set your mind to, man"
+}

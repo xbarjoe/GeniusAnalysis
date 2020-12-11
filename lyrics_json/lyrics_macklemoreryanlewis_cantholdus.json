@@ -1,0 +1,1800 @@
+{
+ "_type": "song",
+ "annotation_count": 25,
+ "api_path": "/songs/57234",
+ "full_title": "Can't Hold Us by\u00a0Macklemore\u00a0& Ryan Lewis (Ft.\u00a0Ray\u00a0Dalton)",
+ "header_image_thumbnail_url": "https://images.genius.com/e40ba3efd3ff6383f554759667f1cd9c.300x300x1.jpg",
+ "header_image_url": "https://images.genius.com/e40ba3efd3ff6383f554759667f1cd9c.1000x1000x1.jpg",
+ "id": 57234,
+ "instrumental": false,
+ "lyrics_owner_id": 37383,
+ "lyrics_state": "complete",
+ "lyrics_updated_at": 1596321351,
+ "path": "/Macklemore-and-ryan-lewis-cant-hold-us-lyrics",
+ "pyongs_count": 319,
+ "song_art_image_thumbnail_url": "https://images.genius.com/4cce6ab8f25c0f4751e676f07faba02e.300x300x1.jpg",
+ "song_art_image_url": "https://images.genius.com/4cce6ab8f25c0f4751e676f07faba02e.511x511x1.jpg",
+ "stats": {
+  "accepted_annotations": 24,
+  "contributors": 220,
+  "iq_earners": 217,
+  "transcribers": 8,
+  "unreviewed_annotations": 0,
+  "verified_annotations": 0,
+  "concurrents": 2,
+  "hot": false,
+  "pageviews": 3903526
+ },
+ "title": "Can\u2019t Hold Us",
+ "title_with_featured": "Can't Hold Us (Ft.\u00a0Ray\u00a0Dalton)",
+ "updated_by_human_at": 1605914549,
+ "url": "https://genius.com/Macklemore-and-ryan-lewis-cant-hold-us-lyrics",
+ "primary_artist": {
+  "api_path": "/artists/2525",
+  "header_image_url": "https://images.genius.com/3f619f317557a048f0f2d068aab8157f.480x480x1.jpg",
+  "id": 2525,
+  "image_url": "https://images.genius.com/3f619f317557a048f0f2d068aab8157f.480x480x1.jpg",
+  "is_meme_verified": false,
+  "is_verified": false,
+  "name": "Macklemore & Ryan Lewis",
+  "url": "https://genius.com/artists/Macklemore-and-ryan-lewis"
+ },
+ "apple_music_id": "560097694",
+ "apple_music_player_url": "https://genius.com/songs/57234/apple_music_player",
+ "description": {
+  "plain": "\u201cCan\u2019t Hold Us\u201d is the third single from Macklemore & Ryan Lewis' The Heist. The track hit number one on the Billboard charts and has sold over 4,000,000 copies in the United States."
+ },
+ "embed_content": "<div id='rg_embed_link_57234' class='rg_embed_link' data-song-id='57234'>Read <a href='https://genius.com/Macklemore-and-ryan-lewis-cant-hold-us-lyrics'>\u201cCan't Hold Us\u201d by Macklemore\u00a0& Ryan Lewis</a> on Genius</div> <script crossorigin src='//genius.com/songs/57234/embed.js'></script>",
+ "fact_track": {
+  "provider": "spotify",
+  "external_url": "https://open.spotify.com/track/3bidbhpOYeV4knp8AIu8Xn",
+  "button_text": "Behind the Lyrics in Spotify",
+  "help_link_text": "What's a Fact Track?",
+  "help_link_url": "https://genius.com/a/genius-and-spotify-together"
+ },
+ "featured_video": true,
+ "lyrics_placeholder_reason": null,
+ "recording_location": "Macklemore/RyanLewis Studios, Seattle, WA",
+ "release_date": "2011-08-16",
+ "release_date_for_display": "August 16, 2011",
+ "current_user_metadata": {
+  "permissions": [
+   "see_pageviews",
+   "watch_fact_track",
+   "view_apple_music_player",
+   "create_comment",
+   "view_song_story_gallery"
+  ],
+  "excluded_permissions": [
+   "follow",
+   "award_transcription_iq",
+   "remove_transcription_iq",
+   "pyong",
+   "edit_lyrics",
+   "view_annotation_engagement_data",
+   "publish",
+   "unpublish",
+   "edit_spotify_details",
+   "hide",
+   "unhide",
+   "toggle_featured_video",
+   "add_pinned_annotation_to",
+   "add_community_annotation_to",
+   "destroy",
+   "mark_as_not_spam",
+   "edit_spotify_annotations_for",
+   "verify_lyrics",
+   "unverify_lyrics",
+   "edit_anything",
+   "edit_any_media",
+   "edit",
+   "rename",
+   "edit_tags",
+   "reindex",
+   "view_lyrics_synchronization",
+   "enable_media",
+   "disable_media",
+   "edit_lyrics_or_annotation_brackets",
+   "see_editorial_indicators",
+   "view_attribution_visualization",
+   "edit_annotation_brackets",
+   "preview_lyrics_for_export",
+   "hide_apple_player",
+   "unhide_apple_player",
+   "trigger_apple_match",
+   "mark_lyrics_evaluation_as_approved",
+   "mark_lyrics_evaluation_as_staff_approved",
+   "mark_lyrics_evaluation_as_unapproved",
+   "mark_lyrics_evaluation_as_un_staff_approved",
+   "view_transcriber_media_player",
+   "override_apple_match",
+   "edit_youtube_url",
+   "edit_soundcloud_url",
+   "edit_spotify_uuid",
+   "edit_vevo_url",
+   "moderate_annotations",
+   "create_annotation",
+   "see_short_id",
+   "manage_chart_item",
+   "create_tag",
+   "propose_lyrics_edit",
+   "moderate_lyrics_edit_proposals",
+   "preview_react_song_page"
+  ],
+  "interactions": {
+   "pyong": false,
+   "following": false
+  },
+  "relationships": {},
+  "iq_by_action": {}
+ },
+ "album": {
+  "api_path": "/albums/22968",
+  "cover_art_url": "https://images.genius.com/0f9627e0915513a3d2fdb01ec3f370f8.1000x1000x1.jpg",
+  "full_title": "The Heist by Macklemore & Ryan Lewis",
+  "id": 22968,
+  "name": "The Heist",
+  "url": "https://genius.com/albums/Macklemore-and-ryan-lewis/The-heist",
+  "artist": {
+   "api_path": "/artists/2525",
+   "header_image_url": "https://images.genius.com/3f619f317557a048f0f2d068aab8157f.480x480x1.jpg",
+   "id": 2525,
+   "image_url": "https://images.genius.com/3f619f317557a048f0f2d068aab8157f.480x480x1.jpg",
+   "is_meme_verified": false,
+   "is_verified": false,
+   "name": "Macklemore & Ryan Lewis",
+   "url": "https://genius.com/artists/Macklemore-and-ryan-lewis"
+  }
+ },
+ "custom_performances": [
+  {
+   "label": "Primary Artists",
+   "artists": [
+    {
+     "api_path": "/artists/2026",
+     "header_image_url": "https://images.genius.com/d27fbdf2556d96179157fa3473a80377.853x238x1.jpg",
+     "id": 2026,
+     "image_url": "https://images.genius.com/8983d0c6fd7a87e846a12ba0c3a05815.1000x1000x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "Macklemore",
+     "url": "https://genius.com/artists/Macklemore",
+     "iq": 370
+    },
+    {
+     "api_path": "/artists/2025",
+     "header_image_url": "https://images.genius.com/594815567eefc211e759161d7e28dd3d.861x861x1.jpg",
+     "id": 2025,
+     "image_url": "https://images.genius.com/594815567eefc211e759161d7e28dd3d.861x861x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Ryan Lewis",
+     "url": "https://genius.com/artists/Ryan-lewis"
+    }
+   ]
+  },
+  {
+   "label": "Video Director Of Photography",
+   "artists": [
+    {
+     "api_path": "/artists/1022559",
+     "header_image_url": "https://images.genius.com/4eae631fca1af411d63d23fd1d2f55c0.800x800x1.jpg",
+     "id": 1022559,
+     "image_url": "https://images.genius.com/70882711b6b5302b142c66258becef01.800x800x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Jason Koenig",
+     "url": "https://genius.com/artists/Jason-koenig"
+    },
+    {
+     "api_path": "/artists/1479454",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+     "id": 1479454,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Mego Lin",
+     "url": "https://genius.com/artists/Mego-lin"
+    },
+    {
+     "api_path": "/artists/2025",
+     "header_image_url": "https://images.genius.com/594815567eefc211e759161d7e28dd3d.861x861x1.jpg",
+     "id": 2025,
+     "image_url": "https://images.genius.com/594815567eefc211e759161d7e28dd3d.861x861x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Ryan Lewis",
+     "url": "https://genius.com/artists/Ryan-lewis"
+    }
+   ]
+  },
+  {
+   "label": "String Arranger",
+   "artists": [
+    {
+     "api_path": "/artists/641964",
+     "header_image_url": "https://images.genius.com/11dc63f0e3d98170b0e671067258b328.614x614x1.jpg",
+     "id": 641964,
+     "image_url": "https://images.genius.com/11dc63f0e3d98170b0e671067258b328.614x614x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Andrew Joslyn",
+     "url": "https://genius.com/artists/Andrew-joslyn"
+    }
+   ]
+  },
+  {
+   "label": "Performance Rights",
+   "artists": [
+    {
+     "api_path": "/artists/1138091",
+     "header_image_url": "https://images.genius.com/5b84dbf7ba86e59c297143f076a56c9a.1000x1000x1.jpg",
+     "id": 1138091,
+     "image_url": "https://images.genius.com/051b0a6beabf8a9eb8768e9f874a542f.1000x1000x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "BMI",
+     "url": "https://genius.com/artists/Bmi"
+    }
+   ]
+  },
+  {
+   "label": "Publisher",
+   "artists": [
+    {
+     "api_path": "/artists/2292038",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+     "id": 2292038,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Inside Passage Music",
+     "url": "https://genius.com/artists/Inside-passage-music"
+    },
+    {
+     "api_path": "/artists/1179023",
+     "header_image_url": "https://images.genius.com/92e4ea9ba616ee53bae21dc2e037a1e2.1000x1000x1.jpg",
+     "id": 1179023,
+     "image_url": "https://images.genius.com/f19c358ac9db989328ffc9a3de85bbd4.1000x1000x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Kobalt Music",
+     "url": "https://genius.com/artists/Kobalt-music"
+    },
+    {
+     "api_path": "/artists/2292037",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+     "id": 2292037,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Ryan Lewis Publishing",
+     "url": "https://genius.com/artists/Ryan-lewis-publishing"
+    },
+    {
+     "api_path": "/artists/2292079",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+     "id": 2292079,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "MRL Entertainment",
+     "url": "https://genius.com/artists/Mrl-entertainment"
+    },
+    {
+     "api_path": "/artists/2292036",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+     "id": 2292036,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Macklemore Publishing",
+     "url": "https://genius.com/artists/Macklemore-publishing"
+    }
+   ]
+  },
+  {
+   "label": "Mastering Engineer",
+   "artists": [
+    {
+     "api_path": "/artists/637914",
+     "header_image_url": "https://images.genius.com/9ed2a5315fe0d92d7047de8f72fc66ff.508x800x1.jpg",
+     "id": 637914,
+     "image_url": "https://images.genius.com/83484709e5b3cacf10774eb0639fcc7d.508x508x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Brian Gardner",
+     "url": "https://genius.com/artists/Brian-gardner"
+    }
+   ]
+  },
+  {
+   "label": "Mixing Engineer",
+   "artists": [
+    {
+     "api_path": "/artists/2025",
+     "header_image_url": "https://images.genius.com/594815567eefc211e759161d7e28dd3d.861x861x1.jpg",
+     "id": 2025,
+     "image_url": "https://images.genius.com/594815567eefc211e759161d7e28dd3d.861x861x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Ryan Lewis",
+     "url": "https://genius.com/artists/Ryan-lewis"
+    },
+    {
+     "api_path": "/artists/2026",
+     "header_image_url": "https://images.genius.com/d27fbdf2556d96179157fa3473a80377.853x238x1.jpg",
+     "id": 2026,
+     "image_url": "https://images.genius.com/8983d0c6fd7a87e846a12ba0c3a05815.1000x1000x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "Macklemore",
+     "url": "https://genius.com/artists/Macklemore",
+     "iq": 370
+    }
+   ]
+  },
+  {
+   "label": "Recording Engineer",
+   "artists": [
+    {
+     "api_path": "/artists/2025",
+     "header_image_url": "https://images.genius.com/594815567eefc211e759161d7e28dd3d.861x861x1.jpg",
+     "id": 2025,
+     "image_url": "https://images.genius.com/594815567eefc211e759161d7e28dd3d.861x861x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Ryan Lewis",
+     "url": "https://genius.com/artists/Ryan-lewis"
+    },
+    {
+     "api_path": "/artists/2026",
+     "header_image_url": "https://images.genius.com/d27fbdf2556d96179157fa3473a80377.853x238x1.jpg",
+     "id": 2026,
+     "image_url": "https://images.genius.com/8983d0c6fd7a87e846a12ba0c3a05815.1000x1000x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "Macklemore",
+     "url": "https://genius.com/artists/Macklemore",
+     "iq": 370
+    }
+   ]
+  },
+  {
+   "label": "Video Director",
+   "artists": [
+    {
+     "api_path": "/artists/1479451",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+     "id": 1479451,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Jon Jon Augustavo",
+     "url": "https://genius.com/artists/Jon-jon-augustavo"
+    },
+    {
+     "api_path": "/artists/1022559",
+     "header_image_url": "https://images.genius.com/4eae631fca1af411d63d23fd1d2f55c0.800x800x1.jpg",
+     "id": 1022559,
+     "image_url": "https://images.genius.com/70882711b6b5302b142c66258becef01.800x800x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Jason Koenig",
+     "url": "https://genius.com/artists/Jason-koenig"
+    },
+    {
+     "api_path": "/artists/2025",
+     "header_image_url": "https://images.genius.com/594815567eefc211e759161d7e28dd3d.861x861x1.jpg",
+     "id": 2025,
+     "image_url": "https://images.genius.com/594815567eefc211e759161d7e28dd3d.861x861x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Ryan Lewis",
+     "url": "https://genius.com/artists/Ryan-lewis"
+    }
+   ]
+  },
+  {
+   "label": "Video Producer",
+   "artists": [
+    {
+     "api_path": "/artists/1469469",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+     "id": 1469469,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Tricia Davis",
+     "url": "https://genius.com/artists/Tricia-davis"
+    },
+    {
+     "api_path": "/artists/1294343",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+     "id": 1294343,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Honna Kimmerer",
+     "url": "https://genius.com/artists/Honna-kimmerer"
+    },
+    {
+     "api_path": "/artists/1479452",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+     "id": 1479452,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Jenny Koenig",
+     "url": "https://genius.com/artists/Jenny-koenig"
+    }
+   ]
+  },
+  {
+   "label": "Assistant Producer",
+   "artists": [
+    {
+     "api_path": "/artists/1479457",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+     "id": 1479457,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Linda SImonsen",
+     "url": "https://genius.com/artists/Linda-simonsen"
+    },
+    {
+     "api_path": "/artists/1479399",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+     "id": 1479399,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Jackie Ganger",
+     "url": "https://genius.com/artists/Jackie-ganger"
+    },
+    {
+     "api_path": "/artists/1288851",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+     "id": 1288851,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Edward Tran",
+     "url": "https://genius.com/artists/Edward-tran"
+    },
+    {
+     "api_path": "/artists/1479458",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+     "id": 1479458,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Adam Leeman",
+     "url": "https://genius.com/artists/Adam-leeman"
+    },
+    {
+     "api_path": "/artists/1479459",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+     "id": 1479459,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Nic Adenau",
+     "url": "https://genius.com/artists/Nic-adenau"
+    },
+    {
+     "api_path": "/artists/1340353",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+     "id": 1340353,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Johnny Valencia",
+     "url": "https://genius.com/artists/Johnny-valencia"
+    },
+    {
+     "api_path": "/artists/1479460",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+     "id": 1479460,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Ben Campofreda",
+     "url": "https://genius.com/artists/Ben-campofreda"
+    },
+    {
+     "api_path": "/artists/1479461",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+     "id": 1479461,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Seth McDonald",
+     "url": "https://genius.com/artists/Seth-mcdonald"
+    },
+    {
+     "api_path": "/artists/1170747",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+     "id": 1170747,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Mitchell Overton",
+     "url": "https://genius.com/artists/Mitchell-overton"
+    },
+    {
+     "api_path": "/artists/1479462",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+     "id": 1479462,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Lei Tao",
+     "url": "https://genius.com/artists/Lei-tao"
+    }
+   ]
+  },
+  {
+   "label": "Video Editor",
+   "artists": [
+    {
+     "api_path": "/artists/1022559",
+     "header_image_url": "https://images.genius.com/4eae631fca1af411d63d23fd1d2f55c0.800x800x1.jpg",
+     "id": 1022559,
+     "image_url": "https://images.genius.com/70882711b6b5302b142c66258becef01.800x800x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Jason Koenig",
+     "url": "https://genius.com/artists/Jason-koenig"
+    },
+    {
+     "api_path": "/artists/2025",
+     "header_image_url": "https://images.genius.com/594815567eefc211e759161d7e28dd3d.861x861x1.jpg",
+     "id": 2025,
+     "image_url": "https://images.genius.com/594815567eefc211e759161d7e28dd3d.861x861x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Ryan Lewis",
+     "url": "https://genius.com/artists/Ryan-lewis"
+    }
+   ]
+  },
+  {
+   "label": "Post Production Supervisors",
+   "artists": [
+    {
+     "api_path": "/artists/1479463",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+     "id": 1479463,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Erik Hustad",
+     "url": "https://genius.com/artists/Erik-hustad"
+    }
+   ]
+  },
+  {
+   "label": "Stedicam Operator",
+   "artists": [
+    {
+     "api_path": "/artists/1085727",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+     "id": 1085727,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Alex Kornreich",
+     "url": "https://genius.com/artists/Alex-kornreich"
+    },
+    {
+     "api_path": "/artists/1479456",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+     "id": 1479456,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Ant Ireland",
+     "url": "https://genius.com/artists/Ant-ireland"
+    },
+    {
+     "api_path": "/artists/1479455",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+     "id": 1479455,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Rhys Duncan",
+     "url": "https://genius.com/artists/Rhys-duncan"
+    },
+    {
+     "api_path": "/artists/1479377",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+     "id": 1479377,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Chris Duerkopp",
+     "url": "https://genius.com/artists/Chris-duerkopp"
+    }
+   ]
+  },
+  {
+   "label": "Music Video stars",
+   "artists": [
+    {
+     "api_path": "/artists/546725",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+     "id": 546725,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Owuor Arunga",
+     "url": "https://genius.com/artists/Owuor-arunga"
+    },
+    {
+     "api_path": "/artists/2025",
+     "header_image_url": "https://images.genius.com/594815567eefc211e759161d7e28dd3d.861x861x1.jpg",
+     "id": 2025,
+     "image_url": "https://images.genius.com/594815567eefc211e759161d7e28dd3d.861x861x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Ryan Lewis",
+     "url": "https://genius.com/artists/Ryan-lewis"
+    },
+    {
+     "api_path": "/artists/33550",
+     "header_image_url": "https://images.genius.com/e4c3d110a69f3a5ac4162202ade2e8fb.1000x1000x1.jpg",
+     "id": 33550,
+     "image_url": "https://images.genius.com/e4c3d110a69f3a5ac4162202ade2e8fb.1000x1000x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Ray Dalton",
+     "url": "https://genius.com/artists/Ray-dalton"
+    },
+    {
+     "api_path": "/artists/1479453",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+     "id": 1479453,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Da Kadu Brown",
+     "url": "https://genius.com/artists/Da-kadu-brown"
+    },
+    {
+     "api_path": "/artists/2026",
+     "header_image_url": "https://images.genius.com/d27fbdf2556d96179157fa3473a80377.853x238x1.jpg",
+     "id": 2026,
+     "image_url": "https://images.genius.com/8983d0c6fd7a87e846a12ba0c3a05815.1000x1000x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "Macklemore",
+     "url": "https://genius.com/artists/Macklemore",
+     "iq": 370
+    }
+   ]
+  },
+  {
+   "label": "Cello",
+   "artists": [
+    {
+     "api_path": "/artists/1479450",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+     "id": 1479450,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Natalie Mai Hall",
+     "url": "https://genius.com/artists/Natalie-mai-hall"
+    },
+    {
+     "api_path": "/artists/1479449",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+     "id": 1479449,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Danah Olivetree",
+     "url": "https://genius.com/artists/Danah-olivetree"
+    }
+   ]
+  },
+  {
+   "label": "Bells",
+   "artists": [
+    {
+     "api_path": "/artists/641964",
+     "header_image_url": "https://images.genius.com/11dc63f0e3d98170b0e671067258b328.614x614x1.jpg",
+     "id": 641964,
+     "image_url": "https://images.genius.com/11dc63f0e3d98170b0e671067258b328.614x614x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Andrew Joslyn",
+     "url": "https://genius.com/artists/Andrew-joslyn"
+    }
+   ]
+  },
+  {
+   "label": "Viola",
+   "artists": [
+    {
+     "api_path": "/artists/1479448",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+     "id": 1479448,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Elisa Clegg",
+     "url": "https://genius.com/artists/Elisa-clegg"
+    }
+   ]
+  },
+  {
+   "label": "Violin",
+   "artists": [
+    {
+     "api_path": "/artists/1479447",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+     "id": 1479447,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Jared MacFarlane",
+     "url": "https://genius.com/artists/Jared-macfarlane"
+    },
+    {
+     "api_path": "/artists/1479446",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+     "id": 1479446,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Caroline Faflak",
+     "url": "https://genius.com/artists/Caroline-faflak"
+    },
+    {
+     "api_path": "/artists/641964",
+     "header_image_url": "https://images.genius.com/11dc63f0e3d98170b0e671067258b328.614x614x1.jpg",
+     "id": 641964,
+     "image_url": "https://images.genius.com/11dc63f0e3d98170b0e671067258b328.614x614x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Andrew Joslyn",
+     "url": "https://genius.com/artists/Andrew-joslyn"
+    }
+   ]
+  },
+  {
+   "label": "Additional Vocals",
+   "artists": [
+    {
+     "api_path": "/artists/33550",
+     "header_image_url": "https://images.genius.com/e4c3d110a69f3a5ac4162202ade2e8fb.1000x1000x1.jpg",
+     "id": 33550,
+     "image_url": "https://images.genius.com/e4c3d110a69f3a5ac4162202ade2e8fb.1000x1000x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Ray Dalton",
+     "url": "https://genius.com/artists/Ray-dalton"
+    },
+    {
+     "api_path": "/artists/16411",
+     "header_image_url": "https://images.rapgenius.com/avatars/medium/d5027e514c4d9ba5ef76162079521801",
+     "id": 16411,
+     "image_url": "https://images.rapgenius.com/avatars/medium/d5027e514c4d9ba5ef76162079521801",
+     "is_meme_verified": true,
+     "is_verified": true,
+     "name": "Xperience",
+     "url": "https://genius.com/artists/Xperience",
+     "iq": 653
+    },
+    {
+     "api_path": "/artists/987238",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+     "id": 987238,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Camila Recchi",
+     "url": "https://genius.com/artists/Camila-recchi"
+    },
+    {
+     "api_path": "/artists/987239",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+     "id": 987239,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Victoria Fuangaromya",
+     "url": "https://genius.com/artists/Victoria-fuangaromya"
+    }
+   ]
+  },
+  {
+   "label": "Trumpet",
+   "artists": [
+    {
+     "api_path": "/artists/546725",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+     "id": 546725,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Owuor Arunga",
+     "url": "https://genius.com/artists/Owuor-arunga"
+    }
+   ]
+  },
+  {
+   "label": "Trombone",
+   "artists": [
+    {
+     "api_path": "/artists/987240",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+     "id": 987240,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Greg Kramer",
+     "url": "https://genius.com/artists/Greg-kramer"
+    }
+   ]
+  }
+ ],
+ "description_annotation": {
+  "_type": "referent",
+  "annotator_id": 37383,
+  "annotator_login": "Mackiemore",
+  "api_path": "/referents/3547622",
+  "classification": "accepted",
+  "fragment": "Can\u2019t Hold Us",
+  "id": 3547622,
+  "is_description": true,
+  "path": "/3547622/Macklemore-and-ryan-lewis-cant-hold-us/Cant-hold-us",
+  "range": {
+   "content": "Can't Hold Us"
+  },
+  "song_id": 57234,
+  "url": "https://genius.com/3547622/Macklemore-and-ryan-lewis-cant-hold-us/Cant-hold-us",
+  "verified_annotator_ids": [],
+  "annotatable": {
+   "api_path": "/songs/57234",
+   "client_timestamps": {
+    "updated_by_human_at": 1605914549,
+    "lyrics_updated_at": 1596321351
+   },
+   "context": "Macklemore & Ryan Lewis",
+   "id": 57234,
+   "image_url": "https://images.genius.com/4cce6ab8f25c0f4751e676f07faba02e.511x511x1.jpg",
+   "link_title": "Can\u2019t Hold Us by\u00a0Macklemore\u00a0& Ryan Lewis (Ft.\u00a0Ray\u00a0Dalton)",
+   "title": "Can't Hold Us",
+   "type": "Song",
+   "url": "https://genius.com/Macklemore-and-ryan-lewis-cant-hold-us-lyrics"
+  },
+  "annotations": [
+   {
+    "api_path": "/annotations/3547622",
+    "body": {
+     "plain": "\u201cCan\u2019t Hold Us\u201d is the third single from Macklemore & Ryan Lewis' The Heist. The track hit number one on the Billboard charts and has sold over 4,000,000 copies in the United States."
+    },
+    "comment_count": 2,
+    "community": true,
+    "custom_preview": null,
+    "has_voters": true,
+    "id": 3547622,
+    "pinned": false,
+    "share_url": "https://genius.com/3547622",
+    "source": null,
+    "state": "accepted",
+    "url": "https://genius.com/3547622/Macklemore-and-ryan-lewis-cant-hold-us/Cant-hold-us",
+    "verified": false,
+    "votes_total": 115,
+    "current_user_metadata": {
+     "permissions": [
+      "create_comment"
+     ],
+     "excluded_permissions": [
+      "vote",
+      "edit",
+      "cosign",
+      "uncosign",
+      "destroy",
+      "accept",
+      "reject",
+      "see_unreviewed",
+      "clear_votes",
+      "propose_edit_to",
+      "pin_to_profile",
+      "unpin_from_profile",
+      "update_source",
+      "edit_custom_preview"
+     ],
+     "interactions": {
+      "cosign": false,
+      "pyong": false,
+      "vote": null
+     },
+     "iq_by_action": {}
+    },
+    "authors": [
+     {
+      "attribution": 0.515625,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/50988",
+       "avatar": {
+        "tiny": {
+         "url": "https://images.rapgenius.com/avatars/tiny/8bccae9a677b2659c31cc151b5e4bfd8",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://images.rapgenius.com/avatars/thumb/8bccae9a677b2659c31cc151b5e4bfd8",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://images.rapgenius.com/avatars/small/8bccae9a677b2659c31cc151b5e4bfd8",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://images.rapgenius.com/avatars/medium/8bccae9a677b2659c31cc151b5e4bfd8",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://images.rapgenius.com/avatars/medium/8bccae9a677b2659c31cc151b5e4bfd8",
+       "human_readable_role_for_display": "Editor",
+       "id": 50988,
+       "iq": 164540,
+       "login": "nietzsche",
+       "name": "Briansusername",
+       "role_for_display": "editor",
+       "url": "https://genius.com/nietzsche",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     },
+     {
+      "attribution": 0.46875,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/37383",
+       "avatar": {
+        "tiny": {
+         "url": "https://assets.genius.com/images/default_avatar_16.png?1606943206",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://assets.genius.com/images/default_avatar_32.png?1606943206",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://assets.genius.com/images/default_avatar_100.png?1606943206",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+       "human_readable_role_for_display": "Contributor",
+       "id": 37383,
+       "iq": 2405,
+       "login": "Mackiemore",
+       "name": "Mackiemore",
+       "role_for_display": "contributor",
+       "url": "https://genius.com/Mackiemore",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     },
+     {
+      "attribution": 0.015625,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/458792",
+       "avatar": {
+        "tiny": {
+         "url": "https://images.genius.com/avatars/tiny/e2bd00d48b48b2489eb3f2a969dd1ed3",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://images.genius.com/avatars/thumb/e2bd00d48b48b2489eb3f2a969dd1ed3",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://images.genius.com/avatars/small/e2bd00d48b48b2489eb3f2a969dd1ed3",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://images.genius.com/avatars/medium/e2bd00d48b48b2489eb3f2a969dd1ed3",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://images.genius.com/e8a303ab79861711fb6aa79f1e231f90.960x617x1.jpg",
+       "human_readable_role_for_display": "Moderator",
+       "id": 458792,
+       "iq": 335865,
+       "login": "Skhills",
+       "name": "Skhills #BlackLivesMatter",
+       "role_for_display": "moderator",
+       "url": "https://genius.com/Skhills",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     }
+    ],
+    "cosigned_by": [],
+    "rejection_comment": null,
+    "verified_by": null
+   }
+  ]
+ },
+ "featured_artists": [
+  {
+   "api_path": "/artists/33550",
+   "header_image_url": "https://images.genius.com/e4c3d110a69f3a5ac4162202ade2e8fb.1000x1000x1.jpg",
+   "id": 33550,
+   "image_url": "https://images.genius.com/e4c3d110a69f3a5ac4162202ade2e8fb.1000x1000x1.jpg",
+   "is_meme_verified": false,
+   "is_verified": false,
+   "name": "Ray Dalton",
+   "url": "https://genius.com/artists/Ray-dalton"
+  }
+ ],
+ "lyrics_marked_complete_by": null,
+ "media": [
+  {
+   "provider": "youtube",
+   "start": 0,
+   "type": "video",
+   "url": "http://www.youtube.com/watch?v=2zNSgSzhBfM"
+  },
+  {
+   "native_uri": "spotify:track:3bidbhpOYeV4knp8AIu8Xn",
+   "provider": "spotify",
+   "type": "audio",
+   "url": "https://open.spotify.com/track/3bidbhpOYeV4knp8AIu8Xn"
+  },
+  {
+   "attribution": "macklemore",
+   "provider": "soundcloud",
+   "type": "audio",
+   "url": "https://soundcloud.com/macklemore/cant-hold-us-feat-ray-dalton"
+  }
+ ],
+ "producer_artists": [
+  {
+   "api_path": "/artists/2025",
+   "header_image_url": "https://images.genius.com/594815567eefc211e759161d7e28dd3d.861x861x1.jpg",
+   "id": 2025,
+   "image_url": "https://images.genius.com/594815567eefc211e759161d7e28dd3d.861x861x1.jpg",
+   "is_meme_verified": false,
+   "is_verified": false,
+   "name": "Ryan Lewis",
+   "url": "https://genius.com/artists/Ryan-lewis"
+  }
+ ],
+ "song_relationships": [
+  {
+   "relationship_type": "samples",
+   "type": "samples",
+   "songs": []
+  },
+  {
+   "relationship_type": "sampled_in",
+   "type": "sampled_in",
+   "songs": [
+    {
+     "annotation_count": 1,
+     "api_path": "/songs/3121360",
+     "full_title": "2U (SING OFF vs. Olly Murs) by\u00a0Conor\u00a0Maynard",
+     "header_image_thumbnail_url": "https://images.genius.com/40800fa7d2b6fe66db71c7ad51a957fc.300x300x1.jpg",
+     "header_image_url": "https://images.genius.com/40800fa7d2b6fe66db71c7ad51a957fc.1000x1000x1.jpg",
+     "id": 3121360,
+     "lyrics_owner_id": 3673510,
+     "lyrics_state": "complete",
+     "path": "/Conor-maynard-2u-sing-off-vs-olly-murs-lyrics",
+     "pyongs_count": 2,
+     "song_art_image_thumbnail_url": "https://images.genius.com/40800fa7d2b6fe66db71c7ad51a957fc.300x300x1.jpg",
+     "song_art_image_url": "https://images.genius.com/40800fa7d2b6fe66db71c7ad51a957fc.1000x1000x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 1,
+      "hot": false,
+      "pageviews": 39182
+     },
+     "title": "2U (SING OFF vs. Olly Murs)",
+     "title_with_featured": "2U (SING OFF vs. Olly Murs)",
+     "url": "https://genius.com/Conor-maynard-2u-sing-off-vs-olly-murs-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/21941",
+      "header_image_url": "https://images.genius.com/2d3a8a588d504ca90e4049b2d3ec9c83.1000x525x1.jpg",
+      "id": 21941,
+      "image_url": "https://images.genius.com/40800fa7d2b6fe66db71c7ad51a957fc.1000x1000x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": true,
+      "name": "Conor Maynard",
+      "url": "https://genius.com/artists/Conor-maynard",
+      "iq": 263
+     }
+    },
+    {
+     "annotation_count": 1,
+     "api_path": "/songs/3350062",
+     "full_title": "United State of Pop 2013 (Living the Fantasy) by\u00a0DJ\u00a0Earworm",
+     "header_image_thumbnail_url": "https://images.genius.com/85542c6493873c1e360a8002bce6c279.300x300x1.png",
+     "header_image_url": "https://images.genius.com/85542c6493873c1e360a8002bce6c279.1000x1000x1.png",
+     "id": 3350062,
+     "lyrics_owner_id": 2201951,
+     "lyrics_state": "complete",
+     "path": "/Dj-earworm-united-state-of-pop-2013-living-the-fantasy-lyrics",
+     "pyongs_count": 1,
+     "song_art_image_thumbnail_url": "https://images.genius.com/85542c6493873c1e360a8002bce6c279.300x300x1.png",
+     "song_art_image_url": "https://images.genius.com/85542c6493873c1e360a8002bce6c279.1000x1000x1.png",
+     "stats": {
+      "unreviewed_annotations": 1,
+      "hot": false
+     },
+     "title": "United State of Pop 2013 (Living the Fantasy)",
+     "title_with_featured": "United State of Pop 2013 (Living the Fantasy)",
+     "url": "https://genius.com/Dj-earworm-united-state-of-pop-2013-living-the-fantasy-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/190620",
+      "header_image_url": "https://images.genius.com/e46eb8327e3ea450b0ba0e15bcd0af6a.642x642x1.jpg",
+      "id": 190620,
+      "image_url": "https://images.genius.com/e46eb8327e3ea450b0ba0e15bcd0af6a.642x642x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "DJ Earworm",
+      "url": "https://genius.com/artists/Dj-earworm"
+     }
+    },
+    {
+     "annotation_count": 0,
+     "api_path": "/songs/4261748",
+     "full_title": "Made in 2013 by\u00a0Victor\u00a0Lin",
+     "header_image_thumbnail_url": "https://assets.genius.com/images/default_cover_image.png?1606943206",
+     "header_image_url": "https://assets.genius.com/images/default_cover_image.png?1606943206",
+     "id": 4261748,
+     "lyrics_owner_id": 7661417,
+     "lyrics_state": "complete",
+     "path": "/Victor-lin-made-in-2013-lyrics",
+     "pyongs_count": null,
+     "song_art_image_thumbnail_url": "https://assets.genius.com/images/default_cover_image.png?1606943206",
+     "song_art_image_url": "https://assets.genius.com/images/default_cover_image.png?1606943206",
+     "stats": {
+      "unreviewed_annotations": 0,
+      "hot": false
+     },
+     "title": "Made in 2013",
+     "title_with_featured": "Made in 2013",
+     "url": "https://genius.com/Victor-lin-made-in-2013-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/1709942",
+      "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+      "id": 1709942,
+      "image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Victor Lin",
+      "url": "https://genius.com/artists/Victor-lin"
+     }
+    }
+   ]
+  },
+  {
+   "relationship_type": "interpolates",
+   "type": "interpolates",
+   "songs": []
+  },
+  {
+   "relationship_type": "interpolated_by",
+   "type": "interpolated_by",
+   "songs": [
+    {
+     "annotation_count": 12,
+     "api_path": "/songs/303124",
+     "full_title": "Rewind: What Does 2013 Say by\u00a0YouTube (Ft.\u00a0YouTube\u00a0Brasil)",
+     "header_image_thumbnail_url": "https://images.genius.com/cc576767de856100a0a4fa4f08f744f9.300x300x1.png",
+     "header_image_url": "https://images.genius.com/cc576767de856100a0a4fa4f08f744f9.1000x1000x1.png",
+     "id": 303124,
+     "lyrics_owner_id": 1553,
+     "lyrics_state": "complete",
+     "path": "/Youtube-rewind-what-does-2013-say-lyrics",
+     "pyongs_count": 5,
+     "song_art_image_thumbnail_url": "https://images.genius.com/cc576767de856100a0a4fa4f08f744f9.300x300x1.png",
+     "song_art_image_url": "https://images.genius.com/cc576767de856100a0a4fa4f08f744f9.1000x1000x1.png",
+     "stats": {
+      "unreviewed_annotations": 1,
+      "hot": false,
+      "pageviews": 7652
+     },
+     "title": "Rewind: What Does 2013 Say",
+     "title_with_featured": "Rewind: What Does 2013 Say (Ft.\u00a0YouTube\u00a0Brasil)",
+     "url": "https://genius.com/Youtube-rewind-what-does-2013-say-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/53473",
+      "header_image_url": "https://images.genius.com/ed684badc88750f04b55d47f518c2b2f.1000x333x1.png",
+      "id": 53473,
+      "image_url": "https://images.genius.com/cc576767de856100a0a4fa4f08f744f9.1000x1000x1.png",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "YouTube",
+      "url": "https://genius.com/artists/Youtube"
+     }
+    },
+    {
+     "annotation_count": 4,
+     "api_path": "/songs/4381596",
+     "full_title": "Real Name by\u00a0KSI\u00a0& Randolph (Ft.\u00a0Talia\u00a0Mar)",
+     "header_image_thumbnail_url": "https://images.genius.com/fc3fd0c86034371f01086c55ce0b3a90.300x152x1.png",
+     "header_image_url": "https://images.genius.com/fc3fd0c86034371f01086c55ce0b3a90.900x457x1.png",
+     "id": 4381596,
+     "lyrics_owner_id": 6136150,
+     "lyrics_state": "complete",
+     "path": "/Ksi-and-randolph-real-name-lyrics",
+     "pyongs_count": 8,
+     "song_art_image_thumbnail_url": "https://images.genius.com/82e7398ae3fdea64da96b9aac3669542.300x300x1.jpg",
+     "song_art_image_url": "https://images.genius.com/82e7398ae3fdea64da96b9aac3669542.1000x1000x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 3,
+      "hot": false,
+      "pageviews": 26647
+     },
+     "title": "Real Name",
+     "title_with_featured": "Real Name (Ft.\u00a0Talia\u00a0Mar)",
+     "url": "https://genius.com/Ksi-and-randolph-real-name-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/1754903",
+      "header_image_url": "https://images.genius.com/b9dd09381c9251648601a5d0ac726f2c.640x206x1.png",
+      "id": 1754903,
+      "image_url": "https://images.genius.com/5f039f5e752c0b0ec6554ba58dca49aa.698x698x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "KSI & Randolph",
+      "url": "https://genius.com/artists/Ksi-and-randolph"
+     }
+    }
+   ]
+  },
+  {
+   "relationship_type": "cover_of",
+   "type": "cover_of",
+   "songs": []
+  },
+  {
+   "relationship_type": "covered_by",
+   "type": "covered_by",
+   "songs": [
+    {
+     "annotation_count": 4,
+     "api_path": "/songs/2156114",
+     "full_title": "Can't Hold Us by\u00a0Pentatonix",
+     "header_image_thumbnail_url": "https://images.genius.com/e18eae2274d3f9223a588919f527edb2.300x300x1.jpg",
+     "header_image_url": "https://images.genius.com/e18eae2274d3f9223a588919f527edb2.1000x1000x1.jpg",
+     "id": 2156114,
+     "lyrics_owner_id": 1809595,
+     "lyrics_state": "complete",
+     "path": "/Pentatonix-cant-hold-us-lyrics",
+     "pyongs_count": 3,
+     "song_art_image_thumbnail_url": "https://images.genius.com/e18eae2274d3f9223a588919f527edb2.300x300x1.jpg",
+     "song_art_image_url": "https://images.genius.com/e18eae2274d3f9223a588919f527edb2.1000x1000x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 2,
+      "hot": false,
+      "pageviews": 8893
+     },
+     "title": "Can\u2019t Hold Us",
+     "title_with_featured": "Can't Hold Us",
+     "url": "https://genius.com/Pentatonix-cant-hold-us-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/62578",
+      "header_image_url": "https://images.genius.com/33296879885196d70d8200abaee21c7d.1000x437x1.jpg",
+      "id": 62578,
+      "image_url": "https://images.genius.com/811a2c3752beba16f6d23c3f8717cd7e.640x640x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": true,
+      "name": "Pentatonix",
+      "url": "https://genius.com/artists/Pentatonix",
+      "iq": 638
+     }
+    },
+    {
+     "annotation_count": 1,
+     "api_path": "/songs/2181436",
+     "full_title": "Best of 2013 Mash-Up by\u00a0Anthem\u00a0Lights",
+     "header_image_thumbnail_url": "https://images.genius.com/5538a910ed175430d37e85af209a69fa.300x300x1.jpg",
+     "header_image_url": "https://images.genius.com/5538a910ed175430d37e85af209a69fa.1000x1000x1.jpg",
+     "id": 2181436,
+     "lyrics_owner_id": 451104,
+     "lyrics_state": "complete",
+     "path": "/Anthem-lights-best-of-2013-mash-up-lyrics",
+     "pyongs_count": null,
+     "song_art_image_thumbnail_url": "https://images.genius.com/5538a910ed175430d37e85af209a69fa.300x300x1.jpg",
+     "song_art_image_url": "https://images.genius.com/5538a910ed175430d37e85af209a69fa.1000x1000x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 0,
+      "hot": false
+     },
+     "title": "Best of 2013 Mash-Up",
+     "title_with_featured": "Best of 2013 Mash-Up",
+     "url": "https://genius.com/Anthem-lights-best-of-2013-mash-up-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/215403",
+      "header_image_url": "https://images.genius.com/cb91957189eb69655565e2484da97e39.1000x667x1.jpg",
+      "id": 215403,
+      "image_url": "https://images.genius.com/9f0cd6a94f119bccccf3eb451a9f989a.640x640x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Anthem Lights",
+      "url": "https://genius.com/artists/Anthem-lights"
+     }
+    },
+    {
+     "annotation_count": 1,
+     "api_path": "/songs/2230342",
+     "full_title": "Can't Hold Us (feat. Jake Coco) by\u00a0Savannah\u00a0Outen",
+     "header_image_thumbnail_url": "https://images.genius.com/c16d161945bfde18233454ba79b4d691.300x300x1.jpg",
+     "header_image_url": "https://images.genius.com/c16d161945bfde18233454ba79b4d691.1000x1000x1.jpg",
+     "id": 2230342,
+     "lyrics_owner_id": 1549345,
+     "lyrics_state": "complete",
+     "path": "/Savannah-outen-cant-hold-us-feat-jake-coco-lyrics",
+     "pyongs_count": null,
+     "song_art_image_thumbnail_url": "https://images.genius.com/c16d161945bfde18233454ba79b4d691.300x300x1.jpg",
+     "song_art_image_url": "https://images.genius.com/c16d161945bfde18233454ba79b4d691.1000x1000x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 0,
+      "hot": false
+     },
+     "title": "Can\u2019t Hold Us (feat. Jake Coco)",
+     "title_with_featured": "Can't Hold Us (feat. Jake Coco)",
+     "url": "https://genius.com/Savannah-outen-cant-hold-us-feat-jake-coco-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/383874",
+      "header_image_url": "https://images.genius.com/7a17ea7767565406f9c3f7cbc16deb04.1000x773x1.jpg",
+      "id": 383874,
+      "image_url": "https://images.genius.com/c16d161945bfde18233454ba79b4d691.1000x1000x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": true,
+      "name": "Savannah Outen",
+      "url": "https://genius.com/artists/Savannah-outen",
+      "iq": 426
+     }
+    },
+    {
+     "annotation_count": 1,
+     "api_path": "/songs/2405741",
+     "full_title": "Can't Hold Us by\u00a0L.E.J",
+     "header_image_thumbnail_url": "https://images.genius.com/a7f3ee7e2fc266c824fe6673a9bff274.300x169x1.jpg",
+     "header_image_url": "https://images.genius.com/a7f3ee7e2fc266c824fe6673a9bff274.1000x563x1.jpg",
+     "id": 2405741,
+     "lyrics_owner_id": 2709182,
+     "lyrics_state": "complete",
+     "path": "/Lej-cant-hold-us-lyrics",
+     "pyongs_count": null,
+     "song_art_image_thumbnail_url": "https://images.genius.com/a7f3ee7e2fc266c824fe6673a9bff274.300x169x1.jpg",
+     "song_art_image_url": "https://images.genius.com/a7f3ee7e2fc266c824fe6673a9bff274.1000x563x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 0,
+      "hot": false
+     },
+     "title": "Can\u2019t Hold Us",
+     "title_with_featured": "Can't Hold Us",
+     "url": "https://genius.com/Lej-cant-hold-us-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/555771",
+      "header_image_url": "https://images.genius.com/e3a0ae249d5bc4ae0ef7f4ff118e746b.1000x749x1.jpg",
+      "id": 555771,
+      "image_url": "https://images.genius.com/7421cc0ac5db1a0b07b66ed1ebc183de.334x334x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": true,
+      "name": "L.E.J",
+      "url": "https://genius.com/artists/Lej",
+      "iq": 377
+     }
+    },
+    {
+     "annotation_count": 3,
+     "api_path": "/songs/2879641",
+     "full_title": "Talk Dirty/In Paris/Run The World/Can't Hold Us by\u00a0Little\u00a0Mix",
+     "header_image_thumbnail_url": "https://images.genius.com/5e5b992cc0bd9b0f425095ec954315ff.300x203x1.jpg",
+     "header_image_url": "https://images.genius.com/5e5b992cc0bd9b0f425095ec954315ff.618x418x1.jpg",
+     "id": 2879641,
+     "lyrics_owner_id": 1873201,
+     "lyrics_state": "complete",
+     "path": "/Little-mix-talk-dirty-in-paris-run-the-world-cant-hold-us-lyrics",
+     "pyongs_count": null,
+     "song_art_image_thumbnail_url": "https://images.genius.com/38036af057e0e5d7ed6f507cefbf008f.250x300x1.jpg",
+     "song_art_image_url": "https://images.genius.com/38036af057e0e5d7ed6f507cefbf008f.250x300x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 0,
+      "hot": false
+     },
+     "title": "Talk Dirty/In Paris/Run The World/Can\u2019t Hold Us",
+     "title_with_featured": "Talk Dirty/In Paris/Run The World/Can't Hold Us",
+     "url": "https://genius.com/Little-mix-talk-dirty-in-paris-run-the-world-cant-hold-us-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/25889",
+      "header_image_url": "https://images.genius.com/550506765805cb8745ed9bafe7e12c8f.1000x174x1.png",
+      "id": 25889,
+      "image_url": "https://images.genius.com/b263a94662c3d1c32ddb52c28ead851d.475x475x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": true,
+      "name": "Little Mix",
+      "url": "https://genius.com/artists/Little-mix",
+      "iq": 108
+     }
+    },
+    {
+     "annotation_count": 1,
+     "api_path": "/songs/3887290",
+     "full_title": "Can't Hold Us by\u00a0LIAMOO",
+     "header_image_thumbnail_url": "https://images.genius.com/8a7200ecc2b59b76dead5e4ea40ebdf0.300x300x1.jpg",
+     "header_image_url": "https://images.genius.com/8a7200ecc2b59b76dead5e4ea40ebdf0.1000x1000x1.jpg",
+     "id": 3887290,
+     "lyrics_owner_id": 6300391,
+     "lyrics_state": "complete",
+     "path": "/Liamoo-cant-hold-us-lyrics",
+     "pyongs_count": null,
+     "song_art_image_thumbnail_url": "https://images.genius.com/8a7200ecc2b59b76dead5e4ea40ebdf0.300x300x1.jpg",
+     "song_art_image_url": "https://images.genius.com/8a7200ecc2b59b76dead5e4ea40ebdf0.1000x1000x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 1,
+      "hot": false
+     },
+     "title": "Can\u2019t Hold Us",
+     "title_with_featured": "Can't Hold Us",
+     "url": "https://genius.com/Liamoo-cant-hold-us-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/1065432",
+      "header_image_url": "https://images.genius.com/a84eca822a2fa71d5ebde50b893a6e6a.1000x563x1.jpg",
+      "id": 1065432,
+      "image_url": "https://images.genius.com/8a7200ecc2b59b76dead5e4ea40ebdf0.1000x1000x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "LIAMOO",
+      "url": "https://genius.com/artists/Liamoo"
+     }
+    },
+    {
+     "annotation_count": 0,
+     "api_path": "/songs/4498308",
+     "full_title": "Can't Hold Us (Cover) by\u00a0Sumo\u00a0Cyco",
+     "header_image_thumbnail_url": "https://images.genius.com/5f98b4bc952ae0f6de64c6eb027f5ac4.300x299x1.png",
+     "header_image_url": "https://images.genius.com/5f98b4bc952ae0f6de64c6eb027f5ac4.576x574x1.png",
+     "id": 4498308,
+     "lyrics_owner_id": 7022457,
+     "lyrics_state": "complete",
+     "path": "/Sumo-cyco-cant-hold-us-cover-lyrics",
+     "pyongs_count": null,
+     "song_art_image_thumbnail_url": "https://images.genius.com/5f98b4bc952ae0f6de64c6eb027f5ac4.300x299x1.png",
+     "song_art_image_url": "https://images.genius.com/5f98b4bc952ae0f6de64c6eb027f5ac4.576x574x1.png",
+     "stats": {
+      "unreviewed_annotations": 0,
+      "hot": false
+     },
+     "title": "Can\u2019t Hold Us (Cover)",
+     "title_with_featured": "Can't Hold Us (Cover)",
+     "url": "https://genius.com/Sumo-cyco-cant-hold-us-cover-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/382853",
+      "header_image_url": "https://images.genius.com/bb646a559332f5884390102deac1882c.451x112x1.png",
+      "id": 382853,
+      "image_url": "https://images.genius.com/7d9619d6bf4b941d40e5804945b1465d.959x959x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Sumo Cyco",
+      "url": "https://genius.com/artists/Sumo-cyco"
+     }
+    },
+    {
+     "annotation_count": 0,
+     "api_path": "/songs/4781601",
+     "full_title": "Can't Hold Us by\u00a0Kurt\u00a0Hugo Schneider (Ft.\u00a0MAX)",
+     "header_image_thumbnail_url": "https://images.genius.com/f28995bb0591b3c8a43c25e9d4105d09.300x300x1.jpg",
+     "header_image_url": "https://images.genius.com/f28995bb0591b3c8a43c25e9d4105d09.800x800x1.jpg",
+     "id": 4781601,
+     "lyrics_owner_id": 4801273,
+     "lyrics_state": "complete",
+     "path": "/Kurt-hugo-schneider-cant-hold-us-lyrics",
+     "pyongs_count": null,
+     "song_art_image_thumbnail_url": "https://images.genius.com/f28995bb0591b3c8a43c25e9d4105d09.300x300x1.jpg",
+     "song_art_image_url": "https://images.genius.com/f28995bb0591b3c8a43c25e9d4105d09.800x800x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 0,
+      "hot": false
+     },
+     "title": "Can\u2019t Hold Us",
+     "title_with_featured": "Can't Hold Us (Ft.\u00a0MAX)",
+     "url": "https://genius.com/Kurt-hugo-schneider-cant-hold-us-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/993071",
+      "header_image_url": "https://images.genius.com/0fe17d80d2ece0daab3ad617cc6d77b5.1000x667x1.jpg",
+      "id": 993071,
+      "image_url": "https://images.genius.com/d564cf2e99ba0f8e088f35e5e9b52356.612x612x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Kurt Hugo Schneider",
+      "url": "https://genius.com/artists/Kurt-hugo-schneider"
+     }
+    }
+   ]
+  },
+  {
+   "relationship_type": "remix_of",
+   "type": "remix_of",
+   "songs": []
+  },
+  {
+   "relationship_type": "remixed_by",
+   "type": "remixed_by",
+   "songs": [
+    {
+     "annotation_count": 1,
+     "api_path": "/songs/2260704",
+     "full_title": "Beating Opponents by\u00a0ShueTube (Ft.\u00a0NateWantsToBattle)",
+     "header_image_thumbnail_url": "https://images.genius.com/e4e9957fecdba6d7105c95e3f89f1eaf.300x300x1.jpg",
+     "header_image_url": "https://images.genius.com/e4e9957fecdba6d7105c95e3f89f1eaf.640x640x1.jpg",
+     "id": 2260704,
+     "lyrics_owner_id": 4683713,
+     "lyrics_state": "complete",
+     "path": "/Shuetube-beating-opponents-lyrics",
+     "pyongs_count": null,
+     "song_art_image_thumbnail_url": "https://images.genius.com/e4e9957fecdba6d7105c95e3f89f1eaf.300x300x1.jpg",
+     "song_art_image_url": "https://images.genius.com/e4e9957fecdba6d7105c95e3f89f1eaf.640x640x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 0,
+      "hot": false
+     },
+     "title": "Beating Opponents",
+     "title_with_featured": "Beating Opponents (Ft.\u00a0NateWantsToBattle)",
+     "url": "https://genius.com/Shuetube-beating-opponents-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/538706",
+      "header_image_url": "https://images.genius.com/avatars/medium/b4d6982cb8797a51c9c75c4c91c9ef2f",
+      "id": 538706,
+      "image_url": "https://images.genius.com/avatars/medium/b4d6982cb8797a51c9c75c4c91c9ef2f",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "ShueTube",
+      "url": "https://genius.com/artists/Shuetube",
+      "iq": 137
+     }
+    },
+    {
+     "annotation_count": 19,
+     "api_path": "/songs/2331306",
+     "full_title": "Shaday megamix (bonus track) by\u00a0Shade",
+     "header_image_thumbnail_url": "https://images.genius.com/0ed72083b3320b398111fcb1616d70ef.300x300x1.jpg",
+     "header_image_url": "https://images.genius.com/0ed72083b3320b398111fcb1616d70ef.659x659x1.jpg",
+     "id": 2331306,
+     "lyrics_owner_id": 1451094,
+     "lyrics_state": "complete",
+     "path": "/Shade-shaday-megamix-bonus-track-lyrics",
+     "pyongs_count": null,
+     "song_art_image_thumbnail_url": "https://images.genius.com/0ed72083b3320b398111fcb1616d70ef.300x300x1.jpg",
+     "song_art_image_url": "https://images.genius.com/0ed72083b3320b398111fcb1616d70ef.659x659x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 16,
+      "hot": false,
+      "pageviews": 5333
+     },
+     "title": "Shaday megamix (bonus track)",
+     "title_with_featured": "Shaday megamix (bonus track)",
+     "url": "https://genius.com/Shade-shaday-megamix-bonus-track-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/62086",
+      "header_image_url": "https://images.genius.com/29c6922fa9928001eea22e77dd39ba18.600x597x1.jpg",
+      "id": 62086,
+      "image_url": "https://images.genius.com/29c6922fa9928001eea22e77dd39ba18.600x597x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Shade",
+      "url": "https://genius.com/artists/Shade"
+     }
+    },
+    {
+     "annotation_count": 53,
+     "api_path": "/songs/3190086",
+     "full_title": "Pop Danthology 2013 by\u00a0Daniel\u00a0Kim",
+     "header_image_thumbnail_url": "https://images.genius.com/9ce2146c4f42afb63648801d39969917.300x169x1.jpg",
+     "header_image_url": "https://images.genius.com/9ce2146c4f42afb63648801d39969917.1000x562x1.jpg",
+     "id": 3190086,
+     "lyrics_owner_id": 4545088,
+     "lyrics_state": "complete",
+     "path": "/Daniel-kim-pop-danthology-2013-lyrics",
+     "pyongs_count": 2,
+     "song_art_image_thumbnail_url": "https://images.genius.com/9ce2146c4f42afb63648801d39969917.300x169x1.jpg",
+     "song_art_image_url": "https://images.genius.com/9ce2146c4f42afb63648801d39969917.1000x562x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 2,
+      "hot": false,
+      "pageviews": 7260
+     },
+     "title": "Pop Danthology 2013",
+     "title_with_featured": "Pop Danthology 2013",
+     "url": "https://genius.com/Daniel-kim-pop-danthology-2013-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/129871",
+      "header_image_url": "https://images.genius.com/7d6017352a0338730b3bb3da5757990b.898x898x1.jpg",
+      "id": 129871,
+      "image_url": "https://images.genius.com/7d6017352a0338730b3bb3da5757990b.898x898x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Daniel Kim",
+      "url": "https://genius.com/artists/Daniel-kim"
+     }
+    },
+    {
+     "annotation_count": 14,
+     "api_path": "/songs/3543538",
+     "full_title": "On vient g\u00e2cher tes classiques n*7 by\u00a047Ter",
+     "header_image_thumbnail_url": "https://images.genius.com/e4da9e5fa45a3e531432e9d3fd6535b6.300x169x1.jpg",
+     "header_image_url": "https://images.genius.com/e4da9e5fa45a3e531432e9d3fd6535b6.1000x563x1.jpg",
+     "id": 3543538,
+     "lyrics_owner_id": 2183818,
+     "lyrics_state": "complete",
+     "path": "/47ter-on-vient-gacher-tes-classiques-n7-lyrics",
+     "pyongs_count": null,
+     "song_art_image_thumbnail_url": "https://images.genius.com/990b58984c41ce6f950dec97d3196d14.300x300x1.jpg",
+     "song_art_image_url": "https://images.genius.com/990b58984c41ce6f950dec97d3196d14.600x600x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 14,
+      "hot": false,
+      "pageviews": 12937
+     },
+     "title": "On vient g\u00e2cher tes classiques n*7",
+     "title_with_featured": "On vient g\u00e2cher tes classiques n*7",
+     "url": "https://genius.com/47ter-on-vient-gacher-tes-classiques-n7-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/1292948",
+      "header_image_url": "https://images.genius.com/cbdfaa2896f317b23b73099deb75e798.1000x563x1.jpg",
+      "id": 1292948,
+      "image_url": "https://images.genius.com/af727d08afde30ea77d0057a342660b0.501x501x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "47Ter",
+      "url": "https://genius.com/artists/47ter"
+     }
+    },
+    {
+     "annotation_count": 1,
+     "api_path": "/songs/5599105",
+     "full_title": "SummerMash '13 by\u00a0DJ\u00a0Earworm",
+     "header_image_thumbnail_url": "https://images.genius.com/3108a0147a0d9395a2646327cfac8ffa.300x300x1.png",
+     "header_image_url": "https://images.genius.com/3108a0147a0d9395a2646327cfac8ffa.1000x1000x1.png",
+     "id": 5599105,
+     "lyrics_owner_id": 6685173,
+     "lyrics_state": "complete",
+     "path": "/Dj-earworm-summermash-13-lyrics",
+     "pyongs_count": null,
+     "song_art_image_thumbnail_url": "https://images.genius.com/3108a0147a0d9395a2646327cfac8ffa.300x300x1.png",
+     "song_art_image_url": "https://images.genius.com/3108a0147a0d9395a2646327cfac8ffa.1000x1000x1.png",
+     "stats": {
+      "unreviewed_annotations": 1,
+      "hot": false
+     },
+     "title": "SummerMash \u201913",
+     "title_with_featured": "SummerMash '13",
+     "url": "https://genius.com/Dj-earworm-summermash-13-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/190620",
+      "header_image_url": "https://images.genius.com/e46eb8327e3ea450b0ba0e15bcd0af6a.642x642x1.jpg",
+      "id": 190620,
+      "image_url": "https://images.genius.com/e46eb8327e3ea450b0ba0e15bcd0af6a.642x642x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "DJ Earworm",
+      "url": "https://genius.com/artists/Dj-earworm"
+     }
+    }
+   ]
+  },
+  {
+   "relationship_type": "live_version_of",
+   "type": "live_version_of",
+   "songs": []
+  },
+  {
+   "relationship_type": "performed_live_as",
+   "type": "performed_live_as",
+   "songs": []
+  }
+ ],
+ "verified_annotations_by": [],
+ "verified_contributors": [],
+ "verified_lyrics_by": [],
+ "writer_artists": [
+  {
+   "api_path": "/artists/2025",
+   "header_image_url": "https://images.genius.com/594815567eefc211e759161d7e28dd3d.861x861x1.jpg",
+   "id": 2025,
+   "image_url": "https://images.genius.com/594815567eefc211e759161d7e28dd3d.861x861x1.jpg",
+   "is_meme_verified": false,
+   "is_verified": false,
+   "name": "Ryan Lewis",
+   "url": "https://genius.com/artists/Ryan-lewis"
+  },
+  {
+   "api_path": "/artists/33550",
+   "header_image_url": "https://images.genius.com/e4c3d110a69f3a5ac4162202ade2e8fb.1000x1000x1.jpg",
+   "id": 33550,
+   "image_url": "https://images.genius.com/e4c3d110a69f3a5ac4162202ade2e8fb.1000x1000x1.jpg",
+   "is_meme_verified": false,
+   "is_verified": false,
+   "name": "Ray Dalton",
+   "url": "https://genius.com/artists/Ray-dalton"
+  },
+  {
+   "api_path": "/artists/2026",
+   "header_image_url": "https://images.genius.com/d27fbdf2556d96179157fa3473a80377.853x238x1.jpg",
+   "id": 2026,
+   "image_url": "https://images.genius.com/8983d0c6fd7a87e846a12ba0c3a05815.1000x1000x1.jpg",
+   "is_meme_verified": false,
+   "is_verified": true,
+   "name": "Macklemore",
+   "url": "https://genius.com/artists/Macklemore",
+   "iq": 370
+  }
+ ],
+ "lyrics": "Hey, hey, hey\nGood to see you\nCome on, dude, let's go\nYeah! Let's go!\nHa-ha-ha-ha alright\nAlright, okay\nAlright, okay\nAlright, okay\n\nReturn of the Mack\nGet 'em, what it is, what it does, what it is, what it isn't\nLooking for a better way to get up outta bed\nInstead of getting on the Internet\nAnd checking on who hit me, get up\nThrift shop, pimp-strut walkin'\nLittle bit of humble, little bit of cautious\nSomewhere between like Rocky and Cosby\nSweater game, nope nope, y'all can't copy, yeah\nBad, moonwalking, this here is our party\nMy posse's been on Broadway, and we did it our way\nGrown music, I shed my skin and put my bones\nInto everything I record to it and yet I'm on\nLet that stage light go and shine on down\nGot that Bob Barker suit game and Plinko in my style\nMoney, stay on my craft and stick around for those pounds\nBut I do that to pass the torch and put on for my town\nTrust me on my I-N-D-E-P-E-N-D-E-N-T shit, hustlin'\nChasing dreams since I was fourteen\nWith the four-track, bussin'\nHalfway cross that city with the back (back) pack (pack), fat (fat) cat (cat), crushin'\nLabels out here, now they can't tell me nothin' (Hey, hey, hey)\nWe give that to the people, spread it across the country (Hey, hey, hey, oh)\nLabels out here, now they can't tell me nothin' (Hey, hey, hey)\nWe give it to the people, spread it across the country (Hey, hey, hey, oh)\n\nCan we go back? This is the moment\nTonight is the night, we'll fight 'til it's over\nSo we put our hands up\nLike the ceiling can't hold us\nLike the ceiling can't hold us\nCan we go back? This is the moment\nTonight is the night, we'll fight 'til it's over\nSo we put our hands up\nLike the ceiling can't hold us\nLike the ceiling can't hold us\n\nNow, can I kick it? Thank you\nYeah, I'm so damn grateful\nI grew up really wanting gold fronts\nBut that\u2019s what you get when Wu-Tang raised you\nY'all can't stop me\nGo hard like I got a 808 in my heartbeat\nAnd I'm eating at the beat like you gave a little speed\nTo a great white shark on Shark Week, raw!\nTime to go off, I'm gone\nDeuces, goodbye, I got a world to see\nAnd my girl, she wanna see Rome\nCaesar'll make you a believer\nNah, I never ever did it for a throne\nThat validation comes from giving it back to the people\nNow sing a song, and it goes like\nRaise those hands, this is our party (Hey, hey, hey)\nWe came here to live life like nobody was watching (Hey, hey, hey, oh)\nI got my city right behind me, if I fall, they got me (Hey, hey, hey)\nLearn from that failure, gain humility (Hey, hey, hey)\nAnd then we keep marching, I said\n\nCan we go back? This is the moment\nTonight is the night, we'll fight 'til it's over\nSo we put our hands up\nLike the ceiling can't hold us\nLike the ceiling can't hold us\nCan we go back? This is the moment\nTonight is the night, we'll fight 'til it's over\nSo we put our hands up\nLike the ceiling can't hold us\nLike the ceiling can't hold us\n\nAnd so we put our hands up\nAnd so we put our hands up\nWhoa, whoa, whoa\n\nNa na na na, na na na na (Huh-uh)\nHey (And all my people sing)\nNa na na na, na na na na (Hey, hey, that's right)\nHey (Here we go, all right, uh)\nAnd all my people sing\nNa na na na, na na na na (You do it, Ray)\nOh (Ha-ha, let's go)\nAnd all my people sing\nNa na na na, na na na na\nMack-le-e-e-e-e-more!\n\nCan we go back? This is the moment\nTonight is the night, we'll fight 'til it's over\nSo we put our hands up\nLike the ceiling can't hold us\nLike the ceiling can't hold us\nCan we go back? This is the moment (Ooh)\nTonight is the night, we'll fight 'til it's over (Ooh)\nSo we put our hands up (Ooh)\nLike the ceiling can't hold us (Ooh)\nLike the ceiling can't hold us (Ooh)"
+}

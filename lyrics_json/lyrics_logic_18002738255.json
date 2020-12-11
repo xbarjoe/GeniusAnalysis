@@ -1,0 +1,2703 @@
+{
+ "_type": "song",
+ "annotation_count": 14,
+ "api_path": "/songs/3050777",
+ "full_title": "1-800-273-8255 by\u00a0Logic (Ft.\u00a0Alessia\u00a0Cara & Khalid)",
+ "header_image_thumbnail_url": "https://images.genius.com/71bb135049fd2d5eec6551c744189c09.300x300x1.jpg",
+ "header_image_url": "https://images.genius.com/71bb135049fd2d5eec6551c744189c09.1000x1000x1.jpg",
+ "id": 3050777,
+ "instrumental": false,
+ "lyrics_owner_id": 1548008,
+ "lyrics_state": "complete",
+ "lyrics_updated_at": 1605725497,
+ "path": "/Logic-1-800-273-8255-lyrics",
+ "pyongs_count": 776,
+ "song_art_image_thumbnail_url": "https://images.genius.com/f898e230528d5695fbf5e34f50784233.300x300x1.png",
+ "song_art_image_url": "https://images.genius.com/f898e230528d5695fbf5e34f50784233.1000x1000x1.png",
+ "stats": {
+  "accepted_annotations": 7,
+  "contributors": 384,
+  "iq_earners": 384,
+  "transcribers": 4,
+  "unreviewed_annotations": 0,
+  "verified_annotations": 6,
+  "concurrents": 5,
+  "hot": false,
+  "pageviews": 7373088
+ },
+ "title": "1-800-273-8255",
+ "title_with_featured": "1-800-273-8255 (Ft.\u00a0Alessia\u00a0Cara & Khalid)",
+ "updated_by_human_at": 1605725498,
+ "url": "https://genius.com/Logic-1-800-273-8255-lyrics",
+ "primary_artist": {
+  "api_path": "/artists/7922",
+  "header_image_url": "https://images.genius.com/f6b08bf607b94a279d743e14bbca2a3a.1000x563x1.jpg",
+  "id": 7922,
+  "image_url": "https://images.genius.com/0f975524d106026e89de983689d007c4.900x900x1.jpg",
+  "is_meme_verified": true,
+  "is_verified": true,
+  "name": "Logic",
+  "url": "https://genius.com/artists/Logic",
+  "iq": 91961
+ },
+ "apple_music_id": "1456232983",
+ "apple_music_player_url": "https://genius.com/songs/3050777/apple_music_player",
+ "description": {
+  "plain": "On \u201c1-800-273-8255,\u201d Logic shows that suicide is never the answer to anyone\u2019s problems. He wants people to know that there is always help available, such as the National Suicide Prevention Lifeline, whose phone number is the title of this song. In fact, the song was released in partnership with the NSPL.\n\nIn an interview with Genius, Logic said that this song details the story of someone calling the NSPL wanting to commit suicide but after a conversation with the NSPL representative,  the caller soon after decides he wants to live.\n\nhttps://www.youtube.com/watch?v=SOJTg9cL5bM\n\nLogic teased the song various times on both Twitter and on Instagram stories as well."
+ },
+ "embed_content": "<div id='rg_embed_link_3050777' class='rg_embed_link' data-song-id='3050777'>Read <a href='https://genius.com/Logic-1-800-273-8255-lyrics'>\u201c1-800-273-8255\u201d by Logic</a> on Genius</div> <script crossorigin src='//genius.com/songs/3050777/embed.js'></script>",
+ "fact_track": {
+  "provider": "spotify",
+  "external_url": "https://open.spotify.com/track/4Sj8JZ9zZfl8HaOav5yTVq",
+  "button_text": "Behind the Lyrics in Spotify",
+  "help_link_text": "What's a Fact Track?",
+  "help_link_url": "https://genius.com/a/genius-and-spotify-together"
+ },
+ "featured_video": true,
+ "lyrics_placeholder_reason": null,
+ "recording_location": "Logic's Studio",
+ "release_date": "2017-04-28",
+ "release_date_for_display": "April 28, 2017",
+ "current_user_metadata": {
+  "permissions": [
+   "see_pageviews",
+   "watch_fact_track",
+   "view_apple_music_player",
+   "create_comment",
+   "view_song_story_gallery"
+  ],
+  "excluded_permissions": [
+   "follow",
+   "award_transcription_iq",
+   "remove_transcription_iq",
+   "pyong",
+   "edit_lyrics",
+   "view_annotation_engagement_data",
+   "publish",
+   "unpublish",
+   "edit_spotify_details",
+   "hide",
+   "unhide",
+   "toggle_featured_video",
+   "add_pinned_annotation_to",
+   "add_community_annotation_to",
+   "destroy",
+   "mark_as_not_spam",
+   "edit_spotify_annotations_for",
+   "verify_lyrics",
+   "unverify_lyrics",
+   "edit_anything",
+   "edit_any_media",
+   "edit",
+   "rename",
+   "edit_tags",
+   "reindex",
+   "view_lyrics_synchronization",
+   "enable_media",
+   "disable_media",
+   "edit_lyrics_or_annotation_brackets",
+   "see_editorial_indicators",
+   "view_attribution_visualization",
+   "edit_annotation_brackets",
+   "preview_lyrics_for_export",
+   "hide_apple_player",
+   "unhide_apple_player",
+   "trigger_apple_match",
+   "mark_lyrics_evaluation_as_approved",
+   "mark_lyrics_evaluation_as_staff_approved",
+   "mark_lyrics_evaluation_as_unapproved",
+   "mark_lyrics_evaluation_as_un_staff_approved",
+   "view_transcriber_media_player",
+   "override_apple_match",
+   "edit_youtube_url",
+   "edit_soundcloud_url",
+   "edit_spotify_uuid",
+   "edit_vevo_url",
+   "moderate_annotations",
+   "create_annotation",
+   "see_short_id",
+   "manage_chart_item",
+   "create_tag",
+   "propose_lyrics_edit",
+   "moderate_lyrics_edit_proposals",
+   "preview_react_song_page"
+  ],
+  "interactions": {
+   "pyong": false,
+   "following": false
+  },
+  "relationships": {},
+  "iq_by_action": {}
+ },
+ "album": {
+  "api_path": "/albums/229163",
+  "cover_art_url": "https://images.genius.com/6964783fbf7f2eca0619a3bc156512dc.1000x1000x1.png",
+  "full_title": "Everybody by Logic",
+  "id": 229163,
+  "name": "Everybody",
+  "url": "https://genius.com/albums/Logic/Everybody",
+  "artist": {
+   "api_path": "/artists/7922",
+   "header_image_url": "https://images.genius.com/f6b08bf607b94a279d743e14bbca2a3a.1000x563x1.jpg",
+   "id": 7922,
+   "image_url": "https://images.genius.com/0f975524d106026e89de983689d007c4.900x900x1.jpg",
+   "is_meme_verified": true,
+   "is_verified": true,
+   "name": "Logic",
+   "url": "https://genius.com/artists/Logic",
+   "iq": 91961
+  }
+ },
+ "custom_performances": [
+  {
+   "label": "Assistant Recording Engineer",
+   "artists": [
+    {
+     "api_path": "/artists/1149080",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+     "id": 1149080,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Wes Seidman",
+     "url": "https://genius.com/artists/Wes-seidman"
+    },
+    {
+     "api_path": "/artists/1302976",
+     "header_image_url": "https://images.genius.com/1ac40207f75f49d3718ae2990f5cd487.1000x1000x1.png",
+     "id": 1302976,
+     "image_url": "https://images.genius.com/1ac40207f75f49d3718ae2990f5cd487.1000x1000x1.png",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "\u200billuminati hotties",
+     "url": "https://genius.com/artists/Illuminati-hotties"
+    },
+    {
+     "api_path": "/artists/641147",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+     "id": 641147,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Casey Cuayo",
+     "url": "https://genius.com/artists/Casey-cuayo"
+    },
+    {
+     "api_path": "/artists/102804",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+     "id": 102804,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Will Wells",
+     "url": "https://genius.com/artists/Will-wells"
+    }
+   ]
+  },
+  {
+   "label": "Performance Rights",
+   "artists": [
+    {
+     "api_path": "/artists/2227029",
+     "header_image_url": "https://images.genius.com/115970b35453a5e39681034f2ee1b2e4.730x163x1.png",
+     "id": 2227029,
+     "image_url": "https://images.genius.com/099ea2777ac975ccb7819a67580847eb.1000x1000x1.png",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "SOCAN",
+     "url": "https://genius.com/artists/Socan"
+    },
+    {
+     "api_path": "/artists/551598",
+     "header_image_url": "https://images.genius.com/067d9bccf2ab6e5eded129861b73d9dc.851x315x1.jpg",
+     "id": 551598,
+     "image_url": "https://images.genius.com/5f24e8e67904faef419d736f2ade3f78.1000x1000x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "ASCAP",
+     "url": "https://genius.com/artists/Ascap"
+    },
+    {
+     "api_path": "/artists/1138091",
+     "header_image_url": "https://images.genius.com/5b84dbf7ba86e59c297143f076a56c9a.1000x1000x1.jpg",
+     "id": 1138091,
+     "image_url": "https://images.genius.com/051b0a6beabf8a9eb8768e9f874a542f.1000x1000x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "BMI",
+     "url": "https://genius.com/artists/Bmi"
+    }
+   ]
+  },
+  {
+   "label": "Publisher",
+   "artists": [
+    {
+     "api_path": "/artists/2235632",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+     "id": 2235632,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Canadiana Music",
+     "url": "https://genius.com/artists/Canadiana-music"
+    },
+    {
+     "api_path": "/artists/2153218",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+     "id": 2153218,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Sony/ATV Allegro",
+     "url": "https://genius.com/artists/Sony-atv-allegro"
+    },
+    {
+     "api_path": "/artists/88331",
+     "header_image_url": "https://images.genius.com/b46212847df33dcc782ffff51fc737b4.1000x207x1.png",
+     "id": 88331,
+     "image_url": "https://images.genius.com/2a8cce70d4827d126ecbbc648a8ad62f.1000x1000x1.png",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Sony Music Entertainment",
+     "url": "https://genius.com/artists/Sony-music-entertainment"
+    },
+    {
+     "api_path": "/artists/1100826",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+     "id": 1100826,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "New World Music",
+     "url": "https://genius.com/artists/New-world-music"
+    },
+    {
+     "api_path": "/artists/1112276",
+     "header_image_url": "https://images.genius.com/159917d9c26b9cfe66c0b04493a1f05a.900x900x1.png",
+     "id": 1112276,
+     "image_url": "https://images.genius.com/340e19086e9ebeae265e6e4947b0ffcb.900x900x1.png",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Warner Music Group",
+     "url": "https://genius.com/artists/Warner-music-group"
+    },
+    {
+     "api_path": "/artists/2266589",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+     "id": 2266589,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Taggart Group",
+     "url": "https://genius.com/artists/Taggart-group"
+    },
+    {
+     "api_path": "/artists/2261510",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+     "id": 2261510,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Sony/ATV Tunes",
+     "url": "https://genius.com/artists/Sony-atv-tunes"
+    },
+    {
+     "api_path": "/artists/992219",
+     "header_image_url": "https://images.genius.com/a43ed819378fccdad8a80cad050f2029.768x433x1.jpg",
+     "id": 992219,
+     "image_url": "https://images.genius.com/8af7bba6ca0c481513ffe4b4ab87e347.314x314x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Warner-Tamerlane Publishing Corp.",
+     "url": "https://genius.com/artists/Warner-tamerlane-publishing-corp"
+    },
+    {
+     "api_path": "/artists/1477261",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+     "id": 1477261,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Three Oh One Productions",
+     "url": "https://genius.com/artists/Three-oh-one-productions"
+    },
+    {
+     "api_path": "/artists/2141428",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+     "id": 2141428,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Sony/ATV Ballad",
+     "url": "https://genius.com/artists/Sony-atv-ballad"
+    }
+   ]
+  },
+  {
+   "label": "Video Executive Producer",
+   "artists": [
+    {
+     "api_path": "/artists/1000188",
+     "header_image_url": "https://images.genius.com/4e4cc38828523d6c6f4cf6ea0b2a332f.1000x1000x1.jpg",
+     "id": 1000188,
+     "image_url": "https://images.genius.com/4e4cc38828523d6c6f4cf6ea0b2a332f.1000x1000x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Brandon Bonfiglio",
+     "url": "https://genius.com/artists/Brandon-bonfiglio"
+    },
+    {
+     "api_path": "/artists/1000187",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+     "id": 1000187,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Luga Podesta",
+     "url": "https://genius.com/artists/Luga-podesta"
+    }
+   ]
+  },
+  {
+   "label": "Video Producer",
+   "artists": [
+    {
+     "api_path": "/artists/1198475",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+     "id": 1198475,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Alex Randall",
+     "url": "https://genius.com/artists/Alex-randall"
+    },
+    {
+     "api_path": "/artists/1000186",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+     "id": 1000186,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Andrew Lerios",
+     "url": "https://genius.com/artists/Andrew-lerios"
+    }
+   ]
+  },
+  {
+   "label": "Recording Engineer",
+   "artists": [
+    {
+     "api_path": "/artists/636418",
+     "header_image_url": "https://images.genius.com/a6bf893212c0961bedb2d0c145259273.471x218x1.webp",
+     "id": 636418,
+     "image_url": "https://images.genius.com/7e20b1e3ca2c3d8e0e3e91c451416401.251x251x1.png",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Bobby Campbell",
+     "url": "https://genius.com/artists/Bobby-campbell"
+    },
+    {
+     "api_path": "/artists/1045935",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+     "id": 1045935,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Jorge Velasco",
+     "url": "https://genius.com/artists/Jorge-velasco"
+    }
+   ]
+  },
+  {
+   "label": "Conductor",
+   "artists": [
+    {
+     "api_path": "/artists/1118899",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+     "id": 1118899,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Jeremy Rubolino",
+     "url": "https://genius.com/artists/Jeremy-rubolino"
+    },
+    {
+     "api_path": "/artists/1118900",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+     "id": 1118900,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Nami Melumad",
+     "url": "https://genius.com/artists/Nami-melumad"
+    }
+   ]
+  },
+  {
+   "label": "Background Vocals",
+   "artists": [
+    {
+     "api_path": "/artists/608241",
+     "header_image_url": "https://images.genius.com/b64206d98f0a19e04974bf3a4acf2142.1000x1000x1.jpg",
+     "id": 608241,
+     "image_url": "https://images.genius.com/b64206d98f0a19e04974bf3a4acf2142.1000x1000x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Sir Dylan",
+     "url": "https://genius.com/artists/Sir-dylan"
+    },
+    {
+     "api_path": "/artists/213416",
+     "header_image_url": "https://images.genius.com/d1f1087020045f4ea684275fc4dcaaf8.370x250x1.jpg",
+     "id": 213416,
+     "image_url": "https://images.genius.com/d1f1087020045f4ea684275fc4dcaaf8.370x250x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Dria",
+     "url": "https://genius.com/artists/Dria"
+    },
+    {
+     "api_path": "/artists/102804",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+     "id": 102804,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Will Wells",
+     "url": "https://genius.com/artists/Will-wells"
+    },
+    {
+     "api_path": "/artists/400379",
+     "header_image_url": "https://images.genius.com/739bda1c449d06d877c4a9f977bf76a2.225x225x1.jpg",
+     "id": 400379,
+     "image_url": "https://images.genius.com/739bda1c449d06d877c4a9f977bf76a2.225x225x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Christopher Thornton",
+     "url": "https://genius.com/artists/Christopher-thornton"
+    },
+    {
+     "api_path": "/artists/1128363",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+     "id": 1128363,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Paula McKeva",
+     "url": "https://genius.com/artists/Paula-mckeva"
+    },
+    {
+     "api_path": "/artists/71478",
+     "header_image_url": "https://images.genius.com/8d95455559639534b790acbb7e3f9526.1000x670x1.jpg",
+     "id": 71478,
+     "image_url": "https://images.genius.com/5e76c92a636f4dc03876c0bfdce918d0.536x536x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "Lucy Rose",
+     "url": "https://genius.com/artists/Lucy-rose",
+     "iq": 131
+    },
+    {
+     "api_path": "/artists/1116480",
+     "header_image_url": "https://images.genius.com/d9b88162ca3d6d011891f961a63a7125.500x500x1.jpg",
+     "id": 1116480,
+     "image_url": "https://images.genius.com/703f26f00f6e0ce00a3d16c856bb0c73.500x500x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Damian Lemar Hudson",
+     "url": "https://genius.com/artists/Damian-lemar-hudson"
+    }
+   ]
+  },
+  {
+   "label": "Mellotron",
+   "artists": [
+    {
+     "api_path": "/artists/608241",
+     "header_image_url": "https://images.genius.com/b64206d98f0a19e04974bf3a4acf2142.1000x1000x1.jpg",
+     "id": 608241,
+     "image_url": "https://images.genius.com/b64206d98f0a19e04974bf3a4acf2142.1000x1000x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Sir Dylan",
+     "url": "https://genius.com/artists/Sir-dylan"
+    }
+   ]
+  },
+  {
+   "label": "Piano",
+   "artists": [
+    {
+     "api_path": "/artists/608241",
+     "header_image_url": "https://images.genius.com/b64206d98f0a19e04974bf3a4acf2142.1000x1000x1.jpg",
+     "id": 608241,
+     "image_url": "https://images.genius.com/b64206d98f0a19e04974bf3a4acf2142.1000x1000x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Sir Dylan",
+     "url": "https://genius.com/artists/Sir-dylan"
+    }
+   ]
+  },
+  {
+   "label": "Synthesizer",
+   "artists": [
+    {
+     "api_path": "/artists/608241",
+     "header_image_url": "https://images.genius.com/b64206d98f0a19e04974bf3a4acf2142.1000x1000x1.jpg",
+     "id": 608241,
+     "image_url": "https://images.genius.com/b64206d98f0a19e04974bf3a4acf2142.1000x1000x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Sir Dylan",
+     "url": "https://genius.com/artists/Sir-dylan"
+    }
+   ]
+  },
+  {
+   "label": "Label",
+   "artists": [
+    {
+     "api_path": "/artists/1104563",
+     "header_image_url": "https://images.genius.com/6ee5d6766689e04358c1d0f8ea0ed8f0.600x600x1.png",
+     "id": 1104563,
+     "image_url": "https://images.genius.com/7b3fb2c00317cb2eb2453f9f4e7473d1.600x600x1.png",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Universal Music Group",
+     "url": "https://genius.com/artists/Universal-music-group"
+    },
+    {
+     "api_path": "/artists/79113",
+     "header_image_url": "https://images.genius.com/79c41ff236bc5014781976bbb8323dba.1000x525x1.jpg",
+     "id": 79113,
+     "image_url": "https://images.genius.com/f3374b6a83bc9d6248a7464cef582482.512x512x1.png",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Def Jam Recordings",
+     "url": "https://genius.com/artists/Def-jam-recordings"
+    },
+    {
+     "api_path": "/artists/110816",
+     "header_image_url": "https://images.genius.com/310b2e9ded64f21aa0f68dd6deb44ffb.1000x338x1.jpg",
+     "id": 110816,
+     "image_url": "https://images.genius.com/b02755aa65d23fe1fcd140bc70713450.499x499x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Visionary Music Group",
+     "url": "https://genius.com/artists/Visionary-music-group"
+    }
+   ]
+  },
+  {
+   "label": "Video Contractor",
+   "artists": [
+    {
+     "api_path": "/artists/977209",
+     "header_image_url": "https://images.genius.com/953c8a38ae999bd63efd02a87f51d158.198x198x1.jpg",
+     "id": 977209,
+     "image_url": "https://images.genius.com/953c8a38ae999bd63efd02a87f51d158.198x198x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Mark Robertson",
+     "url": "https://genius.com/artists/Mark-robertson"
+    }
+   ]
+  },
+  {
+   "label": "Video Director",
+   "artists": [
+    {
+     "api_path": "/artists/1081230",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+     "id": 1081230,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Andy Hines",
+     "url": "https://genius.com/artists/Andy-hines"
+    }
+   ]
+  },
+  {
+   "label": "Video Writer",
+   "artists": [
+    {
+     "api_path": "/artists/1081230",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+     "id": 1081230,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Andy Hines",
+     "url": "https://genius.com/artists/Andy-hines"
+    }
+   ]
+  },
+  {
+   "label": "Video Production Assistant",
+   "artists": [
+    {
+     "api_path": "/artists/1198459",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+     "id": 1198459,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Alec Schweitzer",
+     "url": "https://genius.com/artists/Alec-schweitzer"
+    }
+   ]
+  },
+  {
+   "label": "Video Color",
+   "artists": [
+    {
+     "api_path": "/artists/1198485",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+     "id": 1198485,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Sean Coleman",
+     "url": "https://genius.com/artists/Sean-coleman"
+    }
+   ]
+  },
+  {
+   "label": "Video Key Grip",
+   "artists": [
+    {
+     "api_path": "/artists/1198484",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+     "id": 1198484,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Matthew Lim",
+     "url": "https://genius.com/artists/Matthew-lim"
+    }
+   ]
+  },
+  {
+   "label": "Video Stylist",
+   "artists": [
+    {
+     "api_path": "/artists/1198483",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+     "id": 1198483,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Antoinette Messam",
+     "url": "https://genius.com/artists/Antoinette-messam"
+    }
+   ]
+  },
+  {
+   "label": "Video Gaffer",
+   "artists": [
+    {
+     "api_path": "/artists/1198482",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+     "id": 1198482,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Theodore Rysz",
+     "url": "https://genius.com/artists/Theodore-rysz"
+    }
+   ]
+  },
+  {
+   "label": "Video Sound",
+   "artists": [
+    {
+     "api_path": "/artists/1198481",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+     "id": 1198481,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Joe Bartone",
+     "url": "https://genius.com/artists/Joe-bartone"
+    },
+    {
+     "api_path": "/artists/1198480",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+     "id": 1198480,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Eric Ballew",
+     "url": "https://genius.com/artists/Eric-ballew"
+    }
+   ]
+  },
+  {
+   "label": "Video Assistant Director",
+   "artists": [
+    {
+     "api_path": "/artists/1198479",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+     "id": 1198479,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Giovanni Cotto-Ortiz",
+     "url": "https://genius.com/artists/Giovanni-cotto-ortiz"
+    }
+   ]
+  },
+  {
+   "label": "Video Production Supervisor",
+   "artists": [
+    {
+     "api_path": "/artists/1198478",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+     "id": 1198478,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Kai Lusk",
+     "url": "https://genius.com/artists/Kai-lusk"
+    }
+   ]
+  },
+  {
+   "label": "Video Editor",
+   "artists": [
+    {
+     "api_path": "/artists/1198477",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+     "id": 1198477,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Joe Calardo",
+     "url": "https://genius.com/artists/Joe-calardo"
+    }
+   ]
+  },
+  {
+   "label": "Video Production Designer",
+   "artists": [
+    {
+     "api_path": "/artists/661409",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+     "id": 661409,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Hannah Beachler",
+     "url": "https://genius.com/artists/Hannah-beachler"
+    }
+   ]
+  },
+  {
+   "label": "Video Director Of Photography",
+   "artists": [
+    {
+     "api_path": "/artists/1198476",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+     "id": 1198476,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Jeff Bierman",
+     "url": "https://genius.com/artists/Jeff-bierman"
+    }
+   ]
+  },
+  {
+   "label": "Video Additional Filming",
+   "artists": [
+    {
+     "api_path": "/artists/1130169",
+     "header_image_url": "https://images.genius.com/12b1d09ecbddecc151b2988ee0fe2b57.1000x1000x1.jpg",
+     "id": 1130169,
+     "image_url": "https://images.genius.com/12b1d09ecbddecc151b2988ee0fe2b57.1000x1000x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Justin Fleischer",
+     "url": "https://genius.com/artists/Justin-fleischer"
+    },
+    {
+     "api_path": "/artists/1130168",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+     "id": 1130168,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Mike Holland",
+     "url": "https://genius.com/artists/Mike-holland"
+    }
+   ]
+  },
+  {
+   "label": "Bass",
+   "artists": [
+    {
+     "api_path": "/artists/641142",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+     "id": 641142,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Josh Lippi",
+     "url": "https://genius.com/artists/Josh-lippi"
+    }
+   ]
+  },
+  {
+   "label": "String Arranger",
+   "artists": [
+    {
+     "api_path": "/artists/1118899",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+     "id": 1118899,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Jeremy Rubolino",
+     "url": "https://genius.com/artists/Jeremy-rubolino"
+    }
+   ]
+  },
+  {
+   "label": "Assistant Mixing Engineer",
+   "artists": [
+    {
+     "api_path": "/artists/779241",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+     "id": 779241,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Tyler Gordon",
+     "url": "https://genius.com/artists/Tyler-gordon"
+    }
+   ]
+  },
+  {
+   "label": "Mixing Engineer",
+   "artists": [
+    {
+     "api_path": "/artists/636418",
+     "header_image_url": "https://images.genius.com/a6bf893212c0961bedb2d0c145259273.471x218x1.webp",
+     "id": 636418,
+     "image_url": "https://images.genius.com/7e20b1e3ca2c3d8e0e3e91c451416401.251x251x1.png",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Bobby Campbell",
+     "url": "https://genius.com/artists/Bobby-campbell"
+    }
+   ]
+  },
+  {
+   "label": "Orchestra Leader",
+   "artists": [
+    {
+     "api_path": "/artists/1118899",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+     "id": 1118899,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Jeremy Rubolino",
+     "url": "https://genius.com/artists/Jeremy-rubolino"
+    }
+   ]
+  },
+  {
+   "label": "Electric Guitar",
+   "artists": [
+    {
+     "api_path": "/artists/286701",
+     "header_image_url": "https://images.genius.com/77d748a28f4aa7874634846b15432e43.170x170x1.jpg",
+     "id": 286701,
+     "image_url": "https://images.genius.com/77d748a28f4aa7874634846b15432e43.170x170x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Steve Wyreman",
+     "url": "https://genius.com/artists/Steve-wyreman"
+    }
+   ]
+  },
+  {
+   "label": "Cello",
+   "artists": [
+    {
+     "api_path": "/artists/608264",
+     "header_image_url": "https://images.genius.com/0fb66eb51f1c80fbe8759ef18644e394.1000x688x1.jpg",
+     "id": 608264,
+     "image_url": "https://images.genius.com/3e94d17697e734bea50b3b59dbd4f91e.399x399x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Vanessa Freebairn-Smith",
+     "url": "https://genius.com/artists/Vanessa-freebairn-smith"
+    },
+    {
+     "api_path": "/artists/992578",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+     "id": 992578,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Julie Jung",
+     "url": "https://genius.com/artists/Julie-jung"
+    },
+    {
+     "api_path": "/artists/966940",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+     "id": 966940,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "David Low",
+     "url": "https://genius.com/artists/David-low"
+    }
+   ]
+  },
+  {
+   "label": "Violin",
+   "artists": [
+    {
+     "api_path": "/artists/645399",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+     "id": 645399,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Neli Nikolaeva",
+     "url": "https://genius.com/artists/Neli-nikolaeva"
+    },
+    {
+     "api_path": "/artists/977209",
+     "header_image_url": "https://images.genius.com/953c8a38ae999bd63efd02a87f51d158.198x198x1.jpg",
+     "id": 977209,
+     "image_url": "https://images.genius.com/953c8a38ae999bd63efd02a87f51d158.198x198x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Mark Robertson",
+     "url": "https://genius.com/artists/Mark-robertson"
+    },
+    {
+     "api_path": "/artists/773445",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+     "id": 773445,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Darius Campo",
+     "url": "https://genius.com/artists/Darius-campo"
+    },
+    {
+     "api_path": "/artists/1118886",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+     "id": 1118886,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Eun-Mee Ahn",
+     "url": "https://genius.com/artists/Eun-mee-ahn"
+    },
+    {
+     "api_path": "/artists/1118888",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+     "id": 1118888,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Cheryl Kim",
+     "url": "https://genius.com/artists/Cheryl-kim"
+    },
+    {
+     "api_path": "/artists/661272",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+     "id": 661272,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Katie Sloan",
+     "url": "https://genius.com/artists/Katie-sloan"
+    },
+    {
+     "api_path": "/artists/1118887",
+     "header_image_url": "https://images.genius.com/dc539093a292596a87f14f62255ed1bd.645x1000x1.jpg",
+     "id": 1118887,
+     "image_url": "https://images.genius.com/621e994391d0792205c116dac46449cf.1000x1000x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "Sam Fischer",
+     "url": "https://genius.com/artists/Sam-fischer",
+     "iq": 584
+    },
+    {
+     "api_path": "/artists/643900",
+     "header_image_url": "https://images.genius.com/f6d26b56e55aea04efcd9a85f464bda8.200x200x1.jpg",
+     "id": 643900,
+     "image_url": "https://images.genius.com/f6d26b56e55aea04efcd9a85f464bda8.200x200x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Alyssa Park",
+     "url": "https://genius.com/artists/Alyssa-park"
+    }
+   ]
+  },
+  {
+   "label": "Viola",
+   "artists": [
+    {
+     "api_path": "/artists/816555",
+     "header_image_url": "https://images.genius.com/3788adcbf428fe72988c6d3f91c81433.180x260x1.jpg",
+     "id": 816555,
+     "image_url": "https://images.genius.com/7a8a0c5adc1c660b2a6ad5493d32a816.180x180x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Matt Funes",
+     "url": "https://genius.com/artists/Matt-funes"
+    },
+    {
+     "api_path": "/artists/1118897",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+     "id": 1118897,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Jessica Freer",
+     "url": "https://genius.com/artists/Jessica-freer"
+    },
+    {
+     "api_path": "/artists/645401",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+     "id": 645401,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Brett Banducci",
+     "url": "https://genius.com/artists/Brett-banducci"
+    },
+    {
+     "api_path": "/artists/1118896",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+     "id": 1118896,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Luke Maurer",
+     "url": "https://genius.com/artists/Luke-maurer"
+    }
+   ]
+  }
+ ],
+ "description_annotation": {
+  "_type": "referent",
+  "annotator_id": 1606288,
+  "annotator_login": "itsadnan",
+  "api_path": "/referents/11713294",
+  "classification": "accepted",
+  "fragment": "1-800-273-8255",
+  "id": 11713294,
+  "is_description": true,
+  "path": "/11713294/Logic-1-800-273-8255/1-800-273-8255",
+  "range": {
+   "content": "1-800-273-8255"
+  },
+  "song_id": 3050777,
+  "url": "https://genius.com/11713294/Logic-1-800-273-8255/1-800-273-8255",
+  "verified_annotator_ids": [],
+  "annotatable": {
+   "api_path": "/songs/3050777",
+   "client_timestamps": {
+    "updated_by_human_at": 1605725498,
+    "lyrics_updated_at": 1605725497
+   },
+   "context": "Logic",
+   "id": 3050777,
+   "image_url": "https://images.genius.com/f898e230528d5695fbf5e34f50784233.1000x1000x1.png",
+   "link_title": "1-800-273-8255 by\u00a0Logic (Ft.\u00a0Alessia\u00a0Cara & Khalid)",
+   "title": "1-800-273-8255",
+   "type": "Song",
+   "url": "https://genius.com/Logic-1-800-273-8255-lyrics"
+  },
+  "annotations": [
+   {
+    "api_path": "/annotations/11713294",
+    "body": {
+     "plain": "On \u201c1-800-273-8255,\u201d Logic shows that suicide is never the answer to anyone\u2019s problems. He wants people to know that there is always help available, such as the National Suicide Prevention Lifeline, whose phone number is the title of this song. In fact, the song was released in partnership with the NSPL.\n\nIn an interview with Genius, Logic said that this song details the story of someone calling the NSPL wanting to commit suicide but after a conversation with the NSPL representative,  the caller soon after decides he wants to live.\n\nhttps://www.youtube.com/watch?v=SOJTg9cL5bM\n\nLogic teased the song various times on both Twitter and on Instagram stories as well."
+    },
+    "comment_count": 0,
+    "community": true,
+    "custom_preview": null,
+    "has_voters": true,
+    "id": 11713294,
+    "pinned": false,
+    "share_url": "https://genius.com/11713294",
+    "source": null,
+    "state": "accepted",
+    "url": "https://genius.com/11713294/Logic-1-800-273-8255/1-800-273-8255",
+    "verified": false,
+    "votes_total": 1053,
+    "current_user_metadata": {
+     "permissions": [
+      "create_comment"
+     ],
+     "excluded_permissions": [
+      "vote",
+      "edit",
+      "cosign",
+      "uncosign",
+      "destroy",
+      "accept",
+      "reject",
+      "see_unreviewed",
+      "clear_votes",
+      "propose_edit_to",
+      "pin_to_profile",
+      "unpin_from_profile",
+      "update_source",
+      "edit_custom_preview"
+     ],
+     "interactions": {
+      "cosign": false,
+      "pyong": false,
+      "vote": null
+     },
+     "iq_by_action": {}
+    },
+    "authors": [
+     {
+      "attribution": 0.8814814814814815,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/1606288",
+       "avatar": {
+        "tiny": {
+         "url": "https://images.genius.com/avatars/tiny/4e8ac6c52e00049537e03842e1a76189",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://images.genius.com/avatars/thumb/4e8ac6c52e00049537e03842e1a76189",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://images.genius.com/avatars/small/4e8ac6c52e00049537e03842e1a76189",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://images.genius.com/avatars/medium/4e8ac6c52e00049537e03842e1a76189",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/hzRj74AhSCuk4OxeSYQ5_endless_NYC_Logic-1095.jpg",
+       "human_readable_role_for_display": "Editor",
+       "id": 1606288,
+       "iq": 15648,
+       "login": "itsadnan",
+       "name": "itsadnan",
+       "role_for_display": "editor",
+       "url": "https://genius.com/itsadnan",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     },
+     {
+      "attribution": 0.059259259259259255,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/3280867",
+       "avatar": {
+        "tiny": {
+         "url": "https://images.genius.com/avatars/tiny/e0ac494f0dee814616b695fae91ab287",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://images.genius.com/avatars/thumb/e0ac494f0dee814616b695fae91ab287",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://images.genius.com/avatars/small/e0ac494f0dee814616b695fae91ab287",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://images.genius.com/avatars/medium/e0ac494f0dee814616b695fae91ab287",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/tnEL0bhURqSh2IWuDAkT_tumblr_o13n2leEUa1u6fq9ao1_500.gif",
+       "human_readable_role_for_display": "Editor",
+       "id": 3280867,
+       "iq": 4273,
+       "login": "ACRP",
+       "name": "ACRP",
+       "role_for_display": "editor",
+       "url": "https://genius.com/ACRP",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     },
+     {
+      "attribution": 0.037037037037037035,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/1448826",
+       "avatar": {
+        "tiny": {
+         "url": "https://images.genius.com/avatars/tiny/744bc3b7bd77206b4c768fadc9911a25",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://images.genius.com/avatars/thumb/744bc3b7bd77206b4c768fadc9911a25",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://images.genius.com/avatars/small/744bc3b7bd77206b4c768fadc9911a25",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://images.genius.com/avatars/medium/744bc3b7bd77206b4c768fadc9911a25",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://images.genius.com/427478c68f285fc5e038b6995aabbbb9.600x600x1.png",
+       "human_readable_role_for_display": "Moderator",
+       "id": 1448826,
+       "iq": 175718,
+       "login": "babuc",
+       "name": "Babu Chatterjee",
+       "role_for_display": "moderator",
+       "url": "https://genius.com/babuc",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     },
+     {
+      "attribution": 0.022222222222222223,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/3366694",
+       "avatar": {
+        "tiny": {
+         "url": "https://images.genius.com/avatars/tiny/418adb574da10c44400dcb905d7957af",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://images.genius.com/avatars/thumb/418adb574da10c44400dcb905d7957af",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://images.genius.com/avatars/small/418adb574da10c44400dcb905d7957af",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://images.genius.com/avatars/medium/418adb574da10c44400dcb905d7957af",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/qjHZgR2DScaNNCPWEAcC_logic_wallpaper_the_incredible_true_story.jpg",
+       "human_readable_role_for_display": "Contributor",
+       "id": 3366694,
+       "iq": 473,
+       "login": "Advertising",
+       "name": "Advertising",
+       "role_for_display": "contributor",
+       "url": "https://genius.com/Advertising",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     }
+    ],
+    "cosigned_by": [],
+    "rejection_comment": null,
+    "verified_by": null
+   }
+  ]
+ },
+ "featured_artists": [
+  {
+   "api_path": "/artists/394321",
+   "header_image_url": "https://images.genius.com/1fd52acfe6c2a743bbcf7db41597210f.900x506x1.jpg",
+   "id": 394321,
+   "image_url": "https://images.genius.com/b7cacdee274b088f932aa14c4ecb2ea7.300x300x1.jpg",
+   "is_meme_verified": false,
+   "is_verified": true,
+   "name": "Alessia Cara",
+   "url": "https://genius.com/artists/Alessia-cara",
+   "iq": 8932
+  },
+  {
+   "api_path": "/artists/9932",
+   "header_image_url": "https://images.genius.com/f5f89af97e454e04a4f0344b02ae0918.1000x562x1.jpg",
+   "id": 9932,
+   "image_url": "https://images.genius.com/67238ec42a2fb4d563962126d9712b5e.1000x1000x1.jpg",
+   "is_meme_verified": false,
+   "is_verified": true,
+   "name": "Khalid",
+   "url": "https://genius.com/artists/Khalid",
+   "iq": 12605
+  }
+ ],
+ "lyrics_marked_complete_by": {
+  "api_path": "/users/54639",
+  "avatar": {
+   "tiny": {
+    "url": "https://images.genius.com/avatars/tiny/a552d37ef4dfc8c4ba1e4aba7f8d122d",
+    "bounding_box": {
+     "width": 16,
+     "height": 16
+    }
+   },
+   "thumb": {
+    "url": "https://images.genius.com/avatars/thumb/a552d37ef4dfc8c4ba1e4aba7f8d122d",
+    "bounding_box": {
+     "width": 32,
+     "height": 32
+    }
+   },
+   "small": {
+    "url": "https://images.genius.com/avatars/small/a552d37ef4dfc8c4ba1e4aba7f8d122d",
+    "bounding_box": {
+     "width": 100,
+     "height": 100
+    }
+   },
+   "medium": {
+    "url": "https://images.genius.com/avatars/medium/a552d37ef4dfc8c4ba1e4aba7f8d122d",
+    "bounding_box": {
+     "width": 300,
+     "height": 400
+    }
+   }
+  },
+  "header_image_url": "https://images.genius.com/avatars/medium/a552d37ef4dfc8c4ba1e4aba7f8d122d",
+  "human_readable_role_for_display": "Staff",
+  "id": 54639,
+  "iq": 1752507,
+  "login": "WriteNProppa",
+  "name": "WriteNProppa",
+  "role_for_display": "staff",
+  "url": "https://genius.com/WriteNProppa",
+  "current_user_metadata": {
+   "permissions": [],
+   "excluded_permissions": [
+    "follow"
+   ],
+   "interactions": {
+    "following": false
+   }
+  }
+ },
+ "media": [
+  {
+   "provider": "youtube",
+   "start": 10,
+   "type": "video",
+   "url": "http://www.youtube.com/watch?v=Kb24RrHIbFk"
+  },
+  {
+   "native_uri": "spotify:track:4Sj8JZ9zZfl8HaOav5yTVq",
+   "provider": "spotify",
+   "type": "audio",
+   "url": "https://open.spotify.com/track/4Sj8JZ9zZfl8HaOav5yTVq"
+  },
+  {
+   "attribution": "logic_official",
+   "provider": "soundcloud",
+   "type": "audio",
+   "url": "https://soundcloud.com/logic_official/1-800-273-8255"
+  }
+ ],
+ "producer_artists": [
+  {
+   "api_path": "/artists/49286",
+   "header_image_url": "https://images.genius.com/1f3a36cc2d3dba0297d088d8976b371d.600x315x1.jpg",
+   "id": 49286,
+   "image_url": "https://images.genius.com/1069a7fddc4ed9edb2510079b8277e35.1000x1000x1.jpg",
+   "is_meme_verified": false,
+   "is_verified": true,
+   "name": "6ix",
+   "url": "https://genius.com/artists/6ix",
+   "iq": 327
+  },
+  {
+   "api_path": "/artists/7922",
+   "header_image_url": "https://images.genius.com/f6b08bf607b94a279d743e14bbca2a3a.1000x563x1.jpg",
+   "id": 7922,
+   "image_url": "https://images.genius.com/0f975524d106026e89de983689d007c4.900x900x1.jpg",
+   "is_meme_verified": true,
+   "is_verified": true,
+   "name": "Logic",
+   "url": "https://genius.com/artists/Logic",
+   "iq": 91961
+  }
+ ],
+ "song_relationships": [
+  {
+   "relationship_type": "samples",
+   "type": "samples",
+   "songs": []
+  },
+  {
+   "relationship_type": "sampled_in",
+   "type": "sampled_in",
+   "songs": [
+    {
+     "annotation_count": 6,
+     "api_path": "/songs/3265738",
+     "full_title": "I'm Messed Up by\u00a0Lord\u00a0Twinkletoes",
+     "header_image_thumbnail_url": "https://images.genius.com/8aa5f8896229d8c274fbaf054df3574d.300x300x1.png",
+     "header_image_url": "https://images.genius.com/8aa5f8896229d8c274fbaf054df3574d.433x433x1.png",
+     "id": 3265738,
+     "lyrics_owner_id": 3252573,
+     "lyrics_state": "complete",
+     "path": "/Lord-twinkletoes-im-messed-up-lyrics",
+     "pyongs_count": null,
+     "song_art_image_thumbnail_url": "https://images.genius.com/8aa5f8896229d8c274fbaf054df3574d.300x300x1.png",
+     "song_art_image_url": "https://images.genius.com/8aa5f8896229d8c274fbaf054df3574d.433x433x1.png",
+     "stats": {
+      "unreviewed_annotations": 1,
+      "hot": false
+     },
+     "title": "I\u2019m Messed Up",
+     "title_with_featured": "I'm Messed Up",
+     "url": "https://genius.com/Lord-twinkletoes-im-messed-up-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/1213730",
+      "header_image_url": "https://images.genius.com/f15e5145adc6739735a8a85d57e62890.1000x750x1.jpg",
+      "id": 1213730,
+      "image_url": "https://images.genius.com/61ea547487cbf1a977149755a3b374f4.485x485x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Lord Twinkletoes",
+      "url": "https://genius.com/artists/Lord-twinkletoes",
+      "iq": 5200
+     }
+    },
+    {
+     "annotation_count": 1,
+     "api_path": "/songs/3367204",
+     "full_title": "United State of Pop 2017 (How We Do It) by\u00a0DJ\u00a0Earworm",
+     "header_image_thumbnail_url": "https://images.genius.com/c304aad4fd27590255fc7dfe7db362c9.300x300x1.jpg",
+     "header_image_url": "https://images.genius.com/c304aad4fd27590255fc7dfe7db362c9.500x500x1.jpg",
+     "id": 3367204,
+     "lyrics_owner_id": 1458288,
+     "lyrics_state": "complete",
+     "path": "/Dj-earworm-united-state-of-pop-2017-how-we-do-it-lyrics",
+     "pyongs_count": 1,
+     "song_art_image_thumbnail_url": "https://images.genius.com/c304aad4fd27590255fc7dfe7db362c9.300x300x1.jpg",
+     "song_art_image_url": "https://images.genius.com/c304aad4fd27590255fc7dfe7db362c9.500x500x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 1,
+      "hot": false
+     },
+     "title": "United State of Pop 2017 (How We Do It)",
+     "title_with_featured": "United State of Pop 2017 (How We Do It)",
+     "url": "https://genius.com/Dj-earworm-united-state-of-pop-2017-how-we-do-it-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/190620",
+      "header_image_url": "https://images.genius.com/e46eb8327e3ea450b0ba0e15bcd0af6a.642x642x1.jpg",
+      "id": 190620,
+      "image_url": "https://images.genius.com/e46eb8327e3ea450b0ba0e15bcd0af6a.642x642x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "DJ Earworm",
+      "url": "https://genius.com/artists/Dj-earworm"
+     }
+    },
+    {
+     "annotation_count": 1,
+     "api_path": "/songs/3430008",
+     "full_title": "Some Love by\u00a0Anasic",
+     "header_image_thumbnail_url": "https://images.genius.com/27d79b0a662a18a40af48a28b6d19925.300x300x1.jpg",
+     "header_image_url": "https://images.genius.com/27d79b0a662a18a40af48a28b6d19925.1000x1000x1.jpg",
+     "id": 3430008,
+     "lyrics_owner_id": 4794231,
+     "lyrics_state": "complete",
+     "path": "/Anasic-some-love-lyrics",
+     "pyongs_count": null,
+     "song_art_image_thumbnail_url": "https://images.genius.com/27d79b0a662a18a40af48a28b6d19925.300x300x1.jpg",
+     "song_art_image_url": "https://images.genius.com/27d79b0a662a18a40af48a28b6d19925.1000x1000x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 1,
+      "hot": false
+     },
+     "title": "Some Love",
+     "title_with_featured": "Some Love",
+     "url": "https://genius.com/Anasic-some-love-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/1179697",
+      "header_image_url": "https://images.genius.com/86d37be081c9110d8f82edb6c9180125.1000x1000x1.jpg",
+      "id": 1179697,
+      "image_url": "https://images.genius.com/08b519b9494e69e26daa194d21e89b34.668x668x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Anasic",
+      "url": "https://genius.com/artists/Anasic",
+      "iq": 986
+     }
+    },
+    {
+     "annotation_count": 0,
+     "api_path": "/songs/4098512",
+     "full_title": "I'm The One by\u00a0BLOO",
+     "header_image_thumbnail_url": "https://images.genius.com/91f975d06cbeb320a1bdb10e56aad873.300x300x1.jpg",
+     "header_image_url": "https://images.genius.com/91f975d06cbeb320a1bdb10e56aad873.600x600x1.jpg",
+     "id": 4098512,
+     "lyrics_owner_id": 4499846,
+     "lyrics_state": "complete",
+     "path": "/Bloo-im-the-one-lyrics",
+     "pyongs_count": 1,
+     "song_art_image_thumbnail_url": "https://images.genius.com/91f975d06cbeb320a1bdb10e56aad873.300x300x1.jpg",
+     "song_art_image_url": "https://images.genius.com/91f975d06cbeb320a1bdb10e56aad873.600x600x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 0,
+      "hot": false,
+      "pageviews": 7013
+     },
+     "title": "I\u2019m The One",
+     "title_with_featured": "I'm The One",
+     "url": "https://genius.com/Bloo-im-the-one-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/997688",
+      "header_image_url": "https://images.genius.com/d5afcfb77d99607f43d3bc0cf22276df.600x610x1.jpg",
+      "id": 997688,
+      "image_url": "https://images.genius.com/77d9d17d5af2fdaa4610aa35b1e202bd.600x600x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "BLOO",
+      "url": "https://genius.com/artists/Bloo"
+     }
+    },
+    {
+     "annotation_count": 0,
+     "api_path": "/songs/4260699",
+     "full_title": "Medaase by\u00a0Optimist\u00a0Sounds & Noah Air\u00e9 (Ft.\u00a0Noah\u00a0Air\u00e9 & Optimist\u00a0Sounds)",
+     "header_image_thumbnail_url": "https://images.genius.com/298ae08d78366afd8a99d069a95285e4.200x200x1.jpg",
+     "header_image_url": "https://images.genius.com/298ae08d78366afd8a99d069a95285e4.200x200x1.jpg",
+     "id": 4260699,
+     "lyrics_owner_id": 3224569,
+     "lyrics_state": "complete",
+     "path": "/Optimist-sounds-and-noah-aire-medaase-lyrics",
+     "pyongs_count": null,
+     "song_art_image_thumbnail_url": "https://images.genius.com/298ae08d78366afd8a99d069a95285e4.200x200x1.jpg",
+     "song_art_image_url": "https://images.genius.com/298ae08d78366afd8a99d069a95285e4.200x200x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 0,
+      "hot": false
+     },
+     "title": "Medaase",
+     "title_with_featured": "Medaase (Ft.\u00a0Noah\u00a0Air\u00e9 & Optimist\u00a0Sounds)",
+     "url": "https://genius.com/Optimist-sounds-and-noah-aire-medaase-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/1709553",
+      "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+      "id": 1709553,
+      "image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Optimist Sounds & Noah Air\u00e9",
+      "url": "https://genius.com/artists/Optimist-sounds-and-noah-aire"
+     }
+    },
+    {
+     "annotation_count": 8,
+     "api_path": "/songs/4313244",
+     "full_title": "IV. ALIVE by\u00a0Alex\u00a0Zandyr (Ft.\u00a0ColeoIsCooleo & LeStachette)",
+     "header_image_thumbnail_url": "https://images.genius.com/11ca7427a7ee12600fd5e51f81658d36.300x300x1.png",
+     "header_image_url": "https://images.genius.com/11ca7427a7ee12600fd5e51f81658d36.1000x1000x1.png",
+     "id": 4313244,
+     "lyrics_owner_id": 7080262,
+     "lyrics_state": "complete",
+     "path": "/Alex-zandyr-iv-alive-lyrics",
+     "pyongs_count": null,
+     "song_art_image_thumbnail_url": "https://images.genius.com/11ca7427a7ee12600fd5e51f81658d36.300x300x1.png",
+     "song_art_image_url": "https://images.genius.com/11ca7427a7ee12600fd5e51f81658d36.1000x1000x1.png",
+     "stats": {
+      "unreviewed_annotations": 0,
+      "hot": false
+     },
+     "title": "IV. ALIVE",
+     "title_with_featured": "IV. ALIVE (Ft.\u00a0ColeoIsCooleo & LeStachette)",
+     "url": "https://genius.com/Alex-zandyr-iv-alive-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/1593562",
+      "header_image_url": "https://images.genius.com/d7d7f6f3440aee14bcd335f1123ebff2.479x478x1.png",
+      "id": 1593562,
+      "image_url": "https://images.genius.com/e4607dc6e342c0a2618e47a4a73c0ded.400x400x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Alex Zandyr",
+      "url": "https://genius.com/artists/Alex-zandyr",
+      "iq": 7487
+     }
+    },
+    {
+     "annotation_count": 0,
+     "api_path": "/songs/4330301",
+     "full_title": "Kanchi Nahi - Manik Mishra AKA. KINZ AGAINZ (Official Lyrics Video) New Nepali Rap Song 2074/2018 by\u00a0KINZAGAINZ (Ft.\u00a0Kinz\u00a0Againz)",
+     "header_image_thumbnail_url": "https://images.genius.com/fbf8acb7f3e9629c920073aef10fedcc.300x300x1.jpg",
+     "header_image_url": "https://images.genius.com/fbf8acb7f3e9629c920073aef10fedcc.1000x1000x1.jpg",
+     "id": 4330301,
+     "lyrics_owner_id": 7972833,
+     "lyrics_state": "complete",
+     "path": "/Kinzagainz-kanchi-nahi-manik-mishra-aka-kinz-againz-official-lyrics-video-new-nepali-rap-song-2074-2018-lyrics",
+     "pyongs_count": null,
+     "song_art_image_thumbnail_url": "https://images.genius.com/fbf8acb7f3e9629c920073aef10fedcc.300x300x1.jpg",
+     "song_art_image_url": "https://images.genius.com/fbf8acb7f3e9629c920073aef10fedcc.1000x1000x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 0,
+      "hot": false
+     },
+     "title": "Kanchi Nahi - Manik Mishra AKA. KINZ AGAINZ (Official Lyrics Video) New Nepali Rap Song 2074/2018",
+     "title_with_featured": "Kanchi Nahi - Manik Mishra AKA. KINZ AGAINZ (Official Lyrics Video) New Nepali Rap Song 2074/2018 (Ft.\u00a0Kinz\u00a0Againz)",
+     "url": "https://genius.com/Kinzagainz-kanchi-nahi-manik-mishra-aka-kinz-againz-official-lyrics-video-new-nepali-rap-song-2074-2018-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/1736397",
+      "header_image_url": "https://images.genius.com/446362bf61c547e5d26e215d8cdab456.1000x1000x1.jpg",
+      "id": 1736397,
+      "image_url": "https://images.genius.com/fbf8acb7f3e9629c920073aef10fedcc.1000x1000x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "KINZAGAINZ",
+      "url": "https://genius.com/artists/Kinzagainz"
+     }
+    }
+   ]
+  },
+  {
+   "relationship_type": "interpolates",
+   "type": "interpolates",
+   "songs": [
+    {
+     "annotation_count": 23,
+     "api_path": "/songs/2836122",
+     "full_title": "I'm Sorry by\u00a0Joyner\u00a0Lucas",
+     "header_image_thumbnail_url": "https://images.genius.com/5fd2140c421a2cfb93aebab84cb7d897.300x111x1.png",
+     "header_image_url": "https://images.genius.com/5fd2140c421a2cfb93aebab84cb7d897.851x315x1.png",
+     "id": 2836122,
+     "lyrics_owner_id": 2747527,
+     "lyrics_state": "complete",
+     "path": "/Joyner-lucas-im-sorry-lyrics",
+     "pyongs_count": 83,
+     "song_art_image_thumbnail_url": "https://images.genius.com/b73bd232e7656b0de38d29fb0d82eeb1.300x299x1.png",
+     "song_art_image_url": "https://images.genius.com/b73bd232e7656b0de38d29fb0d82eeb1.418x417x1.png",
+     "stats": {
+      "unreviewed_annotations": 5,
+      "hot": false,
+      "pageviews": 1111638
+     },
+     "title": "I\u2019m Sorry",
+     "title_with_featured": "I'm Sorry",
+     "url": "https://genius.com/Joyner-lucas-im-sorry-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/345077",
+      "header_image_url": "https://images.genius.com/e4a1f4f393a6f2895ef728dd3bbc6cb3.1000x855x1.jpg",
+      "id": 345077,
+      "image_url": "https://images.genius.com/878e845295c819856874c2de04d464e7.794x794x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": true,
+      "name": "Joyner Lucas",
+      "url": "https://genius.com/artists/Joyner-lucas",
+      "iq": 5603
+     }
+    }
+   ]
+  },
+  {
+   "relationship_type": "interpolated_by",
+   "type": "interpolated_by",
+   "songs": [
+    {
+     "annotation_count": 20,
+     "api_path": "/songs/3683582",
+     "full_title": "Keanu Reeves by\u00a0Logic",
+     "header_image_thumbnail_url": "https://images.genius.com/06bf17fa07f1737e6ac698235ff1f79a.300x300x1.jpg",
+     "header_image_url": "https://images.genius.com/06bf17fa07f1737e6ac698235ff1f79a.1000x1000x1.jpg",
+     "id": 3683582,
+     "lyrics_owner_id": 321054,
+     "lyrics_state": "complete",
+     "path": "/Logic-keanu-reeves-lyrics",
+     "pyongs_count": 144,
+     "song_art_image_thumbnail_url": "https://images.genius.com/90efd456eb701692e40a1f8b7937ea0a.300x300x1.jpg",
+     "song_art_image_url": "https://images.genius.com/90efd456eb701692e40a1f8b7937ea0a.1000x1000x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 0,
+      "hot": false,
+      "pageviews": 624979
+     },
+     "title": "Keanu Reeves",
+     "title_with_featured": "Keanu Reeves",
+     "url": "https://genius.com/Logic-keanu-reeves-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/7922",
+      "header_image_url": "https://images.genius.com/f6b08bf607b94a279d743e14bbca2a3a.1000x563x1.jpg",
+      "id": 7922,
+      "image_url": "https://images.genius.com/0f975524d106026e89de983689d007c4.900x900x1.jpg",
+      "is_meme_verified": true,
+      "is_verified": true,
+      "name": "Logic",
+      "url": "https://genius.com/artists/Logic",
+      "iq": 91961
+     }
+    },
+    {
+     "annotation_count": 0,
+     "api_path": "/songs/4251204",
+     "full_title": "LMSYD by\u00a0Lil\u00a0Richie (Ft.\u00a0An\u00a0Extremely Agitated Hedgehog)",
+     "header_image_thumbnail_url": "https://images.genius.com/231a582c8fce9c2444d70fd1196f0169.300x300x1.jpg",
+     "header_image_url": "https://images.genius.com/231a582c8fce9c2444d70fd1196f0169.1000x1000x1.jpg",
+     "id": 4251204,
+     "lyrics_owner_id": 7686238,
+     "lyrics_state": "complete",
+     "path": "/Lil-richie-lmsyd-lyrics",
+     "pyongs_count": null,
+     "song_art_image_thumbnail_url": "https://images.genius.com/231a582c8fce9c2444d70fd1196f0169.300x300x1.jpg",
+     "song_art_image_url": "https://images.genius.com/231a582c8fce9c2444d70fd1196f0169.1000x1000x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 0,
+      "hot": false
+     },
+     "title": "LMSYD",
+     "title_with_featured": "LMSYD (Ft.\u00a0An\u00a0Extremely Agitated Hedgehog)",
+     "url": "https://genius.com/Lil-richie-lmsyd-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/609895",
+      "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+      "id": 609895,
+      "image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Lil Richie",
+      "url": "https://genius.com/artists/Lil-richie"
+     }
+    },
+    {
+     "annotation_count": 13,
+     "api_path": "/songs/4539201",
+     "full_title": "Limitless by\u00a0Logic",
+     "header_image_thumbnail_url": "https://images.genius.com/b8bc3fc4f330e08a83f5fc20182b092f.300x300x1.png",
+     "header_image_url": "https://images.genius.com/b8bc3fc4f330e08a83f5fc20182b092f.1000x1000x1.png",
+     "id": 4539201,
+     "lyrics_owner_id": 4418683,
+     "lyrics_state": "complete",
+     "path": "/Logic-limitless-lyrics",
+     "pyongs_count": 23,
+     "song_art_image_thumbnail_url": "https://images.genius.com/b8bc3fc4f330e08a83f5fc20182b092f.300x300x1.png",
+     "song_art_image_url": "https://images.genius.com/b8bc3fc4f330e08a83f5fc20182b092f.1000x1000x1.png",
+     "stats": {
+      "unreviewed_annotations": 2,
+      "hot": false,
+      "pageviews": 76039
+     },
+     "title": "Limitless",
+     "title_with_featured": "Limitless",
+     "url": "https://genius.com/Logic-limitless-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/7922",
+      "header_image_url": "https://images.genius.com/f6b08bf607b94a279d743e14bbca2a3a.1000x563x1.jpg",
+      "id": 7922,
+      "image_url": "https://images.genius.com/0f975524d106026e89de983689d007c4.900x900x1.jpg",
+      "is_meme_verified": true,
+      "is_verified": true,
+      "name": "Logic",
+      "url": "https://genius.com/artists/Logic",
+      "iq": 91961
+     }
+    },
+    {
+     "annotation_count": 0,
+     "api_path": "/songs/4585485",
+     "full_title": "Don't Wanna Be Alive by\u00a0Kythre",
+     "header_image_thumbnail_url": "https://images.genius.com/9eaa30083149eeec2a51ce84ccf45fa5.300x300x1.png",
+     "header_image_url": "https://images.genius.com/9eaa30083149eeec2a51ce84ccf45fa5.676x676x1.png",
+     "id": 4585485,
+     "lyrics_owner_id": 5330285,
+     "lyrics_state": "complete",
+     "path": "/Kythre-dont-wanna-be-alive-lyrics",
+     "pyongs_count": 1,
+     "song_art_image_thumbnail_url": "https://images.genius.com/9eaa30083149eeec2a51ce84ccf45fa5.300x300x1.png",
+     "song_art_image_url": "https://images.genius.com/9eaa30083149eeec2a51ce84ccf45fa5.676x676x1.png",
+     "stats": {
+      "unreviewed_annotations": 0,
+      "hot": false
+     },
+     "title": "Don\u2019t Wanna Be Alive",
+     "title_with_featured": "Don't Wanna Be Alive",
+     "url": "https://genius.com/Kythre-dont-wanna-be-alive-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/1239176",
+      "header_image_url": "https://images.genius.com/1a3a9a518c2012078a4c500ab036d889.1000x966x1.png",
+      "id": 1239176,
+      "image_url": "https://images.genius.com/67088cfb3214faa319ab4cf04ce793b5.980x980x1.png",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Kythre",
+      "url": "https://genius.com/artists/Kythre",
+      "iq": 3053
+     }
+    },
+    {
+     "annotation_count": 4,
+     "api_path": "/songs/4859885",
+     "full_title": "Twisted by\u00a0French\u00a0Montana (Ft.\u00a0A$AP\u00a0Rocky, Juicy\u00a0J & Logic)",
+     "header_image_thumbnail_url": "https://images.genius.com/b93eb6afa3d11399e8d46bc513d16a83.300x300x1.jpg",
+     "header_image_url": "https://images.genius.com/b93eb6afa3d11399e8d46bc513d16a83.600x600x1.jpg",
+     "id": 4859885,
+     "lyrics_owner_id": 5748418,
+     "lyrics_state": "complete",
+     "path": "/French-montana-twisted-lyrics",
+     "pyongs_count": 6,
+     "song_art_image_thumbnail_url": "https://images.genius.com/b93eb6afa3d11399e8d46bc513d16a83.300x300x1.jpg",
+     "song_art_image_url": "https://images.genius.com/b93eb6afa3d11399e8d46bc513d16a83.600x600x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 0,
+      "hot": false,
+      "pageviews": 89348
+     },
+     "title": "Twisted",
+     "title_with_featured": "Twisted (Ft.\u00a0A$AP\u00a0Rocky, Juicy\u00a0J & Logic)",
+     "url": "https://genius.com/French-montana-twisted-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/1583",
+      "header_image_url": "https://images.genius.com/225d559b44636f2ce45885f8bc006b5f.1000x333x1.jpg",
+      "id": 1583,
+      "image_url": "https://images.genius.com/99431503a5ae0bb0e46760c2efde9a19.581x581x1.jpg",
+      "is_meme_verified": true,
+      "is_verified": true,
+      "name": "French Montana",
+      "url": "https://genius.com/artists/French-montana",
+      "iq": 6762
+     }
+    },
+    {
+     "annotation_count": 3,
+     "api_path": "/songs/4990135",
+     "full_title": "Ultra Violent by\u00a0MTP (Ft.\u00a0Logic)",
+     "header_image_thumbnail_url": "https://images.genius.com/b58b444efe810f5e7f45ce5b36e0416f.300x300x1.jpg",
+     "header_image_url": "https://images.genius.com/b58b444efe810f5e7f45ce5b36e0416f.676x676x1.jpg",
+     "id": 4990135,
+     "lyrics_owner_id": 6788840,
+     "lyrics_state": "complete",
+     "path": "/Mtp-ultra-violent-lyrics",
+     "pyongs_count": null,
+     "song_art_image_thumbnail_url": "https://images.genius.com/039a1f0a2f1ed1543c2c264aa26489ae.300x300x1.png",
+     "song_art_image_url": "https://images.genius.com/039a1f0a2f1ed1543c2c264aa26489ae.640x640x1.png",
+     "stats": {
+      "unreviewed_annotations": 2,
+      "hot": false
+     },
+     "title": "Ultra Violent",
+     "title_with_featured": "Ultra Violent (Ft.\u00a0Logic)",
+     "url": "https://genius.com/Mtp-ultra-violent-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/1543823",
+      "header_image_url": "https://images.genius.com/a5bda67f2ea13e237f5d45b4783365ed.1000x1000x1.png",
+      "id": 1543823,
+      "image_url": "https://images.genius.com/3237afdcae7525e93c88eb59b4cff8c2.1000x1000x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "MTP",
+      "url": "https://genius.com/artists/Mtp",
+      "iq": 7466
+     }
+    }
+   ]
+  },
+  {
+   "relationship_type": "cover_of",
+   "type": "cover_of",
+   "songs": []
+  },
+  {
+   "relationship_type": "covered_by",
+   "type": "covered_by",
+   "songs": [
+    {
+     "annotation_count": 1,
+     "api_path": "/songs/3252273",
+     "full_title": "1-800-273-8255 by\u00a0Our\u00a0Last Night",
+     "header_image_thumbnail_url": "https://images.genius.com/b38897b2eb4bd05ea0a8e3e66ec39c59.300x300x1.jpg",
+     "header_image_url": "https://images.genius.com/b38897b2eb4bd05ea0a8e3e66ec39c59.800x800x1.jpg",
+     "id": 3252273,
+     "lyrics_owner_id": 321054,
+     "lyrics_state": "complete",
+     "path": "/Our-last-night-1-800-273-8255-lyrics",
+     "pyongs_count": 5,
+     "song_art_image_thumbnail_url": "https://images.genius.com/b38897b2eb4bd05ea0a8e3e66ec39c59.300x300x1.jpg",
+     "song_art_image_url": "https://images.genius.com/b38897b2eb4bd05ea0a8e3e66ec39c59.800x800x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 0,
+      "hot": false,
+      "pageviews": 18018
+     },
+     "title": "1-800-273-8255",
+     "title_with_featured": "1-800-273-8255",
+     "url": "https://genius.com/Our-last-night-1-800-273-8255-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/126411",
+      "header_image_url": "https://images.genius.com/d3cb631f2f8b1b8f4b48d0472bc2aef4.1000x370x1.jpg",
+      "id": 126411,
+      "image_url": "https://images.genius.com/03627944481dcdb782595e9d3e351853.959x959x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Our Last Night",
+      "url": "https://genius.com/artists/Our-last-night"
+     }
+    },
+    {
+     "annotation_count": 1,
+     "api_path": "/songs/3777196",
+     "full_title": "1-800-273-8255 by\u00a0Cimorelli",
+     "header_image_thumbnail_url": "https://images.genius.com/9cc7994dfad67ec369881fd810a88720.300x300x1.jpg",
+     "header_image_url": "https://images.genius.com/9cc7994dfad67ec369881fd810a88720.1000x1000x1.jpg",
+     "id": 3777196,
+     "lyrics_owner_id": 4433324,
+     "lyrics_state": "complete",
+     "path": "/Cimorelli-1-800-273-8255-lyrics",
+     "pyongs_count": null,
+     "song_art_image_thumbnail_url": "https://images.genius.com/9cc7994dfad67ec369881fd810a88720.300x300x1.jpg",
+     "song_art_image_url": "https://images.genius.com/9cc7994dfad67ec369881fd810a88720.1000x1000x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 1,
+      "hot": false
+     },
+     "title": "1-800-273-8255",
+     "title_with_featured": "1-800-273-8255",
+     "url": "https://genius.com/Cimorelli-1-800-273-8255-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/21788",
+      "header_image_url": "https://images.genius.com/fd1876ae70719b9d01584d4ac31b127f.1000x747x1.png",
+      "id": 21788,
+      "image_url": "https://images.genius.com/968a412430286e972b1ef3aea6a40c7c.741x741x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Cimorelli",
+      "url": "https://genius.com/artists/Cimorelli"
+     }
+    },
+    {
+     "annotation_count": 0,
+     "api_path": "/songs/4534668",
+     "full_title": "1-800-273-8255 by\u00a0Jacob\u00a0Lee",
+     "header_image_thumbnail_url": "https://images.genius.com/6cf62c4bec1248bcab8717c073554f35.300x300x1.jpg",
+     "header_image_url": "https://images.genius.com/6cf62c4bec1248bcab8717c073554f35.1000x1000x1.jpg",
+     "id": 4534668,
+     "lyrics_owner_id": 4801273,
+     "lyrics_state": "complete",
+     "path": "/Jacob-lee-1-800-273-8255-lyrics",
+     "pyongs_count": null,
+     "song_art_image_thumbnail_url": "https://images.genius.com/6cf62c4bec1248bcab8717c073554f35.300x300x1.jpg",
+     "song_art_image_url": "https://images.genius.com/6cf62c4bec1248bcab8717c073554f35.1000x1000x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 0,
+      "hot": false
+     },
+     "title": "1-800-273-8255",
+     "title_with_featured": "1-800-273-8255",
+     "url": "https://genius.com/Jacob-lee-1-800-273-8255-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/627386",
+      "header_image_url": "https://images.genius.com/cebcfe2adb1fb060002787a4babaeb80.1000x667x1.jpg",
+      "id": 627386,
+      "image_url": "https://images.genius.com/6cf62c4bec1248bcab8717c073554f35.1000x1000x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Jacob Lee",
+      "url": "https://genius.com/artists/Jacob-lee"
+     }
+    }
+   ]
+  },
+  {
+   "relationship_type": "remix_of",
+   "type": "remix_of",
+   "songs": []
+  },
+  {
+   "relationship_type": "remixed_by",
+   "type": "remixed_by",
+   "songs": [
+    {
+     "annotation_count": 10,
+     "api_path": "/songs/3244317",
+     "full_title": "1-800-273-8255 (Remix) by\u00a0South\u00a0Park (Ft.\u00a0Eric\u00a0Cartman)",
+     "header_image_thumbnail_url": "https://images.genius.com/c689f5fa0021df48900a18d5da699a5a.300x300x1.jpg",
+     "header_image_url": "https://images.genius.com/c689f5fa0021df48900a18d5da699a5a.500x500x1.jpg",
+     "id": 3244317,
+     "lyrics_owner_id": 104344,
+     "lyrics_state": "complete",
+     "path": "/South-park-1-800-273-8255-remix-annotated",
+     "pyongs_count": 2,
+     "song_art_image_thumbnail_url": "https://images.genius.com/c689f5fa0021df48900a18d5da699a5a.300x300x1.jpg",
+     "song_art_image_url": "https://images.genius.com/c689f5fa0021df48900a18d5da699a5a.500x500x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 10,
+      "hot": false,
+      "pageviews": 13428
+     },
+     "title": "1-800-273-8255 (Remix)",
+     "title_with_featured": "1-800-273-8255 (Remix) (Ft.\u00a0Eric\u00a0Cartman)",
+     "url": "https://genius.com/South-park-1-800-273-8255-remix-annotated",
+     "primary_artist": {
+      "api_path": "/artists/11636",
+      "header_image_url": "https://images.genius.com/d7eff31b78702a0d91eb51be3af3760b.963x1000x1.png",
+      "id": 11636,
+      "image_url": "https://images.genius.com/0c72d871169050f72e5dbc5b0d841d6b.325x325x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "South Park",
+      "url": "https://genius.com/artists/South-park"
+     }
+    },
+    {
+     "annotation_count": 0,
+     "api_path": "/songs/3271377",
+     "full_title": "1-800-273-8255 by\u00a0Logic\u00a0& Juanes (Ft.\u00a0Alessia\u00a0Cara & Khalid)",
+     "header_image_thumbnail_url": "https://images.genius.com/90bea7e85e54534872557cf75d75dfc5.300x300x1.jpg",
+     "header_image_url": "https://images.genius.com/90bea7e85e54534872557cf75d75dfc5.640x640x1.jpg",
+     "id": 3271377,
+     "lyrics_owner_id": 1655321,
+     "lyrics_state": "complete",
+     "path": "/Logic-and-juanes-1-800-273-8255-lyrics",
+     "pyongs_count": 4,
+     "song_art_image_thumbnail_url": "https://images.genius.com/90bea7e85e54534872557cf75d75dfc5.300x300x1.jpg",
+     "song_art_image_url": "https://images.genius.com/90bea7e85e54534872557cf75d75dfc5.640x640x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 0,
+      "hot": false,
+      "pageviews": 37852
+     },
+     "title": "1-800-273-8255",
+     "title_with_featured": "1-800-273-8255 (Ft.\u00a0Alessia\u00a0Cara & Khalid)",
+     "url": "https://genius.com/Logic-and-juanes-1-800-273-8255-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/1467082",
+      "header_image_url": "https://images.genius.com/176ebe04c82778cbc2863be306bd0acc.1000x562x1.jpg",
+      "id": 1467082,
+      "image_url": "https://images.genius.com/ee5e7297f6ceaa05b100c58d6efde1be.400x400x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Logic & Juanes",
+      "url": "https://genius.com/artists/Logic-and-juanes"
+     }
+    },
+    {
+     "annotation_count": 1,
+     "api_path": "/songs/3280286",
+     "full_title": "Forgotten by\u00a0Andr\u00e9\u00a0Norbeck (Ft.\u00a0Martine\u00a0(US))",
+     "header_image_thumbnail_url": "https://images.genius.com/49c8dcaf347011658c200b97f5982285.300x300x1.jpg",
+     "header_image_url": "https://images.genius.com/49c8dcaf347011658c200b97f5982285.1000x1000x1.jpg",
+     "id": 3280286,
+     "lyrics_owner_id": 1223894,
+     "lyrics_state": "complete",
+     "path": "/Andre-norbeck-forgotten-lyrics",
+     "pyongs_count": null,
+     "song_art_image_thumbnail_url": "https://images.genius.com/49c8dcaf347011658c200b97f5982285.300x300x1.jpg",
+     "song_art_image_url": "https://images.genius.com/49c8dcaf347011658c200b97f5982285.1000x1000x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 1,
+      "hot": false
+     },
+     "title": "Forgotten",
+     "title_with_featured": "Forgotten (Ft.\u00a0Martine\u00a0(US))",
+     "url": "https://genius.com/Andre-norbeck-forgotten-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/1241476",
+      "header_image_url": "https://images.genius.com/49c8dcaf347011658c200b97f5982285.1000x1000x1.jpg",
+      "id": 1241476,
+      "image_url": "https://images.genius.com/49c8dcaf347011658c200b97f5982285.1000x1000x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Andr\u00e9 Norbeck",
+      "url": "https://genius.com/artists/Andre-norbeck"
+     }
+    },
+    {
+     "annotation_count": 1,
+     "api_path": "/songs/3325424",
+     "full_title": "1-800-273-8255 (Minecraft Parody) by\u00a0Galaxy\u00a0Goats",
+     "header_image_thumbnail_url": "https://images.genius.com/ea1fc38057dcb2d8a804b1727b5b65fb.300x169x1.jpg",
+     "header_image_url": "https://images.genius.com/ea1fc38057dcb2d8a804b1727b5b65fb.1000x563x1.jpg",
+     "id": 3325424,
+     "lyrics_owner_id": 5491011,
+     "lyrics_state": "complete",
+     "path": "/Galaxy-goats-1-800-273-8255-minecraft-parody-lyrics",
+     "pyongs_count": 2,
+     "song_art_image_thumbnail_url": "https://images.genius.com/ea1fc38057dcb2d8a804b1727b5b65fb.300x169x1.jpg",
+     "song_art_image_url": "https://images.genius.com/ea1fc38057dcb2d8a804b1727b5b65fb.1000x563x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 1,
+      "hot": false,
+      "pageviews": 6924
+     },
+     "title": "1-800-273-8255 (Minecraft Parody)",
+     "title_with_featured": "1-800-273-8255 (Minecraft Parody)",
+     "url": "https://genius.com/Galaxy-goats-1-800-273-8255-minecraft-parody-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/1100877",
+      "header_image_url": "https://images.genius.com/ed76e95151d2c587847d5856e7df7fa8.500x500x1.jpg",
+      "id": 1100877,
+      "image_url": "https://images.genius.com/ed76e95151d2c587847d5856e7df7fa8.500x500x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Galaxy Goats",
+      "url": "https://genius.com/artists/Galaxy-goats"
+     }
+    },
+    {
+     "annotation_count": 0,
+     "api_path": "/songs/3354776",
+     "full_title": "1-800-CAL-TREL (GLEESH-MIX) by\u00a0Fat\u00a0Trel",
+     "header_image_thumbnail_url": "https://images.genius.com/deaee79dd925b4e8b8d47d3190edd1fc.300x300x1.jpg",
+     "header_image_url": "https://images.genius.com/deaee79dd925b4e8b8d47d3190edd1fc.500x500x1.jpg",
+     "id": 3354776,
+     "lyrics_owner_id": 104344,
+     "lyrics_state": "complete",
+     "path": "/Fat-trel-1-800-cal-trel-gleesh-mix-lyrics",
+     "pyongs_count": 6,
+     "song_art_image_thumbnail_url": "https://images.genius.com/deaee79dd925b4e8b8d47d3190edd1fc.300x300x1.jpg",
+     "song_art_image_url": "https://images.genius.com/deaee79dd925b4e8b8d47d3190edd1fc.500x500x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 0,
+      "hot": false,
+      "pageviews": 14541
+     },
+     "title": "1-800-CAL-TREL (GLEESH-MIX)",
+     "title_with_featured": "1-800-CAL-TREL (GLEESH-MIX)",
+     "url": "https://genius.com/Fat-trel-1-800-cal-trel-gleesh-mix-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/831",
+      "header_image_url": "https://images.genius.com/b28e04a99595be67b4e942ef574cf312.941x941x1.jpg",
+      "id": 831,
+      "image_url": "https://images.genius.com/cfd4195fb7728af9118a9ce2263a77a3.941x941x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Fat Trel",
+      "url": "https://genius.com/artists/Fat-trel"
+     }
+    },
+    {
+     "annotation_count": 1,
+     "api_path": "/songs/3431843",
+     "full_title": "1 (773) Vulture by\u00a0Lil\u00a0Durk",
+     "header_image_thumbnail_url": "https://images.genius.com/4259aebbf1351ac7aa12e114b9ed528b.300x300x1.png",
+     "header_image_url": "https://images.genius.com/4259aebbf1351ac7aa12e114b9ed528b.1000x1000x1.png",
+     "id": 3431843,
+     "lyrics_owner_id": 751870,
+     "lyrics_state": "complete",
+     "path": "/Lil-durk-1-773-vulture-lyrics",
+     "pyongs_count": 8,
+     "song_art_image_thumbnail_url": "https://images.genius.com/4259aebbf1351ac7aa12e114b9ed528b.300x300x1.png",
+     "song_art_image_url": "https://images.genius.com/4259aebbf1351ac7aa12e114b9ed528b.1000x1000x1.png",
+     "stats": {
+      "unreviewed_annotations": 0,
+      "hot": false,
+      "pageviews": 135759
+     },
+     "title": "1 (773) Vulture",
+     "title_with_featured": "1 (773) Vulture",
+     "url": "https://genius.com/Lil-durk-1-773-vulture-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/21964",
+      "header_image_url": "https://images.genius.com/b8097f0d2205da855a16c468d1452b5d.800x1000x1.jpg",
+      "id": 21964,
+      "image_url": "https://images.genius.com/8851637aff9335eba4a165da55fa0988.956x956x1.jpg",
+      "is_meme_verified": true,
+      "is_verified": true,
+      "name": "Lil Durk",
+      "url": "https://genius.com/artists/Lil-durk",
+      "iq": 8573
+     }
+    },
+    {
+     "annotation_count": 0,
+     "api_path": "/songs/3477714",
+     "full_title": "11 13 14 by\u00a0Ettrick\u00a0Shepherd",
+     "header_image_thumbnail_url": "https://images.genius.com/4a8689d2f1e28c2b68c9c0a4fe2226c6.300x300x1.png",
+     "header_image_url": "https://images.genius.com/4a8689d2f1e28c2b68c9c0a4fe2226c6.800x800x1.png",
+     "id": 3477714,
+     "lyrics_owner_id": 5032479,
+     "lyrics_state": "complete",
+     "path": "/Ettrick-shepherd-11-13-14-lyrics",
+     "pyongs_count": null,
+     "song_art_image_thumbnail_url": "https://images.genius.com/4a8689d2f1e28c2b68c9c0a4fe2226c6.300x300x1.png",
+     "song_art_image_url": "https://images.genius.com/4a8689d2f1e28c2b68c9c0a4fe2226c6.800x800x1.png",
+     "stats": {
+      "unreviewed_annotations": 0,
+      "hot": false
+     },
+     "title": "11 13 14",
+     "title_with_featured": "11 13 14",
+     "url": "https://genius.com/Ettrick-shepherd-11-13-14-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/1191863",
+      "header_image_url": "https://images.genius.com/c5fd97e55251793b74f7dcb4b168ff9e.1000x1000x1.jpg",
+      "id": 1191863,
+      "image_url": "https://images.genius.com/f8a8bc1b908c18d3ba53ac3de71be958.1000x1000x1.png",
+      "is_meme_verified": false,
+      "is_verified": true,
+      "name": "Ettrick Shepherd",
+      "url": "https://genius.com/artists/Ettrick-shepherd",
+      "iq": 5808
+     }
+    },
+    {
+     "annotation_count": 0,
+     "api_path": "/songs/3616120",
+     "full_title": "1-800-273-8255 by\u00a0Melii",
+     "header_image_thumbnail_url": "https://images.genius.com/d7e5dc460271860be79b161dbf934c67.300x300x1.jpg",
+     "header_image_url": "https://images.genius.com/d7e5dc460271860be79b161dbf934c67.500x500x1.jpg",
+     "id": 3616120,
+     "lyrics_owner_id": 5844559,
+     "lyrics_state": "complete",
+     "path": "/Melii-1-800-273-8255-lyrics",
+     "pyongs_count": null,
+     "song_art_image_thumbnail_url": "https://images.genius.com/d7e5dc460271860be79b161dbf934c67.300x300x1.jpg",
+     "song_art_image_url": "https://images.genius.com/d7e5dc460271860be79b161dbf934c67.500x500x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 0,
+      "hot": false
+     },
+     "title": "1-800-273-8255",
+     "title_with_featured": "1-800-273-8255",
+     "url": "https://genius.com/Melii-1-800-273-8255-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/1307736",
+      "header_image_url": "https://images.genius.com/43e8e0608b944745dbec8e3419bdd13b.1000x257x1.png",
+      "id": 1307736,
+      "image_url": "https://images.genius.com/eadcbd7fad928374d1596752bc4d5ebf.760x760x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": true,
+      "name": "Melii",
+      "url": "https://genius.com/artists/Melii",
+      "iq": 804
+     }
+    },
+    {
+     "annotation_count": 0,
+     "api_path": "/songs/3623124",
+     "full_title": "1-300-LLZ-LLJS by\u00a03God",
+     "header_image_thumbnail_url": "https://assets.genius.com/images/default_cover_image.png?1606943206",
+     "header_image_url": "https://assets.genius.com/images/default_cover_image.png?1606943206",
+     "id": 3623124,
+     "lyrics_owner_id": 6186446,
+     "lyrics_state": "complete",
+     "path": "/3god-1-300-llz-lljs-lyrics",
+     "pyongs_count": 1,
+     "song_art_image_thumbnail_url": "https://assets.genius.com/images/default_cover_image.png?1606943206",
+     "song_art_image_url": "https://assets.genius.com/images/default_cover_image.png?1606943206",
+     "stats": {
+      "unreviewed_annotations": 0,
+      "hot": false
+     },
+     "title": "1-300-LLZ-LLJS",
+     "title_with_featured": "1-300-LLZ-LLJS",
+     "url": "https://genius.com/3god-1-300-llz-lljs-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/1435684",
+      "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+      "id": 1435684,
+      "image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "3God",
+      "url": "https://genius.com/artists/3god"
+     }
+    },
+    {
+     "annotation_count": 0,
+     "api_path": "/songs/3816322",
+     "full_title": "Alive (1-800-273-8255 Freestyle) by\u00a0J-$killz",
+     "header_image_thumbnail_url": "https://images.genius.com/e321e5c98e7bbed576487f3607a3f311.300x300x1.jpg",
+     "header_image_url": "https://images.genius.com/e321e5c98e7bbed576487f3607a3f311.960x960x1.jpg",
+     "id": 3816322,
+     "lyrics_owner_id": 338685,
+     "lyrics_state": "complete",
+     "path": "/J-killz-alive-1-800-273-8255-freestyle-lyrics",
+     "pyongs_count": null,
+     "song_art_image_thumbnail_url": "https://images.genius.com/e321e5c98e7bbed576487f3607a3f311.300x300x1.jpg",
+     "song_art_image_url": "https://images.genius.com/e321e5c98e7bbed576487f3607a3f311.960x960x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 0,
+      "hot": false
+     },
+     "title": "Alive (1-800-273-8255 Freestyle)",
+     "title_with_featured": "Alive (1-800-273-8255 Freestyle)",
+     "url": "https://genius.com/J-killz-alive-1-800-273-8255-freestyle-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/100364",
+      "header_image_url": "https://images.genius.com/0b2b837becbbde8a1f6150cd58830309.1000x750x1.jpg",
+      "id": 100364,
+      "image_url": "https://images.genius.com/e321e5c98e7bbed576487f3607a3f311.960x960x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "J-$killz",
+      "url": "https://genius.com/artists/J-killz",
+      "iq": 2853
+     }
+    },
+    {
+     "annotation_count": 0,
+     "api_path": "/songs/3882437",
+     "full_title": "1-813 by\u00a0Lil\u00a0Speak",
+     "header_image_thumbnail_url": "https://images.genius.com/7e542ecf3a8e5547b8186926f989b07f.300x300x1.jpg",
+     "header_image_url": "https://images.genius.com/7e542ecf3a8e5547b8186926f989b07f.640x640x1.jpg",
+     "id": 3882437,
+     "lyrics_owner_id": 6805566,
+     "lyrics_state": "complete",
+     "path": "/Lil-speak-1-813-lyrics",
+     "pyongs_count": 1,
+     "song_art_image_thumbnail_url": "https://images.genius.com/7e542ecf3a8e5547b8186926f989b07f.300x300x1.jpg",
+     "song_art_image_url": "https://images.genius.com/7e542ecf3a8e5547b8186926f989b07f.640x640x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 0,
+      "hot": false
+     },
+     "title": "1-813",
+     "title_with_featured": "1-813",
+     "url": "https://genius.com/Lil-speak-1-813-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/1546513",
+      "header_image_url": "https://images.genius.com/c6e8ebc4e6526bcba2fe586c3cd5dec3.640x640x1.jpg",
+      "id": 1546513,
+      "image_url": "https://images.genius.com/f0810fb1d9cb3ab015d3b8f94365ff7e.1000x1000x1.png",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Lil Speak",
+      "url": "https://genius.com/artists/Lil-speak"
+     }
+    }
+   ]
+  },
+  {
+   "relationship_type": "live_version_of",
+   "type": "live_version_of",
+   "songs": []
+  },
+  {
+   "relationship_type": "performed_live_as",
+   "type": "performed_live_as",
+   "songs": []
+  }
+ ],
+ "verified_annotations_by": [
+  {
+   "api_path": "/users/156167",
+   "avatar": {
+    "tiny": {
+     "url": "https://images.genius.com/avatars/tiny/a6a919eb7ef0fb9d5c0a03d28d8be8e3",
+     "bounding_box": {
+      "width": 16,
+      "height": 16
+     }
+    },
+    "thumb": {
+     "url": "https://images.genius.com/avatars/thumb/a6a919eb7ef0fb9d5c0a03d28d8be8e3",
+     "bounding_box": {
+      "width": 32,
+      "height": 32
+     }
+    },
+    "small": {
+     "url": "https://images.genius.com/avatars/small/a6a919eb7ef0fb9d5c0a03d28d8be8e3",
+     "bounding_box": {
+      "width": 100,
+      "height": 100
+     }
+    },
+    "medium": {
+     "url": "https://images.genius.com/avatars/medium/a6a919eb7ef0fb9d5c0a03d28d8be8e3",
+     "bounding_box": {
+      "width": 300,
+      "height": 400
+     }
+    }
+   },
+   "header_image_url": "https://images.genius.com/f6b08bf607b94a279d743e14bbca2a3a.1000x563x1.jpg",
+   "human_readable_role_for_display": "Verified Artist",
+   "id": 156167,
+   "iq": 91961,
+   "login": "Logic",
+   "name": "Logic",
+   "role_for_display": "verified_artist",
+   "url": "https://genius.com/Logic",
+   "current_user_metadata": {
+    "permissions": [],
+    "excluded_permissions": [
+     "follow"
+    ],
+    "interactions": {
+     "following": false
+    }
+   }
+  }
+ ],
+ "verified_contributors": [
+  {
+   "contributions": [
+    "annotations",
+    "lyrics",
+    "answers"
+   ],
+   "artist": {
+    "api_path": "/artists/7922",
+    "header_image_url": "https://images.genius.com/f6b08bf607b94a279d743e14bbca2a3a.1000x563x1.jpg",
+    "id": 7922,
+    "image_url": "https://images.genius.com/0f975524d106026e89de983689d007c4.900x900x1.jpg",
+    "is_meme_verified": true,
+    "is_verified": true,
+    "name": "Logic",
+    "url": "https://genius.com/artists/Logic",
+    "iq": 91961
+   },
+   "user": {
+    "api_path": "/users/156167",
+    "avatar": {
+     "tiny": {
+      "url": "https://images.genius.com/avatars/tiny/a6a919eb7ef0fb9d5c0a03d28d8be8e3",
+      "bounding_box": {
+       "width": 16,
+       "height": 16
+      }
+     },
+     "thumb": {
+      "url": "https://images.genius.com/avatars/thumb/a6a919eb7ef0fb9d5c0a03d28d8be8e3",
+      "bounding_box": {
+       "width": 32,
+       "height": 32
+      }
+     },
+     "small": {
+      "url": "https://images.genius.com/avatars/small/a6a919eb7ef0fb9d5c0a03d28d8be8e3",
+      "bounding_box": {
+       "width": 100,
+       "height": 100
+      }
+     },
+     "medium": {
+      "url": "https://images.genius.com/avatars/medium/a6a919eb7ef0fb9d5c0a03d28d8be8e3",
+      "bounding_box": {
+       "width": 300,
+       "height": 400
+      }
+     }
+    },
+    "header_image_url": "https://images.genius.com/f6b08bf607b94a279d743e14bbca2a3a.1000x563x1.jpg",
+    "human_readable_role_for_display": "Verified Artist",
+    "id": 156167,
+    "iq": 91961,
+    "login": "Logic",
+    "name": "Logic",
+    "role_for_display": "verified_artist",
+    "url": "https://genius.com/Logic",
+    "current_user_metadata": {
+     "permissions": [],
+     "excluded_permissions": [
+      "follow"
+     ],
+     "interactions": {
+      "following": false
+     }
+    }
+   }
+  }
+ ],
+ "verified_lyrics_by": [
+  {
+   "api_path": "/users/156167",
+   "avatar": {
+    "tiny": {
+     "url": "https://images.genius.com/avatars/tiny/a6a919eb7ef0fb9d5c0a03d28d8be8e3",
+     "bounding_box": {
+      "width": 16,
+      "height": 16
+     }
+    },
+    "thumb": {
+     "url": "https://images.genius.com/avatars/thumb/a6a919eb7ef0fb9d5c0a03d28d8be8e3",
+     "bounding_box": {
+      "width": 32,
+      "height": 32
+     }
+    },
+    "small": {
+     "url": "https://images.genius.com/avatars/small/a6a919eb7ef0fb9d5c0a03d28d8be8e3",
+     "bounding_box": {
+      "width": 100,
+      "height": 100
+     }
+    },
+    "medium": {
+     "url": "https://images.genius.com/avatars/medium/a6a919eb7ef0fb9d5c0a03d28d8be8e3",
+     "bounding_box": {
+      "width": 300,
+      "height": 400
+     }
+    }
+   },
+   "header_image_url": "https://images.genius.com/f6b08bf607b94a279d743e14bbca2a3a.1000x563x1.jpg",
+   "human_readable_role_for_display": "Verified Artist",
+   "id": 156167,
+   "iq": 91961,
+   "login": "Logic",
+   "name": "Logic",
+   "role_for_display": "verified_artist",
+   "url": "https://genius.com/Logic",
+   "current_user_metadata": {
+    "permissions": [],
+    "excluded_permissions": [
+     "follow"
+    ],
+    "interactions": {
+     "following": false
+    }
+   }
+  }
+ ],
+ "writer_artists": [
+  {
+   "api_path": "/artists/608241",
+   "header_image_url": "https://images.genius.com/b64206d98f0a19e04974bf3a4acf2142.1000x1000x1.jpg",
+   "id": 608241,
+   "image_url": "https://images.genius.com/b64206d98f0a19e04974bf3a4acf2142.1000x1000x1.jpg",
+   "is_meme_verified": false,
+   "is_verified": false,
+   "name": "Sir Dylan",
+   "url": "https://genius.com/artists/Sir-dylan"
+  },
+  {
+   "api_path": "/artists/660558",
+   "header_image_url": "https://images.genius.com/5267b0214b4d36a1a87e6a773b26edec.801x1000x1.jpg",
+   "id": 660558,
+   "image_url": "https://images.genius.com/5365afd9d2fbedf518a6d079b4573b8f.766x766x1.jpg",
+   "is_meme_verified": true,
+   "is_verified": true,
+   "name": "Andrew Taggart",
+   "url": "https://genius.com/artists/Andrew-taggart",
+   "iq": 3414
+  },
+  {
+   "api_path": "/artists/49286",
+   "header_image_url": "https://images.genius.com/1f3a36cc2d3dba0297d088d8976b371d.600x315x1.jpg",
+   "id": 49286,
+   "image_url": "https://images.genius.com/1069a7fddc4ed9edb2510079b8277e35.1000x1000x1.jpg",
+   "is_meme_verified": false,
+   "is_verified": true,
+   "name": "6ix",
+   "url": "https://genius.com/artists/6ix",
+   "iq": 327
+  },
+  {
+   "api_path": "/artists/394321",
+   "header_image_url": "https://images.genius.com/1fd52acfe6c2a743bbcf7db41597210f.900x506x1.jpg",
+   "id": 394321,
+   "image_url": "https://images.genius.com/b7cacdee274b088f932aa14c4ecb2ea7.300x300x1.jpg",
+   "is_meme_verified": false,
+   "is_verified": true,
+   "name": "Alessia Cara",
+   "url": "https://genius.com/artists/Alessia-cara",
+   "iq": 8932
+  },
+  {
+   "api_path": "/artists/7922",
+   "header_image_url": "https://images.genius.com/f6b08bf607b94a279d743e14bbca2a3a.1000x563x1.jpg",
+   "id": 7922,
+   "image_url": "https://images.genius.com/0f975524d106026e89de983689d007c4.900x900x1.jpg",
+   "is_meme_verified": true,
+   "is_verified": true,
+   "name": "Logic",
+   "url": "https://genius.com/artists/Logic",
+   "iq": 91961
+  },
+  {
+   "api_path": "/artists/9932",
+   "header_image_url": "https://images.genius.com/f5f89af97e454e04a4f0344b02ae0918.1000x562x1.jpg",
+   "id": 9932,
+   "image_url": "https://images.genius.com/67238ec42a2fb4d563962126d9712b5e.1000x1000x1.jpg",
+   "is_meme_verified": false,
+   "is_verified": true,
+   "name": "Khalid",
+   "url": "https://genius.com/artists/Khalid",
+   "iq": 12605
+  }
+ ],
+ "lyrics": "I've been on the low, I been taking my time\nI feel like I'm out of my mind\nIt feel like my life ain't mine (Who can relate? Woo)\nI've been on the low, I been taking my time\nI feel like I'm out of my mind\nIt feel like my life ain't mine\n\nI don't wanna be alive, I don't wanna be alive\nI just wanna die today, I just wanna die\nI don't wanna be alive, I don't wanna be alive\nI just wanna die\nAnd let me tell you why\n\nAll this other shit I'm talkin' 'bout, they think they know it\nI've been praying for somebody to save me, no one's heroic\nAnd my life don't even matter, I know it, I know it\nI know I'm hurting deep down, but can't show it\nI never had a place to call my own\nI never had a home, ain't nobody callin' my phone\nWhere you been? Where you at? What's on your mind?\nThey say every life precious but nobody care about mine\n\nI've been on the low, I been taking my time\nI feel like I'm out of my mind\nIt feel like my life ain't mine (Who can relate? Woo)\nI've been on the low, I been taking my time\nI feel like I'm out of my mind\nIt feel like my life ain't mine\n\nI want you to be alive, I want you to be alive\nYou don't gotta die today, you don't gotta die\nI want you to be alive, I want you to be alive\nYou don't gotta die, now let me tell you why\n\nIt's the very first breath when your head's been drowning underwater\nAnd it's the lightness in the air when you're there chest-to-chest with a lover\nIt's holding on, though the road's long, seeing light in the darkest things\nAnd when you stare at your reflection, finally knowing who it is\nI know that you'll thank God you did\n\nI know where you been, where you are, where you goin'\nI know you're the reason I believe in life\nWhat's the day without a little night?\nI'm just tryna shed a little light\nIt can be hard\nIt can be so hard\nBut you gotta live right now\nYou got everything to give right now\n\nI've been on the low, I been taking my time\nI feel like I'm out of my mind\nIt feel like my life ain't mine (Who can relate? Woo)\nI've been on the low, I been taking my time\nI feel like I'm out of my mind\nIt feel like my life ain't mine\n\nI finally wanna be alive, I finally wanna be alive\nI don't wanna die today, I don't wanna die\nI finally wanna be alive, I finally wanna be alive\nI don't wanna die, I don't wanna die\n\nPain don't hurt the same, I know\nThe lane I travel feels alone\nBut I'm moving 'til my legs give out\nAnd I see my tears melt in the snow\nBut I don't wanna cry, I don't wanna cry anymore\nI wanna feel alive, I don't even wanna die anymore\nOh, I don't wanna\nI don't wanna\nI don't even wanna die anymore"
+}

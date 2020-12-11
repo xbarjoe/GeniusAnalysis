@@ -1,0 +1,1325 @@
+{
+ "_type": "song",
+ "annotation_count": 25,
+ "api_path": "/songs/217270",
+ "full_title": "From Time by\u00a0Drake (Ft.\u00a0Jhen\u00e9\u00a0Aiko)",
+ "header_image_thumbnail_url": "https://images.genius.com/6d70f1e6d38e9af4ddb7b3582a40dab8.300x300x1.jpg",
+ "header_image_url": "https://images.genius.com/6d70f1e6d38e9af4ddb7b3582a40dab8.1000x1000x1.jpg",
+ "id": 217270,
+ "instrumental": false,
+ "lyrics_owner_id": 149650,
+ "lyrics_state": "complete",
+ "lyrics_updated_at": 1589276871,
+ "path": "/Drake-from-time-lyrics",
+ "pyongs_count": 562,
+ "song_art_image_thumbnail_url": "https://images.genius.com/6d70f1e6d38e9af4ddb7b3582a40dab8.300x300x1.jpg",
+ "song_art_image_url": "https://images.genius.com/6d70f1e6d38e9af4ddb7b3582a40dab8.1000x1000x1.jpg",
+ "stats": {
+  "accepted_annotations": 22,
+  "contributors": 198,
+  "iq_earners": 197,
+  "transcribers": 6,
+  "unreviewed_annotations": 0,
+  "verified_annotations": 2,
+  "concurrents": 4,
+  "hot": false,
+  "pageviews": 3658078
+ },
+ "title": "From Time",
+ "title_with_featured": "From Time (Ft.\u00a0Jhen\u00e9\u00a0Aiko)",
+ "updated_by_human_at": 1589276870,
+ "url": "https://genius.com/Drake-from-time-lyrics",
+ "primary_artist": {
+  "api_path": "/artists/130",
+  "header_image_url": "https://images.genius.com/172e7e370be5e3c0f2a139e85add5cd3.480x246x9.gif",
+  "id": 130,
+  "image_url": "https://images.genius.com/c4e68239fca279091c055fe681cb4376.770x770x1.jpg",
+  "is_meme_verified": false,
+  "is_verified": false,
+  "name": "Drake",
+  "url": "https://genius.com/artists/Drake"
+ },
+ "apple_music_id": "705510363",
+ "apple_music_player_url": "https://genius.com/songs/217270/apple_music_player",
+ "description": {
+  "plain": "Song #7 on Nothing Was the Same is a  conversation between Drake and an old flame.\n\nThe song features vocals from Jhene Aiko, production from 40 and piano harmonies from Chilly Gonzales.\n\nOne of the album\u2019s many standouts, and seems to  be Drizzy\u2019s personal favorite.\nhttps://twitter.com/Drake/status/365627434328014850"
+ },
+ "embed_content": "<div id='rg_embed_link_217270' class='rg_embed_link' data-song-id='217270'>Read <a href='https://genius.com/Drake-from-time-lyrics'>\u201cFrom Time\u201d by Drake</a> on Genius</div> <script crossorigin src='//genius.com/songs/217270/embed.js'></script>",
+ "featured_video": false,
+ "lyrics_placeholder_reason": null,
+ "recording_location": "Metalworks Studios, Mississauga, ON; The Yolo Estate, Hidden Hills, CA; Fisticuffs Gym, Culver City, CA",
+ "release_date": "2013-09-24",
+ "release_date_for_display": "September 24, 2013",
+ "current_user_metadata": {
+  "permissions": [
+   "see_pageviews",
+   "view_apple_music_player",
+   "create_comment",
+   "view_song_story_gallery"
+  ],
+  "excluded_permissions": [
+   "follow",
+   "award_transcription_iq",
+   "remove_transcription_iq",
+   "pyong",
+   "edit_lyrics",
+   "view_annotation_engagement_data",
+   "publish",
+   "unpublish",
+   "edit_spotify_details",
+   "hide",
+   "unhide",
+   "toggle_featured_video",
+   "add_pinned_annotation_to",
+   "add_community_annotation_to",
+   "destroy",
+   "mark_as_not_spam",
+   "edit_spotify_annotations_for",
+   "verify_lyrics",
+   "unverify_lyrics",
+   "edit_anything",
+   "edit_any_media",
+   "edit",
+   "rename",
+   "edit_tags",
+   "watch_fact_track",
+   "reindex",
+   "view_lyrics_synchronization",
+   "enable_media",
+   "disable_media",
+   "edit_lyrics_or_annotation_brackets",
+   "see_editorial_indicators",
+   "view_attribution_visualization",
+   "edit_annotation_brackets",
+   "preview_lyrics_for_export",
+   "hide_apple_player",
+   "unhide_apple_player",
+   "trigger_apple_match",
+   "mark_lyrics_evaluation_as_approved",
+   "mark_lyrics_evaluation_as_staff_approved",
+   "mark_lyrics_evaluation_as_unapproved",
+   "mark_lyrics_evaluation_as_un_staff_approved",
+   "view_transcriber_media_player",
+   "override_apple_match",
+   "edit_youtube_url",
+   "edit_soundcloud_url",
+   "edit_spotify_uuid",
+   "edit_vevo_url",
+   "moderate_annotations",
+   "create_annotation",
+   "see_short_id",
+   "manage_chart_item",
+   "create_tag",
+   "propose_lyrics_edit",
+   "moderate_lyrics_edit_proposals",
+   "preview_react_song_page"
+  ],
+  "interactions": {
+   "pyong": false,
+   "following": false
+  },
+  "relationships": {},
+  "iq_by_action": {}
+ },
+ "album": {
+  "api_path": "/albums/40475",
+  "cover_art_url": "https://images.genius.com/6d70f1e6d38e9af4ddb7b3582a40dab8.1000x1000x1.jpg",
+  "full_title": "Nothing Was the Same by Drake",
+  "id": 40475,
+  "name": "Nothing Was the Same",
+  "url": "https://genius.com/albums/Drake/Nothing-was-the-same",
+  "artist": {
+   "api_path": "/artists/130",
+   "header_image_url": "https://images.genius.com/172e7e370be5e3c0f2a139e85add5cd3.480x246x9.gif",
+   "id": 130,
+   "image_url": "https://images.genius.com/c4e68239fca279091c055fe681cb4376.770x770x1.jpg",
+   "is_meme_verified": false,
+   "is_verified": false,
+   "name": "Drake",
+   "url": "https://genius.com/artists/Drake"
+  }
+ },
+ "custom_performances": [
+  {
+   "label": "Background Vocals",
+   "artists": [
+    {
+     "api_path": "/artists/78802",
+     "header_image_url": "https://images.genius.com/7514088ceb5f27309642efc19c2be832.1000x429x1.png",
+     "id": 78802,
+     "image_url": "https://images.genius.com/265613b3e86030b631b1855b4b06f834.1000x1000x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "Baka Not Nice",
+     "url": "https://genius.com/artists/Baka-not-nice",
+     "iq": 114
+    }
+   ]
+  },
+  {
+   "label": "Recording Engineer",
+   "artists": [
+    {
+     "api_path": "/artists/27612",
+     "header_image_url": "https://images.genius.com/c999dd154986a45b8981323a2ea53f98.620x380x1.jpg",
+     "id": 27612,
+     "image_url": "https://images.genius.com/c999dd154986a45b8981323a2ea53f98.620x380x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "40",
+     "url": "https://genius.com/artists/40",
+     "iq": 517
+    },
+    {
+     "api_path": "/artists/225710",
+     "header_image_url": "https://images.genius.com/3da4a728acfa5ad21c81ef56b94bad73.848x473x1.png",
+     "id": 225710,
+     "image_url": "https://images.genius.com/96c4e8ef8f775bf7ae5aa65a481e0a98.944x944x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Noel Cadastre",
+     "url": "https://genius.com/artists/Noel-cadastre"
+    },
+    {
+     "api_path": "/artists/646520",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+     "id": 646520,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Brian Warfield",
+     "url": "https://genius.com/artists/Brian-warfield"
+    },
+    {
+     "api_path": "/artists/642022",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+     "id": 642022,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Christian Plata",
+     "url": "https://genius.com/artists/Christian-plata"
+    }
+   ]
+  },
+  {
+   "label": "Mixing Engineer",
+   "artists": [
+    {
+     "api_path": "/artists/641963",
+     "header_image_url": "https://images.genius.com/d26d98e8ebd26493dcf54dacc30304d3.800x1000x1.jpg",
+     "id": 641963,
+     "image_url": "https://images.genius.com/d4c44f5676aaa2bf6fcb8ba645cdb2fc.1000x1000x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Noel \u201cGadget\u201d Campbell",
+     "url": "https://genius.com/artists/Noel-gadget-campbell"
+    }
+   ]
+  },
+  {
+   "label": "Label",
+   "artists": [
+    {
+     "api_path": "/artists/31842",
+     "header_image_url": "https://images.genius.com/668127843432d16b26d7a7815fceab84.1000x1000x1.png",
+     "id": 31842,
+     "image_url": "https://images.genius.com/668127843432d16b26d7a7815fceab84.1000x1000x1.png",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Cash Money Records",
+     "url": "https://genius.com/artists/Cash-money-records"
+    },
+    {
+     "api_path": "/artists/197",
+     "header_image_url": "https://images.genius.com/87d1f55850ff46ff273909cb33bd6021.980x1000x1.jpg",
+     "id": 197,
+     "image_url": "https://images.genius.com/30308d55000064d804511897ace0482d.373x373x1.png",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Young Money",
+     "url": "https://genius.com/artists/Young-money"
+    },
+    {
+     "api_path": "/artists/1011844",
+     "header_image_url": "https://images.genius.com/d3d4fad20d9150bbcbdcf791b0532dd2.1000x1000x1.jpg",
+     "id": 1011844,
+     "image_url": "https://images.genius.com/d8ea37a285aa8bdcb0eaebb31f116529.1000x1000x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Republic Records",
+     "url": "https://genius.com/artists/Republic-records"
+    }
+   ]
+  },
+  {
+   "label": "Piano",
+   "artists": [
+    {
+     "api_path": "/artists/12388",
+     "header_image_url": "https://images.rapgenius.com/9791ef1d65d2d140f03b3b884e0f9351.1000x667x1.jpg",
+     "id": 12388,
+     "image_url": "https://images.rapgenius.com/9791ef1d65d2d140f03b3b884e0f9351.1000x667x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Chilly Gonzales",
+     "url": "https://genius.com/artists/Chilly-gonzales"
+    }
+   ]
+  },
+  {
+   "label": "Assistant Recording Engineer",
+   "artists": [
+    {
+     "api_path": "/artists/645635",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+     "id": 645635,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Travis Sewchan",
+     "url": "https://genius.com/artists/Travis-sewchan"
+    }
+   ]
+  }
+ ],
+ "description_annotation": {
+  "_type": "referent",
+  "annotator_id": 265736,
+  "annotator_login": "NuSilver",
+  "api_path": "/referents/3844419",
+  "classification": "accepted",
+  "fragment": "From Time",
+  "id": 3844419,
+  "is_description": true,
+  "path": "/3844419/Drake-from-time/From-time",
+  "range": {
+   "content": "From Time"
+  },
+  "song_id": 217270,
+  "url": "https://genius.com/3844419/Drake-from-time/From-time",
+  "verified_annotator_ids": [],
+  "annotatable": {
+   "api_path": "/songs/217270",
+   "client_timestamps": {
+    "updated_by_human_at": 1589276870,
+    "lyrics_updated_at": 1589276871
+   },
+   "context": "Drake",
+   "id": 217270,
+   "image_url": "https://images.genius.com/6d70f1e6d38e9af4ddb7b3582a40dab8.1000x1000x1.jpg",
+   "link_title": "From Time by\u00a0Drake (Ft.\u00a0Jhen\u00e9\u00a0Aiko)",
+   "title": "From Time",
+   "type": "Song",
+   "url": "https://genius.com/Drake-from-time-lyrics"
+  },
+  "annotations": [
+   {
+    "api_path": "/annotations/3844419",
+    "body": {
+     "plain": "Song #7 on Nothing Was the Same is a  conversation between Drake and an old flame.\n\nThe song features vocals from Jhene Aiko, production from 40 and piano harmonies from Chilly Gonzales.\n\nOne of the album\u2019s many standouts, and seems to  be Drizzy\u2019s personal favorite.\nhttps://twitter.com/Drake/status/365627434328014850"
+    },
+    "comment_count": 0,
+    "community": true,
+    "custom_preview": null,
+    "has_voters": true,
+    "id": 3844419,
+    "pinned": false,
+    "share_url": "https://genius.com/3844419",
+    "source": null,
+    "state": "accepted",
+    "url": "https://genius.com/3844419/Drake-from-time/From-time",
+    "verified": false,
+    "votes_total": 151,
+    "current_user_metadata": {
+     "permissions": [
+      "create_comment"
+     ],
+     "excluded_permissions": [
+      "vote",
+      "edit",
+      "cosign",
+      "uncosign",
+      "destroy",
+      "accept",
+      "reject",
+      "see_unreviewed",
+      "clear_votes",
+      "propose_edit_to",
+      "pin_to_profile",
+      "unpin_from_profile",
+      "update_source",
+      "edit_custom_preview"
+     ],
+     "interactions": {
+      "cosign": false,
+      "pyong": false,
+      "vote": null
+     },
+     "iq_by_action": {}
+    },
+    "authors": [
+     {
+      "attribution": 0.5866666666666667,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/265736",
+       "avatar": {
+        "tiny": {
+         "url": "https://s3.amazonaws.com/rapgenius/avatars/tiny/aexFiocPT8qARwvxAzlz.jpg",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://s3.amazonaws.com/rapgenius/avatars/thumb/aexFiocPT8qARwvxAzlz.jpg",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://s3.amazonaws.com/rapgenius/avatars/small/aexFiocPT8qARwvxAzlz.jpg",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://s3.amazonaws.com/rapgenius/avatars/medium/aexFiocPT8qARwvxAzlz.jpg",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://s3.amazonaws.com/rapgenius/avatars/medium/aexFiocPT8qARwvxAzlz.jpg",
+       "human_readable_role_for_display": null,
+       "id": 265736,
+       "iq": 299,
+       "login": "NuSilver",
+       "name": "NuSilver",
+       "role_for_display": null,
+       "url": "https://genius.com/NuSilver",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     },
+     {
+      "attribution": 0.4,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/88410",
+       "avatar": {
+        "tiny": {
+         "url": "https://images.genius.com/avatars/tiny/5a231006aadb36de2d1ecf762d688f2b",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://images.genius.com/avatars/thumb/5a231006aadb36de2d1ecf762d688f2b",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://images.genius.com/avatars/small/5a231006aadb36de2d1ecf762d688f2b",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://images.genius.com/avatars/medium/5a231006aadb36de2d1ecf762d688f2b",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://images.genius.com/39f3c6513388b3b678a5b57d91938dc7.300x143x35.gif",
+       "human_readable_role_for_display": "Moderator",
+       "id": 88410,
+       "iq": 78436,
+       "login": "treflip",
+       "name": "I am Sam Blake",
+       "role_for_display": "moderator",
+       "url": "https://genius.com/treflip",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     },
+     {
+      "attribution": 0.013333333333333332,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/164938",
+       "avatar": {
+        "tiny": {
+         "url": "https://images.rapgenius.com/avatars/tiny/9bb4d41b8916fe975cb6be2425ae6f00",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://images.rapgenius.com/avatars/thumb/9bb4d41b8916fe975cb6be2425ae6f00",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://images.rapgenius.com/avatars/small/9bb4d41b8916fe975cb6be2425ae6f00",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://images.rapgenius.com/avatars/medium/9bb4d41b8916fe975cb6be2425ae6f00",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://images.rapgenius.com/avatars/medium/9bb4d41b8916fe975cb6be2425ae6f00",
+       "human_readable_role_for_display": "Contributor",
+       "id": 164938,
+       "iq": 40847,
+       "login": "Andre96",
+       "name": "Andre96",
+       "role_for_display": "contributor",
+       "url": "https://genius.com/Andre96",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     }
+    ],
+    "cosigned_by": [],
+    "rejection_comment": null,
+    "verified_by": null
+   }
+  ]
+ },
+ "featured_artists": [
+  {
+   "api_path": "/artists/1020",
+   "header_image_url": "https://images.genius.com/0e404cd1a485385c0c2326dbb0e40326.800x1000x1.png",
+   "id": 1020,
+   "image_url": "https://images.genius.com/4353b07cd7ea6660d2f3cc5fe75231f0.538x538x1.jpg",
+   "is_meme_verified": true,
+   "is_verified": true,
+   "name": "Jhen\u00e9 Aiko",
+   "url": "https://genius.com/artists/Jhene-aiko",
+   "iq": 10532
+  }
+ ],
+ "lyrics_marked_complete_by": null,
+ "media": [
+  {
+   "provider": "youtube",
+   "start": 0,
+   "type": "video",
+   "url": "http://www.youtube.com/watch?v=HrA7uJ8ohQs"
+  }
+ ],
+ "producer_artists": [
+  {
+   "api_path": "/artists/27612",
+   "header_image_url": "https://images.genius.com/c999dd154986a45b8981323a2ea53f98.620x380x1.jpg",
+   "id": 27612,
+   "image_url": "https://images.genius.com/c999dd154986a45b8981323a2ea53f98.620x380x1.jpg",
+   "is_meme_verified": false,
+   "is_verified": true,
+   "name": "40",
+   "url": "https://genius.com/artists/40",
+   "iq": 517
+  }
+ ],
+ "song_relationships": [
+  {
+   "relationship_type": "samples",
+   "type": "samples",
+   "songs": []
+  },
+  {
+   "relationship_type": "sampled_in",
+   "type": "sampled_in",
+   "songs": [
+    {
+     "annotation_count": 6,
+     "api_path": "/songs/2376812",
+     "full_title": "Viscere by\u00a0Pepito\u00a0Rella",
+     "header_image_thumbnail_url": "https://images.genius.com/f7d4e58f742779eeed7fd1fa8573ef85.300x300x1.png",
+     "header_image_url": "https://images.genius.com/f7d4e58f742779eeed7fd1fa8573ef85.300x300x1.png",
+     "id": 2376812,
+     "lyrics_owner_id": 2021254,
+     "lyrics_state": "complete",
+     "path": "/Pepito-rella-viscere-lyrics",
+     "pyongs_count": null,
+     "song_art_image_thumbnail_url": "https://images.genius.com/f7d4e58f742779eeed7fd1fa8573ef85.300x300x1.png",
+     "song_art_image_url": "https://images.genius.com/f7d4e58f742779eeed7fd1fa8573ef85.300x300x1.png",
+     "stats": {
+      "unreviewed_annotations": 6,
+      "hot": false
+     },
+     "title": "Viscere",
+     "title_with_featured": "Viscere",
+     "url": "https://genius.com/Pepito-rella-viscere-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/619750",
+      "header_image_url": "https://images.genius.com/09a8385b6a2f76ac06ab247e189416c2.595x244x1.png",
+      "id": 619750,
+      "image_url": "https://images.genius.com/f4f533fef32351bb3e57f0f7f823aa21.564x564x1.png",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Pepito Rella",
+      "url": "https://genius.com/artists/Pepito-rella"
+     }
+    },
+    {
+     "annotation_count": 1,
+     "api_path": "/songs/2875150",
+     "full_title": "May 6th by\u00a0Blak\u00a0majik",
+     "header_image_thumbnail_url": "https://assets.genius.com/images/default_cover_image.png?1606943206",
+     "header_image_url": "https://assets.genius.com/images/default_cover_image.png?1606943206",
+     "id": 2875150,
+     "lyrics_owner_id": 3812175,
+     "lyrics_state": "complete",
+     "path": "/Blak-majik-may-6th-lyrics",
+     "pyongs_count": 1,
+     "song_art_image_thumbnail_url": "https://assets.genius.com/images/default_cover_image.png?1606943206",
+     "song_art_image_url": "https://assets.genius.com/images/default_cover_image.png?1606943206",
+     "stats": {
+      "unreviewed_annotations": 1,
+      "hot": false
+     },
+     "title": "May 6th",
+     "title_with_featured": "May 6th",
+     "url": "https://genius.com/Blak-majik-may-6th-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/1012452",
+      "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+      "id": 1012452,
+      "image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Blak majik",
+      "url": "https://genius.com/artists/Blak-majik"
+     }
+    },
+    {
+     "annotation_count": 0,
+     "api_path": "/songs/3051553",
+     "full_title": "THE TRUTH by\u00a0Tribe\u00a0Mafia",
+     "header_image_thumbnail_url": "https://images.genius.com/d646aaa3b2e64835e951f351604920c9.300x300x1.jpg",
+     "header_image_url": "https://images.genius.com/d646aaa3b2e64835e951f351604920c9.1000x1000x1.jpg",
+     "id": 3051553,
+     "lyrics_owner_id": 4502300,
+     "lyrics_state": "complete",
+     "path": "/Tribe-mafia-the-truth-lyrics",
+     "pyongs_count": null,
+     "song_art_image_thumbnail_url": "https://images.genius.com/d646aaa3b2e64835e951f351604920c9.300x300x1.jpg",
+     "song_art_image_url": "https://images.genius.com/d646aaa3b2e64835e951f351604920c9.1000x1000x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 0,
+      "hot": false
+     },
+     "title": "THE TRUTH",
+     "title_with_featured": "THE TRUTH",
+     "url": "https://genius.com/Tribe-mafia-the-truth-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/286555",
+      "header_image_url": "https://images.genius.com/dcc16af9d00b637ece6e9a161b2a4434.1000x1000x1.jpg",
+      "id": 286555,
+      "image_url": "https://images.genius.com/d646aaa3b2e64835e951f351604920c9.1000x1000x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Tribe Mafia",
+      "url": "https://genius.com/artists/Tribe-mafia"
+     }
+    },
+    {
+     "annotation_count": 2,
+     "api_path": "/songs/3985121",
+     "full_title": "Infatuation by\u00a0IllKittyDog",
+     "header_image_thumbnail_url": "https://images.genius.com/6aeaf650523068eef530bb108af70c67.300x301x1.jpg",
+     "header_image_url": "https://images.genius.com/6aeaf650523068eef530bb108af70c67.997x1000x1.jpg",
+     "id": 3985121,
+     "lyrics_owner_id": 5618439,
+     "lyrics_state": "complete",
+     "path": "/Illkittydog-infatuation-lyrics",
+     "pyongs_count": null,
+     "song_art_image_thumbnail_url": "https://images.genius.com/6aeaf650523068eef530bb108af70c67.300x301x1.jpg",
+     "song_art_image_url": "https://images.genius.com/6aeaf650523068eef530bb108af70c67.997x1000x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 2,
+      "hot": false
+     },
+     "title": "Infatuation",
+     "title_with_featured": "Infatuation",
+     "url": "https://genius.com/Illkittydog-infatuation-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/1306808",
+      "header_image_url": "https://images.genius.com/d3c28687704d496f44103af55ffa0b66.1000x1000x1.jpg",
+      "id": 1306808,
+      "image_url": "https://images.genius.com/e0342ab2de9e92cd3e6dae7ff01944c6.857x857x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "IllKittyDog",
+      "url": "https://genius.com/artists/Illkittydog"
+     }
+    },
+    {
+     "annotation_count": 1,
+     "api_path": "/songs/4731425",
+     "full_title": "105micasamashup - Shiva by\u00a0105micasamashup (Ft.\u00a0Shiva)",
+     "header_image_thumbnail_url": "https://images.genius.com/632f24db0fd99969033d5a82ab384366.225x225x1.jpg",
+     "header_image_url": "https://images.genius.com/632f24db0fd99969033d5a82ab384366.225x225x1.jpg",
+     "id": 4731425,
+     "lyrics_owner_id": 3894218,
+     "lyrics_state": "complete",
+     "path": "/105micasamashup-105micasamashup-shiva-lyrics",
+     "pyongs_count": null,
+     "song_art_image_thumbnail_url": "https://images.genius.com/632f24db0fd99969033d5a82ab384366.225x225x1.jpg",
+     "song_art_image_url": "https://images.genius.com/632f24db0fd99969033d5a82ab384366.225x225x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 1,
+      "hot": false,
+      "pageviews": 13902
+     },
+     "title": "105micasamashup - Shiva",
+     "title_with_featured": "105micasamashup - Shiva (Ft.\u00a0Shiva)",
+     "url": "https://genius.com/105micasamashup-105micasamashup-shiva-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/1797642",
+      "header_image_url": "https://images.genius.com/632f24db0fd99969033d5a82ab384366.225x225x1.jpg",
+      "id": 1797642,
+      "image_url": "https://images.genius.com/632f24db0fd99969033d5a82ab384366.225x225x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "105micasamashup",
+      "url": "https://genius.com/artists/105micasamashup"
+     }
+    },
+    {
+     "annotation_count": 0,
+     "api_path": "/songs/5688252",
+     "full_title": "Desabafos by\u00a0Phoenix\u00a0RDC",
+     "header_image_thumbnail_url": "https://images.genius.com/67a0aaa7b53739b7f86388977b499b8f.300x300x1.jpg",
+     "header_image_url": "https://images.genius.com/67a0aaa7b53739b7f86388977b499b8f.473x473x1.jpg",
+     "id": 5688252,
+     "lyrics_owner_id": 5537861,
+     "lyrics_state": "complete",
+     "path": "/Phoenix-rdc-desabafos-lyrics",
+     "pyongs_count": null,
+     "song_art_image_thumbnail_url": "https://images.genius.com/67a0aaa7b53739b7f86388977b499b8f.300x300x1.jpg",
+     "song_art_image_url": "https://images.genius.com/67a0aaa7b53739b7f86388977b499b8f.473x473x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 0,
+      "hot": false
+     },
+     "title": "Desabafos",
+     "title_with_featured": "Desabafos",
+     "url": "https://genius.com/Phoenix-rdc-desabafos-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/506062",
+      "header_image_url": "https://images.genius.com/edfeb0620bd29d1a5d1319b4d785de60.800x543x1.png",
+      "id": 506062,
+      "image_url": "https://images.genius.com/e714125aeab988d783adca4ae8033dc5.923x923x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": true,
+      "name": "Phoenix RDC",
+      "url": "https://genius.com/artists/Phoenix-rdc",
+      "iq": 108
+     }
+    },
+    {
+     "annotation_count": 11,
+     "api_path": "/songs/6081474",
+     "full_title": "From Time by\u00a0Raxion\u00a0Stance",
+     "header_image_thumbnail_url": "https://images.genius.com/c524bfc03c6dd87a5196df3385712b0a.300x300x1.jpg",
+     "header_image_url": "https://images.genius.com/c524bfc03c6dd87a5196df3385712b0a.1000x1000x1.jpg",
+     "id": 6081474,
+     "lyrics_owner_id": 8609444,
+     "lyrics_state": "complete",
+     "path": "/Raxion-stance-from-time-lyrics",
+     "pyongs_count": null,
+     "song_art_image_thumbnail_url": "https://images.genius.com/c524bfc03c6dd87a5196df3385712b0a.300x300x1.jpg",
+     "song_art_image_url": "https://images.genius.com/c524bfc03c6dd87a5196df3385712b0a.1000x1000x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 11,
+      "hot": false
+     },
+     "title": "From Time",
+     "title_with_featured": "From Time",
+     "url": "https://genius.com/Raxion-stance-from-time-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/1840198",
+      "header_image_url": "https://images.genius.com/6373a4615455711c3de40c8ff1a172d0.849x849x1.jpg",
+      "id": 1840198,
+      "image_url": "https://images.genius.com/14daff3d24e4c1a0d7ca2f5744e90af1.1000x1000x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Raxion Stance",
+      "url": "https://genius.com/artists/Raxion-stance"
+     }
+    }
+   ]
+  },
+  {
+   "relationship_type": "interpolates",
+   "type": "interpolates",
+   "songs": [
+    {
+     "annotation_count": 3,
+     "api_path": "/songs/4933268",
+     "full_title": "From Time (Demo) by\u00a0Drake (Ft.\u00a0Jhen\u00e9\u00a0Aiko)",
+     "header_image_thumbnail_url": "https://images.genius.com/b1e58e02fd52a830cf67fcdeff8a19cf.300x300x1.png",
+     "header_image_url": "https://images.genius.com/b1e58e02fd52a830cf67fcdeff8a19cf.440x440x1.png",
+     "id": 4933268,
+     "lyrics_owner_id": 1599419,
+     "lyrics_state": "complete",
+     "path": "/Drake-from-time-demo-lyrics",
+     "pyongs_count": 1,
+     "song_art_image_thumbnail_url": "https://images.genius.com/b1e58e02fd52a830cf67fcdeff8a19cf.300x300x1.png",
+     "song_art_image_url": "https://images.genius.com/b1e58e02fd52a830cf67fcdeff8a19cf.440x440x1.png",
+     "stats": {
+      "unreviewed_annotations": 0,
+      "hot": false,
+      "pageviews": 13937
+     },
+     "title": "From Time (Demo)",
+     "title_with_featured": "From Time (Demo) (Ft.\u00a0Jhen\u00e9\u00a0Aiko)",
+     "url": "https://genius.com/Drake-from-time-demo-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/130",
+      "header_image_url": "https://images.genius.com/172e7e370be5e3c0f2a139e85add5cd3.480x246x9.gif",
+      "id": 130,
+      "image_url": "https://images.genius.com/c4e68239fca279091c055fe681cb4376.770x770x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Drake",
+      "url": "https://genius.com/artists/Drake"
+     }
+    }
+   ]
+  },
+  {
+   "relationship_type": "interpolated_by",
+   "type": "interpolated_by",
+   "songs": [
+    {
+     "annotation_count": 6,
+     "api_path": "/songs/255886",
+     "full_title": "The Worst by\u00a0Jhen\u00e9\u00a0Aiko",
+     "header_image_thumbnail_url": "https://images.genius.com/cf972nzptjvdouuqoap2lhlpy.300x300x1.jpg",
+     "header_image_url": "https://images.genius.com/cf972nzptjvdouuqoap2lhlpy.1000x1000x1.jpg",
+     "id": 255886,
+     "lyrics_owner_id": 227953,
+     "lyrics_state": "complete",
+     "path": "/Jhene-aiko-the-worst-lyrics",
+     "pyongs_count": 921,
+     "song_art_image_thumbnail_url": "https://images.genius.com/cf972nzptjvdouuqoap2lhlpy.300x300x1.jpg",
+     "song_art_image_url": "https://images.genius.com/cf972nzptjvdouuqoap2lhlpy.1000x1000x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 0,
+      "concurrents": 3,
+      "hot": false,
+      "pageviews": 1958864
+     },
+     "title": "The Worst",
+     "title_with_featured": "The Worst",
+     "url": "https://genius.com/Jhene-aiko-the-worst-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/1020",
+      "header_image_url": "https://images.genius.com/0e404cd1a485385c0c2326dbb0e40326.800x1000x1.png",
+      "id": 1020,
+      "image_url": "https://images.genius.com/4353b07cd7ea6660d2f3cc5fe75231f0.538x538x1.jpg",
+      "is_meme_verified": true,
+      "is_verified": true,
+      "name": "Jhen\u00e9 Aiko",
+      "url": "https://genius.com/artists/Jhene-aiko",
+      "iq": 10532
+     }
+    },
+    {
+     "annotation_count": 0,
+     "api_path": "/songs/3505541",
+     "full_title": "God's Plan (Remix) by\u00a0Sevnth\u00a0& Alo",
+     "header_image_thumbnail_url": "https://images.genius.com/a8b73019ede8a8f9988f97c044985370.300x300x1.jpg",
+     "header_image_url": "https://images.genius.com/a8b73019ede8a8f9988f97c044985370.500x500x1.jpg",
+     "id": 3505541,
+     "lyrics_owner_id": 104344,
+     "lyrics_state": "complete",
+     "path": "/Sevnth-and-alo-gods-plan-remix-lyrics",
+     "pyongs_count": null,
+     "song_art_image_thumbnail_url": "https://images.genius.com/a8b73019ede8a8f9988f97c044985370.300x300x1.jpg",
+     "song_art_image_url": "https://images.genius.com/a8b73019ede8a8f9988f97c044985370.500x500x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 0,
+      "hot": false
+     },
+     "title": "God\u2019s Plan (Remix)",
+     "title_with_featured": "God's Plan (Remix)",
+     "url": "https://genius.com/Sevnth-and-alo-gods-plan-remix-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/1376196",
+      "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+      "id": 1376196,
+      "image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Sevnth & Alo",
+      "url": "https://genius.com/artists/Sevnth-and-alo"
+     }
+    },
+    {
+     "annotation_count": 1,
+     "api_path": "/songs/3599040",
+     "full_title": "I Love Me by\u00a0T.West",
+     "header_image_thumbnail_url": "https://images.genius.com/f8978489203d18e66241570f4d354b94.300x300x1.jpg",
+     "header_image_url": "https://images.genius.com/f8978489203d18e66241570f4d354b94.500x500x1.jpg",
+     "id": 3599040,
+     "lyrics_owner_id": 1078250,
+     "lyrics_state": "complete",
+     "path": "/Twest-i-love-me-lyrics",
+     "pyongs_count": null,
+     "song_art_image_thumbnail_url": "https://images.genius.com/f8978489203d18e66241570f4d354b94.300x300x1.jpg",
+     "song_art_image_url": "https://images.genius.com/f8978489203d18e66241570f4d354b94.500x500x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 0,
+      "hot": false
+     },
+     "title": "I Love Me",
+     "title_with_featured": "I Love Me",
+     "url": "https://genius.com/Twest-i-love-me-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/76862",
+      "header_image_url": "https://images.genius.com/afa7d27aab443f6f548ace75ca49a581.1000x667x1.jpg",
+      "id": 76862,
+      "image_url": "https://images.genius.com/f1d9ca0737507c17acd05e9e5ae93b74.1000x1000x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": true,
+      "name": "T.West",
+      "url": "https://genius.com/artists/Twest",
+      "iq": 5377
+     }
+    }
+   ]
+  },
+  {
+   "relationship_type": "cover_of",
+   "type": "cover_of",
+   "songs": []
+  },
+  {
+   "relationship_type": "covered_by",
+   "type": "covered_by",
+   "songs": []
+  },
+  {
+   "relationship_type": "remix_of",
+   "type": "remix_of",
+   "songs": []
+  },
+  {
+   "relationship_type": "remixed_by",
+   "type": "remixed_by",
+   "songs": [
+    {
+     "annotation_count": 4,
+     "api_path": "/songs/2303262",
+     "full_title": "Cornerstone by\u00a0Davis\u00a0Absolute",
+     "header_image_thumbnail_url": "https://images.rapgenius.com/49feb9913af6cc935445b22d2c419f98.300x300x1.jpg",
+     "header_image_url": "https://images.rapgenius.com/49feb9913af6cc935445b22d2c419f98.540x540x1.jpg",
+     "id": 2303262,
+     "lyrics_owner_id": 1326332,
+     "lyrics_state": "complete",
+     "path": "/Davis-absolute-cornerstone-lyrics",
+     "pyongs_count": null,
+     "song_art_image_thumbnail_url": "https://images.rapgenius.com/49feb9913af6cc935445b22d2c419f98.300x300x1.jpg",
+     "song_art_image_url": "https://images.rapgenius.com/49feb9913af6cc935445b22d2c419f98.540x540x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 3,
+      "hot": false
+     },
+     "title": "Cornerstone",
+     "title_with_featured": "Cornerstone",
+     "url": "https://genius.com/Davis-absolute-cornerstone-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/332649",
+      "header_image_url": "https://images.genius.com/5e1589f71c02185d7979b5a210e9ead2.1000x667x1.jpg",
+      "id": 332649,
+      "image_url": "https://images.genius.com/84361884c2c24dae01f270dcbf0b043c.507x507x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": true,
+      "name": "Davis Absolute",
+      "url": "https://genius.com/artists/Davis-absolute",
+      "iq": 577
+     }
+    },
+    {
+     "annotation_count": 13,
+     "api_path": "/songs/2398169",
+     "full_title": "Next Steps Part V by\u00a0Saarangutan",
+     "header_image_thumbnail_url": "https://images.rapgenius.com/c8626a79578c413434799b59f70ed02d.300x300x1.jpg",
+     "header_image_url": "https://images.rapgenius.com/c8626a79578c413434799b59f70ed02d.508x508x1.jpg",
+     "id": 2398169,
+     "lyrics_owner_id": 117237,
+     "lyrics_state": "complete",
+     "path": "/Saarangutan-next-steps-part-v-lyrics",
+     "pyongs_count": 4,
+     "song_art_image_thumbnail_url": "https://images.rapgenius.com/c8626a79578c413434799b59f70ed02d.300x300x1.jpg",
+     "song_art_image_url": "https://images.rapgenius.com/c8626a79578c413434799b59f70ed02d.508x508x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 1,
+      "hot": false
+     },
+     "title": "Next Steps Part V",
+     "title_with_featured": "Next Steps Part V",
+     "url": "https://genius.com/Saarangutan-next-steps-part-v-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/625112",
+      "header_image_url": "https://images.genius.com/fc12a7daf1708e7ea375ee8c65c20605.727x728x1.png",
+      "id": 625112,
+      "image_url": "https://images.genius.com/cceb8dac9af17d402d94aefd9333b08a.825x825x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": true,
+      "name": "Saarangutan",
+      "url": "https://genius.com/artists/Saarangutan",
+      "iq": 1156
+     }
+    },
+    {
+     "annotation_count": 0,
+     "api_path": "/songs/3194229",
+     "full_title": "Acum by\u00a0DOC",
+     "header_image_thumbnail_url": "https://images.genius.com/a21ac030bbbae3720793c78481ae4289.300x300x1.jpg",
+     "header_image_url": "https://images.genius.com/a21ac030bbbae3720793c78481ae4289.1000x1000x1.jpg",
+     "id": 3194229,
+     "lyrics_owner_id": 4732077,
+     "lyrics_state": "complete",
+     "path": "/Doc-acum-lyrics",
+     "pyongs_count": null,
+     "song_art_image_thumbnail_url": "https://images.genius.com/a21ac030bbbae3720793c78481ae4289.300x300x1.jpg",
+     "song_art_image_url": "https://images.genius.com/a21ac030bbbae3720793c78481ae4289.1000x1000x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 0,
+      "hot": false
+     },
+     "title": "Acum",
+     "title_with_featured": "Acum",
+     "url": "https://genius.com/Doc-acum-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/578310",
+      "header_image_url": "https://images.genius.com/8cbcc89ffd629d1b5c3a358e8ef2b8d4.1000x667x1.jpg",
+      "id": 578310,
+      "image_url": "https://images.genius.com/a21ac030bbbae3720793c78481ae4289.1000x1000x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "DOC",
+      "url": "https://genius.com/artists/Doc"
+     }
+    },
+    {
+     "annotation_count": 0,
+     "api_path": "/songs/4966073",
+     "full_title": "Throwback by\u00a0Kherty",
+     "header_image_thumbnail_url": "https://images.genius.com/a9db14c0e39b0ca9253b435064d7e6a3.300x300x1.jpg",
+     "header_image_url": "https://images.genius.com/a9db14c0e39b0ca9253b435064d7e6a3.1000x1000x1.jpg",
+     "id": 4966073,
+     "lyrics_owner_id": 7453508,
+     "lyrics_state": "complete",
+     "path": "/Kherty-throwback-lyrics",
+     "pyongs_count": 1,
+     "song_art_image_thumbnail_url": "https://images.genius.com/a9db14c0e39b0ca9253b435064d7e6a3.300x300x1.jpg",
+     "song_art_image_url": "https://images.genius.com/a9db14c0e39b0ca9253b435064d7e6a3.1000x1000x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 0,
+      "hot": false
+     },
+     "title": "Throwback",
+     "title_with_featured": "Throwback",
+     "url": "https://genius.com/Kherty-throwback-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/1943081",
+      "header_image_url": "https://images.genius.com/fb601dd0cec36b79ba5d3b1b85c73538.800x800x1.jpg",
+      "id": 1943081,
+      "image_url": "https://images.genius.com/d017f4072f6c473d97a27ded2f094b94.799x799x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Kherty",
+      "url": "https://genius.com/artists/Kherty"
+     }
+    },
+    {
+     "annotation_count": 1,
+     "api_path": "/songs/4980928",
+     "full_title": "November 1st by\u00a0DDG",
+     "header_image_thumbnail_url": "https://images.genius.com/24089019bba3052ff08e0654d8a1e0be.300x300x1.jpg",
+     "header_image_url": "https://images.genius.com/24089019bba3052ff08e0654d8a1e0be.1000x1000x1.jpg",
+     "id": 4980928,
+     "lyrics_owner_id": 2995616,
+     "lyrics_state": "complete",
+     "path": "/Ddg-november-1st-lyrics",
+     "pyongs_count": null,
+     "song_art_image_thumbnail_url": "https://images.genius.com/24089019bba3052ff08e0654d8a1e0be.300x300x1.jpg",
+     "song_art_image_url": "https://images.genius.com/24089019bba3052ff08e0654d8a1e0be.1000x1000x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 1,
+      "hot": false
+     },
+     "title": "November 1st",
+     "title_with_featured": "November 1st",
+     "url": "https://genius.com/Ddg-november-1st-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/1081422",
+      "header_image_url": "https://images.genius.com/8ec639639ea6a2c9030e1f4774206167.800x1000x1.jpg",
+      "id": 1081422,
+      "image_url": "https://images.genius.com/24089019bba3052ff08e0654d8a1e0be.1000x1000x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": true,
+      "name": "DDG",
+      "url": "https://genius.com/artists/Ddg",
+      "iq": 1859
+     }
+    },
+    {
+     "annotation_count": 18,
+     "api_path": "/songs/5078991",
+     "full_title": "Fade Away by\u00a0Aarow",
+     "header_image_thumbnail_url": "https://images.genius.com/64edd14da3902a57292dfb8eadfa5655.300x300x1.png",
+     "header_image_url": "https://images.genius.com/64edd14da3902a57292dfb8eadfa5655.1000x1000x1.png",
+     "id": 5078991,
+     "lyrics_owner_id": 2086996,
+     "lyrics_state": "complete",
+     "path": "/Aarow-fade-away-lyrics",
+     "pyongs_count": null,
+     "song_art_image_thumbnail_url": "https://images.genius.com/64edd14da3902a57292dfb8eadfa5655.300x300x1.png",
+     "song_art_image_url": "https://images.genius.com/64edd14da3902a57292dfb8eadfa5655.1000x1000x1.png",
+     "stats": {
+      "unreviewed_annotations": 18,
+      "hot": false
+     },
+     "title": "Fade Away",
+     "title_with_featured": "Fade Away",
+     "url": "https://genius.com/Aarow-fade-away-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/2037121",
+      "header_image_url": "https://images.genius.com/84d9c0205710d0577cbf66baf4f79496.1000x1000x1.jpg",
+      "id": 2037121,
+      "image_url": "https://images.genius.com/ad03d23f6a04b7e8e427e3f729a6029f.1000x1000x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Aarow",
+      "url": "https://genius.com/artists/Aarow"
+     }
+    }
+   ]
+  },
+  {
+   "relationship_type": "live_version_of",
+   "type": "live_version_of",
+   "songs": []
+  },
+  {
+   "relationship_type": "performed_live_as",
+   "type": "performed_live_as",
+   "songs": []
+  }
+ ],
+ "verified_annotations_by": [
+  {
+   "api_path": "/users/218665",
+   "avatar": {
+    "tiny": {
+     "url": "https://images.genius.com/avatars/tiny/72cf8b336d36c7d44413b864200aa53d",
+     "bounding_box": {
+      "width": 16,
+      "height": 16
+     }
+    },
+    "thumb": {
+     "url": "https://images.genius.com/avatars/thumb/72cf8b336d36c7d44413b864200aa53d",
+     "bounding_box": {
+      "width": 32,
+      "height": 32
+     }
+    },
+    "small": {
+     "url": "https://images.genius.com/avatars/small/72cf8b336d36c7d44413b864200aa53d",
+     "bounding_box": {
+      "width": 100,
+      "height": 100
+     }
+    },
+    "medium": {
+     "url": "https://images.genius.com/avatars/medium/72cf8b336d36c7d44413b864200aa53d",
+     "bounding_box": {
+      "width": 300,
+      "height": 400
+     }
+    }
+   },
+   "header_image_url": "https://images.genius.com/0e404cd1a485385c0c2326dbb0e40326.800x1000x1.png",
+   "human_readable_role_for_display": "Verified Artist",
+   "id": 218665,
+   "iq": 10532,
+   "login": "JheneAiko",
+   "name": "Jhen\u00e9 Aiko",
+   "role_for_display": "verified_artist",
+   "url": "https://genius.com/JheneAiko",
+   "current_user_metadata": {
+    "permissions": [],
+    "excluded_permissions": [
+     "follow"
+    ],
+    "interactions": {
+     "following": false
+    }
+   }
+  }
+ ],
+ "verified_contributors": [
+  {
+   "contributions": [
+    "annotations"
+   ],
+   "artist": {
+    "api_path": "/artists/1020",
+    "header_image_url": "https://images.genius.com/0e404cd1a485385c0c2326dbb0e40326.800x1000x1.png",
+    "id": 1020,
+    "image_url": "https://images.genius.com/4353b07cd7ea6660d2f3cc5fe75231f0.538x538x1.jpg",
+    "is_meme_verified": true,
+    "is_verified": true,
+    "name": "Jhen\u00e9 Aiko",
+    "url": "https://genius.com/artists/Jhene-aiko",
+    "iq": 10532
+   },
+   "user": {
+    "api_path": "/users/218665",
+    "avatar": {
+     "tiny": {
+      "url": "https://images.genius.com/avatars/tiny/72cf8b336d36c7d44413b864200aa53d",
+      "bounding_box": {
+       "width": 16,
+       "height": 16
+      }
+     },
+     "thumb": {
+      "url": "https://images.genius.com/avatars/thumb/72cf8b336d36c7d44413b864200aa53d",
+      "bounding_box": {
+       "width": 32,
+       "height": 32
+      }
+     },
+     "small": {
+      "url": "https://images.genius.com/avatars/small/72cf8b336d36c7d44413b864200aa53d",
+      "bounding_box": {
+       "width": 100,
+       "height": 100
+      }
+     },
+     "medium": {
+      "url": "https://images.genius.com/avatars/medium/72cf8b336d36c7d44413b864200aa53d",
+      "bounding_box": {
+       "width": 300,
+       "height": 400
+      }
+     }
+    },
+    "header_image_url": "https://images.genius.com/0e404cd1a485385c0c2326dbb0e40326.800x1000x1.png",
+    "human_readable_role_for_display": "Verified Artist",
+    "id": 218665,
+    "iq": 10532,
+    "login": "JheneAiko",
+    "name": "Jhen\u00e9 Aiko",
+    "role_for_display": "verified_artist",
+    "url": "https://genius.com/JheneAiko",
+    "current_user_metadata": {
+     "permissions": [],
+     "excluded_permissions": [
+      "follow"
+     ],
+     "interactions": {
+      "following": false
+     }
+    }
+   }
+  }
+ ],
+ "verified_lyrics_by": [],
+ "writer_artists": [
+  {
+   "api_path": "/artists/27612",
+   "header_image_url": "https://images.genius.com/c999dd154986a45b8981323a2ea53f98.620x380x1.jpg",
+   "id": 27612,
+   "image_url": "https://images.genius.com/c999dd154986a45b8981323a2ea53f98.620x380x1.jpg",
+   "is_meme_verified": false,
+   "is_verified": true,
+   "name": "40",
+   "url": "https://genius.com/artists/40",
+   "iq": 517
+  },
+  {
+   "api_path": "/artists/1020",
+   "header_image_url": "https://images.genius.com/0e404cd1a485385c0c2326dbb0e40326.800x1000x1.png",
+   "id": 1020,
+   "image_url": "https://images.genius.com/4353b07cd7ea6660d2f3cc5fe75231f0.538x538x1.jpg",
+   "is_meme_verified": true,
+   "is_verified": true,
+   "name": "Jhen\u00e9 Aiko",
+   "url": "https://genius.com/artists/Jhene-aiko",
+   "iq": 10532
+  },
+  {
+   "api_path": "/artists/12388",
+   "header_image_url": "https://images.rapgenius.com/9791ef1d65d2d140f03b3b884e0f9351.1000x667x1.jpg",
+   "id": 12388,
+   "image_url": "https://images.rapgenius.com/9791ef1d65d2d140f03b3b884e0f9351.1000x667x1.jpg",
+   "is_meme_verified": false,
+   "is_verified": false,
+   "name": "Chilly Gonzales",
+   "url": "https://genius.com/artists/Chilly-gonzales"
+  },
+  {
+   "api_path": "/artists/130",
+   "header_image_url": "https://images.genius.com/172e7e370be5e3c0f2a139e85add5cd3.480x246x9.gif",
+   "id": 130,
+   "image_url": "https://images.genius.com/c4e68239fca279091c055fe681cb4376.770x770x1.jpg",
+   "is_meme_verified": false,
+   "is_verified": false,
+   "name": "Drake",
+   "url": "https://genius.com/artists/Drake"
+  }
+ ],
+ "lyrics": "What's up?\nBeen a minute since we kicked it, you've been caught up\nWith them bitches, I don't get it, you're a star, love\nYou shouldn't have to deal with that\nI'd never make you feel like that, 'cause...\n\nI love me\nI love me enough for the both of us\nThat's why you trust me\nI know you been through more than most of us\nSo what are you?\nWhat are you, what are you so afraid of?\nDarling, you\nYou give but you cannot take love\n\nYeah, I needed to hear that shit, I hate when you're submissive\nPassive aggressive when we're texting, I feel the distance\nI look around the peers that surround me, these niggas tripping\nI like when money makes a difference but don't make you different\nStarted realizing a couple places I could take it\nI want to get back to when I was that kid in the basement\nI want to take it deeper than money, pussy, vacation\nAnd influence a generation that's lacking in patience\nI've been dealing with my dad, speaking of lack of patience\nJust me and my old man getting back to basics\nWe've been talking 'bout the future and time that we wasted\nWhen he put that bottle down, girl that nigga's amazing\nWell, fuck it, we had a couple Coronas\nWe might have rolled a white paper, just something to hold us\nWe even talked about you and our couple of moments\nHe said we should hash it out like a couple of grown ups\nYou a flower child, beautiful child, I'm in your zone\nLooking like you came from the 70's on your own\nMy mother is 66 and her favorite line to hit me with is\nWho the fuck wants to be 70 and alone?\nYou don't even know what you want from love anymore\nI search for something I'm missing and disappear when I'm bored\nBut girl, what qualities was I looking for before?\nWho you settling for? Who better for you than the boy, huh?\n\nI love me\nI love me enough for the both of us\nThat's why you trust me\nI know you been through more than most of us\nSo what are you?\nWhat are you, what are you so afraid of?\nDarling, you\nYou give but you cannot take love\n\nUh, thinking 'bout Texas, back when Porscha used to work at Treasures\nOr further back than that, before I had the Houston leverage\nWhen I got Summer a Michael Kors with my momma's debit\nA weak attempt at flexing, I'll never forget it\n'Cause that night I played her three songs\nThen we got to talking 'bout something we disagreed on\nThen she start telling me how I'll never be as big as Trey Songz\nBoy was she wrong, that was just negative energy for me to feed off\nNow it's therapeutic blowing money in the Galleria\nOr Beverly Center Macy's where I discovered Bria\nLandmarks of the muses that inspired the music\nWhen I could tell it was sincere without tryna prove it\nThe one that I needed was Courtney from Hooters on Peachtree\nI've always been feeling like she was the piece to complete me\nNow she engaged to be married, what's the rush on commitment?\nKnow we were going through some shit, name a couple that isn't\nRemember our talk in the parking lot at the Ritz\nGirl I felt like we had it all planned out, I guess I fucked up the vision\nLearning the true consequences of my selfish decisions\nWhen you find out how I'm living, I just hope I'm forgiven\nIt seem like you don't want this love anymore\nI'm acting out in the open, it's hard for you to ignore\nBut girl, what qualities was I looking for before?\nWho you settling for? Who better for you than the boy, huh?\n\nI love me\nI love me enough for the both of us\nThat's why you trust me\nI know you been through more than most of us\nSo what are you?\nWhat are you, what are you so afraid of?\nDarling, you\nYou give but you cannot take love\n\nBeen Baka aka Not Nice from time, G\nBeen a East Side ting\nScarborough ting from time, G\nBeen have up di ting dem from time, G\nSo I don't know what's wrong with these\nLittle wasteman out here eh?\nY'all need to know yourself"
+}

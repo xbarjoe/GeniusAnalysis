@@ -1,0 +1,1832 @@
+{
+ "_type": "song",
+ "annotation_count": 25,
+ "api_path": "/songs/3047142",
+ "full_title": "XXX. by\u00a0Kendrick\u00a0Lamar (Ft.\u00a0U2)",
+ "header_image_thumbnail_url": "https://images.genius.com/f3f77222e1b615e0a10354ea6282ff22.300x300x1.png",
+ "header_image_url": "https://images.genius.com/f3f77222e1b615e0a10354ea6282ff22.1000x1000x1.png",
+ "id": 3047142,
+ "instrumental": false,
+ "lyrics_owner_id": 599242,
+ "lyrics_state": "complete",
+ "lyrics_updated_at": 1602709116,
+ "path": "/Kendrick-lamar-xxx-lyrics",
+ "pyongs_count": 212,
+ "song_art_image_thumbnail_url": "https://images.genius.com/f3f77222e1b615e0a10354ea6282ff22.300x300x1.png",
+ "song_art_image_url": "https://images.genius.com/f3f77222e1b615e0a10354ea6282ff22.1000x1000x1.png",
+ "stats": {
+  "accepted_annotations": 24,
+  "contributors": 403,
+  "iq_earners": 402,
+  "transcribers": 3,
+  "unreviewed_annotations": 0,
+  "verified_annotations": 0,
+  "concurrents": 3,
+  "hot": false,
+  "pageviews": 4897289
+ },
+ "title": "XXX.",
+ "title_with_featured": "XXX. (Ft.\u00a0U2)",
+ "updated_by_human_at": 1602709116,
+ "url": "https://genius.com/Kendrick-lamar-xxx-lyrics",
+ "primary_artist": {
+  "api_path": "/artists/1421",
+  "header_image_url": "https://images.genius.com/f3a1149475f2406582e3531041680a3c.1000x800x1.jpg",
+  "id": 1421,
+  "image_url": "https://images.genius.com/25d8a9c93ab97e9e6d5d1d9d36e64a53.1000x1000x1.jpg",
+  "is_meme_verified": true,
+  "is_verified": true,
+  "name": "Kendrick Lamar",
+  "url": "https://genius.com/artists/Kendrick-lamar",
+  "iq": 44223
+ },
+ "apple_music_id": "1223592502",
+ "apple_music_player_url": "https://genius.com/songs/3047142/apple_music_player",
+ "description": {
+  "plain": "Kendrick teams up with rock legends U2 on \u201cXXX.\u201d, which delves deeper into the political and religious themes heard throughout DAMN.\n\nIn an interview with Rolling Stone, Kendrick described how this song came together:\n\nWe had a [different] record we were supposed to be doing together. He sent it over, I laid some ideas to it, and we didn\u2019t know where it was going. I just happened to have an album coming out, so I just asked him, like, \u201cYo, would you do me this honor of letting me use this record, use this idea that I want to put together because I\u2019m hearing a certain type of 808, a certain drum to it.\u201d And he was open to it.\n\nThis song seems to be a transitional moment in the album. Going with the original album play-through or the backwards play theory, In his path of wickedness, Kendrick begins to question the hypocratic ways of America after setting aside his Godly ways and overcoming fear. However, on his path to weakness, Kendrick continues on after \u201cLOVE,\u201d where he expresses his feeling towards that special woman, and on this track, Kendrick expresses what he would do to protect his woman as well as his immediate family and having the will to kill if necessary, before he succumbs to fear and giving his life to God.\n\nIn the first verse, Kendrick begins by addressing moral ambiguity, noting that even the best of us are capable of evil if the conditions are right. Kendrick brags about his accomplishments on the streets before a friend calls him for advice on the devastating death of his son\u2014the usually-meditative Kendrick pushes him to take violent revenge.\n\nThe second verse provides the worldly context for this violence, continuing the nihilistic themes from \u201cPRIDE.\u201d\n\nThe appearance of U2 on \u201cXXX\u201d raised eyebrows when the tracklist to DAMN. dropped since U2 is well past its popular zenith, but the song has been well received since.\n\nIn an excellent piece of criticism, Steven Hyden notes that the lyrics of \u201cXXX\u201d grapple with spiritual dislocation in America in Old Testament overtones\u2014something U2 has been doing for three decades.\n\nIt\u2019s also worth noting that Nardwuar the Human Serviette unintentionally predicted this collaboration back in March of 2012 (before GKMC\u2019s release) when he interviewed Kendrick at the SXSW Festival in Austin, TX. Watch his response when asked if he would ever like to have a sleepover with Bono:\n\nhttps://youtu.be/6s5vlQdQp4s?t=10m27s\n\nYouTuber Justin Hunte goes into depth in this video about Kendrick\u2019s \u201cXXX\u201d repping for the entire millenial generation. He breaks down how the last verse of the song calls out America for its hyprocrisy in these lines:\n\nYou overnight the big rifles, then tell Fox to be scared of us\nGang members or terrorists, et cetera, et cetera\nAmerica\u2019s reflections of me, that\u2019s what a mirror does"
+ },
+ "embed_content": "<div id='rg_embed_link_3047142' class='rg_embed_link' data-song-id='3047142'>Read <a href='https://genius.com/Kendrick-lamar-xxx-lyrics'>\u201cXXX.\u201d by Kendrick\u00a0Lamar</a> on Genius</div> <script crossorigin src='//genius.com/songs/3047142/embed.js'></script>",
+ "featured_video": false,
+ "lyrics_placeholder_reason": null,
+ "recording_location": null,
+ "release_date": "2017-04-14",
+ "release_date_for_display": "April 14, 2017",
+ "current_user_metadata": {
+  "permissions": [
+   "see_pageviews",
+   "view_apple_music_player",
+   "create_comment",
+   "view_song_story_gallery"
+  ],
+  "excluded_permissions": [
+   "follow",
+   "award_transcription_iq",
+   "remove_transcription_iq",
+   "pyong",
+   "edit_lyrics",
+   "view_annotation_engagement_data",
+   "publish",
+   "unpublish",
+   "edit_spotify_details",
+   "hide",
+   "unhide",
+   "toggle_featured_video",
+   "add_pinned_annotation_to",
+   "add_community_annotation_to",
+   "destroy",
+   "mark_as_not_spam",
+   "edit_spotify_annotations_for",
+   "verify_lyrics",
+   "unverify_lyrics",
+   "edit_anything",
+   "edit_any_media",
+   "edit",
+   "rename",
+   "edit_tags",
+   "watch_fact_track",
+   "reindex",
+   "view_lyrics_synchronization",
+   "enable_media",
+   "disable_media",
+   "edit_lyrics_or_annotation_brackets",
+   "see_editorial_indicators",
+   "view_attribution_visualization",
+   "edit_annotation_brackets",
+   "preview_lyrics_for_export",
+   "hide_apple_player",
+   "unhide_apple_player",
+   "trigger_apple_match",
+   "mark_lyrics_evaluation_as_approved",
+   "mark_lyrics_evaluation_as_staff_approved",
+   "mark_lyrics_evaluation_as_unapproved",
+   "mark_lyrics_evaluation_as_un_staff_approved",
+   "view_transcriber_media_player",
+   "override_apple_match",
+   "edit_youtube_url",
+   "edit_soundcloud_url",
+   "edit_spotify_uuid",
+   "edit_vevo_url",
+   "moderate_annotations",
+   "create_annotation",
+   "see_short_id",
+   "manage_chart_item",
+   "create_tag",
+   "propose_lyrics_edit",
+   "moderate_lyrics_edit_proposals",
+   "preview_react_song_page"
+  ],
+  "interactions": {
+   "pyong": false,
+   "following": false
+  },
+  "relationships": {},
+  "iq_by_action": {}
+ },
+ "album": {
+  "api_path": "/albums/337082",
+  "cover_art_url": "https://images.genius.com/f3f77222e1b615e0a10354ea6282ff22.1000x1000x1.png",
+  "full_title": "DAMN. by Kendrick Lamar",
+  "id": 337082,
+  "name": "DAMN.",
+  "url": "https://genius.com/albums/Kendrick-lamar/Damn",
+  "artist": {
+   "api_path": "/artists/1421",
+   "header_image_url": "https://images.genius.com/f3a1149475f2406582e3531041680a3c.1000x800x1.jpg",
+   "id": 1421,
+   "image_url": "https://images.genius.com/25d8a9c93ab97e9e6d5d1d9d36e64a53.1000x1000x1.jpg",
+   "is_meme_verified": true,
+   "is_verified": true,
+   "name": "Kendrick Lamar",
+   "url": "https://genius.com/artists/Kendrick-lamar",
+   "iq": 44223
+  }
+ },
+ "custom_performances": [
+  {
+   "label": "Performance Rights",
+   "artists": [
+    {
+     "api_path": "/artists/838535",
+     "header_image_url": "https://images.genius.com/102f80430df97ed1699d6e61ab09ddf7.1000x213x1.png",
+     "id": 838535,
+     "image_url": "https://images.genius.com/47743b4bd8428b4457b9d9f82e42361b.1000x1000x1.png",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "SESAC",
+     "url": "https://genius.com/artists/Sesac"
+    },
+    {
+     "api_path": "/artists/1112945",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+     "id": 1112945,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "PRS",
+     "url": "https://genius.com/artists/Prs"
+    },
+    {
+     "api_path": "/artists/551598",
+     "header_image_url": "https://images.genius.com/067d9bccf2ab6e5eded129861b73d9dc.851x315x1.jpg",
+     "id": 551598,
+     "image_url": "https://images.genius.com/5f24e8e67904faef419d736f2ade3f78.1000x1000x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "ASCAP",
+     "url": "https://genius.com/artists/Ascap"
+    },
+    {
+     "api_path": "/artists/1138091",
+     "header_image_url": "https://images.genius.com/5b84dbf7ba86e59c297143f076a56c9a.1000x1000x1.jpg",
+     "id": 1138091,
+     "image_url": "https://images.genius.com/051b0a6beabf8a9eb8768e9f874a542f.1000x1000x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "BMI",
+     "url": "https://genius.com/artists/Bmi"
+    }
+   ]
+  },
+  {
+   "label": "Publisher",
+   "artists": [
+    {
+     "api_path": "/artists/1009923",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+     "id": 1009923,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Dahi Productions",
+     "url": "https://genius.com/artists/Dahi-productions"
+    },
+    {
+     "api_path": "/artists/2253222",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+     "id": 2253222,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Sony/ATV Sonata",
+     "url": "https://genius.com/artists/Sony-atv-sonata"
+    },
+    {
+     "api_path": "/artists/1104563",
+     "header_image_url": "https://images.genius.com/6ee5d6766689e04358c1d0f8ea0ed8f0.600x600x1.png",
+     "id": 1104563,
+     "image_url": "https://images.genius.com/7b3fb2c00317cb2eb2453f9f4e7473d1.600x600x1.png",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Universal Music Group",
+     "url": "https://genius.com/artists/Universal-music-group"
+    },
+    {
+     "api_path": "/artists/1152704",
+     "header_image_url": "https://images.genius.com/6b9a922068a379c1836441d79f071e92.672x672x1.jpg",
+     "id": 1152704,
+     "image_url": "https://images.genius.com/6b9a922068a379c1836441d79f071e92.672x672x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Warner/Chappell",
+     "url": "https://genius.com/artists/Warner-chappell"
+    },
+    {
+     "api_path": "/artists/1108010",
+     "header_image_url": "https://images.genius.com/b6d0cd73308dc9c8c514b5c11081f1a5.500x333x1.jpg",
+     "id": 1108010,
+     "image_url": "https://images.genius.com/8d7bc7b0d6188a564b2b0cc553fbe199.899x899x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Top Dawg Entertainment",
+     "url": "https://genius.com/artists/Top-dawg-entertainment"
+    },
+    {
+     "api_path": "/artists/986730",
+     "header_image_url": "https://images.genius.com/bb24fed497d4a94866afffe8c5a3f6b8.900x900x1.jpg",
+     "id": 986730,
+     "image_url": "https://images.genius.com/9432c373e43c8b8c0d7297b1b4a9f8b5.900x900x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Ear Drummers",
+     "url": "https://genius.com/artists/Ear-drummers"
+    },
+    {
+     "api_path": "/artists/2153218",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+     "id": 2153218,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Sony/ATV Allegro",
+     "url": "https://genius.com/artists/Sony-atv-allegro"
+    },
+    {
+     "api_path": "/artists/648506",
+     "header_image_url": "https://images.genius.com/74426baa896c80996f8292296535de9a.400x400x1.jpg",
+     "id": 648506,
+     "image_url": "https://images.genius.com/74426baa896c80996f8292296535de9a.400x400x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Hard Working Black Folks Publishing",
+     "url": "https://genius.com/artists/Hard-working-black-folks-publishing"
+    },
+    {
+     "api_path": "/artists/650049",
+     "header_image_url": "https://images.genius.com/7edaec9502bcac4b8ec643bc45396aee.225x225x1.jpg",
+     "id": 650049,
+     "image_url": "https://images.genius.com/7edaec9502bcac4b8ec643bc45396aee.225x225x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Beat Bully Productions",
+     "url": "https://genius.com/artists/Beat-bully-productions"
+    },
+    {
+     "api_path": "/artists/1179023",
+     "header_image_url": "https://images.genius.com/92e4ea9ba616ee53bae21dc2e037a1e2.1000x1000x1.jpg",
+     "id": 1179023,
+     "image_url": "https://images.genius.com/f19c358ac9db989328ffc9a3de85bbd4.1000x1000x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Kobalt Music",
+     "url": "https://genius.com/artists/Kobalt-music"
+    }
+   ]
+  },
+  {
+   "label": "Mixing Engineer",
+   "artists": [
+    {
+     "api_path": "/artists/640014",
+     "header_image_url": "https://images.genius.com/6bf42f8958d4e9916db1fd12381b36a4.620x400x1.jpg",
+     "id": 640014,
+     "image_url": "https://images.genius.com/6bf42f8958d4e9916db1fd12381b36a4.620x400x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Mixed by Ali",
+     "url": "https://genius.com/artists/Mixed-by-ali"
+    }
+   ]
+  },
+  {
+   "label": "Assistant Mixing Engineer",
+   "artists": [
+    {
+     "api_path": "/artists/162817",
+     "header_image_url": "https://images.genius.com/61ac3a9fdda58b309c6293ef9e8c64a1.1000x788x1.jpg",
+     "id": 162817,
+     "image_url": "https://images.genius.com/354955a8add8110dc994f74b391f9880.901x901x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Ya Boy N.O.I.S.",
+     "url": "https://genius.com/artists/Ya-boy-nois"
+    },
+    {
+     "api_path": "/artists/1118290",
+     "header_image_url": "https://images.genius.com/28c84c08b180a47dee9dde0ad8a1028b.200x200x1.jpg",
+     "id": 1118290,
+     "image_url": "https://images.genius.com/28c84c08b180a47dee9dde0ad8a1028b.200x200x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Tyler Page",
+     "url": "https://genius.com/artists/Tyler-page"
+    }
+   ]
+  },
+  {
+   "label": "Mastering Engineer",
+   "artists": [
+    {
+     "api_path": "/artists/647414",
+     "header_image_url": "https://images.genius.com/f7428a1eab90e679e8af29668a3e43ea.450x309x1.jpg",
+     "id": 647414,
+     "image_url": "https://images.genius.com/0ec0a44b755cb745add8e3b72754a630.400x400x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Mike Bozzi",
+     "url": "https://genius.com/artists/Mike-bozzi"
+    }
+   ]
+  },
+  {
+   "label": "Additional Vocals",
+   "artists": [
+    {
+     "api_path": "/artists/10179",
+     "header_image_url": "https://images.genius.com/1c6b3696debc30920602c1122334df8a.359x359x1.jpg",
+     "id": 10179,
+     "image_url": "https://images.genius.com/1c6b3696debc30920602c1122334df8a.359x359x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "B\u0113kon",
+     "url": "https://genius.com/artists/Bekon",
+     "iq": 845
+    },
+    {
+     "api_path": "/artists/3617",
+     "header_image_url": "https://images.genius.com/280bdf343b7f9ad3900695b45b3c4a2e.640x640x1.jpg",
+     "id": 3617,
+     "image_url": "https://images.genius.com/280bdf343b7f9ad3900695b45b3c4a2e.640x640x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "Kid Capri",
+     "url": "https://genius.com/artists/Kid-capri",
+     "iq": 2605
+    }
+   ]
+  },
+  {
+   "label": "Additional Production",
+   "artists": [
+    {
+     "api_path": "/artists/10179",
+     "header_image_url": "https://images.genius.com/1c6b3696debc30920602c1122334df8a.359x359x1.jpg",
+     "id": 10179,
+     "image_url": "https://images.genius.com/1c6b3696debc30920602c1122334df8a.359x359x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "B\u0113kon",
+     "url": "https://genius.com/artists/Bekon",
+     "iq": 845
+    }
+   ]
+  },
+  {
+   "label": "Label",
+   "artists": [
+    {
+     "api_path": "/artists/143490",
+     "header_image_url": "https://images.genius.com/20ee0dc07918a750d532b2316361d3a2.1000x333x1.jpg",
+     "id": 143490,
+     "image_url": "https://images.genius.com/f28d415a7f5f966f5814e7c07cf8dc23.271x271x1.jpg",
+     "is_meme_verified": true,
+     "is_verified": true,
+     "name": "Interscope Records",
+     "url": "https://genius.com/artists/Interscope-records",
+     "iq": 175
+    },
+    {
+     "api_path": "/artists/1108010",
+     "header_image_url": "https://images.genius.com/b6d0cd73308dc9c8c514b5c11081f1a5.500x333x1.jpg",
+     "id": 1108010,
+     "image_url": "https://images.genius.com/8d7bc7b0d6188a564b2b0cc553fbe199.899x899x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Top Dawg Entertainment",
+     "url": "https://genius.com/artists/Top-dawg-entertainment"
+    },
+    {
+     "api_path": "/artists/1136259",
+     "header_image_url": "https://images.genius.com/0cdf9c00e6a53abaf3ecffbf77c4e04e.1000x500x1.jpg",
+     "id": 1136259,
+     "image_url": "https://images.genius.com/ce0ff7521d657a567e4d76a5bb6f4508.304x304x1.png",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Aftermath Entertainment",
+     "url": "https://genius.com/artists/Aftermath-entertainment"
+    }
+   ]
+  }
+ ],
+ "description_annotation": {
+  "_type": "referent",
+  "annotator_id": 4510402,
+  "annotator_login": "BITCHBIYOMBO",
+  "api_path": "/referents/11664076",
+  "classification": "accepted",
+  "fragment": "XXX.",
+  "id": 11664076,
+  "is_description": true,
+  "path": "/11664076/Kendrick-lamar-xxx/Xxx",
+  "range": {
+   "content": "XXX."
+  },
+  "song_id": 3047142,
+  "url": "https://genius.com/11664076/Kendrick-lamar-xxx/Xxx",
+  "verified_annotator_ids": [],
+  "annotatable": {
+   "api_path": "/songs/3047142",
+   "client_timestamps": {
+    "updated_by_human_at": 1602709116,
+    "lyrics_updated_at": 1602709116
+   },
+   "context": "Kendrick Lamar",
+   "id": 3047142,
+   "image_url": "https://images.genius.com/f3f77222e1b615e0a10354ea6282ff22.1000x1000x1.png",
+   "link_title": "XXX. by\u00a0Kendrick\u00a0Lamar (Ft.\u00a0U2)",
+   "title": "XXX.",
+   "type": "Song",
+   "url": "https://genius.com/Kendrick-lamar-xxx-lyrics"
+  },
+  "annotations": [
+   {
+    "api_path": "/annotations/11664076",
+    "body": {
+     "plain": "Kendrick teams up with rock legends U2 on \u201cXXX.\u201d, which delves deeper into the political and religious themes heard throughout DAMN.\n\nIn an interview with Rolling Stone, Kendrick described how this song came together:\n\nWe had a [different] record we were supposed to be doing together. He sent it over, I laid some ideas to it, and we didn\u2019t know where it was going. I just happened to have an album coming out, so I just asked him, like, \u201cYo, would you do me this honor of letting me use this record, use this idea that I want to put together because I\u2019m hearing a certain type of 808, a certain drum to it.\u201d And he was open to it.\n\nThis song seems to be a transitional moment in the album. Going with the original album play-through or the backwards play theory, In his path of wickedness, Kendrick begins to question the hypocratic ways of America after setting aside his Godly ways and overcoming fear. However, on his path to weakness, Kendrick continues on after \u201cLOVE,\u201d where he expresses his feeling towards that special woman, and on this track, Kendrick expresses what he would do to protect his woman as well as his immediate family and having the will to kill if necessary, before he succumbs to fear and giving his life to God.\n\nIn the first verse, Kendrick begins by addressing moral ambiguity, noting that even the best of us are capable of evil if the conditions are right. Kendrick brags about his accomplishments on the streets before a friend calls him for advice on the devastating death of his son\u2014the usually-meditative Kendrick pushes him to take violent revenge.\n\nThe second verse provides the worldly context for this violence, continuing the nihilistic themes from \u201cPRIDE.\u201d\n\nThe appearance of U2 on \u201cXXX\u201d raised eyebrows when the tracklist to DAMN. dropped since U2 is well past its popular zenith, but the song has been well received since.\n\nIn an excellent piece of criticism, Steven Hyden notes that the lyrics of \u201cXXX\u201d grapple with spiritual dislocation in America in Old Testament overtones\u2014something U2 has been doing for three decades.\n\nIt\u2019s also worth noting that Nardwuar the Human Serviette unintentionally predicted this collaboration back in March of 2012 (before GKMC\u2019s release) when he interviewed Kendrick at the SXSW Festival in Austin, TX. Watch his response when asked if he would ever like to have a sleepover with Bono:\n\nhttps://youtu.be/6s5vlQdQp4s?t=10m27s\n\nYouTuber Justin Hunte goes into depth in this video about Kendrick\u2019s \u201cXXX\u201d repping for the entire millenial generation. He breaks down how the last verse of the song calls out America for its hyprocrisy in these lines:\n\nYou overnight the big rifles, then tell Fox to be scared of us\nGang members or terrorists, et cetera, et cetera\nAmerica\u2019s reflections of me, that\u2019s what a mirror does"
+    },
+    "comment_count": 1,
+    "community": true,
+    "custom_preview": null,
+    "has_voters": true,
+    "id": 11664076,
+    "pinned": false,
+    "share_url": "https://genius.com/11664076",
+    "source": null,
+    "state": "accepted",
+    "url": "https://genius.com/11664076/Kendrick-lamar-xxx/Xxx",
+    "verified": false,
+    "votes_total": 404,
+    "current_user_metadata": {
+     "permissions": [
+      "create_comment"
+     ],
+     "excluded_permissions": [
+      "vote",
+      "edit",
+      "cosign",
+      "uncosign",
+      "destroy",
+      "accept",
+      "reject",
+      "see_unreviewed",
+      "clear_votes",
+      "propose_edit_to",
+      "pin_to_profile",
+      "unpin_from_profile",
+      "update_source",
+      "edit_custom_preview"
+     ],
+     "interactions": {
+      "cosign": false,
+      "pyong": false,
+      "vote": null
+     },
+     "iq_by_action": {}
+    },
+    "authors": [
+     {
+      "attribution": 0.30952380952380953,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/942495",
+       "avatar": {
+        "tiny": {
+         "url": "https://images.genius.com/avatars/tiny/be756301ff39c95530e8bef0f8e59dc1",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://images.genius.com/avatars/thumb/be756301ff39c95530e8bef0f8e59dc1",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://images.genius.com/avatars/small/be756301ff39c95530e8bef0f8e59dc1",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://images.genius.com/avatars/medium/be756301ff39c95530e8bef0f8e59dc1",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://images.genius.com/avatars/medium/be756301ff39c95530e8bef0f8e59dc1",
+       "human_readable_role_for_display": "Editor",
+       "id": 942495,
+       "iq": 39872,
+       "login": "HipHopScholar95",
+       "name": "KnoYaWrong_ShowURight",
+       "role_for_display": "editor",
+       "url": "https://genius.com/HipHopScholar95",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     },
+     {
+      "attribution": 0.21428571428571427,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/325189",
+       "avatar": {
+        "tiny": {
+         "url": "https://images.genius.com/avatars/tiny/e4c300054daec5c64f107d687e2b5648",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://images.genius.com/avatars/thumb/e4c300054daec5c64f107d687e2b5648",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://images.genius.com/avatars/small/e4c300054daec5c64f107d687e2b5648",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://images.genius.com/avatars/medium/e4c300054daec5c64f107d687e2b5648",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://images.genius.com/avatars/medium/e4c300054daec5c64f107d687e2b5648",
+       "human_readable_role_for_display": "Staff",
+       "id": 325189,
+       "iq": 77083,
+       "login": "Incilin",
+       "name": "Insanul Ahmed",
+       "role_for_display": "staff",
+       "url": "https://genius.com/Incilin",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     },
+     {
+      "attribution": 0.15079365079365079,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/1603328",
+       "avatar": {
+        "tiny": {
+         "url": "https://images.genius.com/avatars/tiny/98fd3350d7e66a87b9adc6df7331926a",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://images.genius.com/avatars/thumb/98fd3350d7e66a87b9adc6df7331926a",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://images.genius.com/avatars/small/98fd3350d7e66a87b9adc6df7331926a",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://images.genius.com/avatars/medium/98fd3350d7e66a87b9adc6df7331926a",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://images.genius.com/e372f40ee0a6d090ffd11b4c5518a5a9.1000x370x1.jpg",
+       "human_readable_role_for_display": "Moderator",
+       "id": 1603328,
+       "iq": 351908,
+       "login": "kingkillmonger",
+       "name": "\u029e|a\u00e7e|w\u0153|k",
+       "role_for_display": "moderator",
+       "url": "https://genius.com/kingkillmonger",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     },
+     {
+      "attribution": 0.09722222222222221,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/2201483",
+       "avatar": {
+        "tiny": {
+         "url": "https://images.genius.com/avatars/tiny/c9cd14bf3d2560c7fe59f610c39d9f27",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://images.genius.com/avatars/thumb/c9cd14bf3d2560c7fe59f610c39d9f27",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://images.genius.com/avatars/small/c9cd14bf3d2560c7fe59f610c39d9f27",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://images.genius.com/avatars/medium/c9cd14bf3d2560c7fe59f610c39d9f27",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/Xy7coyvSJK6DLbXgx3RS_smarttot.png",
+       "human_readable_role_for_display": "Editor",
+       "id": 2201483,
+       "iq": 18486,
+       "login": "fowler_f",
+       "name": "fowler_f",
+       "role_for_display": "editor",
+       "url": "https://genius.com/fowler_f",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     },
+     {
+      "attribution": 0.09325396825396826,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/4510402",
+       "avatar": {
+        "tiny": {
+         "url": "https://images.genius.com/avatars/tiny/88da908d6ff7b5c6e1fa47b19c23633f",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://images.genius.com/avatars/thumb/88da908d6ff7b5c6e1fa47b19c23633f",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://images.genius.com/avatars/small/88da908d6ff7b5c6e1fa47b19c23633f",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://images.genius.com/avatars/medium/88da908d6ff7b5c6e1fa47b19c23633f",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://images.genius.com/avatars/medium/88da908d6ff7b5c6e1fa47b19c23633f",
+       "human_readable_role_for_display": "Contributor",
+       "id": 4510402,
+       "iq": 474,
+       "login": "BITCHBIYOMBO",
+       "name": "BITCHBIYOMBO",
+       "role_for_display": "contributor",
+       "url": "https://genius.com/BITCHBIYOMBO",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     },
+     {
+      "attribution": 0.05357142857142857,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/1729630",
+       "avatar": {
+        "tiny": {
+         "url": "https://images.genius.com/avatars/tiny/0b9a5c7c722b6f72948e1e9bfdeca176",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://images.genius.com/avatars/thumb/0b9a5c7c722b6f72948e1e9bfdeca176",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://images.genius.com/avatars/small/0b9a5c7c722b6f72948e1e9bfdeca176",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://images.genius.com/avatars/medium/0b9a5c7c722b6f72948e1e9bfdeca176",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/8SBFDWfDTJK1lIGf0FvO_tumblr_static_1s4t7dvd8r8k4ocsskw4ks4kk.png",
+       "human_readable_role_for_display": "Editor",
+       "id": 1729630,
+       "iq": 88742,
+       "login": "AintNoJigga",
+       "name": "AintNoJigga",
+       "role_for_display": "editor",
+       "url": "https://genius.com/AintNoJigga",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     },
+     {
+      "attribution": 0.04365079365079365,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/3223620",
+       "avatar": {
+        "tiny": {
+         "url": "https://assets.genius.com/images/default_avatar_16.png?1606943206",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://assets.genius.com/images/default_avatar_32.png?1606943206",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://assets.genius.com/images/default_avatar_100.png?1606943206",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+       "human_readable_role_for_display": null,
+       "id": 3223620,
+       "iq": 292,
+       "login": "JosePhresh",
+       "name": "JosePhresh",
+       "role_for_display": null,
+       "url": "https://genius.com/JosePhresh",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     },
+     {
+      "attribution": 0.01785714285714286,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/143119",
+       "avatar": {
+        "tiny": {
+         "url": "https://images.genius.com/avatars/tiny/435bf4128688f7daf8886838ca43fdb7",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://images.genius.com/avatars/thumb/435bf4128688f7daf8886838ca43fdb7",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://images.genius.com/avatars/small/435bf4128688f7daf8886838ca43fdb7",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://images.genius.com/avatars/medium/435bf4128688f7daf8886838ca43fdb7",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://images.genius.com/avatars/medium/435bf4128688f7daf8886838ca43fdb7",
+       "human_readable_role_for_display": "Staff",
+       "id": 143119,
+       "iq": 185421,
+       "login": "TheScrivener",
+       "name": "Elizabeth Milch",
+       "role_for_display": "staff",
+       "url": "https://genius.com/TheScrivener",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     },
+     {
+      "attribution": 0.01785714285714286,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/2557222",
+       "avatar": {
+        "tiny": {
+         "url": "https://images.genius.com/avatars/tiny/50313782b5b3ebfa8d920c5e2593a3b2",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://images.genius.com/avatars/thumb/50313782b5b3ebfa8d920c5e2593a3b2",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://images.genius.com/avatars/small/50313782b5b3ebfa8d920c5e2593a3b2",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://images.genius.com/avatars/medium/50313782b5b3ebfa8d920c5e2593a3b2",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://images.genius.com/019f579c5a28845fb2060871e94c0c6c.864x360x1.jpg",
+       "human_readable_role_for_display": "Moderator",
+       "id": 2557222,
+       "iq": 150518,
+       "login": "ssaa10dec",
+       "name": "Ssaa10dec",
+       "role_for_display": "moderator",
+       "url": "https://genius.com/ssaa10dec",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     },
+     {
+      "attribution": 0.001984126984126984,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/127862",
+       "avatar": {
+        "tiny": {
+         "url": "https://images.genius.com/avatars/tiny/97fd2a04f49a3707f9efe1c76cd3b292",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://images.genius.com/avatars/thumb/97fd2a04f49a3707f9efe1c76cd3b292",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://images.genius.com/avatars/small/97fd2a04f49a3707f9efe1c76cd3b292",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://images.genius.com/avatars/medium/97fd2a04f49a3707f9efe1c76cd3b292",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://images.genius.com/006697c6143f33d06ebbd245ff9d268d.1000x1000x1.jpg",
+       "human_readable_role_for_display": "Staff",
+       "id": 127862,
+       "iq": 527367,
+       "login": "Michael",
+       "name": "Michael Heal",
+       "role_for_display": "staff",
+       "url": "https://genius.com/Michael",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     }
+    ],
+    "cosigned_by": [],
+    "rejection_comment": null,
+    "verified_by": null
+   }
+  ]
+ },
+ "featured_artists": [
+  {
+   "api_path": "/artists/23895",
+   "header_image_url": "https://images.genius.com/ee67b5a6bc567af7c680ee086c2e0c8d.620x349x1.jpg",
+   "id": 23895,
+   "image_url": "https://images.genius.com/0565db2dbe447e1e79c41d785d3e6b26.819x819x1.jpg",
+   "is_meme_verified": false,
+   "is_verified": false,
+   "name": "U2",
+   "url": "https://genius.com/artists/U2"
+  }
+ ],
+ "lyrics_marked_complete_by": null,
+ "media": [
+  {
+   "native_uri": "spotify:track:4iYRa2btalAzPZoSYfROqF",
+   "provider": "spotify",
+   "type": "audio",
+   "url": "https://open.spotify.com/track/4iYRa2btalAzPZoSYfROqF"
+  },
+  {
+   "attribution": "kendrick lamar music",
+   "provider": "soundcloud",
+   "type": "audio",
+   "url": "https://soundcloud.com/kendrick-lamar-music/xxx?in=kendrick-lamar-music/sets/damn-86"
+  },
+  {
+   "provider": "youtube",
+   "start": 0,
+   "type": "video",
+   "url": "http://www.youtube.com/watch?v=TFr4br_GrSc"
+  }
+ ],
+ "producer_artists": [
+  {
+   "api_path": "/artists/93851",
+   "header_image_url": "https://images.genius.com/cd311e78421d70f11ffd3ace217e1aef.608x342x1.png",
+   "id": 93851,
+   "image_url": "https://images.genius.com/cd311e78421d70f11ffd3ace217e1aef.608x342x1.png",
+   "is_meme_verified": false,
+   "is_verified": false,
+   "name": "Top Dawg",
+   "url": "https://genius.com/artists/Top-dawg"
+  },
+  {
+   "api_path": "/artists/27474",
+   "header_image_url": "https://images.genius.com/b40c29059d5e6320523e2f226803264e.722x516x1.jpg",
+   "id": 27474,
+   "image_url": "https://images.genius.com/b40c29059d5e6320523e2f226803264e.722x516x1.jpg",
+   "is_meme_verified": false,
+   "is_verified": true,
+   "name": "DJ Dahi",
+   "url": "https://genius.com/artists/Dj-dahi",
+   "iq": 1024
+  },
+  {
+   "api_path": "/artists/27472",
+   "header_image_url": "https://images.genius.com/047e8ba8b1b637837167155280d744f4.636x421x1.jpg",
+   "id": 27472,
+   "image_url": "https://images.genius.com/77819bc25af866f53a92ebca0ee4a944.289x289x1.jpg",
+   "is_meme_verified": false,
+   "is_verified": true,
+   "name": "Sounwave",
+   "url": "https://genius.com/artists/Sounwave",
+   "iq": 528
+  },
+  {
+   "api_path": "/artists/29978",
+   "header_image_url": "https://images.genius.com/1722dc172cf7b50eeb7e433113e9a6e8.1000x504x1.png",
+   "id": 29978,
+   "image_url": "https://images.genius.com/1d29ef19a466f4bf49282b4d020cb593.895x895x1.jpg",
+   "is_meme_verified": true,
+   "is_verified": true,
+   "name": "Mike WiLL Made-It",
+   "url": "https://genius.com/artists/Mike-will-made-it",
+   "iq": 489
+  }
+ ],
+ "song_relationships": [
+  {
+   "relationship_type": "samples",
+   "type": "samples",
+   "songs": [
+    {
+     "annotation_count": 1,
+     "api_path": "/songs/759655",
+     "full_title": "Get Up Offa That Thing (Release The Pressure) [Edit] by\u00a0James\u00a0Brown",
+     "header_image_thumbnail_url": "https://images.genius.com/72180a4ad189ecf4529dab09b208acaa.300x300x1.jpg",
+     "header_image_url": "https://images.genius.com/72180a4ad189ecf4529dab09b208acaa.500x500x1.jpg",
+     "id": 759655,
+     "lyrics_owner_id": 1549345,
+     "lyrics_state": "complete",
+     "path": "/James-brown-get-up-offa-that-thing-release-the-pressure-edit-lyrics",
+     "pyongs_count": null,
+     "song_art_image_thumbnail_url": "https://images.genius.com/72180a4ad189ecf4529dab09b208acaa.300x300x1.jpg",
+     "song_art_image_url": "https://images.genius.com/72180a4ad189ecf4529dab09b208acaa.500x500x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 1,
+      "hot": false
+     },
+     "title": "Get Up Offa That Thing (Release The Pressure) [Edit]",
+     "title_with_featured": "Get Up Offa That Thing (Release The Pressure) [Edit]",
+     "url": "https://genius.com/James-brown-get-up-offa-that-thing-release-the-pressure-edit-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/8417",
+      "header_image_url": "https://s3.amazonaws.com/rapgenius/james_brown.jpg",
+      "id": 8417,
+      "image_url": "https://s3.amazonaws.com/rapgenius/james_brown.jpg",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "James Brown",
+      "url": "https://genius.com/artists/James-brown"
+     }
+    },
+    {
+     "annotation_count": 2,
+     "api_path": "/songs/3462346",
+     "full_title": "America by\u00a0B\u0113kon",
+     "header_image_thumbnail_url": "https://images.genius.com/720b372c8443014667b1d4987bc3fa4e.300x300x1.jpg",
+     "header_image_url": "https://images.genius.com/720b372c8443014667b1d4987bc3fa4e.500x500x1.jpg",
+     "id": 3462346,
+     "lyrics_owner_id": 2727439,
+     "lyrics_state": "complete",
+     "path": "/Bekon-america-lyrics",
+     "pyongs_count": 1,
+     "song_art_image_thumbnail_url": "https://images.genius.com/720b372c8443014667b1d4987bc3fa4e.300x300x1.jpg",
+     "song_art_image_url": "https://images.genius.com/720b372c8443014667b1d4987bc3fa4e.500x500x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 2,
+      "hot": false
+     },
+     "title": "America",
+     "title_with_featured": "America",
+     "url": "https://genius.com/Bekon-america-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/10179",
+      "header_image_url": "https://images.genius.com/1c6b3696debc30920602c1122334df8a.359x359x1.jpg",
+      "id": 10179,
+      "image_url": "https://images.genius.com/1c6b3696debc30920602c1122334df8a.359x359x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": true,
+      "name": "B\u0113kon",
+      "url": "https://genius.com/artists/Bekon",
+      "iq": 845
+     }
+    },
+    {
+     "annotation_count": 10,
+     "api_path": "/songs/3243964",
+     "full_title": "American Soul by\u00a0U2",
+     "header_image_thumbnail_url": "https://images.genius.com/94e5f27be876d6f3055e1e8d99deebe2.300x300x1.jpg",
+     "header_image_url": "https://images.genius.com/94e5f27be876d6f3055e1e8d99deebe2.1000x1000x1.jpg",
+     "id": 3243964,
+     "lyrics_owner_id": 5182113,
+     "lyrics_state": "complete",
+     "path": "/U2-american-soul-lyrics",
+     "pyongs_count": 4,
+     "song_art_image_thumbnail_url": "https://images.genius.com/94e5f27be876d6f3055e1e8d99deebe2.300x300x1.jpg",
+     "song_art_image_url": "https://images.genius.com/94e5f27be876d6f3055e1e8d99deebe2.1000x1000x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 6,
+      "hot": false,
+      "pageviews": 42807
+     },
+     "title": "American Soul",
+     "title_with_featured": "American Soul",
+     "url": "https://genius.com/U2-american-soul-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/23895",
+      "header_image_url": "https://images.genius.com/ee67b5a6bc567af7c680ee086c2e0c8d.620x349x1.jpg",
+      "id": 23895,
+      "image_url": "https://images.genius.com/0565db2dbe447e1e79c41d785d3e6b26.819x819x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "U2",
+      "url": "https://genius.com/artists/U2"
+     }
+    },
+    {
+     "annotation_count": 3,
+     "api_path": "/songs/406540",
+     "full_title": "Get Up Offa That Thing/Release The Pressure by\u00a0James\u00a0Brown",
+     "header_image_thumbnail_url": "https://images.genius.com/6010191d9d820bae363ecb3e5b22c269.300x300x1.jpg",
+     "header_image_url": "https://images.genius.com/6010191d9d820bae363ecb3e5b22c269.300x300x1.jpg",
+     "id": 406540,
+     "lyrics_owner_id": 396158,
+     "lyrics_state": "complete",
+     "path": "/James-brown-get-up-offa-that-thing-release-the-pressure-lyrics",
+     "pyongs_count": 1,
+     "song_art_image_thumbnail_url": "https://images.genius.com/6010191d9d820bae363ecb3e5b22c269.300x300x1.jpg",
+     "song_art_image_url": "https://images.genius.com/6010191d9d820bae363ecb3e5b22c269.300x300x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 2,
+      "hot": false,
+      "pageviews": 13089
+     },
+     "title": "Get Up Offa That Thing/Release The Pressure",
+     "title_with_featured": "Get Up Offa That Thing/Release The Pressure",
+     "url": "https://genius.com/James-brown-get-up-offa-that-thing-release-the-pressure-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/8417",
+      "header_image_url": "https://s3.amazonaws.com/rapgenius/james_brown.jpg",
+      "id": 8417,
+      "image_url": "https://s3.amazonaws.com/rapgenius/james_brown.jpg",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "James Brown",
+      "url": "https://genius.com/artists/James-brown"
+     }
+    }
+   ]
+  },
+  {
+   "relationship_type": "sampled_in",
+   "type": "sampled_in",
+   "songs": [
+    {
+     "annotation_count": 0,
+     "api_path": "/songs/3409133",
+     "full_title": "X-RATED* by\u00a0GOTBARS",
+     "header_image_thumbnail_url": "https://assets.genius.com/images/default_cover_image.png?1606943206",
+     "header_image_url": "https://assets.genius.com/images/default_cover_image.png?1606943206",
+     "id": 3409133,
+     "lyrics_owner_id": 4170510,
+     "lyrics_state": "complete",
+     "path": "/Gotbars-x-rated-lyrics",
+     "pyongs_count": null,
+     "song_art_image_thumbnail_url": "https://assets.genius.com/images/default_cover_image.png?1606943206",
+     "song_art_image_url": "https://assets.genius.com/images/default_cover_image.png?1606943206",
+     "stats": {
+      "unreviewed_annotations": 0,
+      "hot": false
+     },
+     "title": "X-RATED*",
+     "title_with_featured": "X-RATED*",
+     "url": "https://genius.com/Gotbars-x-rated-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/1406048",
+      "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+      "id": 1406048,
+      "image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "GOTBARS",
+      "url": "https://genius.com/artists/Gotbars"
+     }
+    },
+    {
+     "annotation_count": 0,
+     "api_path": "/songs/3626887",
+     "full_title": "XXX by\u00a0DJ\u00a0Critical Hype",
+     "header_image_thumbnail_url": "https://images.genius.com/7a05ad69160a92e05ef98b4630c5bcc6.300x300x1.jpg",
+     "header_image_url": "https://images.genius.com/7a05ad69160a92e05ef98b4630c5bcc6.1000x1000x1.jpg",
+     "id": 3626887,
+     "lyrics_owner_id": 1603328,
+     "lyrics_state": "complete",
+     "path": "/Dj-critical-hype-xxx-lyrics",
+     "pyongs_count": null,
+     "song_art_image_thumbnail_url": "https://images.genius.com/7a05ad69160a92e05ef98b4630c5bcc6.300x300x1.jpg",
+     "song_art_image_url": "https://images.genius.com/7a05ad69160a92e05ef98b4630c5bcc6.1000x1000x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 0,
+      "hot": false
+     },
+     "title": "XXX",
+     "title_with_featured": "XXX",
+     "url": "https://genius.com/Dj-critical-hype-xxx-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/1048939",
+      "header_image_url": "https://images.genius.com/ccb058d483c4ffa513447cf3ac08e897.450x225x1.jpg",
+      "id": 1048939,
+      "image_url": "https://images.genius.com/8b9464de861b0a0b0ac276c967b93150.511x511x1.png",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "DJ Critical Hype",
+      "url": "https://genius.com/artists/Dj-critical-hype"
+     }
+    },
+    {
+     "annotation_count": 3,
+     "api_path": "/songs/4485160",
+     "full_title": "Drunk by\u00a0ScHoolboy\u00a0Q (Ft.\u00a06LACK)",
+     "header_image_thumbnail_url": "https://images.genius.com/c975eedb43cbd21fb71c1b233cb49c54.300x300x1.jpg",
+     "header_image_url": "https://images.genius.com/c975eedb43cbd21fb71c1b233cb49c54.1000x1000x1.jpg",
+     "id": 4485160,
+     "lyrics_owner_id": 3390361,
+     "lyrics_state": "complete",
+     "path": "/Schoolboy-q-drunk-lyrics",
+     "pyongs_count": 6,
+     "song_art_image_thumbnail_url": "https://images.genius.com/c975eedb43cbd21fb71c1b233cb49c54.300x300x1.jpg",
+     "song_art_image_url": "https://images.genius.com/c975eedb43cbd21fb71c1b233cb49c54.1000x1000x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 0,
+      "hot": false,
+      "pageviews": 55920
+     },
+     "title": "Drunk",
+     "title_with_featured": "Drunk (Ft.\u00a06LACK)",
+     "url": "https://genius.com/Schoolboy-q-drunk-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/11353",
+      "header_image_url": "https://images.genius.com/e79de87534188a7a50d154e7eb1c6a42.1000x1000x1.jpg",
+      "id": 11353,
+      "image_url": "https://images.genius.com/e79de87534188a7a50d154e7eb1c6a42.1000x1000x1.jpg",
+      "is_meme_verified": true,
+      "is_verified": true,
+      "name": "ScHoolboy Q",
+      "url": "https://genius.com/artists/Schoolboy-q",
+      "iq": 3304
+     }
+    }
+   ]
+  },
+  {
+   "relationship_type": "interpolates",
+   "type": "interpolates",
+   "songs": []
+  },
+  {
+   "relationship_type": "interpolated_by",
+   "type": "interpolated_by",
+   "songs": [
+    {
+     "annotation_count": 3,
+     "api_path": "/songs/537486",
+     "full_title": "Won't Say It Twice by\u00a0Gunnarolla",
+     "header_image_thumbnail_url": "https://images.genius.com/953d659cbff1e6da8c951f0949917c3e.300x300x1.jpg",
+     "header_image_url": "https://images.genius.com/953d659cbff1e6da8c951f0949917c3e.450x450x1.jpg",
+     "id": 537486,
+     "lyrics_owner_id": 1077718,
+     "lyrics_state": "complete",
+     "path": "/Gunnarolla-wont-say-it-twice-lyrics",
+     "pyongs_count": null,
+     "song_art_image_thumbnail_url": "https://images.genius.com/953d659cbff1e6da8c951f0949917c3e.300x300x1.jpg",
+     "song_art_image_url": "https://images.genius.com/953d659cbff1e6da8c951f0949917c3e.450x450x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 2,
+      "hot": false
+     },
+     "title": "Won\u2019t Say It Twice",
+     "title_with_featured": "Won't Say It Twice",
+     "url": "https://genius.com/Gunnarolla-wont-say-it-twice-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/234620",
+      "header_image_url": "https://images.genius.com/bcfebb1e5c5becf3d34d801a9bf68e3e.1000x563x1.jpg",
+      "id": 234620,
+      "image_url": "https://images.genius.com/953d659cbff1e6da8c951f0949917c3e.450x450x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": true,
+      "name": "Gunnarolla",
+      "url": "https://genius.com/artists/Gunnarolla",
+      "iq": 136
+     }
+    },
+    {
+     "annotation_count": 0,
+     "api_path": "/songs/3409133",
+     "full_title": "X-RATED* by\u00a0GOTBARS",
+     "header_image_thumbnail_url": "https://assets.genius.com/images/default_cover_image.png?1606943206",
+     "header_image_url": "https://assets.genius.com/images/default_cover_image.png?1606943206",
+     "id": 3409133,
+     "lyrics_owner_id": 4170510,
+     "lyrics_state": "complete",
+     "path": "/Gotbars-x-rated-lyrics",
+     "pyongs_count": null,
+     "song_art_image_thumbnail_url": "https://assets.genius.com/images/default_cover_image.png?1606943206",
+     "song_art_image_url": "https://assets.genius.com/images/default_cover_image.png?1606943206",
+     "stats": {
+      "unreviewed_annotations": 0,
+      "hot": false
+     },
+     "title": "X-RATED*",
+     "title_with_featured": "X-RATED*",
+     "url": "https://genius.com/Gotbars-x-rated-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/1406048",
+      "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+      "id": 1406048,
+      "image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "GOTBARS",
+      "url": "https://genius.com/artists/Gotbars"
+     }
+    },
+    {
+     "annotation_count": 0,
+     "api_path": "/songs/4288406",
+     "full_title": "Smoke Stuff [2019 Version] by\u00a0Kaisson",
+     "header_image_thumbnail_url": "https://images.genius.com/7c371471242c2d2af1096099307d8c73.300x300x1.png",
+     "header_image_url": "https://images.genius.com/7c371471242c2d2af1096099307d8c73.1000x1000x1.png",
+     "id": 4288406,
+     "lyrics_owner_id": 7686238,
+     "lyrics_state": "complete",
+     "path": "/Kaisson-smoke-stuff-2019-version-lyrics",
+     "pyongs_count": null,
+     "song_art_image_thumbnail_url": "https://images.genius.com/7c371471242c2d2af1096099307d8c73.300x300x1.png",
+     "song_art_image_url": "https://images.genius.com/7c371471242c2d2af1096099307d8c73.1000x1000x1.png",
+     "stats": {
+      "unreviewed_annotations": 0,
+      "hot": false
+     },
+     "title": "Smoke Stuff [2019 Version]",
+     "title_with_featured": "Smoke Stuff [2019 Version]",
+     "url": "https://genius.com/Kaisson-smoke-stuff-2019-version-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/2053356",
+      "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+      "id": 2053356,
+      "image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Kaisson",
+      "url": "https://genius.com/artists/Kaisson"
+     }
+    },
+    {
+     "annotation_count": 0,
+     "api_path": "/songs/5144426",
+     "full_title": "\u200blong live slaughter gang by\u00a0Simon\u00a0Remish",
+     "header_image_thumbnail_url": "https://images.genius.com/a7e5e10d9fc3ff4225309bd91ce02aad.300x300x1.jpg",
+     "header_image_url": "https://images.genius.com/a7e5e10d9fc3ff4225309bd91ce02aad.1000x1000x1.jpg",
+     "id": 5144426,
+     "lyrics_owner_id": 5420205,
+     "lyrics_state": "complete",
+     "path": "/Simon-remish-long-live-slaughter-gang-lyrics",
+     "pyongs_count": 3,
+     "song_art_image_thumbnail_url": "https://images.genius.com/a7e5e10d9fc3ff4225309bd91ce02aad.300x300x1.jpg",
+     "song_art_image_url": "https://images.genius.com/a7e5e10d9fc3ff4225309bd91ce02aad.1000x1000x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 0,
+      "hot": false
+     },
+     "title": "\u200blong live slaughter gang",
+     "title_with_featured": "\u200blong live slaughter gang",
+     "url": "https://genius.com/Simon-remish-long-live-slaughter-gang-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/1798495",
+      "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+      "id": 1798495,
+      "image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Simon Remish",
+      "url": "https://genius.com/artists/Simon-remish"
+     }
+    }
+   ]
+  },
+  {
+   "relationship_type": "cover_of",
+   "type": "cover_of",
+   "songs": []
+  },
+  {
+   "relationship_type": "covered_by",
+   "type": "covered_by",
+   "songs": []
+  },
+  {
+   "relationship_type": "remix_of",
+   "type": "remix_of",
+   "songs": []
+  },
+  {
+   "relationship_type": "remixed_by",
+   "type": "remixed_by",
+   "songs": [
+    {
+     "annotation_count": 32,
+     "api_path": "/songs/3339725",
+     "full_title": "Hey, Midnight by\u00a0Al\u00a0Marino",
+     "header_image_thumbnail_url": "https://images.genius.com/6372541307c5a7e9d875b28fd62f9e92.300x309x1.jpg",
+     "header_image_url": "https://images.genius.com/6372541307c5a7e9d875b28fd62f9e92.972x1000x1.jpg",
+     "id": 3339725,
+     "lyrics_owner_id": 1911877,
+     "lyrics_state": "complete",
+     "path": "/Al-marino-hey-midnight-lyrics",
+     "pyongs_count": null,
+     "song_art_image_thumbnail_url": "https://images.genius.com/ff3fbc9a6a71ec4e7b004eee65dcac32.300x300x1.png",
+     "song_art_image_url": "https://images.genius.com/ff3fbc9a6a71ec4e7b004eee65dcac32.1000x1000x1.png",
+     "stats": {
+      "unreviewed_annotations": 1,
+      "hot": false
+     },
+     "title": "Hey, Midnight",
+     "title_with_featured": "Hey, Midnight",
+     "url": "https://genius.com/Al-marino-hey-midnight-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/514060",
+      "header_image_url": "https://images.genius.com/c9ee19d2bedef40806875219edb55c17.800x1000x1.jpg",
+      "id": 514060,
+      "image_url": "https://images.genius.com/3577f393477f5c8af17caa94497986eb.531x531x1.png",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Al Marino",
+      "url": "https://genius.com/artists/Al-marino",
+      "iq": 5793
+     }
+    }
+   ]
+  },
+  {
+   "relationship_type": "live_version_of",
+   "type": "live_version_of",
+   "songs": []
+  },
+  {
+   "relationship_type": "performed_live_as",
+   "type": "performed_live_as",
+   "songs": [
+    {
+     "annotation_count": 11,
+     "api_path": "/songs/3477888",
+     "full_title": "2018 Grammys Performance by\u00a0Kendrick\u00a0Lamar, U2 and Dave Chappelle",
+     "header_image_thumbnail_url": "https://images.genius.com/586a895c2343f6442bc54c09ea8cf4b3.300x300x1.jpg",
+     "header_image_url": "https://images.genius.com/586a895c2343f6442bc54c09ea8cf4b3.1000x1000x1.jpg",
+     "id": 3477888,
+     "lyrics_owner_id": 3289021,
+     "lyrics_state": "complete",
+     "path": "/Kendrick-lamar-u2-and-dave-chappelle-2018-grammys-performance-lyrics",
+     "pyongs_count": 5,
+     "song_art_image_thumbnail_url": "https://images.genius.com/586a895c2343f6442bc54c09ea8cf4b3.300x300x1.jpg",
+     "song_art_image_url": "https://images.genius.com/586a895c2343f6442bc54c09ea8cf4b3.1000x1000x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 0,
+      "hot": false,
+      "pageviews": 54224
+     },
+     "title": "2018 Grammys Performance",
+     "title_with_featured": "2018 Grammys Performance",
+     "url": "https://genius.com/Kendrick-lamar-u2-and-dave-chappelle-2018-grammys-performance-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/2210734",
+      "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+      "id": 2210734,
+      "image_url": "https://assets.genius.com/images/default_avatar_300.png?1606943206",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Kendrick Lamar, U2 and Dave Chappelle",
+      "url": "https://genius.com/artists/Kendrick-lamar-u2-and-dave-chappelle"
+     }
+    }
+   ]
+  }
+ ],
+ "verified_annotations_by": [],
+ "verified_contributors": [
+  {
+   "contributions": [
+    "answers"
+   ],
+   "artist": {
+    "api_path": "/artists/3617",
+    "header_image_url": "https://images.genius.com/280bdf343b7f9ad3900695b45b3c4a2e.640x640x1.jpg",
+    "id": 3617,
+    "image_url": "https://images.genius.com/280bdf343b7f9ad3900695b45b3c4a2e.640x640x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": true,
+    "name": "Kid Capri",
+    "url": "https://genius.com/artists/Kid-capri",
+    "iq": 2605
+   },
+   "user": {
+    "api_path": "/users/4525209",
+    "avatar": {
+     "tiny": {
+      "url": "https://images.genius.com/avatars/tiny/1740ef2d175c762fcffff097a1bae883",
+      "bounding_box": {
+       "width": 16,
+       "height": 16
+      }
+     },
+     "thumb": {
+      "url": "https://images.genius.com/avatars/thumb/1740ef2d175c762fcffff097a1bae883",
+      "bounding_box": {
+       "width": 32,
+       "height": 32
+      }
+     },
+     "small": {
+      "url": "https://images.genius.com/avatars/small/1740ef2d175c762fcffff097a1bae883",
+      "bounding_box": {
+       "width": 100,
+       "height": 100
+      }
+     },
+     "medium": {
+      "url": "https://images.genius.com/avatars/medium/1740ef2d175c762fcffff097a1bae883",
+      "bounding_box": {
+       "width": 300,
+       "height": 400
+      }
+     }
+    },
+    "header_image_url": "https://images.genius.com/avatars/medium/1740ef2d175c762fcffff097a1bae883",
+    "human_readable_role_for_display": "Verified Artist",
+    "id": 4525209,
+    "iq": 2605,
+    "login": "KidCapri",
+    "name": "Kid Capri",
+    "role_for_display": "verified_artist",
+    "url": "https://genius.com/KidCapri",
+    "current_user_metadata": {
+     "permissions": [],
+     "excluded_permissions": [
+      "follow"
+     ],
+     "interactions": {
+      "following": false
+     }
+    }
+   }
+  },
+  {
+   "contributions": [
+    "answers"
+   ],
+   "artist": {
+    "api_path": "/artists/1421",
+    "header_image_url": "https://images.genius.com/f3a1149475f2406582e3531041680a3c.1000x800x1.jpg",
+    "id": 1421,
+    "image_url": "https://images.genius.com/25d8a9c93ab97e9e6d5d1d9d36e64a53.1000x1000x1.jpg",
+    "is_meme_verified": true,
+    "is_verified": true,
+    "name": "Kendrick Lamar",
+    "url": "https://genius.com/artists/Kendrick-lamar",
+    "iq": 44223
+   },
+   "user": {
+    "api_path": "/users/117985",
+    "avatar": {
+     "tiny": {
+      "url": "https://images.genius.com/avatars/tiny/e7aec0c9aec04fd15731c587205a6284",
+      "bounding_box": {
+       "width": 16,
+       "height": 16
+      }
+     },
+     "thumb": {
+      "url": "https://images.genius.com/avatars/thumb/e7aec0c9aec04fd15731c587205a6284",
+      "bounding_box": {
+       "width": 32,
+       "height": 32
+      }
+     },
+     "small": {
+      "url": "https://images.genius.com/avatars/small/e7aec0c9aec04fd15731c587205a6284",
+      "bounding_box": {
+       "width": 100,
+       "height": 100
+      }
+     },
+     "medium": {
+      "url": "https://images.genius.com/avatars/medium/e7aec0c9aec04fd15731c587205a6284",
+      "bounding_box": {
+       "width": 300,
+       "height": 400
+      }
+     }
+    },
+    "header_image_url": "https://images.genius.com/f3a1149475f2406582e3531041680a3c.1000x800x1.jpg",
+    "human_readable_role_for_display": "Verified Artist",
+    "id": 117985,
+    "iq": 44223,
+    "login": "KendrickLamar",
+    "name": "Kendrick Lamar",
+    "role_for_display": "verified_artist",
+    "url": "https://genius.com/KendrickLamar",
+    "current_user_metadata": {
+     "permissions": [],
+     "excluded_permissions": [
+      "follow"
+     ],
+     "interactions": {
+      "following": false
+     }
+    }
+   }
+  }
+ ],
+ "verified_lyrics_by": [],
+ "writer_artists": [
+  {
+   "api_path": "/artists/45696",
+   "header_image_url": "https://images.genius.com/50940cc70cf3c0bb6fc0928a84d78a70.240x180x50.gif",
+   "id": 45696,
+   "image_url": "https://images.genius.com/92dfe790a3fa373e8329fc938232d8e3.650x367x1.jpg",
+   "is_meme_verified": false,
+   "is_verified": false,
+   "name": "The Edge (Guitarist)",
+   "url": "https://genius.com/artists/The-edge-guitarist"
+  },
+  {
+   "api_path": "/artists/15857",
+   "header_image_url": "https://images.genius.com/ac842ec4e4bd6a593a9ea5bd80ddf1bb.320x240x20.gif",
+   "id": 15857,
+   "image_url": "https://s3.amazonaws.com/rapgenius/1363982668_bono.jpg",
+   "is_meme_verified": false,
+   "is_verified": false,
+   "name": "Bono",
+   "url": "https://genius.com/artists/Bono"
+  },
+  {
+   "api_path": "/artists/630346",
+   "header_image_url": "https://images.genius.com/883c1e8b30438ee1f79470376a273188.638x638x1.jpg",
+   "id": 630346,
+   "image_url": "https://images.genius.com/883c1e8b30438ee1f79470376a273188.638x638x1.jpg",
+   "is_meme_verified": false,
+   "is_verified": false,
+   "name": "Larry Mullen Jr",
+   "url": "https://genius.com/artists/Larry-mullen-jr"
+  },
+  {
+   "api_path": "/artists/404146",
+   "header_image_url": "https://images.genius.com/1e70990cbdbb0808e1c86a673f58986e.600x600x1.jpg",
+   "id": 404146,
+   "image_url": "https://images.genius.com/b97d4cbfe6fcf7884dc5c9fede44031a.564x564x1.jpg",
+   "is_meme_verified": false,
+   "is_verified": false,
+   "name": "Adam Clayton",
+   "url": "https://genius.com/artists/Adam-clayton"
+  },
+  {
+   "api_path": "/artists/93851",
+   "header_image_url": "https://images.genius.com/cd311e78421d70f11ffd3ace217e1aef.608x342x1.png",
+   "id": 93851,
+   "image_url": "https://images.genius.com/cd311e78421d70f11ffd3ace217e1aef.608x342x1.png",
+   "is_meme_verified": false,
+   "is_verified": false,
+   "name": "Top Dawg",
+   "url": "https://genius.com/artists/Top-dawg"
+  },
+  {
+   "api_path": "/artists/27472",
+   "header_image_url": "https://images.genius.com/047e8ba8b1b637837167155280d744f4.636x421x1.jpg",
+   "id": 27472,
+   "image_url": "https://images.genius.com/77819bc25af866f53a92ebca0ee4a944.289x289x1.jpg",
+   "is_meme_verified": false,
+   "is_verified": true,
+   "name": "Sounwave",
+   "url": "https://genius.com/artists/Sounwave",
+   "iq": 528
+  },
+  {
+   "api_path": "/artists/27474",
+   "header_image_url": "https://images.genius.com/b40c29059d5e6320523e2f226803264e.722x516x1.jpg",
+   "id": 27474,
+   "image_url": "https://images.genius.com/b40c29059d5e6320523e2f226803264e.722x516x1.jpg",
+   "is_meme_verified": false,
+   "is_verified": true,
+   "name": "DJ Dahi",
+   "url": "https://genius.com/artists/Dj-dahi",
+   "iq": 1024
+  },
+  {
+   "api_path": "/artists/29978",
+   "header_image_url": "https://images.genius.com/1722dc172cf7b50eeb7e433113e9a6e8.1000x504x1.png",
+   "id": 29978,
+   "image_url": "https://images.genius.com/1d29ef19a466f4bf49282b4d020cb593.895x895x1.jpg",
+   "is_meme_verified": true,
+   "is_verified": true,
+   "name": "Mike WiLL Made-It",
+   "url": "https://genius.com/artists/Mike-will-made-it",
+   "iq": 489
+  },
+  {
+   "api_path": "/artists/1421",
+   "header_image_url": "https://images.genius.com/f3a1149475f2406582e3531041680a3c.1000x800x1.jpg",
+   "id": 1421,
+   "image_url": "https://images.genius.com/25d8a9c93ab97e9e6d5d1d9d36e64a53.1000x1000x1.jpg",
+   "is_meme_verified": true,
+   "is_verified": true,
+   "name": "Kendrick Lamar",
+   "url": "https://genius.com/artists/Kendrick-lamar",
+   "iq": 44223
+  }
+ ],
+ "lyrics": "America, God bless you if it's good to you\nAmerica, please take my hand\nCan you help me underst\u2014\nNew Kung Fu Kenny!\n\nThrow a steak off the ark to a pool full of sharks, he'll take it\nLeave him in the wilderness with a sworn nemesis, he'll make it\nTake the gratitude from him, I bet he'll show you somethin', whoa\nI'll chip a nigga lil' bit of nothin', I'll chip a nigga lil' bit of nothin'\nI'll chip a nigga lil' bit of nothin', I'll chip a nigga, then throw the blower in his lap\nWalk myself to the court like, \"Bitch, I did that!,\" X-rated\nJohnny don't wanna go to school no mo', no mo'\nJohnny said books ain't cool no mo' (No mo')\nJohnny wanna be a rapper like his big cousin\nJohnny caught a body yesterday out hustlin'\nGod bless America, you know we all love him\n\nYesterday I got a call like from my dog like 101\nSaid they killed his only son because of insufficient funds\nHe was sobbin', he was mobbin', way belligerent and drunk\nTalkin' out his head, philosophin' on what the Lord had done\nHe said: \"K-Dot, can you pray for me?\nIt been a fucked up day for me\nI know that you anointed, show me how to overcome.\"\nHe was lookin' for some closure\nHopin' I could bring him closer\nTo the spiritual, my spirit do know better, but I told him\n\"I can't sugarcoat the answer for you, this is how I feel:\nIf somebody kill my son, that mean somebody gettin' killed.\"\nTell me what you do for love, loyalty, and passion of\nAll the memories collected, moments you could never touch\nI'll wait in front a nigga's spot and watch him hit his block\nI'll catch a nigga leavin' service if that's all I got\nI'll chip a nigga, then throw the blower in his lap\nWalk myself to the court like, \"Bitch, I did that!\"\nAin't no Black Power when your baby killed by a coward\nI can't even keep the peace, don't you fuck with one of ours\nIt be murder in the street, it be bodies in the hour\nGhetto bird be on the street, paramedics on the dial\nLet somebody touch my momma\nTouch my sister, touch my woman\nTouch my daddy, touch my niece\nTouch my nephew, touch my brother\nYou should chip a nigga, then throw the blower in his lap\nMatter fact, I'm 'bout to speak at this convention\nCall you back\u2014\n\nAlright, kids, we're gonna talk about gun control\n(Pray for me) Damn!\n\nIt's not a place\nThis country is to me a sound\nOf drum and bass\nYou close your eyes to look around\n\nHail Mary, Jesus and Joseph\nThe great American flag is wrapped in drag with explosives\nCompulsive disorder, sons and daughters\nBarricaded blocks and borders\nLook what you taught us!\nIt's murder on my street, your street, back streets\nWall Street, corporate offices\nBanks, employees, and bosses with\nHomicidal thoughts; Donald Trump's in office\nWe lost Barack and promised to never doubt him again\nBut is America honest, or do we bask in sin?\nPass the gin, I mix it with American blood\nThen bash him in, you Crippin' or you married to Blood?\nI'll ask again\u2014oops, accident\nIt's nasty when you set us up\nThen roll the dice, then bet us up\nYou overnight the big rifles, then tell Fox to be scared of us\nGang members or terrorists, et cetera, et cetera\nAmerica's reflections of me, that's what a mirror does\n\nIt's not a place\nThis country is to me a sound\nOf drum and bass\nYou close your eyes to look ar\u2014"
+}
